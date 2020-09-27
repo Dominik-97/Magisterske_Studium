@@ -11,6 +11,8 @@ help:
 	@echo "    8          pro vytvoření PDF k předmětu Správa obchodní korporace v úpadku"
 	@echo "    9          pro vytvoření PDF k předmětu Strategický a projektový management"
 	@echo "    10         pro vytvoření PDF k předmětu Daňové právo v obchodních vztazích"
+	@echo "    11         pro vytvoření PDF k předmětu Bezpečnostní hrozby (volitelný předmět)"
+	@echo "    12         pro vytvoření PDF k předmětu Diferenční předmět - občanské právo (volitelný předmět)
 
 # Složka pro Kapitálové obchodní korporace
 1:
@@ -52,5 +54,13 @@ help:
 10:
 	make -C 2-rocnik-2-trimestr-danove-pravo-v-obchodnich-vztazich
 
+# Složka pro Daňové právo v obchodních vztazích
+11:
+	make -C 1-rocnik-1-trimestr-bezpecnostni-hrozby
+
+# Složka pro Daňové právo v obchodních vztazích
+12:
+	make -C 1-rocnik-1-trimestr-diferencni-predmet-obcanske-pravo
+
 # Vygenerování veškerých poznámek
-all: 1 2 3 4 5 6 7 8 9 10
+all: 1 2 3 4 5 6 7 8 9 10 11 12

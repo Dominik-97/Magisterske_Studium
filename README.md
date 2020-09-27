@@ -19,8 +19,13 @@ Pro vygenerování poznámek do přáteljštějšího formátu pdf nebo docx pou
 | 8      | Správa obchodní korporace v úpadku          |
 | 9      | Strategický a projektový management         |
 | 10     | Daňové právo v obchodních vztazích          |
+| 11     | Bezpečnostní hrozby                         |
+| 12     | Diferenční předmět - občanské právo         |
 | All    | Všechny předměty a všechny poznámky         |
 
 Rovněž je možné vyvolat si pomoc pomocí příkazu `make help`.
 
+## Pro PDF
 Vygenerované fily budou uloženy do složky `pdf` v rootu repozitáře.
+
+## Pro docx
