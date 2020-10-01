@@ -7,3 +7,6 @@ pdf/*.pdf
 # Ignore all .DS_Store
 .DS_Store
 **/.DS_Store
+
+# Ignore all files in Nahrane-Prednasky folders
+*.mkv

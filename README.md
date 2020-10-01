@@ -29,3 +29,4 @@ Rovněž je možné vyvolat si pomoc pomocí příkazu `make help`.
 Vygenerované fily budou uloženy do složky `pdf` v rootu repozitáře.
 
 ## Pro docx
+Vygenerované fily budou uloženy do složky `docx` v rootu repozitáře.
