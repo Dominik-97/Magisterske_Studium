@@ -14,10 +14,10 @@ docx: clean $(DOCX)
 
 # Separator for these lines need to start with a hard tab, not 4 spaces!
 %.pdf: %.md
-	pandoc -o ../pdf/$@ $<
+	pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $<
 
 %.docx: %.md
-	pandoc -o ../docx/$@ $<
+	pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $<
 
 clean:
 	rm -f *.pdf *.docx

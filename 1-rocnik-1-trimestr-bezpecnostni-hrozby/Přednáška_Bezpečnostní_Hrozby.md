@@ -24,12 +24,14 @@ IED (V angličtině "Improvized explosive device") - Jedná se o ty samotné vý
 To má důsledek například pro samoodpalované sebevražedné útoky - neboť v případě neúspěchu je možné sebevražedné výbušné zařízení odpálit i na dálku někým jiným.
 
 **Další podkategorie**
+
 - Dále jsou další podkategorie
   - Například IED v motorovém vozidle (**VBIED**)
   - Dále například IED na těle zvířete (**ABIED**)
     - Tyto se dělí na podkategorie dle jednotlivých zvířat
 
 **Používané výbušniny**
+
 - Používány jsou jak:
   - Průmyslové trhaviny,
   - Vojenské trhaviny,
@@ -37,11 +39,13 @@ To má důsledek například pro samoodpalované sebevražedné útoky - neboť 
   - A další improvizované výbušniny (i například samotný střelný prach)
 
 **Využití IED**
+
 - Samozřejmě tyto systémy jsou využívány jako pro sebevražedné, tak i pro jiné útoky.
 - Pro sebevražedné útoky - **PBIED** (Person born IED)
   - Pro sebevražedné útoky se začalo na začátku pomocí **VBIED**
 
 #### Frekvence sebevražedných útoků
+
 - Od roku 1981 neustále rostou
 - Ve 21. století rost téměř exponenciálně
 
@@ -58,6 +62,7 @@ Několik sebevražedných útoků na sebe hned navazujících v krátkém čase 
 
 #### Blíže k jednotlivím zemím
 **Srí Lanka** - **LTTE** - od roku 1983 do roku 2009
+
 - V rámci roku 1983 do roku 2009 - okolo 330 útoků.
 - Zajímavé je, že s použitím **suicide belt**/**suicide vest** začali systematicky právě LTTE na Srí Lance
   - Co se **s.b. a s.v.** týče - společně s výbušninou se používaly i jiné předměty - například železné předměty, kuličková ložiska etc. - těmto předmětům se obecně říká **šrapnely**
