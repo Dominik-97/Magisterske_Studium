@@ -5,6 +5,7 @@
 #### Příklady zemí
 
 Jedná se o CCA 50 zemí, kde k těmto útoků došlo (výročí 40 let od započatí sebevražedného terorismu) - v Libanonu před ambasádou.
+Zajímavé je zmínit sebevražedný útok na ruského cara Alexandra II. v roce 1981 - ten by se potenciálně dal považovat za první sebevražedný atentát
 
 Jedná se pak například o:
 - Afghánistán (od r. 2001, systematičtěji od 2004) - Defakto propojeno s Pákistánem
@@ -17,6 +18,7 @@ Jedná se pak například o:
 
 #### Nástražný výbušný systém
 IED (V angličtině "Improvized explosive device") - Jedná se o ty samotné výbušniny - ty je možné odpalovat různými způsoby (na dálku, na blízko etc.)
+To má důsledek například pro samoodpalované sebevražedné útoky - neboť v případě neúspěchu je možné sebevražedné výbušné zařízení odpálit i na dálku někým jiným.
 
 **Další podkategorie**
 - Dále jsou další podkategorie
@@ -37,7 +39,7 @@ IED (V angličtině "Improvized explosive device") - Jedná se o ty samotné vý
   - Pro sebevražedné útoky se začalo na začátku pomocí **VBIED**
 
 #### Frekvence sebevražedných útoků
-- Od roku 1981 neustále rost
+- Od roku 1981 neustále rostou
 - Ve 21. století rost téměř exponenciálně
 
 **Statistické údaje pro jednotlivé roky**
@@ -49,3 +51,9 @@ Několik sebevražedných útoků na sebe hned navazujících v krátkém čase 
 2015 - 452 útoků (cca 4370 obětí vs. 735 útočníků - 115 Irák, 69 Afghánistán, 24 Pákistán, 13 Jemen, 39 Sýrie, 12 Evropa, 122 Afrika, především Nigérie, Nigérie - Boko Haram)
 2014 - 592 útoků (cca 4400 obětí vs 937 útočníků)
 2013 - 382 útoků
+
+#### Blíže k jednotlivím zemím
+**Srí Lanka** - **LTTE** - od roku 1983 do roku 2009
+- V rámci roku 1983 do roku 2009 - okolo 330 útoků.
+- Zajímavé je, že s použitím **suicide belt**/**suicide vest** začali systematicky právě LTTE na Srí Lance
+  - Co se **s.b. a s.v.** týče - společně s výbušninou se používaly i jiné předměty - například železné předměty, kuličková ložiska etc. - těmto předmětům se obecně říká **šrapnely**
