@@ -57,3 +57,13 @@ Několik sebevražedných útoků na sebe hned navazujících v krátkém čase 
 - V rámci roku 1983 do roku 2009 - okolo 330 útoků.
 - Zajímavé je, že s použitím **suicide belt**/**suicide vest** začali systematicky právě LTTE na Srí Lance
   - Co se **s.b. a s.v.** týče - společně s výbušninou se používaly i jiné předměty - například železné předměty, kuličková ložiska etc. - těmto předmětům se obecně říká **šrapnely**
+
+**Libanon** - **Hisbaláh**
+
+**Írán, Írák** - Ayatollah Khomeini
+
+**Izraelsko Palestinský konflikt** - Sheikh Ahmed Ismail Hassan Yassin
+
+#### Proxy suicide attack
+Jedná se o zástupný sebevražedný útok
+Odplata na jiném území (například útoky proti velvyslanectví v jiných zemích)
