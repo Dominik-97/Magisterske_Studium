@@ -4,7 +4,7 @@
 
 #### Příklady zemí
 
-Jedná se o CCA 50 zemí, kde k těmto útoků došlo (výročí 40 let od započatí sebevražedného terorismu) - v Libanonu před ambasádou.
+Jedná se o CCA 50 zemí, kde k těmto útoků došlo (výročí 40 let od započatí sebevražedného terorismu) - v Libanonu před ambasádou. <br>
 Zajímavé je zmínit sebevražedný útok na ruského cara Alexandra II. v roce 1981 - ten by se potenciálně dal považovat za první sebevražedný atentát
 
 Jedná se pak například o:
@@ -17,8 +17,8 @@ Jedná se pak například o:
 - Srí Lanka (od r. 1987) - Budhistický a Hinduistický ostrov (Ceilon) - V rámci občanské války až do roku 2009
 
 #### Nástražný výbušný systém
-IED (V angličtině "Improvized explosive device") - Jedná se o ty samotné výbušniny - ty je možné odpalovat různými způsoby (na dálku, na blízko etc.)
-To má důsledek například pro samoodpalované sebevražedné útoky - neboť v případě neúspěchu je možné sebevražedné výbušné zařízení odpálit i na dálku někým jiným.
+IED (V angličtině "Improvized explosive device") - Jedná se o ty samotné výbušniny - ty je možné odpalovat různými způsoby (na dálku, na blízko etc.) <br>
+To má důsledek například pro samoodpalované sebevražedné útoky - neboť v případě neúspěchu je možné sebevražedné výbušné zařízení odpálit i na dálku někým jiným. <br>
 
 **Další podkategorie**
 - Dále jsou další podkategorie
@@ -39,18 +39,18 @@ To má důsledek například pro samoodpalované sebevražedné útoky - neboť 
   - Pro sebevražedné útoky se začalo na začátku pomocí **VBIED**
 
 #### Frekvence sebevražedných útoků
-- Od roku 1981 neustále rostou
+- Od roku 1981 neustále rostou <br>
 - Ve 21. století rost téměř exponenciálně
 
 **Statistické údaje pro jednotlivé roky**
-Několik sebevražedných útoků na sebe hned navazujících v krátkém čase - je považováno za jeden sebevražedný útok.
-2019 - 149 útoků (cca 1850 obětí (oběti v tomto smyslu - pouze mrtví) vs. 236 útočníků, z toho 22 žen)
-2018 - 293 útoků (cca 2845 obětí vs. 505 útočníků, z toho 84 žen)
-2017 - 349 útoků (cca 4370 obětí vs. 623 útočníků, z toho min. 137 žen)
-2016 - 469 útoků (cca 5650 obětí vs. 800 útočníků) - sebevražedné útoky proběhly v nejvíce zemí - celkově ve 26 zemích
-2015 - 452 útoků (cca 4370 obětí vs. 735 útočníků - 115 Irák, 69 Afghánistán, 24 Pákistán, 13 Jemen, 39 Sýrie, 12 Evropa, 122 Afrika, především Nigérie, Nigérie - Boko Haram)
-2014 - 592 útoků (cca 4400 obětí vs 937 útočníků)
-2013 - 382 útoků
+Několik sebevražedných útoků na sebe hned navazujících v krátkém čase - je považováno za jeden sebevražedný útok. <br>
+2019 - 149 útoků (cca 1850 obětí (oběti v tomto smyslu - pouze mrtví) vs. 236 útočníků, z toho 22 žen) <br>
+2018 - 293 útoků (cca 2845 obětí vs. 505 útočníků, z toho 84 žen) <br>
+2017 - 349 útoků (cca 4370 obětí vs. 623 útočníků, z toho min. 137 žen) <br>
+2016 - 469 útoků (cca 5650 obětí vs. 800 útočníků) - sebevražedné útoky proběhly v nejvíce zemí - celkově ve 26 zemích <br>
+2015 - 452 útoků (cca 4370 obětí vs. 735 útočníků - 115 Irák, 69 Afghánistán, 24 Pákistán, 13 Jemen, 39 Sýrie, 12 Evropa, 122 Afrika, především Nigérie, Nigérie - Boko Haram) <br>
+2014 - 592 útoků (cca 4400 obětí vs 937 útočníků) <br>
+2013 - 382 útoků <br>
 
 #### Blíže k jednotlivím zemím
 **Srí Lanka** - **LTTE** - od roku 1983 do roku 2009
@@ -65,5 +65,5 @@ Několik sebevražedných útoků na sebe hned navazujících v krátkém čase 
 **Izraelsko Palestinský konflikt** - Sheikh Ahmed Ismail Hassan Yassin
 
 #### Proxy suicide attack
-Jedná se o zástupný sebevražedný útok
+Jedná se o zástupný sebevražedný útok <br>
 Odplata na jiném území (například útoky proti velvyslanectví v jiných zemích)
