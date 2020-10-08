@@ -88,4 +88,67 @@ Jedná se o zástupný sebevražedný útok.
 
 Je to tedy odplata na jiném území (například útoky proti velvyslanectví v jiných zemích).
 
-## Přednáška 2 - TBK
+## Přednáška 2 - Ozbrojené konflikty
+
+Termín **konflikt** - důležitý v rámci sociologie, ekonomoie, psychologie, fylozofie, v rámci této přednášky se budeme zabývat konfliktem z **politologického** a **bezpečnostního** hlediska.
+
+##### Abychom mohli nazvat nějakou situaci konfliktem, musí splňovat několik podmínek:
+
+- musí mít **aktéry**,
+- musí tám být nějaká neslučitelnost **cílů**, hodnot, pozic, prostě nějaký střed (jedná se o příčiny konfliktu)
+- musí být přítomno **napětí**, pokud nění napětí - můžeme nazývat konflikt **latentním**
+- je tam přítomno **jednání**, opatření, kroky realizované jednotlivými stranami konfliktu
+
+##### Druhů konfliktů je samozřejmě mnoho:
+
+- interpersonální (například schyzofrenie)
+- osobní (například sousedské)
+- více osobnostní (tzn. konflikt mezi stranami - tedy například mezi skupinami, či státy)
+
+##### Další rozlišování
+
+- násilné/nenásilné konflikty
+- ozbrojené/neozbrojené konflikty - spočívá vyloženě ve vojenské technice, planých zbraních etc., tzn. konflikty fotbalových fanoušků nejsou ozbrojeným konfliktem
+
+##### Co se týče místního rozlišení
+
+- především mezistátní konflikty - **konflikt STÁT X STÁT**
+- transnacionální - **konflikt několik STRAN X několik STRAN**
+- vnitrostátní - v rámci jednoho státu - **typicky STÁT X OZBROJENÁ SKUPINA** -> ten často přelůstá do transnacionálních/internacionální vnitrostátních konfliktů (popřípadě regionální konflikty) - tzn. začátek je v jednom státu, ale konflikt je tímto zažehnut i v jiných státech - často se může jednat o **etnické konflikty**
+- konflikty mezilidské - tady se jedná spíše o kriminologii než o bezpečnostní hrozby
+
+První tři příklady jsou obsahem, jímž se zabívají bezpečnostní studia
+
+##### Druhy řešení konfliktů
+
+- diplomatické
+- ozbrojené (přímo a nepřímo) - **válka**
+  - přímo mezi státy
+  - proxy válka na území jiných států, podpora stran
+
+Původně válku definoval **Carl von Clausewitz** jako konflikt, kdy je válka vyhlášena - moderní definice se však posunula k tomu, že ozbrojený konflikt se nerovná válce.
+
+Původní definice války - snaha státu něčeho dokázat, zastupuje ve svém cíli svůj národ a ten národ je zastoupen nějakými ozbrojenými složkami (armádou) - takovýchto válek je však méně a méně.
+
+Je zde předpokládáná jednota, strany, věcí a vojsk - tato jednota byla patrna při zavedení všeobecné branné povinnosti.
+
+Proto se hovoří často pouze o ozbrojených konfliktech - tam nemusí docházet k vyhlášení, spousta moderních autorů však nazívá ozbrojené konflikty také jako **válku**.
+
+##### Války od skončení studené války
+
+- Kuwait
+- Indie, Pákistán
+- Etiopie, Eritrea
+- Náhorní Karabach
+- Rusko, Gruzie
+
+##### Obecná definice války v rámci bezpečnostních hrozeb
+
+Kvantitatifní a kvalitativní kritéria
+
+- Jeden z aktérů je stát
+- Jeden z aktérů je organizovaný (fungují konvenčně z organizačního hlediska) - bojové operace vykazují určité prvky strategické a bojové kontinuity
+- Pokud není jeden z aktérů stát, musí mít jistá kvantitativní kritérie
+  - Pokud zahyne za kalendářní rok alespoň tisíc lidí (diskuze zna mají být počítání pouze kombatantni, nebo i civilní obyvatelstvo)
+
+Pokud je splněn nějaký z těchto kritérií - dá se hovořit o válce - i tedy v případě, kdy tam není asistence, intervence, nebo přímá účast státu - příklad **Drogová válka** v Mexiku
