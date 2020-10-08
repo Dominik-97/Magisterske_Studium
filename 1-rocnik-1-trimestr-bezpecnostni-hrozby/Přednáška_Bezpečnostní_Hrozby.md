@@ -2,11 +2,13 @@
 
 ## Přednáška 1 - Sebevražedný terorismus
 
+### Základní Vymezení, definice a příklady
+
 #### Příklady zemí
 
 Jedná se o CCA 50 zemí, kde k těmto útoků došlo (výročí 40 let od započatí sebevražedného terorismu) - v Libanonu před ambasádou.
 
-Zajímavé je zmínit sebevražedný útok na ruského cara Alexandra II. v roce 1981 - ten by se potenciálně dal považovat za první sebevražedný atentát
+Zajímavé je zmínit sebevražedný útok na ruského cara Alexandra II. v roce 1981 - ten by se potenciálně dal považovat za první sebevražedný atentát.
 
 Jedná se pak například o:
 
@@ -19,9 +21,12 @@ Jedná se pak například o:
 - Srí Lanka (od r. 1987) - Budhistický a Hinduistický ostrov (Ceilon) - V rámci občanské války až do roku 2009
 
 #### Nástražný výbušný systém
-IED (V angličtině "Improvized explosive device") - Jedná se o ty samotné výbušniny - ty je možné odpalovat různými způsoby (na dálku, na blízko etc.)
+
+IED (V angličtině "Improvized explosive device") - Jedná se o ty samotné výbušniny - ty je možné odpalovat různými způsoby (na dálku, na blízko etc.).
 
 To má důsledek například pro samoodpalované sebevražedné útoky - neboť v případě neúspěchu je možné sebevražedné výbušné zařízení odpálit i na dálku někým jiným.
+
+Pro toto téma je to důležité z toho hlediska, že z odborné terminologie je termín *Nástražný výbušný systém* používán rovněž ve spojení se sebevražednými útoky.
 
 **Další podkategorie**
 
@@ -61,11 +66,16 @@ Několik sebevražedných útoků na sebe hned navazujících v krátkém čase 
 - 2013 - 382 útoků
 
 #### Blíže k jednotlivím zemím
+
+**Příklad**
+
 **Srí Lanka** - **LTTE** - od roku 1983 do roku 2009
 
 - V rámci roku 1983 do roku 2009 - okolo 330 útoků.
 - Zajímavé je, že s použitím **suicide belt**/**suicide vest** začali systematicky právě LTTE na Srí Lance
   - Co se **s.b. a s.v.** týče - společně s výbušninou se používaly i jiné předměty - například železné předměty, kuličková ložiska etc. - těmto předmětům se obecně říká **šrapnely**
+
+**Příklady důležitých osobností a organizací v konfliktech, ve kterých docházelo k sebevražedným útokům.**
 
 **Libanon** - **Hisbaláh**
 
@@ -74,6 +84,8 @@ Několik sebevražedných útoků na sebe hned navazujících v krátkém čase 
 **Izraelsko Palestinský konflikt** - Sheikh Ahmed Ismail Hassan Yassin
 
 #### Proxy suicide attack
-Jedná se o zástupný sebevražedný útok
+Jedná se o zástupný sebevražedný útok.
 
-Odplata na jiném území (například útoky proti velvyslanectví v jiných zemích)
+Je to tedy odplata na jiném území (například útoky proti velvyslanectví v jiných zemích).
+
+## Přednáška 2 - TBK
