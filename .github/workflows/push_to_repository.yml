@@ -26,8 +26,8 @@ jobs:
         run: |-
           cd Magisterske_Studium/
           make all
-          git config --global user.name "Automated"
-          git config --global user.email "actions@users.noreply.github.com"
+          #git config --global user.name "Automated"
+          #git config --global user.email "actions@users.noreply.github.com"
           #git status
           git add -A
           timestamp=$(date -u)
