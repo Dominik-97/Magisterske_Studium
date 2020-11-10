@@ -22,13 +22,10 @@ jobs:
       - name: Check current working directory
         run: |-
           git clone https://github.com/Dominik-97/Magisterske_Studium.git
-      - name: Run Makefile
+      - name: Run Makefile and check git status
         run: |-
           cd Magisterske_Studium/
           make all
-      - name: Push to repository
-        run: |-
-          cd Magisterske_Studium/
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git status
