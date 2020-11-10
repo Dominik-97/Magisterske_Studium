@@ -1,0 +1,25 @@
+name: Automaticky make
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checks pandoc version
+        uses: docker://pandoc/core:2.9
+        with:
+          args: "--version"
+      - name: Run Makefile
+        run: Make all
+      - name: Push to repository
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
+          git push
