@@ -24,6 +24,7 @@ jobs:
           git clone https://github.com/Dominik-97/Magisterske_Studium.git
       - name: Run Makefile and check git status
         run: |-
+          git remote add origin https://github.com/Dominik-97/Magisterske_Studium.git
           cd Magisterske_Studium/
           make all
           git config user.name "Automated"
@@ -32,4 +33,4 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
-          git push
+          git push -u origin master
