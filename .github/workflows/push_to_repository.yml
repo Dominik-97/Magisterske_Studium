@@ -16,7 +16,7 @@ jobs:
       - name: Install Make
         run: sudo apt-get install make
       - name: Run Makefile
-        run: make all
+        run: make All
       - name: Push to repository
         run: |-
           git config user.name "Automated"
