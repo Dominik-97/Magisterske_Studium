@@ -13,6 +13,8 @@ jobs:
         uses: docker://pandoc/core:2.9
         with:
           args: "--version"
+      - name: Install Make
+        run: apt-get install build-essential
       - name: Run Makefile
         run: Make all
       - name: Push to repository
