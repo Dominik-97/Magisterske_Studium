@@ -17,18 +17,23 @@ jobs:
         run: sudo apt-get install make
       - name: Check current working directory
         run: |-
-          pwd
-          ls -la
-          cd ..
-          pwd
-          ls -la
+          #pwd
+          #ls -la
+          #cd ..
+          #pwd
+          #ls -la
+          mkdir ../build
+          cp -TR . ../build
+          cd ../build
+          #tar -cvf deploy.tar ../build/
       - name: Run Makefile
         run: make all
       - name: Push to repository
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add -A
-          timestamp=$(date -u)
-          git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
-          git push
+          git status
+          #git add -A
+          #timestamp=$(date -u)
+          #git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
+          #git push
