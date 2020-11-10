@@ -1,8 +1,8 @@
 # Ignore pro docx v docx složce
-docx/*.docx
+# docx/*.docx
 
 # Ignore pro pdf v pdf složce
-pdf/*.pdf
+# pdf/*.pdf
 
 # Ignore all .DS_Store
 .DS_Store
