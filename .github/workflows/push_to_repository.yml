@@ -20,8 +20,10 @@ jobs:
           pwd
           ls -la
           cd ..
+          pwd
+          ls -la
       - name: Run Makefile
-        run: make All
+        run: make all
       - name: Push to repository
         run: |-
           git config user.name "Automated"
