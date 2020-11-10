@@ -14,9 +14,9 @@ jobs:
         with:
           args: "--version"
       - name: Install Make
-        run: sudo apt-get install build-essential
+        run: sudo apt-get install make
       - name: Run Makefile
-        run: Make all
+        run: make all
       - name: Push to repository
         run: |-
           git config user.name "Automated"
