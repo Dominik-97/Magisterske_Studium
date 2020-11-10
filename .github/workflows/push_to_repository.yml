@@ -24,8 +24,8 @@ jobs:
           git clone https://github.com/Dominik-97/Magisterske_Studium.git
       - name: Run Makefile and check git status
         run: |-
-          git remote add origin https://github.com/Dominik-97/Magisterske_Studium.git
           cd Magisterske_Studium/
+          git remote add origin https://github.com/Dominik-97/Magisterske_Studium.git
           make all
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
