@@ -17,9 +17,8 @@ jobs:
         run: sudo apt-get install make
       - name: Check current working directory
         run: |-
-          mkdir ../build
-          cp -TR . ../build
-          cd ../build
+          git clone https://github.com/Dominik-97/Magisterske_Studium.git
+          cd Magisterske_Studium/
           ls -la
       - name: Run Makefile
         run: make all
