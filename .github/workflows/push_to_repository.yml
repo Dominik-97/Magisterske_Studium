@@ -9,10 +9,12 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - name: Checks pandoc version
-        uses: docker://pandoc/core:2.9
-        with:
-          args: "--version"
+      #- name: Checks pandoc version
+      #  uses: docker://pandoc/core:2.9
+      #  with:
+      #    args: "--version"
+      - name: Install Pandoc
+        run: sudo apt-get install pandoc
       - name: Install Make
         run: sudo apt-get install make
       - name: Test of installing LaTeX
