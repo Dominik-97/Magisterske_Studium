@@ -20,6 +20,7 @@ jobs:
           mkdir ../build
           cp -TR . ../build
           cd ../build
+          ls -la
       - name: Run Makefile
         run: make all
       - name: Push to repository
