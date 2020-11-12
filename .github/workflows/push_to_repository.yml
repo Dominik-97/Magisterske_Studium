@@ -28,6 +28,7 @@ jobs:
           make all
       - name: Push
         run: |-
+          cd Magisterske_Studium/
           git config --global user.name "Automated Push"
           git config --global user.email "myniceemail@greatdomain.com"
           #git status
