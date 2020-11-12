@@ -19,7 +19,12 @@ jobs:
         run: sudo apt install texlive-latex-extra
       - name: Run Makefile and check git status
         run: |-
-          make all
+          if ! git diff --quiet; then
+            echo "There are changes, executing make"
+            make all
+          else
+            echo "There are no changes, not executing make"
+          fi
       - name: Push
         run: |-
           git config user.name "Automated"
