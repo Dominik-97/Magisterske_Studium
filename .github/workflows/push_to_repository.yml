@@ -13,18 +13,22 @@ jobs:
       #  uses: docker://pandoc/core:2.9
       #  with:
       #    args: "--version"
+      - name: Checking out repository
+        uses: actions/checkout@v2
       - name: Install Pandoc
         run: sudo apt-get install pandoc
       - name: Install Make
         run: sudo apt-get install make
       - name: Test of installing LaTeX
         run: sudo apt install texlive-latex-extra
-      - name: Check current working directory
-        run: |-
-          git clone https://github.com/Dominik-97/Magisterske_Studium.git
+      #- name: Check current working directory
+      #  run: |-
+      #    git clone https://github.com/Dominik-97/Magisterske_Studium.git
       - name: Run Makefile and check git status
         run: |-
+          ls -la
           cd Magisterske_Studium/
+          ls -la
           make all
       - name: Push
         run: |-
