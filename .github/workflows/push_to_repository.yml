@@ -9,49 +9,14 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - name: Checking out repository
-        uses: actions/checkout@v2
-      - name: get the sha
-        run: |
-          echo "$GITHUB_CONTEXT"| jq '.event.commits[].id' | tail -2 | head -1 |sed 's/\"//g'
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
       - name: Install Pandoc
-        run: |-
-          last_push=$(git rev-parse origin/@)
-          lastlast_push=$(git rev-parse origin/@~)
-          echo $last_push
-          echo $lastlast_push
-          if ! git diff --quiet $last_push $lastlast_push; then
-            echo "There are changes, installing pandoc"
-            #sudo apt-get install pandoc
-          else
-            echo "There are no changes, not installing pandoc"
-          fi
+        run: sudo apt-get install pandoc
       - name: Install Make
-        run: |-
-          if ! git diff --quiet; then
-            echo "There are changes, installing make"
-            sudo apt-get install make
-          else
-            echo "There are no changes, not installing make"
-          fi
+        run: sudo apt-get install make
       - name: Test of installing LaTeX
-        run: |-
-          if ! git diff --quiet; then
-            echo "There are changes, installing latex"
-            sudo apt install texlive-latex-extra
-          else
-            echo "There are no changes, not installing latex"
-          fi
+        run: sudo apt install texlive-latex-extra
       - name: Run Makefile and check git status
-        run: |-
-          if ! git diff --quiet; then
-            echo "There are changes, executing make"
-            make all
-          else
-            echo "There are no changes, not executing make"
-          fi
+        run: make all
       - name: Push
         run: |-
           git config user.name "Automated"
