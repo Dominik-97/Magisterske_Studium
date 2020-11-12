@@ -11,6 +11,11 @@ jobs:
     steps:
       - name: Checking out repository
         uses: actions/checkout@v2
+      - name: get the sha
+        run: |
+          echo "$GITHUB_CONTEXT"| jq '.event.commits[].id' | tail -2 | head -1 |sed 's/\"//g'
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
       - name: Install Pandoc
         run: |-
           last_push=$(git rev-parse origin/@)
