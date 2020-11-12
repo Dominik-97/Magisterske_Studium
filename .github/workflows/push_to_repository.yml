@@ -14,7 +14,7 @@ jobs:
       - name: get the sha
         run: |-
           echo $GITHUB_SHA
-          git show --color --pretty=format:%b $GITHUB_SHA
+          git diff-tree --no-commit-id --name-only -r $GITHUB_SHA
       - name: Install Pandoc
         run: sudo apt-get install pandoc
       - name: Install Make
