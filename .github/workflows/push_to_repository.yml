@@ -9,10 +9,6 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      #- name: Checks pandoc version
-      #  uses: docker://pandoc/core:2.9
-      #  with:
-      #    args: "--version"
       - name: Checking out repository
         uses: actions/checkout@v2
       - name: Install Pandoc
@@ -21,9 +17,6 @@ jobs:
         run: sudo apt-get install make
       - name: Test of installing LaTeX
         run: sudo apt install texlive-latex-extra
-      #- name: Check current working directory
-      #  run: |-
-      #    git clone https://github.com/Dominik-97/Magisterske_Studium.git
       - name: Run Makefile and check git status
         run: |-
           make all
@@ -34,4 +27,4 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
-          git push #-u origin master
+          git push
