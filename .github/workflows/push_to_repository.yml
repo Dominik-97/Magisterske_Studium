@@ -21,7 +21,7 @@ jobs:
         run: sudo apt install texlive-latex-extra
       - name: Check current working directory
         run: |-
-          git clone git@github.com:Dominik-97/Magisterske_Studium.git
+          git clone https://github.com/Dominik-97/Magisterske_Studium.git
       - name: Run Makefile and check git status
         run: |-
           cd Magisterske_Studium/
@@ -29,9 +29,8 @@ jobs:
       - name: Push
         run: |-
           cd Magisterske_Studium/
-          git config --global user.name "Automated Push"
-          git config --global user.email "myniceemail@greatdomain.com"
-          #git status
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
           git add -A
           timestamp=$(date -u)
           git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
