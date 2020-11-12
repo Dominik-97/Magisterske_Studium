@@ -26,10 +26,12 @@ jobs:
         run: |-
           cd Magisterske_Studium/
           make all
+      - name: Push
+        run: |-
           git config --global user.name "Automated Push"
           git config --global user.email "myniceemail@greatdomain.com"
           #git status
           git add -A
           timestamp=$(date -u)
           git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
-          git push -u origin master
+          git push #-u origin master
