@@ -12,11 +12,29 @@ jobs:
       - name: Checking out repository
         uses: actions/checkout@v2
       - name: Install Pandoc
-        run: sudo apt-get install pandoc
+        run: |-
+          if ! git diff --quiet; then
+            echo "There are changes, installing pandoc"
+            sudo apt-get install pandoc
+          else
+            echo "There are no changes, not installing pandoc"
+          fi
       - name: Install Make
-        run: sudo apt-get install make
+        run: |-
+          if ! git diff --quiet; then
+            echo "There are changes, installing make"
+            sudo apt-get install make
+          else
+            echo "There are no changes, not installing make"
+          fi
       - name: Test of installing LaTeX
-        run: sudo apt install texlive-latex-extra
+        run: |-
+          if ! git diff --quiet; then
+            echo "There are changes, installing latex"
+            sudo apt install texlive-latex-extra
+          else
+            echo "There are no changes, not installing latex"
+          fi
       - name: Run Makefile and check git status
         run: |-
           if ! git diff --quiet; then
