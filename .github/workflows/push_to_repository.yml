@@ -13,10 +13,8 @@ jobs:
         uses: actions/checkout@v2
       - name: get the sha
         run: |-
-          echo "$GITHUB_CONTEXT"| jq '.event.commits[].id' | tail -2 | head -1 |sed 's/\"//g'
-          echo "$GITHUB_CONTEXT"| jq '.event.commits[].id' | tail -3 | head -1 |sed 's/\"//g'
-          echo "$GITHUB_CONTEXT"| jq '.event.after'
-          echo "$GITHUB_CONTEXT"| jq '.event.before'
+          echo "$GITHUB_CONTEXT"| jq '.event.after' | tail -2 | head -1 |sed 's/\"//g'
+          echo "$GITHUB_CONTEXT"| jq '.event.before' | tail -2 | head -1 |sed 's/\"//g'
         env:
           GITHUB_CONTEXT: ${{ toJson(github) }}
       - name: Install Pandoc
