@@ -11,6 +11,12 @@ jobs:
     steps:
       - name: Checking out repository
         uses: actions/checkout@v2
+      - name: get the sha
+        run: |-
+          echo "$GITHUB_CONTEXT"| jq '.event.commits[].id' | tail -2 | head -1 |sed 's/\"//g'
+          echo "$GITHUB_CONTEXT"| jq '.event.commits[].id' | tail -3 | head -1 |sed 's/\"//g'
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
       - name: Install Pandoc
         run: sudo apt-get install pandoc
       - name: Install Make
