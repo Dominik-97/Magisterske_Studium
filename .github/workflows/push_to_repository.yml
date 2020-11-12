@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Install Pandoc
         run: |-
-          if ! git diff HEAD~ --quiet; then
+          if ! git diff @~ --quiet; then
             echo "There are changes, installing pandoc"
             sudo apt-get install pandoc
           else
