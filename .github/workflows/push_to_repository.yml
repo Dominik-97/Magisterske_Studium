@@ -11,12 +11,6 @@ jobs:
     steps:
       - name: Checking out repository
         uses: actions/checkout@v2
-      - name: get the sha
-        run: |-
-          echo $GITHUB_SHA
-          echo git show --stat $GITHUB_SHA
-          echo "Help"
-          echo git log -p $GITHUB_SHA
       - name: Install Pandoc
         run: sudo apt-get install pandoc
       - name: Install Make
@@ -29,12 +23,7 @@ jobs:
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          if ! git diff --quiet; then
-            echo "There are changes"
-            git add -A
-            timestamp=$(date -u)
-            git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
-            git push
-          else
-            echo "There are no changes, not pushing anything"
-          fi
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
+          git push
