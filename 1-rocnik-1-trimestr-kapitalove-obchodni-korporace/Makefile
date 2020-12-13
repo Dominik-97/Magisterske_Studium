@@ -15,9 +15,9 @@ docx: clean $(DOCX)
 # Separator for these lines need to start with a hard tab, not 4 spaces!
 %.pdf: %.md
 	if grep -q no_TOC '$<'; then \
-		pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< \
-	else \
-		pandoc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< \
+		pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
+	else ; \
+		pandoc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
 	fi
 
 %.docx: %.md
