@@ -1,7 +1,8 @@
 ## Markdown extension (e.g. md, markdown, mdown).
 MEXT = md
 ## All markdown files in the working directory
-SRC = $(wildcard *.$(MEXT))
+SRC := $(wildcard *.$(MEXT))
+SRC := $(filter-out README.md, $(SRC))
 
 
 DOCX=$(SRC:.md=.docx)
