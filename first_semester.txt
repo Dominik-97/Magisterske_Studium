@@ -2,6 +2,7 @@
 Práce: Ano
 Práce: [ "Seminární práce" ]
 Odkaz: https://github.com/Dominik-97/LaTeX_Template/tree/prace-bezpecnostni-hrozby
+Odkaz na vypracovanou práci: https://github.com/Dominik-97/LaTeX_Template/blob/prace-bezpecnostni-hrozby/Seminarni_prace_Bezpecnostni_hrozby_Dominik_B%C3%A1lint.pdf
 ----------------------------------------------------------------------
 
 ----- Diferenční předmět soukromé právo ------------------------------
