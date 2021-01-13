@@ -1,5 +1,10 @@
 ---
-keywords: no_TOC
+title-meta: '1-klauzurni-priklad'
+author-meta: 'Dominik Balint (using pandoc)'
+date-meta: '01/10/2020'
+keywords:
+- 'no_TOC'
+subject: Kapitálové obchodní korporace
 ---
 
 **Příklad**
