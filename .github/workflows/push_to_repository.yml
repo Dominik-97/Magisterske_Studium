@@ -1,0 +1,29 @@
+name: Automaticky make
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checking out repository
+        uses: actions/checkout@v2
+      - name: Install Pandoc
+        run: sudo apt-get install pandoc
+      - name: Install Make
+        run: sudo apt-get install make
+      - name: Test of installing LaTeX
+        run: sudo apt install texlive-latex-extra
+      - name: Run Makefile and check git status
+        run: make all
+      - name: Push
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Vygenerovany file ve složce: ${timestamp}" || exit 0
+          git push

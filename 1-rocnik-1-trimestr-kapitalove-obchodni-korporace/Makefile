@@ -1,7 +1,8 @@
 ## Markdown extension (e.g. md, markdown, mdown).
 MEXT = md
 ## All markdown files in the working directory
-SRC = $(wildcard *.$(MEXT))
+SRC := $(wildcard *.$(MEXT))
+SRC := $(filter-out README.md, $(SRC))
 
 
 DOCX=$(SRC:.md=.docx)
@@ -14,7 +15,11 @@ docx: clean $(DOCX)
 
 # Separator for these lines need to start with a hard tab, not 4 spaces!
 %.pdf: %.md
-	pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $<
+	if grep -q no_TOC '$<'; then \
+		pandoc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
+	else \
+		pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
+	fi
 
 %.docx: %.md
 	pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $<

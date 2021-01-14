@@ -1,0 +1,30 @@
+----- Bezpečnostní hrozby --------------------------------------------
+Práce: Ano
+Práce: [ "Seminární práce" ]
+Odkaz: https://github.com/Dominik-97/LaTeX_Template/tree/prace-bezpecnostni-hrozby
+Odkaz na vypracovanou práci: https://github.com/Dominik-97/LaTeX_Template/blob/prace-bezpecnostni-hrozby/Seminarni_prace_Bezpecnostni_hrozby_Dominik_B%C3%A1lint.pdf
+----------------------------------------------------------------------
+
+----- Diferenční předmět soukromé právo ------------------------------
+Práce: Ne
+----------------------------------------------------------------------
+
+----- Právo duševního vlastnictví ------------------------------------
+Práce: Ne
+----------------------------------------------------------------------
+
+----- Kapitálové obchodní korporace ----------------------------------
+Práce: Ano
+Práce: [ "Seminární práce", "Kaluzurní práce 1", "Klauzurní práce 2" ]
+Odkaz: Tento repozitář
+----------------------------------------------------------------------
+
+----- Tvorba odborného textu -----------------------------------------
+Práce: Ano
+Práce: [ "Prezentace k bakalářské práci" ]
+Odkaz: Repozitář se závěrečnou prací
+----------------------------------------------------------------------
+
+----- Statistická data ve veřejném sektoru ---------------------------
+Práce: Ne
+----------------------------------------------------------------------
