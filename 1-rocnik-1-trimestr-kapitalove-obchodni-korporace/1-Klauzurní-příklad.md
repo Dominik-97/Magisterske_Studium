@@ -10,7 +10,7 @@ geometry: margin=2cm
 
 # První klauzurní příklad
 
-
+\vspace*{10mm}
 
 **Příklad**
 
@@ -19,7 +19,7 @@ geometry: margin=2cm
 **Otázky:**
 - Bude Josef Hubený s návrhem úspěšný? Své závěry právně odůvodněte.
 
-
+\vspace*{10mm}
 
 **Řešení:**
 
@@ -28,6 +28,7 @@ Pro zodpovězení otázky je primárně nutné podívat se, zda směnka splňuje
 Primárně je třeba rozlišit mezi směnkou vlastní a směnkou cizí. Z důvodu, že ve výše uvedené směnce se pan Pavel Tlustý zavázal sám zaplatit ujednanou částku, jedná se o směnku vlastní (viz § 75 Zákona č. 191/1950 Sb., Zákon směnečný a šekový).
 
 U směnky vlastní zákon předpokládá ve výše zmíněném paragrafu splnění následujících podmínek:
+
 1. označení, že jde o směnku, pojaté do vlastního textu listiny a vyjádřené v jazyku, ve kterém je tato listina sepsána;
 2. bezpodmínečný slib zaplatit určitou peněžitou sumu;
 3. údaj splatnosti;
@@ -37,6 +38,7 @@ U směnky vlastní zákon předpokládá ve výše zmíněném paragrafu splněn
 7. podpis výstavce.
 
 Při rozebrání jednotlivých bodů je možné s jistotou říci, že:
+
 1. bod první je splněn, neboť listina je jakožto směnka ve vlastním textu označena,
 2. bod druhý je splněn, neboť z prohlášení jasně vyplývá závazek zaplatit ujednanou částku, a to i přes to, že částka uvedená číslicemi se rozchází s částkou uvedenou slovy, neboť zákon v §6 odst. 1 stanovuje, že pokud se částka uvedená čísly a částka uvedená slovy rozcházejí, tak platí částka uvedená slovy,
 3. bod třetí **není** splněn, neboť:
@@ -58,24 +60,8 @@ Při rozebrání jednotlivých bodů je možné s jistotou říci, že:
 6. bod šestý je dle zadání splněn (dne 5. ledna 2019 podepsal),
 7. bod sedný je rovněž splněn (podepsal).
 
-1. ahoj
-	1. ahoj
+Z výše uvedeného tedy vyplývá, že v případě směnky uvedené v příkladu není možné hovořit o platné směnce.
 
-1. ahoj
- 1. ahoj
+Aby Josef Hubený uspěl se svým návrhem, musel by podle Zákona č. 99/1963 Sb., Občanský soudní řád, části třetí, Hlavy čtvrté, Platební rozkaz k návrhu přiložit směnku, o jejíž pravosti a platnosti není pochybu.
 
-1. ahoj
-  1. ahoj
-
-1. ahoj
-   1. ahoj
-
-V souladu s čl. I. § 77 odst. 1 ZSŠ může být splatnost směnky vlastní určena výlučně některým ze způsobů uvedených v čl. I § 33 odst. 1 ZSŠ (na viděnou, na určitý čas po viděné, na určitý čas po datu vystavení či na určitý den). 
-
-Směnky s jinou dobou splatnosti jsou na základě čl. I. § 33 odst. 2 ZSŠ neplatné. To se týká také splatnosti určené „30. nebo 31. prosince 2019“. 
-
-Takto určená splatnost nespadá pod žádný ze způsobů vymezený v uvedeném ustanovení, zákon směnečný a šekový ji tedy nepřipouští a listina podepsaná Pavlem Tlustým nemůže být platnou směnkou, o niž by bylo možné opírat jakékoliv směnečněprávní nároky. 
-
-Soud tudíž návrhu Josefa Hubeného nemůže vyhovět, když k vydání směnečného platebního rozkazu zákon vyžaduje, aby žalobce předložil v prvopisu směnku, o jejíž pravosti (a platnosti) není důvodu pochybovat (§ 175 odst. 1 OSŘ). Listina předkládaná Josefem Hubeným náležitosti směnky na první pohled (vzhledem k uvedené vadě) postrádá.  
-
-Bez právního významu je potom skutečnost, že údaj o směnečné sumě vyjádřený čísly (1,500.000, tedy jeden milión pět set tisíc korun) se v listině liší od údaje vyjádřeného slovy (jeden milion korun). Jen pro úplnost lze poznamenat, že uvedený rozpor by sám o sobě neurčitost, a tudíž neplatnost směnky (pokud by listina byla platná jako směnka), nezaložil. V souladu s čl. I § 6 odst. 1 ZSŠ by pouze platila suma vyjádřená slovy, směnka by tedy zněla na částku jeden milion korun. 
+V případě, že by se tedy pan Josef Hubený obrátil na soud s návrhem na vydání směnečného platebního rozkazu, neuspěl by, neboť, směnka není v bodě 3 § 75 Zákona směnečného a šekového platná.
