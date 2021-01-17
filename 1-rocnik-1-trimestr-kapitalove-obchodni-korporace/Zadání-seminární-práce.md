@@ -4,16 +4,19 @@ author-meta: 'Dominik Balint (using pandoc)'
 date-meta: '01/10/2020'
 keywords: 'no_TOC'
 subject: Kapitálové obchodní korporace
+geometry: margin=2cm
 ---
 
 **Zadání seminární práce**  
 
+\vspace*{10mm}
+
 **Seminární práce**<br>
 **z předmětu Kapitálové obchodní korporace a cenné papíry v 1.T 2020/2021**
  
-**Jméno a příjmení studenta:** 
+**Jméno a příjmení studenta:** Dominik Bálint 
 
-**Datum zpracování:**  
+**Datum zpracování:**  01/10/2020
 
 **Řešte případ podle uvedeného zadání. Řešení musí obsahovat jak odpověď na položené otázky, tak odůvodnění odpovědi, včetně příslušných právních ustanovení.**<br>
 >Dne 14. 10. 2019 se konalo řádně svolané zasedání valné hromady společnosti Alfa, a. s. Podle pozvánky bylo jedním z bodů pořadu valné hromady rozhodnutí o změně stanov. Stanovy společnosti Alfa, a. s., určují, že rozhodování o změně stanov náleží do působnosti valné hromady. Všechny akcie společnosti jsou kmenové a vydané ve stejné jmenovité hodnotě. 
@@ -25,6 +28,8 @@ subject: Kapitálové obchodní korporace
 **Posuďte,**  
   - a) zda usnesení valné hromady ze 14. 10. 2019 bylo v souladu s právem a  
   - b) zda společnost Alfa, a. s., odmítla poskytnout panu Kamenskému informace v souladu s právem. Své závěry právně odůvodněte.  
+
+\vspace*{10mm}
 
 **Řešení**
 
