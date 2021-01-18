@@ -50,7 +50,7 @@ Při rozebrání jednotlivých bodů je možné s jistotou říci, že:
             4. na určitý den.
         - **Směnky s jinou dobou splatnosti nebo se splatností postupnou jsou neplatné.**
     2. pokud by tedy jednotlivé **taxativně** vymezené doby splatnosti byly vyjádřeny jako:
-        1. směnka je splatna při předložení,
+        1. směnka je splatná při předložení,
         2. **nebo** směnka je splatná X dnů po předložení,
         3. **nebo** směnka je splatná X dnů po datu vystavení,
         4. **nebo** směnka je splatná X. dne měsíce X.
@@ -58,7 +58,7 @@ Při rozebrání jednotlivých bodů je možné s jistotou říci, že:
 4. bod čtvrtý je splněn, neboť ze zadání vyplývá, že místo splatnosti bylo určeno,
 5. bod pátý je splněn, směnka totiž stanoví komu má být plněno,
 6. bod šestý je dle zadání splněn (dne 5. ledna 2019 podepsal),
-7. bod sedný je rovněž splněn (podepsal).
+7. bod sedmý je rovněž splněn (podepsal).
 
 Z výše uvedeného tedy vyplývá, že v případě směnky uvedené v příkladu není možné hovořit o platné směnce.
 
