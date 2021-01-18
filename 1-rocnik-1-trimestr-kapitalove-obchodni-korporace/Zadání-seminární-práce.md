@@ -58,9 +58,9 @@ Odůvodnění představenstva a dozorčí rady tak, přesto, že fakticky je spr
 
 **Otázka b)**
 
-Společnost Alfa, a. s., odmítla poskytnout panu Kamenskému jím požadované informace v rozporu s právem. Člen představenstva neměl k čl. 12 stanov přihlédnout, protože ke změně stanov nedošlo, a žádosti pana Kamenského měl vyhovět. Zamítnout ji mohl pouze za podmínek § 359 z. o. k. 
+Dle výše uvedeného se domnívám, že by usnesení valné hromady odporovalo právu, proto by i odmítnutí poskytnutí požadovaných informací bylo v rozporu s právem, pokud by se dané odmítnutí neopíralo o některý ze zákonných důvodů.
 
-Nad rámec požadovaného řešení dodávám, že pokud by se pan Kamenský domáhal vyslovení neplatnosti usnesení valné hromady o změně stanov z 14. 10. 2019, soud by postupoval podle § 90 odst. 1 z. ř. s. V řízení o vyslovení neplatnosti usnesení valné hromady by soud i bez návrhu rozhodl, že o usnesení valné hromady nejde, protože se na ně hledí, jako by nebylo přijato. Jelikož se oprávněné osoby nemusí zdánlivost (fikci nepřijetí) usnesení valné hromady dovolávat, soud by takové deklaratorní rozhodnutí vydal, třebaže lhůta k podání návrhu na vyslovení neplatnosti usnesení již uplynula (srov. usnesení Nejvyššího soudu ze dne 26. 10. 2016, sp. zn. 29 Cdo 1817/2016). 
+Domnívám se, že z důvodu absolutní neplatnosti dle § 588 OZ, popřípadě dle § 245 OZ, který stanovuje, že *na usnesení členské schůze nebo jiného orgánu, které se příčí dobrým mravům, nebo mění stanovy tak, že jejich obsah odporuje donucujícím ustanovením zákona, se hledí, jako by nebylo přijato*, by na změny stanov mělo ze strany představenstva a dozorčí rady pohlédnuto jako by nikdy nebyly přijaty. I z toho důvodu měla společnost informace, které pan Kamenský žádal, poskytnout.
 
 [^1]: Toto právo mají rovněž dle § 256, odst. 1 ZOK.
 [^2]: Dle § 424, odst. 1 ZOK.
