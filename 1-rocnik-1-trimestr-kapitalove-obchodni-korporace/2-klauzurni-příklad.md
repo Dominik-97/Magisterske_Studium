@@ -39,17 +39,21 @@ Ze zadání je patrné, že všechny tří výše zmíněné body jsou bez dalš
 
 Ze zadání je patrné, že valná hromada rozhodla 90% hlasů všech přítomných společníků, rozhodutí je tedy s ohledem na § 169 odst. 1 stejného zákona, který stanoví, že platnost rozhodnutí podléhá nutnosti hlasování společníků s alespoň polovinou všech hlasů, platné.
 
-Důležité je však zmínit, že společnící podle § 167 ZOK *vykonávají své právo podílet se na řízení společnosti na valné hromadě, nebo mimo ni.* Toto zákonem stanovené právo však bylo Aleši Vymětalovi odepřeno tím, že mu společnost s rozporem se zákonem, specificky s § 184 odst. 2 ZOK, odepřela, přesto, že se tak stalo nedopatřením, možnost účastnit se valné hromady a například tak uplatnit svá práva vyplývající z § 164 ZOK.
+Důležité je však zmínit, že společnící podle § 167, odst. 1 ZOK *vykonávají své právo podílet se na řízení společnosti na valné hromadě, nebo mimo ni.* Toto zákonem stanovené právo však bylo Aleši Vymětalovi odepřeno tím, že mu společnost s rozporem se zákonem, specificky s § 184 odst. 2 ZOK, odepřela, přesto, že se tak stalo nedopatřením, možnost účastnit se valné hromady a například tak uplatnit svá práva vyplývající z § 164 ZOK.
 
-Aby však hlasování platné nebylo, musel by se Aleš Vymětal domáhat jeho neplatnosti, viz otázka b).
- 
-Základní předpoklady pro uložení příplatkové povinnosti byly v daném případě splněny. Uložit příplatkovou povinnost v určené výši připouštěla v souladu s § 162 odst. 1 a 2 z. o. k. společenská smlouva a k přijetí rozhodnutí dle § 170 z. o. k. postačuje prostá většina hlasů přítomných společníků, jsou-li podle § 169 odst. 1 z. o. k. přítomni společníci, kteří mají alespoň polovinu všech hlasů. Posuzované rozhodnutí valné hromady o uložení příplatkové povinnosti přesto zákonu odporuje, když rozpor usnesení valné hromady se zákonem může spočívat i jen v pochybeních, která se týkají svolání či průběhu valné hromady.  
-Právo účastnit se valné hromady, a tedy být k této účasti řádné pozván, je stěžejním právem každého společníka společnosti s ručením omezeným, zcela bez ohledu na výši jeho podílu  (§ 167 odst. 1, § 168 odst. 1 z. o. k.). Tím, že společnost nezaslala společníku Aleši Vymětalovi pozvánku na zasedání valné hromady na jeho adresu uvedenou v seznamu společníků (§ 184 odst. 2 z. o. k.) a že valná hromada rozhodovala o uložení příplatkové povinnosti bez toho, aby se tento společník valné hromady mohl zúčastnit a uplatňovat na ní svá práva, společnost porušila zákon a vážně zasáhla do jeho základních práv, která mu plynou z účasti ve společnosti.  
-Na závažnosti tohoto rozporu se zákonem nic nemění skutečnost, že i kdyby se Aleš Vymětal zasedání valné hromady zúčastnil, svými hlasy nemohl přijetí rozhodnutí o uložení příplatkové povinnosti zabránit, ostatní společníci tedy mohli rozhodnutí přijmout i proti jeho vůli.  
-Rozhodnutí valné hromady o uložení příplatkové povinnosti tak z uvedeného důvodu nebylo v souladu s právem.  
- 
+Aby však hlasování platné nebylo, musel by se Aleš Vymětal domáhat jeho neplatnosti[^1], viz otázka b).
+
 **Otázka b)**
-  
-Vzhledem k tomu, že rozhodnutí valné hromady o uložení příplatkové povinnosti bylo z popsaného důvodu přijato v rozporu s právem, mohl se společník Aleš Vymětal podle  § 191 odst. 1 z. o. k. ve spojení s § 258 - § 261 o. z. domáhat u soudu vyslovení jeho neplatnosti. Toto právo však musel podle § 259 o. z. uplatnit nejpozději do tří měsíců ode dne, kdy se o rozhodnutí dozvěděl, nejpozději však do jednoho roku od jeho přijetí. Neučinil-li tak, zaniklo. (Nad rámec požadovaného řešení lze dodat, že kdyby soud o návrhu rozhodoval, v souladu s § 260 odst. 1 o. z. by poměřoval závažnost právních následků posuzovaného zásahu do základních práv společníka na jedné straně a zájem společnosti hodný právní ochrany neplatnost nevyslovit na straně druhé; pro řešení daného případu však výsledek tohoto posouzení není podstatný). 
-Dokud soud v řízení o včas podaném návrhu podle § 191 z. o. k. ve spojení s § 258 – § 261 o. z. neplatnost rozhodnutí valné hromady (svým konstitutivním rozhodnutím) pravomocně nevysloví, je na toto rozhodnutí (vzdor namítaným důvodům neplatnosti) nutno nahlížet jako na platné.  
-Z ustanovení § 192 odst. 1 z. o. k. se současně podává, že nebylo-li právo podle § 191 z. o. k. v zákonné lhůtě uplatněno, nelze platnost usnesení valné hromady již přezkoumávat. V řízení o žalobě na splnění příplatkové povinnosti, kterou usnesení založilo, tak soud nemůže zkoumat, zda valná hromada usnesení přijala v souladu se zákonem. I kdyby existovaly důvody pro vyslovení jeho neplatnosti, musí na usnesení nahlížet jako na platné. Námitkami Aleše Vymětala, které se týkají těchto důvodů, by se tak soud neměl zabývat a žalobě společnosti by měl vyhovět. 
+
+Přesto, že základní pravidla, které musejí být splněna, aby mohla valná hromada rozhodnout o příplatkové povinnosti, byla splněna, bylo Aleši Vymětalovi přesto upřeno právo se na valné hromadě a tedy podílení se na řízení společnosti upřeno.
+
+Společnost tak porušila práva Aleše Vymětala a nejednala tedy ve stoprocentní shodě se zákonem. Z tohoto důvodu může Aleš Vymětal dovolat neplatnosti usnesení valné hromady[^2] u soudu, která by tak musela potenciálně rozhodovat znovu.
+
+Právo dovolat se neplatnosti usnesení valné hromady u soudu však zaniká dle subjektivní lhůty 3 měsíce ode dne, kdy se navrhovatel dozvěděl, nebo mohl dozvědět o tomto rozhodnutí, popřípadě dle objektivní lhůty maximálně do 1 roku. Ze zadání plyne, že o tomto rozhodnutí věděl již 30. září, tedy 15 dní po skončení konání valné hromady, možnost dovolat se usnesení tedy měl do prosince téhož roku.
+
+Aleš Vymětal tak však neučinil, proto mu toto jeho právo zaniklo. I když společnost svým jednáním tedy výrazně zasáhla do jeho práv, tím, že se Aleš Vymětal včas svého práva u soudu nedovolal, pozbyl právo se rozhodnutí valné hromady soudní cestou bránit.
+
+S ohledem na § 192 odst. 1 ZOK, tak soud již platnost rozhodnutí valné hromady nemůže přezkoumávat a bude proto považováno za platné, Aleš Vymětal by se tak i přes pochybení ze strany společnosti měl rozhodnutím valné hromady řídit.
+
+[^1]: Pokud se nebude domáhat neplatnosti, bude rozhodnutí valné hromady platné.
+[^2]: Viz 191, odst. 1 ZOK.
