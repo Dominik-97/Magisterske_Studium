@@ -37,9 +37,9 @@ Ze zadání je patrné, že všechny tří výše zmíněné body jsou bez dalš
 
 *Valná hromada rozhoduje prostou většinou hlasů přítomných společníků, ledaže společenská smlouva určí jinak.*
 
-Ze zadání je patrné, že valná hromada rozhodla 90% hlasů všech přítomných společníků, rozhodutí je tedy s ohledem na § 169 odst. 1 stejného zákona, který stanoví, že platnost rozhodnutí podléhá nutnosti hlasování společníků s alespoň polovinou všech hlasů, platné.
+Ze zadání je patrné, že valná hromada rozhodla 90% hlasů všech přítomných společníků, rozhodnutí je tedy s ohledem na § 169 odst. 1 stejného zákona, který stanoví, že platnost rozhodnutí podléhá nutnosti hlasování společníků s alespoň polovinou všech hlasů, platné.
 
-Důležité je však zmínit, že společnící podle § 167, odst. 1 ZOK *vykonávají své právo podílet se na řízení společnosti na valné hromadě, nebo mimo ni.* Toto zákonem stanovené právo však bylo Aleši Vymětalovi odepřeno tím, že mu společnost s rozporem se zákonem, specificky s § 184 odst. 2 ZOK, odepřela, přesto, že se tak stalo nedopatřením, možnost účastnit se valné hromady a například tak uplatnit svá práva vyplývající z § 164 ZOK.
+Důležité je však zmínit, že společníci podle § 167, odst. 1 ZOK *vykonávají své právo podílet se na řízení společnosti na valné hromadě, nebo mimo ni.* Toto zákonem stanovené právo však bylo Aleši Vymětalovi odepřeno tím, že mu společnost s rozporem se zákonem, specificky s § 184 odst. 2 ZOK, odepřela, přesto, že se tak stalo nedopatřením, možnost účastnit se valné hromady a například tak uplatnit svá práva vyplývající z § 164 ZOK.
 
 Aby však hlasování platné nebylo, musel by se Aleš Vymětal domáhat jeho neplatnosti[^1], viz otázka b).
 
