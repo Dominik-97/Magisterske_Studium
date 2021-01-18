@@ -65,4 +65,4 @@ Domnívám se, že z důvodu absolutní neplatnosti dle § 588 OZ, popřípadě 
 [^1]: Toto právo mají rovněž dle § 256, odst. 1 ZOK.
 [^2]: Dle § 424, odst. 1 ZOK.
 [^3]: Dle § 588 OZ.
-[^3]: S ohledem na to, že se v zadání nehovoří ani o vydání prioritních akcií, nelze na problém nahlížet ani optikou potenciálního omezení hlasovacího práva dle § 278, odst. 2 ZOK.
+[^4]: S ohledem na to, že se v zadání nehovoří ani o vydání prioritních akcií, nelze na problém nahlížet ani optikou potenciálního omezení hlasovacího práva dle § 278, odst. 2 ZOK.
