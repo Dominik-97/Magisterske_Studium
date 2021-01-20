@@ -10,7 +10,7 @@ geometry: margin=2cm
 
 ## Seznam otázek
 
-1) Klasifikace bezpečnostních hrozeb
+1) Klasifikace bezpečnostních hrozeb - OK
 2) Historie, vývoj a typologie konfliktů a z nich vyplývajících hrozeb
 3) Příčiny a důsledky konfliktů (demografie, ekonomika, ideologie….)
 4) Tradiční pojetí geopolitiky
@@ -86,7 +86,30 @@ hrozba se dotkne všech referenčních objektů[^1].
 
 ## Otázka č. 2
 
+**Historie:**
 
+TO DO.
+
+**Vývoj:**
+
+TO DO.
+
+**Typologie a z toho vyplývající hrozby:**
+
+Ve světě probíhá celá řada konfliktů, které mají různé příčiny, průběh a povahu. Z tohoto důvodu je zde snaha vytvořit určitou typologii, do které by se konflikty mohly zařadit. Tyto snahy ovšem komplikuje fakt, že konflikt je dynamický proces, který se neustále mění a vyvíjí a jeho dynamiku ovlivňuje celá řada faktorů. Jednu z poměrně komplexních typologií nabízí Š. Waisová, která konflikt rozděluje:
+
+1. „Podle jeho umístění v mezinárodním systému na:
+    - a) vnitrostátní konflikt (nevládní či opoziční skupina se staví proti oficiální vládě v daném státě) 
+    - b) vnitrostátní konflikt pod vnějším tlakem (zapojují se do něj ekonomicky či politicky jiné státy)
+    - c) konflikty mezinárodní (do konfliktu je zapojeno dva či více států a odehrávají se v mezinárodním systému)
+2. Podle prostředků, které se v konfliktu využívají na:
+    - a) násilné
+    - b) nenásilné
+3. Podle druhů zájmů jednotlivých aktérů konfliktu na:
+    - a) konflikty teritoriální (jedná se o územní spory)
+    - b) konflikty mocensko-politické (získání a udržení moci)
+    - c) konflikty ideologické (vznikají na ideologickém základě)
+    - d) konflikty ekonomické (konflikty o zdroje).“
 
 ## Otázka č. 3
 
@@ -114,7 +137,43 @@ Ahoj.
 
 ## Otázka č. 9
 
-Ahoj.
+**Typy:**
+
+- Bezpečnostní sbor
+- Ozbrojené síly Čr
+
+**Bezpečnostní sbory:**
+
+Bezpečnostní sbor je v Česku silová složka státu, která zajišťuje bezpečnost České republiky a jejích občanů. Pojem upravuje zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů. Existuje sedm bezpečnostních sborů: Policie České republiky, Hasičský záchranný sbor České republiky, Celní správa České republiky, Vězeňská služba České republiky, Generální inspekce bezpečnostních sborů, Bezpečnostní informační služba a Úřad pro zahraniční styky a informace, přičemž poslední dva jsou civilními zpravodajskými službami[^5].
+
+Občané České republiky se mohou stát příslušníky bezpečnostních sborů,[1] kteří vykonávají službu České republice na základě vzniknuvšího služebního poměru, jenž je definován zákonem č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů. Příslušníci bezpečnostních sborů jsou ustanovováni do služebních hodností, kterým přísluší hodnostní označení.
+
+Bezpečnostní sbory zaměstnávají také civilní zaměstnance podle zákona č. 262/2006 Sb., zákoníku práce.
+
+Příslušníci a zaměstnanci bezpečnostních sborů se mohou sdružovat v odborových organizacích, např. v Nezávislém odborovém svazu Policie České republiky.
+
+Bezpečnostní sbory vedou ředitelé, jejichž funkční období trvá pět let, přičemž každá osoba může být ředitelem nejvýše dvě funkční období po sobě. Ředitelé jsou jmenováni ministry resortů, kteří jsou odpovědní za činnost daného bezpečnostního sboru. Výjimkou je Bezpečnostní informační služba, jehož ředitele jmenuje vládou určený člen vlády, a Generální inspekce bezpečnostních sborů, jehož ředitele jmenuje předseda vlády. Názvy ředitelských postů v jednotlivých sborech se liší.
+
+| Sbor (zkratka)                        | Činnost |
+| ------------------------------------- | ------- |
+| PČR                                   | Všeobecná ochrana veřejného pořádku, bezpečnosti osob a majetku, vyšetřování deliktů, které nespadají do příslušnosti jiného sboru. |
+| Hasiči                                | Ochrana před požáry, záchrana osob a majetku. Dohled nad dodržováním zákonů o požární prevenci a bezpečnosti. |
+| Celní správa                          | Provádění celního řízení a správy spotřebních daní, vyšetřování daňových deliktů. Dohled nad dováženým zbožím, provádění kontrol zaměstnávání cizinců. |
+| Vězeňská služba                       | Zajišťování výkonu vazby a výkonu trestu odnětí svobody a vyšetřování trestných činů osob, které v tomto výkonu jsou. Ochrana pořádku a bezpečnosti při výkonu soudnictví a správě soudů. |
+| GIBS                                  | Kontrola, odhalování a vyšetřování trestných činů příslušníků a civilních zaměstnanců PČR, CS ČR, VS ČR a GIBS. |
+| BIS                                   | Zpravodajská služba s vnitřním polem působnosti (kontrarozvědka). Kontrarozvědná činnost, ochrana ústavního zřízení, demokratických principů a významných ekonomických zájmů České republiky, ochrana před organizovaným zločinem a terorismem. |
+| Úřad pro zahraniční styky a informace | Zpravodajská služba s vnějším polem působnosti (rozvědka). Rozvědná činnost, sběr, analýza, ochrana a využití politických, ekonomických a bezpečnostních informací, které jsou v zájmu České republiky. |
+
+**Ozbrojené síly Čr:**
+
+**Armáda České republiky**
+Armáda ČR představuje základ ozbrojených sil. V jejím čele stojí Generální štáb Armády České republiky, přičemž jednotlivé druhy vojsk řídí Velitelství pozemních sil a Velitelství vzdušných sil.
+
+**Vojenská kancelář prezidenta republiky**
+Vojenská kancelář prezidenta republiky plní úkoly související s výkonem pravomocí prezidenta jako vrchního velitele ozbrojených sil a řízením Hradní stráže. V jejím čele je náčelník, který je přímo podřízen prezidentovi.
+
+**Hradní stráž**
+Hradní stráž zajišťuje ostrahu a obranu areálu Pražského hradu i dalších objektů a rovněž organizuje vojenské pocty při oficiálních příležitostech. Hradní stráž spadá pod náčelníka Vojenské kanceláře prezidenta republiky[^4].
 
 ## Otázka č. 10
 
@@ -127,3 +186,5 @@ Ahoj.
 [^1]: http://ochab.ezin.cz/O-a-B_2017_B/2017_OaB_B_01_kommova.pdf
 [^2]: https://www.mvcr.cz/clanek/bezpecnostni-hrozby-337414.aspx
 [^3]: http://www.cevro.cz/web_files/soubory/ctrnacni-deniky/2014/14denik_19_2014.pdf
+[^4]: https://cs.wikipedia.org/wiki/Ozbrojen%C3%A9_s%C3%ADly_%C4%8Cesk%C3%A9_republiky
+[^5]: https://cs.wikipedia.org/wiki/Bezpe%C4%8Dnostn%C3%AD_sbor_(%C4%8Cesko)
