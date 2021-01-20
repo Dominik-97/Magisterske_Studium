@@ -401,7 +401,40 @@ Regional organizations — open to members from a particular continent or other 
 
 ## Otázka č. 11 a 12
 
-Ahoj.
+**Foreign fighters:**
+
+![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/4.png)
+
+**Proliferace zbraní:**
+
+**Definice proliferace:**
+
+Proliferate (angl.) = rapidně vzrůstat, původně z lat. „proles“ (to, co roste) a „ferre“ (nésti), proliferace = bujení, narůstání, šíření
+
+V bezpečnostní terminologii se pojem proliferace používá pro označení procesu šíření zbraní (v případě ZHN i jejich nosičů) mimo okruh stávajících držitelů, často při současném nerespektování existujících kontrolních režimů a smluv
+
+Pro potřeby přednášky lze proliferace rozdělit dle kvalitativních měřítek do následujících oblastí na:
+
+a) proliferaci malých a lehkých zbraní
+
+b) proliferaci těžkých zbraní
+
+c) proliferaci zbraní hromadného ničení
+
+V současnosti dochází ke globálnímu nárůstu výroby, prodeje nebo rozšiřování okruhu držitelů zbraní ve všech kategoriích
+
+**Boj proti proliferaci:**
+
+Boj s proliferací SALW je vzhledem ke globální dimenzi problému iniciován především ze strany OSN a za deklarované participace významných mezinárodních organizací (NATO, EU, OBSE, AU aj.)
+
+OSN – UNODA (United Nations Office for Disarmament Affairs)
+
+„The goal of UNODA includes, inter alia, disarmament efforts in the area of conventional weapons, especially landlines and small arms, which are the weapons of choice in contemporary conflicts.“
+
+2001: na půdě OSN přijat dokument „Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects“ (PoA), který má vytvářet rámec pro multilaterální přístup k boji s proliferací SALW – jeho praktický přínos je však sporný
+
+DDR programy (Disarmament, Demobilization, Reintegration)
+
 
 [^1]: http://ochab.ezin.cz/O-a-B_2017_B/2017_OaB_B_01_kommova.pdf
 [^2]: https://www.mvcr.cz/clanek/bezpecnostni-hrozby-337414.aspx
