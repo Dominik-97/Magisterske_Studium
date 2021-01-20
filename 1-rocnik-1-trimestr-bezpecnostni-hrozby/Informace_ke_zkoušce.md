@@ -16,7 +16,7 @@ geometry: margin=2cm
 4) Tradiční pojetí geopolitiky
 5) Změny bezpečnostního prostředí na počátku 21. století
 6) Analýza a predikce bezpečnostních hrozeb a rizik
-7) Vnitřní bezpečnostní hrozby z pohledu České republiky (terorismus, špionáž, kyberkriminalita, extremismus, organizovaný zločin….)
+7) Vnitřní bezpečnostní hrozby z pohledu České republiky (terorismus, špionáž, kyberkriminalita, extremismus, organizovaný zločin….) - OK
 8) Vnější bezpečnostní hrozby z pohledu EU a NATO (Rusko a Evropa, Balkán, Blízký východ a Subsaharská Afrika, Čína…) - OK
 9) Národní nástroje zajištění bezpečnosti (armáda, policie, zpravodajské služby….) - OK
 10) Mezinárodní bezpečnostní architektura a mezinárodně-právní prostředí
@@ -129,7 +129,51 @@ Ahoj.
 
 ## Otázka č. 7
 
-Ahoj.
+Z pohledu MVČR máme následující hrozby[^6]:
+
+**TERORISMUS:**
+
+Úroveň připravenosti České republiky na případný teroristický útok na jejím území nebo proti jejím zájmům v zahraničí je možné označit za odpovídající. Přitom je třeba zdůraznit, že současná situace v České republice je z hlediska teroristických projevů klidná. Vzhledem k zapojení státu do současné fáze protiteroristického úsilí a v souvislosti se členstvím země v Evropské unii a Severoatlantické alianci je ovšem třeba případná rizika nepodceňovat a odpovídajícím způsobem se na ně připravovat. Veškerá protiteroristická opatření, ke kterým je v České republice přistupováno, jsou koncipována s respektem k ochraně základních lidských práv a svobod.
+
+Stěžejním dokumentem, který se zabývá úsilím o snížení zranitelnosti České republiky a jejích zájmů v zahraničí, je dokument Strategie České republiky pro boj proti terorismu od r. 2013 (pdf, 474 kB).
+
+Koordinaci přípravy, vyhodnocování a rozpracování konkrétních úkolů zakotvených v materiálu provádí odbor bezpečnostní politiky Ministerstva vnitra. Tento odbor se rovněž věnuje celému spektru dalších aktivit, které s problematikou boje proti terorismu souvisí (příprava podkladů a účast na pracovních skupinách Evropské unie zabývajících se problematikou boje proti terorismu, reakce na dotazníky mezinárodních organizací, účast na domácích a zahraničních konferencích, reakce na dotazy novinářů, publikační činnost atd.).
+
+**Organizovaný zločin:**
+
+Organizovaný zločin představuje v současné době nejzávažnější nevojenskou hrozbu pro českou společnost. Zločinecké skupiny skrze svou činnost podrývají společenské uspořádání, narušují stabilitu ekonomiky, podkopávají demokratické struktury a v konečné fázi tak způsobují zánik právního státu. Proto je boj proti organizovanému zločinu a jeho doprovodným jevům jednou z priorit národně-bezpečnostní politiky.
+
+**Kybernetické hrozby:**
+
+V souvislosti s pokračujícím pronikáním informačních technologií do všech oblastí života i běžného fungování společnosti, které lze v obecné rovině označit za pozitivní fenomén, dochází bohužel i k nárůstu rizik, která nám z těchto technologií plynou.
+
+Česká republika, jakožto vyspělá evropská země, se rovněž ocitá ve stále větší závislosti na informačních technologiích a dá se předpokládat, že tato závislost bude v budoucnu dále narůstat. Stále více agend v rámci státní správy je převáděno do digitální podoby, což umožňuje jejich efektivnější a rychlejší využívání, přičemž tento proces je v souladu se základními koncepčními a strategickými dokumenty (např. „Strategický rámec rozvoje veřejné správy a eGovernmentu 2014+“ a „Digitální Česko 2.0“). Zároveň se tak ale (nejen) veřejná správa stává zranitelnější vůči útokům a hrozbám, přicházejícím z kybernetického prostoru, což představuje pro stát a jeho občany novou bezpečnostní výzvu.
+
+**Extremismus:**
+
+Radikalizace, profesionalizace a internacionalita extremistů představuje bezprostřední, každodenní bezpečnostní hrozbu. Čelíme v jejich podání vysoce organizované a efektivní trestné činnosti, přesahující nejen hranice regionů, ale i hranice republiky. Kvůli násilí a strachu, který extremisté šíří, dalo Ministerstvo vnitra boji s nimi bezpečnostní prioritu.
+
+Česká republika patří mezi ty unijní státy, které formulovaly svou protiextremistickou politiku, vycházející z řady opatření trvalého či dlouhodobého charakteru, zaměřených jak do represivní oblasti, tak do preventivních programů, nevyjímaje opatření zabezpečující trvalý monitoring domácí a zahraniční extremistické scény a kriminálních projevů tohoto závažného společenského fenoménu.
+
+**Bezpečnost civilního letectví:**
+
+Problematika bezpečnosti civilního letectví se zejména po 11. září 2001 stala prioritou státních bezpečnostních složek. Ochrana civilní letecké dopravy představuje soubor mnoha opatření jak v oblasti pozemní, tak vzdušné bezpečnosti. Odbor bezpečnostní politiky se ve spolupráci s odborem azylové a migrační politiky, odborem legislativy a koordinace předpisů a Službou cizinecké policie podílí za Ministerstvo vnitra zejména na přípravě nových norem pro oblast civilního letectví, přípravě koncepčních materiálů, zlepšování informovanosti mezi všemi subjekty zúčastněnými na ochraně civilního letectví před protiprávními činy, vyhodnocování bezpečnostních rizik a na přípravě a vyhodnocování cvičení orgánů krizového řízení, ve kterých je zastoupen prvek bezpečnosti civilního letectví.
+
+**Korupce:**
+
+Boj proti korupci je dlouhodobým procesem vyžadujícím spolupráci všech orgánů veřejné moci, a to jak v oblasti prevence, zprůhlednění procesů i postihu. Pro vymýcení korupce je na jedné straně potřeba fungující právní prostředí, na druhé straně pak vysoká míra integrity osob, jež ze své funkce vystupují ve veřejném zájmu. Jelikož korupční praktiky jsou v řadě případů úzce propojeny s dalšími formami trestné činnosti, mohou tak přispět k podkopání samotných základů společnosti a demokratického právního státu. Výsledkem pak je ztráta důvěry občana v poctivost a nestrannost fungování státních institucí, pokřivení tržních vazeb, ekonomický úpadek, destabilizace státu a další nepříznivé vlivy.
+
+**Špionáž:**
+
+Špionáž (též strategické zpravodajství) je obor lidské činnosti zabývající se soustřeďováním strategických informací, které nelze získat z otevřených zdrojů. Jedná se o informace, které jsou druhou stranou považovány za tajné. Výstupy z tohoto vyhodnocování poté slouží zadavatelům k vytváření aktuálního a co nejpřesnějšího obrazu o situaci v zájmových oblastech a k co nejpřesnějšímu předvídání budoucího vývoje.
+
+Získáváním těchto informací se zabývají na státní úrovni organizace či služby státem zvláště pro tento účel zřízené. Nazývají se zpravodajské služby, jsou obvykle státem (vládou, parlamentem) financované a řízené a nejvyšší představitelé státu jsou zadavatelem úkolů pro tyto služby. Na nevládní úrovni existují i soukromé organizace zabývající se sběrem informací na komerční bázi.
+
+Osoba, která je vysílána do cizího území či konkurenčního prostředí za účelem špionáže, tj. získání jakýmikoliv prostředky informace, či materiály, které protistrana vyžaduje, je špión. Pracuje v utajení a musí splynout s okolím. Předpokladem je, že je odborníkem na prostředí, do kterého je vyslán. V případě mezinárodní špionáže se na něj nevztahují mezinárodní úmluvy o válečných zajatcích, ale místní, obvykle přísné trestní zákony[^7].
+
+**Čína:**
+
+Kombinace výše zmíněných faktorů.
 
 ## Otázka č. 8
 
@@ -192,3 +236,5 @@ Ahoj.
 [^3]: http://www.cevro.cz/web_files/soubory/ctrnacni-deniky/2014/14denik_19_2014.pdf
 [^4]: https://cs.wikipedia.org/wiki/Ozbrojen%C3%A9_s%C3%ADly_%C4%8Cesk%C3%A9_republiky
 [^5]: https://cs.wikipedia.org/wiki/Bezpe%C4%8Dnostn%C3%AD_sbor_(%C4%8Cesko)
+[^6]: https://www.mvcr.cz/clanek/bezpecnostni-hrozby-337414.aspx?q=Y2hudW09Mg%3d%3d
+[^7]: https://cs.wikipedia.org/wiki/%C5%A0pion%C3%A1%C5%BE
