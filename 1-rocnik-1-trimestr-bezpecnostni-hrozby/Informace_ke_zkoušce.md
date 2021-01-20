@@ -14,8 +14,8 @@ geometry: margin=2cm
 2) Historie, vývoj a typologie konfliktů a z nich vyplývajících hrozeb
 3) Příčiny a důsledky konfliktů (demografie, ekonomika, ideologie….)
 4) Tradiční pojetí geopolitiky
-5) Změny bezpečnostního prostředí na počátku 21. století
-6) Analýza a predikce bezpečnostních hrozeb a rizik
+5) Změny bezpečnostního prostředí na počátku 21. století - OK
+6) Analýza a predikce bezpečnostních hrozeb a rizik - OK
 7) Vnitřní bezpečnostní hrozby z pohledu České republiky (terorismus, špionáž, kyberkriminalita, extremismus, organizovaný zločin….) - OK
 8) Vnější bezpečnostní hrozby z pohledu EU a NATO (Rusko a Evropa, Balkán, Blízký východ a Subsaharská Afrika, Čína…) - OK
 9) Národní nástroje zajištění bezpečnosti (armáda, policie, zpravodajské služby….) - OK
@@ -121,7 +121,11 @@ Ahoj.
 
 ## Otázka č. 5
 
-Ahoj.
+Dříve zaměřeno spíš ve smyslu bipolárního světa - SSSR vs USA a Západní Evropa, proxy války.
+
+Ideologické konflikty spíše vymizely, místo toho se začínají objevovat mezinárodní konflikty, mnohonásobně větší váha je přikládána terorismu a interstátním hrozbám společně s migračními hrozbami etc.
+
+Viz zde: <http://hexagon-series.org/pdf/HGB_SecurityChallenge.pdf>
 
 ## Otázka č. 6
 
@@ -189,9 +193,9 @@ Kombinace výše zmíněných faktorů.
 
 Mám pouze tyto obrázky:
 
-![Hrozby](Assets/1.png)
-![Hrozby](Assets/2.png)
-![Hrozby](Assets/3.png)
+![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/1.png)
+![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/2.png)
+![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/3.png)
 
 ## Otázka č. 9
 
