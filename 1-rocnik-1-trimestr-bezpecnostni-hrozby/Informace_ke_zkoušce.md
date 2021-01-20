@@ -125,7 +125,17 @@ Ahoj.
 
 ## Otázka č. 6
 
-Ahoj.
+Bezpečnostní politika je nejobecnější a vrcholný program státu (nebo uskupení států) v oblasti obhajoby a obrany národních zájmů. Je obvykle stanovena na základě definice národních zájmů, analýzy bezpečnostního prostředí, hrozeb a rizik a mezinárodních závazků, přičemž věnuje pozornost jak bezpečnosti vnitřní, tak bezpečnosti vnější. Deklaruje, jakým způsobem a při použití jakých prostředků hodlá aktér definující a provádějící bezpečnostní politiku hájit své zájmy.
+
+Bezpečnostní politika má v podstatě reaktivní charakter, neboť je reakcí na stávající nebo minulou bezpečnostní situaci, navíc často iniciovanou faktory, které jsou mimo kontrolu aktéra bezpečnostní politiky. Cílem analýzy a predikce bezpečnostních hrozeb a rizik je snížit míru reaktivnosti bezpečnostní politiky, resp. rozšířit časový prostor a škálu možných strategií využitelných pro řešené daného problému a minimalizaci rizika konkrétní hrozby. Rozhodnutí dotýkající se bezpečnosti jsou mnohem více limitována externími a exteritoriálními zdroji a vlivy a prostor pro analýzu problému a včasné a rychlé rozhodnutí je podstatně omezenější než u vnitrostátního (vnitropolitického) problému, jehož identifikace, volba řešení a načasování jeho provedení je mnohem předvídatelnější a ovlivnitelnější aktéry politického procesu.
+
+Analýza a predikce bezpečnostních hrozeb a rizik vychází z podobných postupů a zákonitostí (zejména jsou-li použity kvantitativní metody analýzy), jaké jsou používány v analýze hrozeb a rizik v jiných oborech, než jsou bezpečnostní studia, zejména v ekonomických oborech a pojišťovnictví. Existuje celá řada variant, postupů a chronologických souborů jednotlivých kroků, které je nutné aplikovat při analýze hrozeb a rizik a při hledání vhodných cest a způsobů k jejich minimalizaci či eliminaci.
+
+Samotná analýza hrozeb a rizik, která je obvykle chápána jako proces definování hrozeb a jejich rizika (tj. pravděpodobnosti, aktuálnosti, závažnosti ve vztahu k chráněné hodnotě - referenčnímu objektu), je jen prvotní součástí tzv. procesu řízení rizik (risk management). Kvalitní řešení jakéhokoliv problému v jakékoliv oblasti je vždy postaveno na kvalitní analýze hrozeb a rizik, která je základním vstupem pro řízení rizik.
+
+Analýza a predikce hrozeb a rizik v obecné rovině zpravidla zahrnuje 1) identifikaci chráněné hodnoty, tj. posuzovaného referenčního objektu; 2) stanovuje „hodnotu“ referenčního objektu (cenu, význam apod., případně ohodnocuje možné dopady realizace hrozby na její výši, možnou ztrátu či poškození); 3) identifikuje hrozby (určuje události, jevy, faktory a objekty, které mohou negativně ovlivnit výše uvedenou hodnotu); 4) stanovuje míru rizika, tj. vyjadřuje se k závažnosti hrozby a míře zranitelnosti referenčního objektu.
+
+Při analýze hrozeb a rizik je nutné neustálé zvažování nejhorší varianty realizace hrozby, tj. uvažovat o veškerých potenciálních důsledcích naplnění hrozby, avšak při maximálně realistickém odhadu míry rizika v každé z fází procesu jeho řízení[^8].
 
 ## Otázka č. 7
 
@@ -238,3 +248,4 @@ Ahoj.
 [^5]: https://cs.wikipedia.org/wiki/Bezpe%C4%8Dnostn%C3%AD_sbor_(%C4%8Cesko)
 [^6]: https://www.mvcr.cz/clanek/bezpecnostni-hrozby-337414.aspx?q=Y2hudW09Mg%3d%3d
 [^7]: https://cs.wikipedia.org/wiki/%C5%A0pion%C3%A1%C5%BE
+[^8]: https://is.muni.cz/th/16735/fss_d/disertace_frank.pdf
