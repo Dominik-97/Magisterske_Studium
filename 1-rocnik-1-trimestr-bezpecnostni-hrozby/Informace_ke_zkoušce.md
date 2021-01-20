@@ -88,7 +88,19 @@ hrozba se dotkne všech referenčních objektů[^1].
 
 **Historie:**
 
-TO DO.
+konflikty provázejí člov ěka od po čátku jeho existence, nelze zaznamenat období naprosto mírového stavu
+
+**v první fázi se jednalo o boj s přírodou:**
+jedinec či celá skupina museli obhájit svou existenci v konfrontaci s přírodními silami
+
+**konflikty mezi skupinami** jsou pravděpodobně vývojově mladší a vedly postupně až k vytvo ření „kvalifikace“ vojáka – profesního bojovníka, jehož činností není produkce potravin (jako např. u zemědělce)
+
+- počáteční konflikty měly podobu bojů o zajištění potravy
+- Ty byly vystřídány konflikty teritoriálními (spory o území): tento charakter měla většina válek ve starověku, středověku a pravděpodobně i novověku (vč. stěhování národů, ale i objevných a koloniálních plaveb)
+
+- postupným stabilizováním hranic jednotlivých říší došlo k úbytku teritoriálních konflikt ů, objevují se spory zapříčiněné etnickými rozdíly (viz Češi x Maďaři x Němci v Rakousku-Uhersku) či náboženskými rozdíly(období reformace, 30tiletá válka)
+- Vedle nich se vytvořily i konflikty, kající charakter střetu ideologií (protivníci jsou z různých zemí i národů, dělícím kritériem je politické přesvědčení)
+- postupem času se konflikty stávaly čím dál více složitějšími a není tak možné vymezit jejich jedinou příčinu (například 1. světová válka byla ze strany Ústředních mocností vedena za účelem územních zisků v koloniích, měla ale i některé znaky etnické války)
 
 **Vývoj:**
 
