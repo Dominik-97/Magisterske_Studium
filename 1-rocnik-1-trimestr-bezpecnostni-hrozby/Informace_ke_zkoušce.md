@@ -17,8 +17,8 @@ geometry: margin=2cm
 5) Změny bezpečnostního prostředí na počátku 21. století
 6) Analýza a predikce bezpečnostních hrozeb a rizik
 7) Vnitřní bezpečnostní hrozby z pohledu České republiky (terorismus, špionáž, kyberkriminalita, extremismus, organizovaný zločin….)
-8) Vnější bezpečnostní hrozby z pohledu EU a NATO (Rusko a Evropa, Balkán, Blízký východ a Subsaharská Afrika, Čína…)
-9) Národní nástroje zajištění bezpečnosti (armáda, policie, zpravodajské služby….)
+8) Vnější bezpečnostní hrozby z pohledu EU a NATO (Rusko a Evropa, Balkán, Blízký východ a Subsaharská Afrika, Čína…) - OK
+9) Národní nástroje zajištění bezpečnosti (armáda, policie, zpravodajské služby….) - OK
 10) Mezinárodní bezpečnostní architektura a mezinárodně-právní prostředí
 11 a 12) Případové studie  - fenomén tzv. foreign fighters/Střední východ, Rusko a Čína, proliferace WMD aj., další dle potřeby)
 
@@ -99,7 +99,7 @@ TO DO.
 Ve světě probíhá celá řada konfliktů, které mají různé příčiny, průběh a povahu. Z tohoto důvodu je zde snaha vytvořit určitou typologii, do které by se konflikty mohly zařadit. Tyto snahy ovšem komplikuje fakt, že konflikt je dynamický proces, který se neustále mění a vyvíjí a jeho dynamiku ovlivňuje celá řada faktorů. Jednu z poměrně komplexních typologií nabízí Š. Waisová, která konflikt rozděluje:
 
 1. „Podle jeho umístění v mezinárodním systému na:
-    - a) vnitrostátní konflikt (nevládní či opoziční skupina se staví proti oficiální vládě v daném státě) 
+    - a) vnitrostátní konflikt (nevládní či opoziční skupina se staví proti oficiální vládě v daném státě)
     - b) vnitrostátní konflikt pod vnějším tlakem (zapojují se do něj ekonomicky či politicky jiné státy)
     - c) konflikty mezinárodní (do konfliktu je zapojeno dva či více států a odehrávají se v mezinárodním systému)
 2. Podle prostředků, které se v konfliktu využívají na:
@@ -133,7 +133,11 @@ Ahoj.
 
 ## Otázka č. 8
 
-Ahoj.
+Mám pouze tyto obrázky:
+
+![Hrozby](Assets/1.png)
+![Hrozby](Assets/2.png)
+![Hrozby](Assets/3.png)
 
 ## Otázka č. 9
 
@@ -146,7 +150,7 @@ Ahoj.
 
 Bezpečnostní sbor je v Česku silová složka státu, která zajišťuje bezpečnost České republiky a jejích občanů. Pojem upravuje zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů. Existuje sedm bezpečnostních sborů: Policie České republiky, Hasičský záchranný sbor České republiky, Celní správa České republiky, Vězeňská služba České republiky, Generální inspekce bezpečnostních sborů, Bezpečnostní informační služba a Úřad pro zahraniční styky a informace, přičemž poslední dva jsou civilními zpravodajskými službami[^5].
 
-Občané České republiky se mohou stát příslušníky bezpečnostních sborů,[1] kteří vykonávají službu České republice na základě vzniknuvšího služebního poměru, jenž je definován zákonem č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů. Příslušníci bezpečnostních sborů jsou ustanovováni do služebních hodností, kterým přísluší hodnostní označení.
+Občané České republiky se mohou stát příslušníky bezpečnostních sborů, kteří vykonávají službu České republice na základě vzniknuvšího služebního poměru, jenž je definován zákonem č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů. Příslušníci bezpečnostních sborů jsou ustanovováni do služebních hodností, kterým přísluší hodnostní označení.
 
 Bezpečnostní sbory zaměstnávají také civilní zaměstnance podle zákona č. 262/2006 Sb., zákoníku práce.
 
