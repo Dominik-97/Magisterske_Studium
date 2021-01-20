@@ -11,7 +11,7 @@ geometry: margin=2cm
 ## Seznam otázek
 
 1) Klasifikace bezpečnostních hrozeb - OK
-2) Historie, vývoj a typologie konfliktů a z nich vyplývajících hrozeb
+2) Historie, vývoj a typologie konfliktů a z nich vyplývajících hrozeb - OK
 3) Příčiny a důsledky konfliktů (demografie, ekonomika, ideologie….) - OK
 4) Tradiční pojetí geopolitiky - OK
 5) Změny bezpečnostního prostředí na počátku 21. století - OK
@@ -19,7 +19,7 @@ geometry: margin=2cm
 7) Vnitřní bezpečnostní hrozby z pohledu České republiky (terorismus, špionáž, kyberkriminalita, extremismus, organizovaný zločin….) - OK
 8) Vnější bezpečnostní hrozby z pohledu EU a NATO (Rusko a Evropa, Balkán, Blízký východ a Subsaharská Afrika, Čína…) - OK
 9) Národní nástroje zajištění bezpečnosti (armáda, policie, zpravodajské služby….) - OK
-10) Mezinárodní bezpečnostní architektura a mezinárodně-právní prostředí
+10) Mezinárodní bezpečnostní architektura a mezinárodně-právní prostředí - OK
 11 a 12) Případové studie  - fenomén tzv. foreign fighters/Střední východ, Rusko a Čína, proliferace WMD aj., další dle potřeby)
 
 ## Otázka č. 1
@@ -104,7 +104,7 @@ jedinec či celá skupina museli obhájit svou existenci v konfrontaci s příro
 
 **Vývoj:**
 
-TO DO.
+Historie.
 
 **Typologie a z toho vyplývající hrozby:**
 
@@ -375,6 +375,29 @@ Hradní stráž zajišťuje ostrahu a obranu areálu Pražského hradu i další
 ## Otázka č. 10
 
 **NATO:**
+
+**Definition of International Law**:
+
+International law is a system of treaties and agreements between nations that governs how nations interact with other nations, citizens of other nations, and businesses of other nations. International law typically falls into two different categories. "Private international law" deals with controversies between private entities, such as people or corporations, which have a significant relationship to more than one nation. For example, lawsuits arising from the toxic gas leak in Bhopal, India from industrial plants owned by Union Carbide, a U.S. corporation would be considered a matter of private international law.
+
+"Public international law" concerns the relationships between nations. These include standards of international behavior, the laws of the sea, economic law, diplomatic law, environmental law, human rights law, and humanitarian law. Some principles of public international law are written, or "codified" in a series of treaties, but others are not written down anywhere. These are known as "customary" laws, and nations consent to them by doing nothing.
+
+Since most international law is governed by treaties, it's usually up to the individual nations to enforce the law. However, there are a few international organizations that enforce certain treaties. The most notable example is the United Nations, which has 192 member states.
+
+**Intergovernmental organizations**:
+
+An intergovernmental organization (IGO) or international organization is an organization composed primarily of sovereign states (referred to as member states), or of other intergovernmental organizations. IGOs are established by a treaty that acts as a charter creating the group. Treaties are formed when lawful representatives (governments) of several states go through a ratification process, providing the IGO with an international legal personality. Intergovernmental organizations are an important aspect of public international law.
+
+Intergovernmental organizations in a legal sense should be distinguished from simple groupings or coalitions of states, such as the G7 or the Quartet. Such groups or associations have not been founded by a constituent document and exist only as task groups. Intergovernmental organizations must also be distinguished from treaties. Many treaties (such as the North American Free Trade Agreement, or the General Agreement on Tariffs and Trade before the establishment of the World Trade Organization) do not establish an organization and instead rely purely on the parties for their administration becoming legally recognized as an ad hoc commission. Other treaties have established an administrative apparatus which was not deemed to have been granted international legal personality.
+
+Intergovernmental organizations differ in function, membership, and membership criteria. They have various goals and scopes, often outlined in the treaty or charter. Some IGOs developed to fulfill a need for a neutral forum for debate or negotiation to resolve disputes. Others developed to carry out mutual interests with unified aims to preserve peace through conflict resolution and better international relations, promote international cooperation on matters such as environmental protection, to promote human rights, to promote social development (education, health care), to render humanitarian aid, and to economic development. Some are more general in scope (the United Nations) while others may have subject-specific missions (such as Interpol or the International Telecommunication Union and other standards organizations). Common types include:
+
+Worldwide or global organizations
+Cultural, linguistic, ethnic, religious, or historical organizations
+Economic organizations
+Educational organizations
+Health and Population Organizations
+Regional organizations — open to members from a particular continent or other specific region of the world. This category includes the Community of Latin American and Caribbean States (CLACS), Council of Europe (CoE), European Union (EU), Eurasian Economic Union (EAEU), Energy Community, North Atlantic Treaty Organization (NATO), Economic Community of West African States (ECOWAS), Organization for Security and Co-operation in Europe, African Union (AU), Organization of American States (OAS), Association of Caribbean States (ACS), Association of Southeast Asian Nations (ASEAN), Islamic Development Bank, Union of South American Nations, Asia Cooperation Dialogue (ACD), Pacific Islands Forum, South Asian Association for Regional Cooperation Asian-African Legal Consultative Organization (AALCO) and the Organisation of Eastern Caribbean States (OECS).
 
 ## Otázka č. 11 a 12
 
