@@ -12,8 +12,8 @@ geometry: margin=2cm
 
 1) Klasifikace bezpečnostních hrozeb - OK
 2) Historie, vývoj a typologie konfliktů a z nich vyplývajících hrozeb
-3) Příčiny a důsledky konfliktů (demografie, ekonomika, ideologie….)
-4) Tradiční pojetí geopolitiky
+3) Příčiny a důsledky konfliktů (demografie, ekonomika, ideologie….) - OK
+4) Tradiční pojetí geopolitiky - OK
 5) Změny bezpečnostního prostředí na počátku 21. století - OK
 6) Analýza a predikce bezpečnostních hrozeb a rizik - OK
 7) Vnitřní bezpečnostní hrozby z pohledu České republiky (terorismus, špionáž, kyberkriminalita, extremismus, organizovaný zločin….) - OK
@@ -113,11 +113,134 @@ Ve světě probíhá celá řada konfliktů, které mají různé příčiny, pr
 
 ## Otázka č. 3
 
-Ahoj.
+Součásti, příčiny a následky konfliktů: <https://www.businessmanagementideas.com/notes/management-notes/conflict-management/conflict-features-causes-and-consequences-organisation/5009>
+
+**Další Causes:**
+
+International Conflict Behavior (as defined in Table 4.4) is caused by:
+
+- opposing interests and capabilities (specific sociocultural differences and similarities between the parties),
+- contact and salience (awareness),
+- significant change in the balance of powers,
+- individual perceptions and expectations,
+- a disrupted structure of expectations,
+- a will-to-conflict.
+
+It is aggravated by:
+
+- sociocultural dissimilarity,
+- cognitive imbalance,
+- status difference,
+- coercive state power.
+
+It is inhibited by:
+
+- sociocultural similarity,
+- decentralized or weak, coercive state power.
+
+It is triggered by:
+
+- perception of opportunity, threat, or injustice,
+- surprise.
+
+Such are the general causes and conditions of international Conflict Behavior whether nonviolent conflict behavior, violence, or war. But, as pointed out in the Chapter 15, Conflict Behavior manifests a series of subphases in the balancing of powers . Each subphase involves different kinds of behavior. What, then, uniquely characterizes each subphase within the above framework of general causes and conditions.
+
+In addition to the general causes of Conflict Behavior, nonviolent Conflict Behavior and minor low-level violence, are aggravated by:
+
+cross-pressures.
+They are inhibited by:
+
+system polarity (centralization of coercive power),
+a stable status quo.
+In addition to the general causes of Conflict Behavior, violence (including war) is caused by:
+
+at least one party having an authoritarian or totalitarian regime ,
+status quo disruption,
+confidence in success.
+It is aggravated by:
+
+system polarity (centralization of coercive power),
+Big Power intervention,
+weakness of the status quo Power,
+credibility at stake,
+honor at stake.
+It is inhibited by:
+
+cross-pressures,
+internal freedom,
+strength of the status quo Power,
+world opinion.
+War is a particular type of intense violence and what generally causes, aggravates, and inhibits violence so affects war. In addition, war is uniquely aggravated by:
+
+power parity,
+class conflict.
+It is inhibited by:
+
+power disparity.
+This list immediately raises a number of questions: How are cause and condition defined? What is the theoretical foundation for the list? What do the particular causes and conditions mean, such as power parity or class conflict? What is the evidence?
+
+**Content:**
+
+- Causes of Conflicts
+- Effects of conflict on the society
+- Conflict management and resolution
+
+**Causes of Conflicts:**
+
+**The following points below are the causes of conflicts** -
+
+- Conflict can arise when someone or group or a group ofpeople neglect their roles or duties
+- When the funds of the community or the people aremismanaged by leaders, there is bound to be conflict
+- Conflicts can arise when people struggle to get somethingthat other people are also interested in.
+- Conflicts also occur in groups, associations and betweengroups as a result of difference in opinions
+- Differences in in the interpretation of the aims orobjectives of a group or association
+- Absence of mutual trust and understanding amongst peoplebrings about conflict
+- It occurs when someone is domination other members of agroup
+- Rudeness/stubbornness may cause conflict.
+
+**Effects/Consequences of Conflicts on theSociety:**
+
+**The following are the effects of conflicts on the society**.
+
+1. Conflicts result into the break down of law and order
+2. It makes it difficult for people to achieve common goalsand objectives
+3. Conflicts bring about disunity
+4. It brings about hatred and disaffection among members ofa group or association
+5. It leads to confusion, insecurity, anxiety and unhappiness
+6. It leads to unhealthy political rivalry
+7. Withdrawal and miscommunication or non-communication
+8. Complaints and blaming
+9. Lowered motivation and Decreased morale
+10. It leads to inefficiency and laziness
+11. It leads to division and separation
+12. Poor decision-making
+13. It causes mental and emotional disturbances
+14. It leads to a decrease in productivity and economicdepression
+15. It leads to loss of lives and properties
+16. It brings lack of peace and harmony
+17. Increased costs (time, money) devoted to dealing with theconflict
+18. Wasted resources and energy spent dealing with theconflict
+19. Decreased productivity
+20. Backstabbing and gossip
+21. Attitudes of distrust and hostility (that may influence allfuture interactions
+22. (Permanent) erosion to personal, work, and communityrelationship
+23. Damaged emotional and psychological well-being of thoseinvolved in the conflict
+24. Dissatisfaction and stress
+
+**Conflict Management and Resolution:**
+
+**Conflict management can be defined in two ways**.
+
+1. It can be referred to as the effort made to stop the conflict from arising
+2. It is the effort made when the conflict has already started,to minimize its destructive impact
+
+Conflict resolution refers to the deliberate efforts made after solving disputes for peace and stability of the warring communities. It brings a conflict to a final end as it ensures that all parties to the conflict are satisfied with the settlement.
 
 ## Otázka č. 4
 
-Ahoj.
+Klasické pojetí Geopolitiky se zaměřuje na geografickou polohou a podle toho uruje její strategickou důležitost. Síla země na mezinárodní scéně se poté tedy odvíjí od toho jak moc strategicky důležitá území kontroluje.
+
+Více viz zde: <https://www.uni-bielefeld.de/cias/wiki/g_Geopolitics.html>
 
 ## Otázka č. 5
 
@@ -239,7 +362,7 @@ Hradní stráž zajišťuje ostrahu a obranu areálu Pražského hradu i další
 
 ## Otázka č. 10
 
-Ahoj.
+**NATO:**
 
 ## Otázka č. 11 a 12
 
