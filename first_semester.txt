@@ -26,5 +26,7 @@ Odkaz: Repozitář se závěrečnou prací
 ----------------------------------------------------------------------
 
 ----- Statistická data ve veřejném sektoru ---------------------------
-Práce: Ne
+Práce: Ano
+Práce: [ "Vypracování statistického šetření" ]
+Odkaz: Viz Email
 ----------------------------------------------------------------------

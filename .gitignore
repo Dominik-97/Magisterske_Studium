@@ -11,3 +11,18 @@
 # Ignore all files in Nahrane-Prednasky folders
 *.mkv
 *.mp4
+
+# Ignore test generated PDFs in all folders except for pdf/
+1-rocnik-1-trimest-statisticka-data-ve-verejnem-sektoru/*.pdf
+1-rocnik-1-trimestr-bezpecnostni-hrozby/*.pdf
+1-rocnik-1-trimestr-diferencni-predmet-obcanske-pravo/*.pdf
+1-rocnik-1-trimestr-kapitalove-obchodni-korporace/*.pdf
+1-rocnik-1-trimestr-pravo-dusevniho-vlastnictvi/*.pdf
+1-rocnik-1-trimestr-tvorba-odborneho-textu/*.pdf
+1-rocnik-2-trimestr-mezinarodni-pravo-soukrome/*.pdf
+1-rocnik-2-trimestr-relativni-majetkova-prava-vybrane-aspekty/*.pdf
+2-rocnik-1-trimestr-prevence-hospodarske-kriminality/*.pdf
+2-rocnik-1-trimestr-soudni-a-mimosoudni-reseni-sporu-v-OPV/*.pdf
+2-rocnik-1-trimestr-sprava-obchodni-korporace-v-upadku/*.pdf
+2-rocnik-1-trimestr-strategicky-a-projektovy-management/*.pdf
+2-rocnik-2-trimestr-danove-pravo-v-obchodnich-vztazich/*.pdf

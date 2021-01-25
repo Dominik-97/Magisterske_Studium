@@ -1,4 +1,4 @@
-# Kapitálové obchodní korporace
+# Soudní a mimosoudní řešení sporů v OPV
 
 If you do not want to include TOC in the resulting file, you can just add `no_TOC` to the Keywords keyword in the yaml metadata block.
 

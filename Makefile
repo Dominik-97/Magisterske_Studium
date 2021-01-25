@@ -13,6 +13,7 @@ help:
 	@echo "    10         pro vytvoření PDF k předmětu Daňové právo v obchodních vztazích"
 	@echo "    11         pro vytvoření PDF k předmětu Bezpečnostní hrozby (volitelný předmět)"
 	@echo "    12         pro vytvoření PDF k předmětu Diferenční předmět - občanské právo (volitelný předmět)
+	@echo "    13         pro vytvoření PDF k předmětu Statistická data ve Veřejném sektoru (volitelný předmět)"
 
 # Složka pro Kapitálové obchodní korporace
 1:
@@ -62,5 +63,9 @@ help:
 12:
 	make -C 1-rocnik-1-trimestr-diferencni-predmet-obcanske-pravo
 
+# Složka pro Statistická data ve veřejném sektoru
+12:
+	make -C 1-rocnik-1-statisticka-data-ve-verejnem-sektoru
+
 # Vygenerování veškerých poznámek
-all: 1 2 3 4 5 6 7 8 9 10 11 12
+all: 1 2 3 4 5 6 7 8 9 10 11 12 13

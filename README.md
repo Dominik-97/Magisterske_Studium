@@ -21,6 +21,7 @@ Pro vygenerování poznámek do přáteljštějšího formátu pdf nebo docx pou
 | 10     | Daňové právo v obchodních vztazích          |
 | 11     | Bezpečnostní hrozby                         |
 | 12     | Diferenční předmět - občanské právo         |
+| 13     | Statistická data ve veřejném sektoru        |
 | All    | Všechny předměty a všechny poznámky         |
 
 Rovněž je možné vyvolat si pomoc pomocí příkazu `make help`.
