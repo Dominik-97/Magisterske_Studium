@@ -13,4 +13,6 @@ if ! git diff-index --quiet HEAD --; then
     read -p "What is your commit message? $cr" commitMessage
     git commit -m "$commitMessage"
     git push
+else
+    echo "There are no changes."
 fi

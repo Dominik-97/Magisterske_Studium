@@ -31,3 +31,9 @@ Vygenerované fily budou uloženy do složky `pdf` v rootu repozitáře.
 
 ## Pro docx
 Vygenerované fily budou uloženy do složky `docx` v rootu repozitáře.
+
+## Editace repozitáře
+
+Po naklonování použijte `./push.sh` pro checknutí změn.
+
+Po jakékoliv změně je možné pushnout opět pomocí `./push.sh`.
