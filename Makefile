@@ -12,7 +12,7 @@ help:
 	@echo "    9          pro vytvoření PDF k předmětu Strategický a projektový management"
 	@echo "    10         pro vytvoření PDF k předmětu Daňové právo v obchodních vztazích"
 	@echo "    11         pro vytvoření PDF k předmětu Bezpečnostní hrozby (volitelný předmět)"
-	@echo "    12         pro vytvoření PDF k předmětu Diferenční předmět - občanské právo (volitelný předmět)
+	@echo "    12         pro vytvoření PDF k předmětu Diferenční předmět - občanské právo (volitelný předmět)"
 	@echo "    13         pro vytvoření PDF k předmětu Statistická data ve Veřejném sektoru (volitelný předmět)"
 
 # Složka pro Kapitálové obchodní korporace
