@@ -64,7 +64,7 @@ help:
 	make -C 1-rocnik-1-trimestr-diferencni-predmet-obcanske-pravo
 
 # Složka pro Statistická data ve veřejném sektoru
-12:
+13:
 	make -C 1-rocnik-1-statisticka-data-ve-verejnem-sektoru
 
 # Vygenerování veškerých poznámek

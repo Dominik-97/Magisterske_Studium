@@ -328,9 +328,9 @@ Kombinace výše zmíněných faktorů.
 
 Mám pouze tyto obrázky:
 
-![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/1.png)
-![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/2.png)
-![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/3.png)
+![Hrozby](Assets/1.png)
+![Hrozby](Assets/2.png)
+![Hrozby](Assets/3.png)
 
 ## Otázka č. 9
 
@@ -403,7 +403,7 @@ Regional organizations — open to members from a particular continent or other 
 
 **Foreign fighters:**
 
-![Hrozby](1-rocnik-1-trimestr-bezpecnostni-hrozby/Assets/4.png)
+![Hrozby](Assets/4.png)
 
 **Proliferace zbraní:**
 
