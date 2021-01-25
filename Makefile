@@ -65,7 +65,7 @@ help:
 
 # Složka pro Statistická data ve veřejném sektoru
 13:
-	make -C 1-rocnik-1-statisticka-data-ve-verejnem-sektoru
+	make -C 1-rocnik-1-trimestr-statisticka-data-ve-verejnem-sektoru
 
 # Vygenerování veškerých poznámek
 all: 1 2 3 4 5 6 7 8 9 10 11 12 13
