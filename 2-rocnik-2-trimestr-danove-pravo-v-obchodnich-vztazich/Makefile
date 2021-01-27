@@ -22,7 +22,11 @@ docx: clean $(DOCX)
 	fi
 
 %.docx: %.md
-	pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $<
+	if grep -q no_TOC '$<'; then \
+		pandoc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $< ; \
+	else \
+		pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $< ; \
+	fi
 
 clean:
 	rm -f *.pdf *.docx
