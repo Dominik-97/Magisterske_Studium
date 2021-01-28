@@ -17,7 +17,7 @@ geometry: margin=2cm
 7. Vynálezy a patenty - OK
 8. Užitné vzory - OK
 9. Průmyslové vzory - OK
-10. Autorská práva - NOK
+10. Autorská práva - OK
 11. Licenční smlouvy pro právo duševního vlastnictví - OK
 12. Vymáhání práv z duševního vlastnictví - správní a soudní řízení - OK
 13. Mezinárodní smlouvy v oblasti práv duševního vlastnictví - OK
@@ -268,7 +268,56 @@ Průmyslový vzor slouží obdobně jako ochranná známka k ochraně výrobku, 
 
 ## Otázka 10
 
-Text.
+### Vymezení:
+
+Autorské právo (anglicky copyright law) je odvětví práva, které se zabývá právními vztahy uživatelů a tvůrců tzv. „autorských děl“ k příslušným dílům. Tvůrci mohou být například spisovatelé, hudebníci, filmaři, architekti, urbanisté a programátoři apod. Prostřednictvím autorského práva stát poskytuje autorům po jistou omezenou dobu určitá výlučná práva k jejich dílu. Autorské právo je součástí tzv. duševního vlastnictví.
+
+Autorské právo nechrání samotné myšlenky či ideje; chrání pouze konkrétní díla, konkrétní vyjádření takových myšlenek, dílo v objektivně vnímatelné podobě. Autorským dílem je pouze jedinečný výsledek tvůrčí činnosti autora, dílem není námět, zpráva, informace, metoda, teorie, vzorec, graf, tabulka fyzikálních konstant, výstup počítačového programu apod. samy o sobě. Vedle autorského práva v užším smyslu jsou chráněna také tzv. práva související s právem autorským, kam patří práva výkonného umělce k vlastnímu výkonu, práva výrobců zvukových a zvukově obrazových záznamů, právo rozhlasového a televizního vysílatele a právo nakladatele. Obdobná je také ochrana databáze.
+
+Autorské právo je v Česku upraveno autorským zákonem (zákon č. 121/2000 Sb. ve znění pozdějších novelizací), v mezinárodním právu je základem několik mezinárodních úmluv, hlavně tzv. Bernská úmluva z roku 1886 a Všeobecná úmluva o autorském právu uzavřená v Ženevě v roce 1952. Pro podporu ochrany duševního vlastnictví vznikla v roce 1967 Světová organizace duševního vlastnictví (World Intellectual Property Organization, WIPO).
+
+Fakt, že dané dílo je chráněným autorským dílem, se často signalizuje symbolem © následovaným jménem autora a rokem. Tento symbol má však v Česku (i ve většině jiných zemí) pouze ryze informativní význam – dílo je plně chráněno i tehdy, není-li to na něm nijak uvedeno.
+
+### Obsah
+
+Práva autora rozdělit do dvou základních skupin: výlučná práva osobnostní a výlučná práva majetková.
+
+Osobnostní práva těsně souvisejí s osobností autora a jsou tedy nepřevoditelná a trvají do smrti autora, kdy zanikají. Po autorově smrti je však nadále chráněno autorství samo – nikdo si nesmí osobovat autorství cizího díla (vždy musí být uveden skutečný autor, je-li znám) a díla nesmí být užíváno způsobem snižujícím jeho hodnotu. Mezi osobnostní práva autora patří právo rozhodnout o zveřejnění díla, právo osobovat si autorství či právo na nedotknutelnost díla (do díla smí být zasahováno jen se souhlasem autora, dílo nesmí být užíváno způsobem snižujícím jeho hodnotu apod.).
+
+Majetková práva poskytují autorovi výlučné právo na rozhodování o užívání jeho díla. Jiná osoba než autor smí dílo užít pouze na základě autorova oprávnění, případně ve výjimečných případech stanovených zákonem (viz omezení autorských práv níže). Do práva na užití díla patří:
+
+- právo na rozmnožování díla,
+- právo na rozšiřování díla či jeho rozmnoženiny,
+- právo na pronájem díla či jeho rozmnoženiny,
+- právo na půjčování díla či jeho rozmnoženiny,
+- právo na vystavování díla či jeho rozmnoženiny,
+- právo na sdělování díla veřejnosti (provozování živě či ze záznamu, přenos provozování díla, vysílání rozhlasem či televizí apod.);
+
+kromě těchto práv do majetkových autorských práv patří také:
+
+- právo na odměnu při opětném prodeji originálu díla uměleckého,
+- právo na odměnu v souvislosti s rozmnožováním díla pro osobní potřebu (viz užití pro osobní potřebu níže).
+
+### Vznik, trvání a vymáhání autorských práv:
+
+Podle principů zakotvených v Bernské úmluvě vzniká autorské právo k dílu automaticky, okamžikem, kdy je dílo vyjádřeno v jakékoli objektivně vnímatelné podobě. Autorské právo není vázáno na konkrétní předmět, jímž je dílo vyjádřeno – jeho zničením autorská práva nezanikají, nabytím vlastnických práv k tomuto předmětu se nenabývají autorská práva k dílu, dokonce ani právo dílo užít.
+
+Jak už bylo uvedeno, osobnostní autorská práva trvají po dobu života autora, majetková práva po dobu autorova života a 70 let po jeho smrti.
+
+Autor může svá práva vynutit občanskoprávní žalobou, kterou se může domáhat určení svého autorství, zákazu ohrožení svých práv (zákazu neoprávněné výroby, obchodování, dovozu či vývozu, sdělování veřejnosti apod.), odstranění následků zásahu do práva i poskytnutí přiměřeného zadostiučinění (omluvou či v penězích); autor také může vyžadovat náhradu škody a vydání bezdůvodného obohacení. Ten, kdo porušuje autorské právo, se však podle českého práva také dopouští trestného činu podle trestního zákoníku („porušování autorského práva, práv souvisejících s právem autorským a práv k databázi“), který může být v trestněprávním procesu potrestán peněžitým trestem, propadnutím věci, ale také odnětím svobody až na dva roky (až pět let, pokud pachatel získal značný prospěch či dopustil-li se činu ve značném rozsahu; případně až osm let, pokud pachatel získal prospěch velkého rozsahu či dopustil-li se činu ve velkém rozsahu).
+
+### Výjimky z ochrany ve veřejném zájmu:
+
+Z autorskoprávní ochrany jsou vyňata některá díla, protože jejich ochrana by byla v rozporu s veřejným zájmem. Podle českého autorského zákona je v současnosti takto dovoleno volně užívat:
+
+- úřední díla (texty zákonů a dalších právních předpisů, veřejných listin, rozhodnutí, státní symbol apod.) a
+- výtvory tradiční lidové kultury, není-li pravé jméno autora obecně známo (ani jako pseudonym); takové dílo lze užít jen způsobem nesnižujícím jeho hodnotu.
+
+### Poskytnutí AP:
+
+Pomocí licenční smlouvy.
+
+V českém právním řádu není možné převést či prodat samotná autorská práva – ta zůstávají vždy autorovi. Stejně tak nemůže autor poskytnout licenci na způsob využití, který v době udělení licence nebyl znám. Tato ustanovení mají za cíl chránit autora před uzavřením nevýhodné smlouvy.
 
 ## Otázka 11
 
