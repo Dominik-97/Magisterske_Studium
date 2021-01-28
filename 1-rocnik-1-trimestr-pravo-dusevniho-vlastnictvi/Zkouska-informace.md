@@ -18,7 +18,7 @@ geometry: margin=2cm
 8. Užitné vzory - NOK
 9. Průmyslové vzory - NOK
 10. Autorská práva - NOK
-11. Licenční smlouvy pro právo duševního vlastnictví - NOK
+11. Licenční smlouvy pro právo duševního vlastnictví - OK
 12. Vymáhání práv z duševního vlastnictví - správní a soudní řízení - OK
 13. Mezinárodní smlouvy v oblasti práv duševního vlastnictví - OK
 
@@ -237,7 +237,54 @@ Text.
 
 ## Otázka 11
 
-Text.
+### Vymezení:
+
+Podle § 2358 odst. 1 o. z. Licenční smlouvou poskytuje poskytovatel nabyvateli oprávnění k výkonu práva duševního vlastnictví (licenci) v ujednaném omezeném nebo neomezeném rozsahu a nabyvatel se zavazuje, není-li ujednáno jinak, poskytnout poskytovateli odměnu.
+
+Pokud je licene udělena k použivání na území cizího státu, tak je potřeba ji registrovat do registru vedeného u Českého úřadu průmyslového vlastnictví.
+
+Pokud jste vlastníkem duševního vlastnictví, můžete svá práva na užívání postoupit jiné právnické osobě. Říká se tomu poskytnutí licence na práva duševního vlastnictví. Svá práva však můžete rovněž prodat. Tomu se říká přidělení nebo postoupení práv duševního vlastnictví.
+
+**Před zahájením jednání o licenční dohodě nebo smlouvě o postoupení práv:**
+
+V některých případech je užitečné uchovávat některé informace jako důvěrné. Jedná se například o:
+
+- dotčenou část duševního vlastnictví – například technologie, pro kterou jste dosud nepodali žádost o udělení patentu, nebo jiné obchodní tajemství
+- vlastní licenční dohodu nebo smlouvu o postoupení práv, zejména její finanční aspekty
+- Za tímto účelem byste měli s potenciálním držitelem licence nebo postupníkem uzavřít tzv. dohodu o zachování mlčenlivosti .
+
+Informace o svém duševním vlastnictví můžete rovněž shromažďovat a vyhodnocovat tak, že je předložíte k hloubkové kontrole – důkladnému posouzení všech aspektů týkajících se vašeho duševního vlastnictví.
+
+### Udělení licence na vaše duševní vlastnictví
+
+Jako majitel duševního vlastnictví můžete vyjednat licenční dohodu s jiným subjektem (potenciálním držitelem licence), která mu umožní vaše duševní vlastnictví užívat. Může se jednat o jednoho potenciálního držitele licence (tzv. výlučná licence) nebo několik držitelů. Pokud nabízíte více licencí, ty mohou být buď otevřené, nebo omezené na určitá odvětví či zeměpisné oblasti (tzv. franšízaDokument PDF).
+
+Za udělení tohoto povolení budete jako poskytovatel licence dostávat honorář, obvykle formou licenčních poplatků, které jsou definovány jako procento z prodeje. Používání svého duševního vlastnictví můžete rovněž omezit (např. zeměpisný rozsah, oblast použití apod.).
+
+**V tomto případě si jako poskytovatel licence:**
+
+- zachováte právo nad svým duševním vlastnictvím, což znamená, že nedojde k jeho postoupení,
+- a budete i nadále odpovědní za správu (a v případě potřeby i trestní stíhání) ve věci dotčených práv duševního vlastnictví.
+- Ačkoli s přípravou licenční dohody vám musí pomoci právníci a odborníci na právo duševního vlastnictví, před podpisem dohody je třeba vyjednat a zahrnout několik klíčových ustanovení týkajících se duševního vlastnictví.
+
+### Jak uzavřít licenční dohodu? 
+
+K uzavření licenční dohody byste měli alespoň:
+
+- dohodu sepsat
+- ujasnit si, kterých práv duševního vlastnictví se přesně týká
+- ujasnit si datum zahájení, dobu trvání a ukončení dohody
+- vyjednat a uvést v dohodě finanční kompenzaci, kterou má držitel licence vyplácet poskytovateli licence (např. případná paušální částka, licenční poplatky apod.)
+- uvést výlučnost nebo nevýlučnost licenční dohody
+- uvést všechny podmínky používání vašich práv duševního vlastnictví
+- definovat, kde může držitel licence vaše duševní vlastnictví používat
+- V některých zemích EU musíte licenční dohodu zaregistrovat, obvykle na vnitrostátním úřadě duševního vlastnictví.
+
+Další informace najdete v info přehledu licenčních dohod Evropské asistenční služby pro otázky práv duševního vlastnictví.
+
+### Postoupení práv a povinností: prodej patentu, ochranné známky a dalšího duševního vlastnictví
+
+Své duševní vlastnictví (patent, ochrannou známku, autorské právo apod.) můžete postoupit někomu jinému. Postoupíte tak všechna práva, která jste původně v souvislosti s dotčeným duševním vlastnictvím měli.
 
 ## Otázka 12
 
