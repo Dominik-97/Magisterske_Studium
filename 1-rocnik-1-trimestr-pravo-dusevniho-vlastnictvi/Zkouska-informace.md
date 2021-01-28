@@ -20,7 +20,7 @@ geometry: margin=2cm
 10. Autorská práva - NOK
 11. Licenční smlouvy pro právo duševního vlastnictví - NOK
 12. Vymáhání práv z duševního vlastnictví - správní a soudní řízení - OK
-13. Mezinárodní smlouvy v oblasti práv duševního vlastnictví - NOK
+13. Mezinárodní smlouvy v oblasti práv duševního vlastnictví - OK
 
 ## Otázka 1
 
@@ -269,7 +269,7 @@ U obchodního tajemství se zákon použije obdobně.
 
 ## Otázka 13
 
-## Správce:
+### Správce:
 
 Mnohostranné mezinárodní smlouvy jsou spravovány Světovou organizací duševního vlastnictví (World Intellectual Property Organisation,WIPO), která byla vytvořena v roce 1970 na základě úmluvy o jejím vytvoření.
 
