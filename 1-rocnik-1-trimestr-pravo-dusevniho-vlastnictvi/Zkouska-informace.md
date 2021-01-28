@@ -10,7 +10,7 @@ geometry: margin=2cm
 
 1. Důvody existence práva duševního vlastnictví - OK
 2. Nekalá soutěž a právo duševního vlastnictví - OK
-3. Jméno podnikatele a jeho ochrana - NOK
+3. Jméno podnikatele a jeho ochrana - OK
 4. Obchodní tajemství a know – how: ochrana - OK
 5. Ochranné známky - OK
 6. Chráněná označení původu, zeměpisná označení původu - OK
@@ -65,7 +65,7 @@ Práva k duševnímu vlastnictví lze směňovat, užívat, ale i ochraňovat po
 
 Současný systém ochrany duševního vlastnictví v ČR je tvořen, kromě příslušných zákonných norem, následujícími institucemi, které se různými aspekty ochrany duševního vlastnictví zabývají:
 
-- Úřad průmyslového vlastnictvímj. rozhoduje o poskytování ochrany a zajišťuje registraci vynálezů, průmyslových vzorů, užitných vzorů, topografií polovodičových výrobků, ochranných známek a označení původu výrobků. Úřad průmyslového vlastnictví právní ochranu předmětů průmyslového vlastnictví přímo nezajišťuje, ale o této ochraně rozhoduje na základě podaných žádostí nebo návrhů.
+- Úřad průmyslového vlastnictví mj. rozhoduje o poskytování ochrany a zajišťuje registraci vynálezů, průmyslových vzorů, užitných vzorů, topografií polovodičových výrobků, ochranných známek a označení původu výrobků. Úřad průmyslového vlastnictví právní ochranu předmětů průmyslového vlastnictví přímo nezajišťuje, ale o této ochraně rozhoduje na základě podaných žádostí nebo návrhů.
 
 - Ministerstvo kultury a jím delegovaní kolektivní správci (Ochranný svaz autorský OSA, Divadelní a literární agentura DILIA aj.) se starají o ochranu práv autorů a dalších oprávněných subjektů vymezených působností autorského zákona (zákon č. 121/200 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů).
 
@@ -113,9 +113,23 @@ Poškozený soutěžitel nebo i spotřebitel může požadovat:
 
 Kromě parazitování na pověsti, podplácení, zlehčování a porušení obchodního tajemství může být aktivní a žádat nápravu i jinak nezúčastněná právnická osoba, pokud je jejím účelem ochrana zájmů soutěžitelů nebo zákazníků.
 
+Krajské soudy rozhodují jako soudy prvního stupně
+
+- ve sporech o ochranu práv porušených nebo ohrožených nekalým soutěžním jednáním nebo nedovoleným omezením soutěže
+
 ## Otázka 3
 
-Text.
+### Obchodní firma
+
+§ 423
+
+- (1) Obchodní firma je jméno, pod kterým je podnikatel zapsán do obchodního rejstříku. Podnikatel nesmí mít víc obchodních firem.
+
+- (2) Ochrana práv k obchodní firmě náleží tomu, kdo ji po právu použil poprvé. Kdo byl dotčen ve svém právu k obchodní firmě, má stejná práva jako při ochraně před nekalou soutěží.
+
+§ 424
+
+- Obchodní firma nesmí být zaměnitelná s jinou obchodní firmou ani nesmí působit klamavě.
 
 ## Otázka 4
 
