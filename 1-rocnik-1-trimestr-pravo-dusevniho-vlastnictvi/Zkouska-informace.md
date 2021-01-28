@@ -225,7 +225,30 @@ V České republice ochranné známky i patenty registruje, a následně také s
 
 ## Otázka 8
 
-Text.
+### Vymezení:
+
+Užitný vzor je ochrana, která je na základě zákona č. 478/1992 Sb., o užitných vzorech, poskytována technickým řešením, která jsou nová, přesahují rámec pouhé odborné dovednosti a která jsou průmyslově využitelná. Novost technického řešení se přitom posuzuje podle aktuálního stavu techniky a průmyslová využitelnost zase podle toho, zda může být dané řešení opakovaně využíváno v hospodářské činnosti. Ochranu užitným vzorem má především původce technického řešení, tedy ten, kdo jej vytvořil vlastní tvořivou prací, případně ji může uplatňovat i jeho právní zástupce.
+
+Užitné vzory zapisuje do rejstříku užitných vzorů Úřad průmyslového vlastnictví.
+
+### Nelze chránit:
+
+Jako užitný vzor nelze chránit především:
+
+- objevy, vědecké teorie a matematické metody,
+- pouhé vnější úpravy výrobků,
+- plány, pravidla a způsoby vykonávání duševní činnosti,
+- programy počítačů,
+- pouhé uvedení informace,
+- technická řešení, která jsou v rozporu s obecnými zájmy, zejména se zásadami lidskosti a veřejné morálky,
+- odrůdy rostlin a plemena zvířat, jakož i biologické reproduktivní materiály,
+- způsoby výroby nebo pracovní činnosti.
+
+### Účinky a doba platnosti užitného vzoru
+
+Bez souhlasu majitele užitného vzoru nesmí nikdo při své hospodářské činnosti dané technické řešení vyrábět, uvádět do oběhu nebo upotřebit. Majitel užitného vzoru ale může poskytnout souhlas (licenci) k využívání technického řešení nebo i užitný vzor na jinou osobu převést. Účinky ochrany jsou tedy stejné, jako ochrana patentem, registrace technického řešení jako užitného vzoru je ale rychlejší a jednodušší, protože řízení je prováděno jen na základě tzv. registračního principu, když Úřad průmyslového vlastnictví nezkoumá, zda je dané řešení opravdu způsobilé k ochraně, ale posuzuje jen základní zákonné podmínky zápisu. Užitný vzor se nicméně hodí spíše pro předměty menšího ekonomického významu nebo s nižší vynálezeckou úrovní, naopak je vhodnější zvolit patentovou ochranu, pokud k využití daného technického řešení dojde až později.
+
+Užitný vzor platí čtyři roky ode dne podání přihlášky k zápisu do rejstříku užitných vzorů, dobu platnosti ale může Úřad průmyslového vlastnictví prodloužit až dvakrát vždy o tři roky. Maximální doba ochrany užitným vzorem je tedy 10 let. Po vypršení této doby ochrana zanikne, zanikne však také tehdy, pokud se majitel daného užitného vzoru vzdá.
 
 ## Otázka 9
 
