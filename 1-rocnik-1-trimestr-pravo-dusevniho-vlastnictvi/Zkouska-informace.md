@@ -15,8 +15,8 @@ geometry: margin=2cm
 5. Ochranné známky - OK
 6. Chráněná označení původu, zeměpisná označení původu - OK
 7. Vynálezy a patenty - OK
-8. Užitné vzory - NOK
-9. Průmyslové vzory - NOK
+8. Užitné vzory - OK
+9. Průmyslové vzory - OK
 10. Autorská práva - NOK
 11. Licenční smlouvy pro právo duševního vlastnictví - OK
 12. Vymáhání práv z duševního vlastnictví - správní a soudní řízení - OK
@@ -252,7 +252,19 @@ Užitný vzor platí čtyři roky ode dne podání přihlášky k zápisu do rej
 
 ## Otázka 9
 
-Text.
+### Vymezení
+
+Průmyslový vzor je způsob právní ochrany designu výrobku. Podle vymezení zákona č. 207/2000 Sb., o ochraně průmyslových vzorů, se jedná o vzhled výrobku nebo jeho části, zejména se jedná o linie, obrysy, barvy, tvar, strukturu, materiál nebo zdobení výrobku.
+
+### Žádost a zápis průmyslového vzoru
+
+Žádost o průmyslový vzor lze podat na celkový vzhled výrobku nebo na jeho části přičemž průmyslový vzor nechrání technické řešení ani použité materiály. Průmyslový vzor lze podle uvedeného zákona chránit pouze v případě, že se jedná o nový vzor a má tzv. individuální povahu. Za nový vzor je považován takový, který nebyl více než 12 měsíců před dnem podání přihlášky nebo před dnem vzniku práva přednosti, zpřístupněn veřejnosti. Za takové zpřístupnění se ovšem nepovažuje zpřístupnění původcem průmyslového vzoru nebo jeho právním nástupcem, ovšem za předpokladu, že ve 12měsíční lhůtě opravdu dojde k podání přihlášky. Individuální povaha je podle zákona zajištěna v případě, kdy celkový dojem, který vyvolává u uživatele, se liší od celkového dojmu, který u něj vyvolává průmyslový vzor zpřístupněný přede dnem podání přihlášky. O zápis průmyslového vzoru do rejstříku Úřadu průmyslového vlastnictví se žádá přihláškou průmyslového vzoru podanou písemnou nebo elektronickou formou.
+
+### Ochrana
+
+Právní ochrana zajišťuje vlastníkovi výlučné právo užívat průmyslový vzor. Ochrana zapsaného průmyslového vzoru trvá 5 let ode dne podání přihlášky průmyslového vzoru. Vlastník průmyslového vzoru může dobu ochrany opakovaně obnovit, a to vždy o 5 let, až na celkovou dobu 25 let.
+
+Průmyslový vzor slouží obdobně jako ochranná známka k ochraně výrobku, respektive jeho vzhledu. Vlastník průmyslového vzoru má výlučné právo na jeho užívání. Dále může díky svému právu bránit třetím osobám v jeho užívání bez souhlasu. Má tedy pochopitelně právo takovýto souhlas udělit. A v neposlední řadě má vlastník průmyslového vzoru možnost převedení práv na jiného vlastníka. To se nejčastěji stává v případě prodeje průmyslového vzoru. Za užívání průmyslového vzoru se považuje zejména výroba výrobku či jeho uvedení na trh.
 
 ## Otázka 10
 
