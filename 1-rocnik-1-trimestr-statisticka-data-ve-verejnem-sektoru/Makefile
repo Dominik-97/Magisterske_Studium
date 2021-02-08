@@ -17,6 +17,8 @@ docx: clean $(DOCX)
 %.pdf: %.md
 	if grep -q no_TOC '$<'; then \
 		pandoc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
+	elif grep -q contains_CODE '$<'; then \
+		pandoc --listings -H code-blocks.tex --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
 	else \
 		pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
 	fi
@@ -24,6 +26,8 @@ docx: clean $(DOCX)
 %.docx: %.md
 	if grep -q no_TOC '$<'; then \
 		pandoc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $< ; \
+	elif grep -q contains_CODE '$<'; then \
+		pandoc --listings -H code-blocks.tex --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $< ; \
 	else \
 		pandoc --toc --wrap=preserve -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $< ; \
 	fi
