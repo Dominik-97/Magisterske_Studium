@@ -12,8 +12,11 @@
 \usepackage{MnSymbol,wasysym}
 \usepackage{multirow}
 \usepackage{xcolor}
-\usepackage{filecontents}
+%\usepackage{filecontents}
 \usepackage{etoolbox}
+
+\definecolor{new_orange}{RGB}{242, 149, 60}
+\definecolor{new_blue}{RGB}{67, 168, 241}
 
 % +===============================================+
 % | Připnutí section overview jen na levou stranu |
@@ -64,6 +67,7 @@
 
 \renewcommand{\footnotesize}{\tiny}
 \beamertemplatenavigationsymbolsempty
+\newcommand{\Fontvi}[2]{\fontsize{#1}{#2}\selectfont}
 
 % +=========================+
 % | Vydefinování tikz stylů |
@@ -114,31 +118,32 @@
 % | Vydefinování použité literatury |
 % +=================================+
 
-\begin{filecontents}{\jobname.bib}
+%\begin{filecontents}{\jobname.bib}
 
-@TECHREPORT{RePEc:cwl:cwldpp:159,
-    title = {Commercial Banks as Creators of 'Money'},
-    author = {Tobin, James},
-    year = {1963},
-    institution = {Cowles Foundation for Research in Economics, Yale University},
-    type = {Cowles Foundation Discussion Papers},
-    number = {159},
-    url = {http://EconPapers.repec.org/RePEc:cwl:cwldpp:159}
-}
+%@TECHREPORT{RePEc:cwl:cwldpp:159,
+%    title = {Commercial Banks as Creators of 'Money'},
+%    author = {Tobin, James},
+%    year = {1963},
+%    institution = {Cowles Foundation for Research in Economics, Yale University},
+%    type = {Cowles Foundation Discussion Papers},
+%    number = {159},
+%    url = {http://EconPapers.repec.org/RePEc:cwl:cwldpp:159}
+%}
 
-@TECHREPORT{RePEc:cwl:cwldpp:160,
-    title = {Commercial Banks as Creators of 'Money'},
-    author = {Tobin, James},
-    year = {1963},
-    institution = {Cowles Foundation for Research in Economics, Yale University},
-    type = {Cowles Foundation Discussion Papers},
-    number = {159},
-    url = {http://EconPapers.repec.org/RePEc:cwl:cwldpp:159}
-}
-\end{filecontents}
+%@TECHREPORT{RePEc:cwl:cwldpp:160,
+%    title = {Commercial Banks as Creators of 'Money'},
+%    author = {Tobin, James},
+%    year = {1963},
+%    institution = {Cowles Foundation for Research in Economics, Yale University},
+%    type = {Cowles Foundation Discussion Papers},
+%    number = {159},
+%    url = {http://EconPapers.repec.org/RePEc:cwl:cwldpp:159}
+%}
+%\end{filecontents}
 
 \usepackage[style=verbose,backend=biber]{biblatex}
-\addbibresource{\jobname.bib}
+%\addbibresource{\jobname.bib}
+\addbibresource{eGovernment_v_teorii_a_praxi.bib}
 
 \begin{document}
 
@@ -175,7 +180,22 @@
 	\cevroLogo
 	\label{PREDSTAVENI}
 
-Ahoj.
+\fbox{
+    \parbox{\textwidth}{
+		\textcolor{new_orange}{§ 2} \\
+		\vspace*{-8mm}
+		\begin{enumerate}
+			\item[] \textcolor{new_blue}{Datová schránka} \\
+			\item[] (1) Datová schránka je elektronické úložiště, které je určeno k \\
+			\begin{enumerate}
+				\item[] a) doručování orgány veřejné moci, \\
+				\item[] b) provádění úkonů vůči orgánům veřejné moci, \\
+				\item[] c) dodávání dokumentů fyzických osob, podnikajících fyzických osob a právnických osob. \\
+			\end{enumerate}
+			(2) Datové schránky zřizuje a spravuje Ministerstvo vnitra (dále jen „ministerstvo“).
+		\end{enumerate}
+	}
+}
 
 \end{frame}
 
@@ -198,26 +218,51 @@ Ahoj.
 
 
 \begin{frame}[t]
-	\frametitle{Založení datové schránky}
+	\frametitle{Založení datové schránky teorie}
 	\cevroLogo
 	\label{ZALOZENI}
+	\Fontvi{12}{7.2}
 	
-Zřízení datové schránky je:
+\underline{\large Zřízení datové schránky je:}
 
 \begin{enumerate}
-	\item povinné ze zákona, nebo \footcite{RePEc:cwl:cwldpp:159}
-	\item na žádost. \footcite{RePEc:cwl:cwldpp:160}
+	\item povinné ze zákona, nebo \footcite[§5]{infoaioncz_3002008_nodate}
+	\item možné na žádost. \footnote{Tamtéž, §3 a §5}
 \end{enumerate}
 
 \vspace*{5mm}
 
 \underline{\large Povinné zřízení datové schránky} \newline
 
-Ahoj. \newline
+\textit{"(1) Datovou schránku právnické osoby zřídí ministerstvo bezplatně ... bezodkladně po jejím vzniku ... poté, co obdrží informaci o jejím zapsání do obchodního rejstříku."} \newline
+
+\vspace*{5mm}
 
 \underline{\large Zřízení datové schránky na žádost} \newline
 
-Ahoj.
+\textit{"(1) Datovou schránku (podnikající) fyzické osoby zřídí ministerstvo bezplatně na žádost fyzické osobě ... do 3 pracovních dnů ode dne podání žádosti."} \newline
+
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{Založení datové schránky v praxi}
+	\cevroLogo
+	\label{ZALOZENI}
+	\Fontvi{12}{8}
+	
+\begin{enumerate}
+\setlength\itemsep{0.5em}
+\item Založení datové schránky tedy může být \textbf{povinné}, nebo \textbf{dobrovolné}, jak na to ale v praxi?
+\item V případě, že se na Vás vztahuje \textbf{povinné} zřízení - není co řešit Ministerstvo vnitra jí zřídí za Vás.	
+\item V případě \textbf{dobrovolného} zřízení je třeba datovou schránku založit, respektive požádat o její založení - v tomto případě ale zákonodárce vyšel občanům vstříc a umožnil jednoduché založení:
+\begin{enumerate}
+\item pomocí elektronické identity,
+\item prostřednictvím jakéhokoliv Czech POINTu,
+\item v případě nutnosti - doručením Ministerstvu vnitra.
+\end{enumerate}
+\item Doba založení je úměrná pouze frontě na Czech POINTu, samotná žádost již je vyřízena u přepážky během \textbf{pár minut}.
+\end{enumerate}
+
 	
 \end{frame}
 
