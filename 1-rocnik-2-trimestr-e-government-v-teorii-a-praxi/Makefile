@@ -3,8 +3,9 @@ MEXT = md
 ## All markdown files in the working directory
 SRC := $(wildcard *.$(MEXT))
 ## In case LaTeX files are present
-LATEX_AND_README_RELATED := *.pdf *.tex README.md
-SRC := $(filter-out $(LATEX_AND_README_RELATED), $(SRC))
+## LATEX_AND_README_RELATED := *.pdf *.tex README.md
+## SRC := $(filter-out $(LATEX_AND_README_RELATED), $(SRC))
+SRC := $(filter-out README.md, $(SRC))
 
 
 DOCX=$(SRC:.md=.docx)
