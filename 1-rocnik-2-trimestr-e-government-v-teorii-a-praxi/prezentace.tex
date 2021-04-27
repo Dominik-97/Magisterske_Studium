@@ -1,0 +1,279 @@
+\documentclass{beamer}
+
+% +==============================+
+% | Vydefinování maker a packagů |
+% +==============================+
+
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes.arrows}
+\usepackage{MnSymbol,wasysym}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{filecontents}
+\usepackage{etoolbox}
+
+% +===============================================+
+% | Připnutí section overview jen na levou stranu |
+% +===============================================+
+
+\makeatletter
+\beamer@compresstrue
+\patchcmd{\insertnavigation}{\hskip-1.875ex plus-1fill}{}{}{}
+\apptocmd{\partentry}{\beamer@xpos=0\relax}{}{}
+\def\sectionentry#1#2#3#4#5{%
+  \ifnum#5=\c@part%
+  \hbox{\def\insertsectionhead{#2}%
+    \def\insertsectionheadnumber{#1}%
+    \def\insertpartheadnumber{#5}%
+    {%
+      \usebeamerfont{section in head/foot}\usebeamercolor[fg]{section in head/foot}%
+      \ifnum\c@section=#1%
+        \rlap{\hyperlink{Navigation#3}{{\usebeamertemplate{section in head/foot}}}}%
+      \fi}%
+  }%
+  \fi\ignorespaces}
+\makeatother
+
+% +===============================+
+% | Makro na zobrazení CEVRO Loga |
+% +===============================+
+
+\newcommand{\cevroLogo}{
+	\begin{tikzpicture}[remember picture,overlay]  
+		\node [xshift=-1.6cm,yshift=-0.5cm] at (current page.north east)
+		{\includegraphics[width=3cm,height=2cm,keepaspectratio]{images/newcevro}};
+	\end{tikzpicture}
+}
+
+% +=========================================+
+% | Makro na používání hyperlinků v listech |
+% +=========================================+
+
+\newcounter{totenum}
+\setcounter{totenum}{0}
+\let\Oldenumerate\enumerate
+\def\enumerate{\refstepcounter{totenum}\Oldenumerate}
+\newcommand{\myitem}[1]{\refstepcounter{enumi}\item[\hyperlink{#1}{\arabic{totenum}.\arabic{enumi}}]}
+
+% +===========================================================+
+% | Změna velikosti footnotů a odstranění navigačních symbolů |
+% +===========================================================+
+
+\renewcommand{\footnotesize}{\tiny}
+\beamertemplatenavigationsymbolsempty
+
+% +=========================+
+% | Vydefinování tikz stylů |
+% +=========================+
+
+\tikzset{
+    myarrow/.style={
+        draw,
+        fill=green,
+        single arrow,
+        minimum height=3.5ex,
+        single arrow head extend=1ex
+    }
+}
+
+\tikzset{
+    myarrowred/.style={
+        draw,
+        fill=red,
+        single arrow,
+        minimum height=3.5ex,
+        single arrow head extend=1ex
+    }
+}
+
+% +=================================+
+% | Základní informace o prezentaci |
+% +=================================+
+
+\title{e-Government - Datové schránky: přínosy a negativa}
+\author[My name]{Dominik Bálint}
+\institute{CEVRO Institut}
+\date{\today}
+
+% +=============+
+% | První sekce |
+% +=============+
+
+\section{Datové schránky}
+
+% +===============================================+
+% | Použitý theme v prezentaci k bakalářské práci |
+% +===============================================+
+
+\usetheme{Singapore}
+
+% +=================================+
+% | Vydefinování použité literatury |
+% +=================================+
+
+\begin{filecontents}{\jobname.bib}
+
+@TECHREPORT{RePEc:cwl:cwldpp:159,
+    title = {Commercial Banks as Creators of 'Money'},
+    author = {Tobin, James},
+    year = {1963},
+    institution = {Cowles Foundation for Research in Economics, Yale University},
+    type = {Cowles Foundation Discussion Papers},
+    number = {159},
+    url = {http://EconPapers.repec.org/RePEc:cwl:cwldpp:159}
+}
+
+@TECHREPORT{RePEc:cwl:cwldpp:160,
+    title = {Commercial Banks as Creators of 'Money'},
+    author = {Tobin, James},
+    year = {1963},
+    institution = {Cowles Foundation for Research in Economics, Yale University},
+    type = {Cowles Foundation Discussion Papers},
+    number = {159},
+    url = {http://EconPapers.repec.org/RePEc:cwl:cwldpp:159}
+}
+\end{filecontents}
+
+\usepackage[style=verbose,backend=biber]{biblatex}
+\addbibresource{\jobname.bib}
+
+\begin{document}
+
+% +===============+
+% | Titulní slide |
+% +===============+
+
+\maketitle
+
+% +====================+
+% | Začátek prezentace |
+% +====================+
+
+\begin{frame}
+	\frametitle{Obsah}
+	\cevroLogo
+
+\begin{enumerate}
+	\myitem{PREDSTAVENI} Představení datových schránek
+	\myitem{HISTORIE} Historie datových schránek
+	\myitem{ZALOZENI} Založení datové schránky
+	\myitem{PRINOSY} Přínosy datové schránky
+	\myitem{NEGATIVA} Negativa datové schránky
+\end{enumerate}
+	
+\end{frame}
+
+% +=============+
+% | Druhý slide |
+% +=============+
+
+\begin{frame}
+	\frametitle{Představení datových schránek}
+	\cevroLogo
+	\label{PREDSTAVENI}
+
+Ahoj.
+
+\end{frame}
+
+% +=============+
+% | Třetí slide |
+% +=============+
+
+\begin{frame}
+	\frametitle{Historie datových schránek}
+	\cevroLogo
+	\label{HISTORIE}
+
+Ahoj.
+
+\end{frame}
+
+% +==============+
+% | Čtvrtý slide |
+% +==============+
+
+
+\begin{frame}[t]
+	\frametitle{Založení datové schránky}
+	\cevroLogo
+	\label{ZALOZENI}
+	
+Zřízení datové schránky je:
+
+\begin{enumerate}
+	\item povinné ze zákona, nebo \footcite{RePEc:cwl:cwldpp:159}
+	\item na žádost. \footcite{RePEc:cwl:cwldpp:160}
+\end{enumerate}
+
+\vspace*{5mm}
+
+\underline{\large Povinné zřízení datové schránky} \newline
+
+Ahoj. \newline
+
+\underline{\large Zřízení datové schránky na žádost} \newline
+
+Ahoj.
+	
+\end{frame}
+
+% +==============+
+% | Pátý slide   |
+% +==============+
+
+
+\begin{frame}
+	\frametitle{Přínosy datové schránky}
+	\cevroLogo
+	\label{PRINOSY}
+	
+Ahoj
+
+Ahoj
+	
+\end{frame}
+
+% +==============+
+% | Šestý slide  |
+% +==============+
+
+
+\begin{frame}[t]
+	\frametitle{Negativa datové schránky}
+	\cevroLogo
+	\label{NEGATIVA}
+	
+Ahoj \newline
+
+\vspace*{-1cm}
+\begin{table}[]
+\begin{tabular}{|l|}
+\hline
+Otázka 2 Oponent práce                                                                                                                                                                                                                      \\ \hline
+\begin{tabular}[c]{@{}l@{}}Autor by mohl dále shrnout některé dílčí odlišnosti québecké\\ a české úpravy svěřenských fondů a tím učinit závěr v dané otázce\\ na str. 20 až 23.\end{tabular} \\ \hline
+\end{tabular}
+\end{table}
+	
+\end{frame}
+
+% +===============+
+% | Sekce zdroje  |
+% +===============+
+
+\section{Zdroje}
+
+% +==============+
+% | Sedmý slide  |
+% +==============+
+
+ \begin{frame}
+ 	\frametitle{Zdroje}
+	\cevroLogo
+    	\printbibliography[heading=none]
+ \end{frame}
+	
+\end{document}
