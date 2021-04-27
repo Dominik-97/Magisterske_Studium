@@ -4,6 +4,9 @@
 # Ignore pro pdf v pdf složce
 # pdf/*.pdf
 
+# Ignore all LaTeX helper files
+**/.texpadtmp
+
 # Ignore all .DS_Store
 .DS_Store
 **/.DS_Store

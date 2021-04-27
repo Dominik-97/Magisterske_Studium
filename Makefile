@@ -14,6 +14,7 @@ help:
 	@echo "    11         pro vytvoření PDF k předmětu Bezpečnostní hrozby (volitelný předmět)"
 	@echo "    12         pro vytvoření PDF k předmětu Diferenční předmět - občanské právo (volitelný předmět)"
 	@echo "    13         pro vytvoření PDF k předmětu Statistická data ve Veřejném sektoru (volitelný předmět)"
+	@echo "    14         pro vytvoření PDF k předmětu e-Government v teorii a praxi"
 
 # Složka pro Kapitálové obchodní korporace
 1:
@@ -67,5 +68,9 @@ help:
 13:
 	make -C 1-rocnik-1-trimestr-statisticka-data-ve-verejnem-sektoru
 
+# Složka pro Statistická data ve veřejném sektoru
+14:
+	make -C 1-rocnik-2-trimestr-e-government-v-teorii-a-praxi
+
 # Vygenerování veškerých poznámek
-all: 1 2 3 4 5 6 7 8 9 10 11 12 13
+all: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
