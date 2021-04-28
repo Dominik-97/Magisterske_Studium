@@ -124,6 +124,7 @@
 
 \usepackage[style=verbose,backend=biber]{biblatex}
 \addbibresource{eGovernment_v_teorii_a_praxi.bib}
+\renewcommand*{\bibfont}{\scriptsize}
 
 \begin{document}
 
@@ -147,6 +148,7 @@
 	\myitem{HISTORIE} Historie datových schránek
 	\myitem{ZALOZENI} Založení datové schránky
 	\myitem{PRINOSY} Přínosy datové schránky
+	\myitem{VYUZITI} Využití datové schránky
 	\myitem{NEGATIVA} Negativa datové schránky
 \end{enumerate}
 	
@@ -189,7 +191,7 @@
 	\cevroLogo
 
 \begin{itemize}
-	\item Pokud vystoupíme ze zákoných definic, tak se ve své podstatě jedná o elektronickou poštovní schránku.
+	\item Pokud vystoupíme ze zákonných definic, tak se ve své podstatě jedná o elektronickou poštovní schránku.
 	\item Slouží k efektivnější komunikaci OVM se subjektem a rovněž poskytuje možnost majiteli datové schránky jednoduše komunikovat s jinými subjekty, které mají datové schránky.
 	\item Umožňuje rovněž autentifikaci v rámci specifických služeb e-Governmetu v případě, že subjekt nemá elektronickou identitu.\footnote{Příkladem může být portál občana.}
 \end{itemize}
@@ -275,7 +277,6 @@
 \begin{frame}[t]
 	\frametitle{Založení datové schránky v praxi}
 	\cevroLogo
-	\label{ZALOZENI}
 	\Fontvi{12}{8}
 	
 \begin{enumerate}
@@ -291,7 +292,7 @@
 	\item Doba založení je úměrná pouze frontě na Czech POINTu, samotná žádost již je vyřízena u přepážky během \textbf{pár minut}.
 \end{enumerate}
 
-	
+
 \end{frame}
 
 % +==============+
@@ -348,8 +349,10 @@
 	\label{NEGATIVA}
 	
 \begin{enumerate}
-	\item Potřeba komunikovat s daňovým úřadem prostřednictvím datové schránky
-	\item Finkce doručení
+	\item Povinnost datovou schránku vybírat
+	\item Potřeba komunikovat s daňovým úřadem prostřednictvím datové schránky\footcite[§72 odstavec 6]{noauthor_2802009_nodate}
+	\item Fikce doručení - po 10 dnech se stav zprávy změní na doručené
+	\item Pokud není využit datový trezor, zprávy se po 90 dnech mažou\footcite{noauthor_datove_nodate}
 \end{enumerate}
 
 \end{frame}
