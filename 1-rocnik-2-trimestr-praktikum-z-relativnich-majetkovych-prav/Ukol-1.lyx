@@ -49,7 +49,7 @@
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
-\suppress_date false
+\suppress_date true
 \justification true
 \use_refstyle 1
 \use_minted 0
@@ -80,14 +80,34 @@
 \begin_body
 
 \begin_layout Title
-Hello there
+
+\series bold
+RUČITELSKÉ PROHLÁŠENÍ
 \end_layout
 
-\begin_layout Author
-Dominik Bálint
+\begin_layout Standard
+\align center
+
+\series bold
+uzavřené podle ustanovení zákona č.
+ 89/2012 Sb., občanský zákoník v platném znění
+\series default
+ (dále jen 
+\series bold
+
+\begin_inset Quotes gld
+\end_inset
+
+Ručitelské prohlášení
+\begin_inset Quotes grd
+\end_inset
+
+
+\series default
+)
 \end_layout
 
-\begin_layout Date
+\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -95,7 +115,9 @@ status open
 
 
 \backslash
-today
+bigskip
+\backslash
+vspace*{10mm}
 \end_layout
 
 \end_inset
@@ -103,53 +125,301 @@ today
 
 \end_layout
 
-\begin_layout Author
-CEVRO Institut
-\end_layout
-
-\begin_layout Abstract
-Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
- Hello there how are you.
-\end_layout
-
-\begin_layout Part
-Hello there
+\begin_layout Standard
+Adam Křeček,
 \end_layout
 
 \begin_layout Standard
-What is up my boy.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hspace*{3mm}
 \end_layout
 
-\begin_layout Part
-Hello there
+\end_inset
+
+ narozen 1.5.1970,
 \end_layout
 
 \begin_layout Standard
-What is up my boy.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hspace*{3mm}
+\end_layout
+
+\end_inset
+
+ bytem Luční 20/10, 109 00 Praha 10
 \end_layout
 
 \begin_layout Standard
+(dále jen 
+\series bold
 
+\begin_inset Quotes gld
+\end_inset
+
+Ručitel
+\begin_inset Quotes grd
+\end_inset
+
+
+\series default
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\backslash
+vspace*{5mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+PROHLAŠUJE
+\end_layout
+
+\begin_layout Standard
+že uspokojí věřitele v poměrné výši, jestliže dlužník věřiteli svůj dluh
+ nesplní, a za níže uvedených podmínek zajistí dále specifikovaný závezek
+ dlužníka:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\backslash
+vspace*{5mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Boris Myšák,
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hspace*{3mm}
+\end_layout
+
+\end_inset
+
+ narozen 1.10.1980,
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hspace*{3mm}
+\end_layout
+
+\end_inset
+
+ bytem Polní 30/20, 109 00 Praha 10
+\end_layout
+
+\begin_layout Standard
+(dále jen 
+\series bold
+
+\begin_inset Quotes gld
+\end_inset
+
+Dlužník
+\begin_inset Quotes grd
+\end_inset
+
+
+\series default
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\backslash
+vspace*{5mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+vůči věřiteli:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\backslash
+vspace*{5mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mutuum muridarum, s.r.o.,
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hspace*{3mm}
+\end_layout
+
+\end_inset
+
+ sýdlem Lesní 40/30, 100 00 Praha 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+hspace*{3mm}
+\end_layout
+
+\end_inset
+
+ IČO: 987 65 432
+\end_layout
+
+\begin_layout Standard
+(dále jen 
+\series bold
+
+\begin_inset Quotes gld
+\end_inset
+
+Zapůjčitel
+\begin_inset Quotes grd
+\end_inset
+
+
+\series default
+)
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\backslash
+vspace*{5mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+za níže uvedených podmínek.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Čl.
+ I
+\end_layout
+
+\begin_layout Standard
+Ručitel prohlašuje, že ručí
 \end_layout
 
 \end_body
