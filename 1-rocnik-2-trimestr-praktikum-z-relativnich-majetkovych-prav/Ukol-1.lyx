@@ -418,8 +418,197 @@ newpage
  I
 \end_layout
 
+\begin_layout Enumerate
+Ručitel prohlašuje, že ručí za poměrnou část závazku Dlužníka vůči Zapůjčiteli
+ vzniklého ze Smlouvy o zápůjčce uzavřené dne 2.3.2020, na základě které byla
+ Dlužníkovi poskytnuta peněžní částka ve výší 100 000 Kč (slovy sto tisíc
+ korun českých).
+\end_layout
+
 \begin_layout Standard
-Ručitel prohlašuje, že ručí
+\align center
+
+\series bold
+\size large
+Čl.
+ 2
+\end_layout
+
+\begin_layout Enumerate
+Ručitel se zavazuje zajistit závazek Dlužníka na splacení jistiny a úroků
+ zápůjčky do maximální výše 50 % z celkové částky 108 000 Kč (slovy sto
+ osm tisíc korun českých), která sestává z jistiny ve výši 100 000 Kč (slovy
+ sto tisíc korun českých) a úroků ve výši 8 000 Kč (slovy osm tisíc korun
+ českých).
+\end_layout
+
+\begin_layout Enumerate
+Část dluhu, za kterou se Ručitel zavazuje ručit se v případě, že by Zapůjčitel
+ požadoval splnění na Ručiteli poměrně snižuje o část dluhu, kterou již
+ Dlužník Zapůjčiteli uhradil.
+\end_layout
+
+\begin_layout Enumerate
+je tvořena, která zbývá doplatit sníženou o již splacenou část závazku.
+\end_layout
+
+\begin_layout Enumerate
+Ručitel ručí pouze za poměrnou část dluhu ujednanou v bodě 1.
+ sníženou o již uhrazenou část Dluhu a neručí tak za škodu zpúsobenou Zapůjčitel
+i ze strany Dlužníka, smluvní pokuty či úroky z prodlení vznikajících ze
+ smluvních nebo zákonných důvodů.
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+Čl.
+ 3
+\end_layout
+
+\begin_layout Standard
+Hatuli.
+\end_layout
+
+\begin_layout Standard
+Hatuli.
+\end_layout
+
+\begin_layout Standard
+Hatuli.
+\end_layout
+
+\begin_layout Standard
+Hatuli.
+\end_layout
+
+\begin_layout Standard
+V Praze dne 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+rule[0mm]{32mm}{0.1mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+bigskip
+\backslash
+vspace*{10mm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+..................................................................................
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newline
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace*{-0.5cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Name one
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace*{1cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+..................................................................................
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newline
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace*{-0.5cm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Name two
 \end_layout
 
 \end_body
