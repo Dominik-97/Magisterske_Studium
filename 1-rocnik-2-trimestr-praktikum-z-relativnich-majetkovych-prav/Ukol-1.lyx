@@ -439,7 +439,8 @@ Ručitel se zavazuje zajistit závazek Dlužníka na splacení jistiny a úroků
  zápůjčky do maximální výše 50 % z celkové částky 108 000 Kč (slovy sto
  osm tisíc korun českých), která sestává z jistiny ve výši 100 000 Kč (slovy
  sto tisíc korun českých) a úroků ve výši 8 000 Kč (slovy osm tisíc korun
- českých).
+ českých), tj.
+ maximálně do výše 54 000 Kč (slovy padesát čtyři tisíc korun českých).
 \end_layout
 
 \begin_layout Enumerate
@@ -451,8 +452,24 @@ Ručitel se zavazuje zajistit závazek Dlužníka na splacení jistiny a úroků
 \begin_layout Enumerate
 Ručitel ručí pouze za poměrnou část dluhu ujednanou v bodě 1.
  sníženou o již uhrazenou část Dluhu a neručí tak za škodu zpúsobenou Zapůjčitel
-i ze strany Dlužníka, smluvní pokuty či úroky z prodlení vznikajících ze
- smluvních nebo zákonných důvodů.
+i ze strany Dlužníka, smluvní pokuty, úroky z prodlení vznikajících ze smluvních
+ nebo zákonných důvodů a za jiné peněžité závazky vyplývající ze Zápůjčky.
+\end_layout
+
+\begin_layout Enumerate
+Ručitel se zavazuje uspokojit poměrnou část Zápůjčky do 60 (slovy šedesáti)
+ kalendářních dnů ode dne doručení písemné výzvy Zapůjčitele k plnění ručitelské
+ho závazku, které předcházelo nesplnění poskytnutého úvěru, nebo jeho části
+ v termínu, který byl sjednán ve Smlouvě o zápůjčce jako termín splatnosti
+ Zápůjčky, nebo části Zápůjčky, a to ani v přiměřené době poté, co byl Dlužník
+ k plnění věřitelem písemně vyzván a v případě, že jsou splněny všechny
+ podmínky stanovené v Čl.
+ 3, odst.
+ 1, písmena b) tohoto Ručitelského prohlášení.
+ Zapůjčitel je povinen společně s výzvou doručit doklady prokazující postup
+ podle Čl.
+ 3, odst.
+ 1, písmena b) tohoto Ručitelského prohlášení.
 \end_layout
 
 \begin_layout Standard
@@ -470,13 +487,23 @@ Toto ručitelské prohlášení se stává účinným v případě že:
 
 \begin_deeper
 \begin_layout Enumerate
-věřitel neprodleně, nejpozději však ve lhůtě 30 (slovy třiceti) pracovních
- dnů
+věřitel neprodleně, nejpozději však ve lhůtě 30 (slovy třiceti), kalendářních
+ dnů od marného uplynutí lhůty podle smlouvy o Zápůjčce pro nezaplacení
+ jakékoliv splátky Zápůjčky nebo úroku Zápůjčky, doručí Zapůjčitel Ručiteli
+ písemnou informaci o tom, že Dlužník řádně a včas svému závazku splatit
+ věřiteli příslušnou část jistiny a úroků ze Zapůjčené částky,
 \end_layout
 
 \begin_layout Enumerate
-věřitel vyčerpal veškeré zákonné možnosti, které vzhledem k jeho profesionalitě
- mohl a měl vyčerpat a přesto nedošlo ke splnění závazku ze strany dlužníka
+věřitel vyčerpal veškeré zákonné možnosti, které vzhledem k jeho profesionálnímu
+ postavení má k dispozici, k vymožení plnění ze strany Dlužníka.
+ Za vyčerpání těchto možností se považuje zejména vyčerpání možností uspokojení
+ pohledávky za Dlužníkem prostřednictvím veškerého dalšího sjednaného zajištění
+ závazku mimo toto Ručitelské prohlášení a nesplnění závazku Dlužníkem po
+ právní moci rozhodnutí příslušného soudu či jiného příslušného subjektu
+ v řízení, ve kterém Věřitel uplatňoval svoji vykonatelnou pohledávku ze
+ Zápůjčky za Dlužníkem, na kterou se vztahuje toto Ručitelské prohlášení
+ a tato nebyla uspokojena nebo byla uspokojena pouze z části.
 \end_layout
 
 \end_deeper
@@ -486,17 +513,21 @@ věřitel vyčerpal veškeré zákonné možnosti, které vzhledem k jeho profes
 \series bold
 \size large
 Čl.
- 3
+ 4
+\end_layout
+
+\begin_layout Enumerate
+Ručení trvá pouze po dobu, po kterou je Zapůjčitel Zapůjčitelem.
 \end_layout
 
 \begin_layout Enumerate
 Ručení zaniká zánikem závazku, které toto ručení zajišťuje, nejpozději však
- do X měsíců po uplynutí lhůty, 
+ do 6 měsíců po uplynutí lhůty, 
 \begin_inset Marginal
 status open
 
 \begin_layout Plain Layout
-Přidal jsem 3 měsíce - z podstaty ručení by nedávalo smysl, aby zaniklo
+Přidal jsem 6 měsíce - z podstaty ručení by nedávalo smysl, aby zaniklo
  ve chvíli, kdy je závazek splatný.
 \end_layout
 
@@ -518,7 +549,7 @@ Ručení zaniká rovněž v případě splnění části závazku ve výši sjed
 \series bold
 \size large
 Čl.
- 3
+ 5
 \end_layout
 
 \begin_layout Enumerate
