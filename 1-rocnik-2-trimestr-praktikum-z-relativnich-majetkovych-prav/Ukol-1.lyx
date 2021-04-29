@@ -449,10 +449,6 @@ Ručitel se zavazuje zajistit závazek Dlužníka na splacení jistiny a úroků
 \end_layout
 
 \begin_layout Enumerate
-je tvořena, která zbývá doplatit sníženou o již splacenou část závazku.
-\end_layout
-
-\begin_layout Enumerate
 Ručitel ručí pouze za poměrnou část dluhu ujednanou v bodě 1.
  sníženou o již uhrazenou část Dluhu a neručí tak za škodu zpúsobenou Zapůjčitel
 i ze strany Dlužníka, smluvní pokuty či úroky z prodlení vznikajících ze
@@ -468,20 +464,94 @@ i ze strany Dlužníka, smluvní pokuty či úroky z prodlení vznikajících ze
  3
 \end_layout
 
+\begin_layout Enumerate
+Toto ručitelské prohlášení se stává účinným v případě že:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+věřitel neprodleně, nejpozději však ve lhůtě 30 (slovy třiceti) pracovních
+ dnů
+\end_layout
+
+\begin_layout Enumerate
+věřitel vyčerpal veškeré zákonné možnosti, které vzhledem k jeho profesionalitě
+ mohl a měl vyčerpat a přesto nedošlo ke splnění závazku ze strany dlužníka
+\end_layout
+
+\end_deeper
 \begin_layout Standard
-Hatuli.
+\align center
+
+\series bold
+\size large
+Čl.
+ 3
+\end_layout
+
+\begin_layout Enumerate
+Ručení zaniká zánikem závazku, které toto ručení zajišťuje, nejpozději však
+ do X měsíců po uplynutí lhůty, 
+\begin_inset Marginal
+status open
+
+\begin_layout Plain Layout
+Přidal jsem 3 měsíce - z podstaty ručení by nedávalo smysl, aby zaniklo
+ ve chvíli, kdy je závazek splatný.
+\end_layout
+
+\end_inset
+
+ do které je závazek splatný a to v případě, že Zapůjčitel nepožádá o splnění
+ Ručitele.
+\end_layout
+
+\begin_layout Enumerate
+Ručení zaniká rovněž v případě splnění části závazku ve výši sjednané v
+ Čl.
+ 2 ze strany ručitele v případě, že jej Zapůjčitel k plnění vyzve.
 \end_layout
 
 \begin_layout Standard
-Hatuli.
+\align center
+
+\series bold
+\size large
+Čl.
+ 3
+\end_layout
+
+\begin_layout Enumerate
+Toto ručitelské prohlášení je vyhotoveno ve 2 vyhotoveních, z nichž po jednom
+ obdrží Ručitel a Zapůjčitel.
+\end_layout
+
+\begin_layout Enumerate
+Zapůjčitel akceptací tohoto prohlášení stvrzuje, že se seznámil s obsahem
+ Ručitelského prohlášení, a že jej přijímá.
 \end_layout
 
 \begin_layout Standard
-Hatuli.
+\begin_inset Separator plain
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Hatuli.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -554,7 +624,7 @@ vspace*{-0.5cm}
 \end_layout
 
 \begin_layout Standard
-Name one
+Ručitel
 \end_layout
 
 \begin_layout Standard
@@ -608,7 +678,7 @@ vspace*{-0.5cm}
 \end_layout
 
 \begin_layout Standard
-Name two
+Zapůjčitel
 \end_layout
 
 \end_body
