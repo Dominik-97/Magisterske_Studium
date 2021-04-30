@@ -93,7 +93,7 @@ Posuzování přiměřenosti ručitelského prohlášení
 
 \begin_layout Subtitle
 Prezentace do předmětu Praktikum z relativních majetkových práv ve II.
- trimestru akademického rojku 2020/2021
+ trimestru akademického roku 2020/2021
 \end_layout
 
 \begin_layout Author
@@ -139,7 +139,7 @@ status open
 status open
 
 \begin_layout Plain Layout
-Obash
+Obsah
 \end_layout
 
 \end_inset
@@ -242,10 +242,10 @@ Zaplacení smluvní pokuty nezbavuje povinností, které jsou mezi věřitelem
 \begin_layout Enumerate
 V případě, že si mezi sebou věřitel s dlužníkem ujednají smluvní pokutu,
  nemá smluvní strana, které plynou práva z utvrzení dluhu právo požadovat
- náhradu škody.
- (§ 2050) Komentářová literatura se však shoduje na tom, že toto ustanovení
- má dispozitivní charakter, a je tedy možné sjednat jak smluvní pokutu,
- tak i náhradu za škodu.
+ náhradu škody (§ 2050).
+ Komentářová literatura se však shoduje na tom, že toto ustanovení má dispozitiv
+ní charakter, a je tedy možné sjednat jak smluvní pokutu, tak i náhradu
+ za škodu.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "ba-1"
@@ -258,12 +258,11 @@ literal "false"
 
 \begin_layout Enumerate
 Pokud je sjednána nepřiměřeně vysoká smluvní pokuta, tak jí může soud na
- návrh dluníka poměrně snížit s přihlédnutím k hodnotě a významu zajišťované
+ návrh dlužníka poměrně snížit s přihlédnutím k hodnotě a významu zajišťované
  povinnosti až do výše škody vzniklé do doby rozhodnutí porušením té povinnosti,
  na kterou se vztahuje smluvní pokuta.
- K náhradě škody, vznikne-li na ni později právo, je poškození oprávněn
- do výše smluvní pokuty.
- (§ 2051)
+ K náhradě škody, vznikne-li na ni později právo, je poškozený oprávněn
+ do výše smluvní pokuty (§ 2051).
 \end_layout
 
 \end_deeper
@@ -378,7 +377,16 @@ literal "false"
 
 \begin_deeper
 \begin_layout Enumerate
-Ahoj
+
+\shape italic
+Z hlediska přiměřenosti výše smluvní pokuty je na místě hodnotit odlišně
+ smluvní pokutu sjednanou ve formě pevně stanovené částky a smluvní pokutu
+ sjednanou formou určité sazby za stanovenou časovou jednotku.
+ Pevně stanovenou smluvní pokutu ve výši několikanásobku zajištěné částky
+ je možno (při současném zohlednění všech okolností případu) považovat za
+ nepřiměřenou právě s ohledem na poměr mezi hodnotou zajištěné pohledávky
+ a výší smluvní pokuty, kterou by v takovém případě byl dlužník povinen
+ zaplatit i třeba jen za několik dnů prodlení.
 \end_layout
 
 \end_deeper
@@ -403,6 +411,48 @@ Judikatura III.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+
+\series bold
+Rozsudek Nejvyššího soudu České republiky ze dne 11.
+ 4.
+ 2018, sp.
+ zn.
+ 31 Cdo 927/2016:
+\begin_inset CommandInset citation
+LatexCommand cite
+key "e-pravo-2"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+\shape italic
+Jak vyplývá z judikatury Nejvyššího soudu (srov.
+ např.
+ rozsudek ze dne 17.
+ 5.
+ 2011 nebo rozsudek ze dne 24.
+ 2.
+ 2009, sp.
+ zn.
+ 23 Cdo 4784/2008), úvahy o nepřiměřenosti sjednané smluvní pokuty se logicky
+ (z povahy věci) mohou upínat toliko k těm okolnostem, které tu byly v době
+ jejího sjednání; otázku, zda byla smluvní pokuta sjednána v (ne)přiměřené
+ výši, nelze posuzovat z pohledu skutečností, které nastaly až poté, kdy
+ byla smluvní pokuta v určité výši (přiměřené či nepřiměřené) sjednána.
+ Ke skutečnostem, které nastaly po sjednání smluvní pokuty, nelze při hodnocení
+ (ne)přiměřenosti sjednané smluvní pokuty přihlížet.
+\end_layout
+
+\end_deeper
+\end_deeper
 \begin_layout Standard
 \begin_inset Separator plain
 \end_inset
@@ -425,6 +475,67 @@ Shrnutí judikatury
 \end_inset
 
 
+\end_layout
+
+\begin_layout Frame
+Smluvní pokuta má dle judikátů tři funkce: preventivní, uhrazovací a sankční.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Preventivní funkce - měla by zajistit řádné splnění povinnosti, která byla
+ utvrzena smluvní pokutou.
+\end_layout
+
+\begin_layout Enumerate
+Uhrazovací funkce - smluvní pokuta by měla nahrazovat škody způsobené v
+ rámci závazku, který utvrzuje.
+\end_layout
+
+\begin_layout Enumerate
+Sankční funce - funkce, která souvisí s funkcí preventivní, preventivní
+ funkce může fungovat jen pod hrozbou sankce.
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+Skutečnost, kterou by soud měl vzít v úvahu právě při posuzování přiměřenosti
+ výše smluvní pokuty je, zda smluvní pokuta splňuje výše zmíněné funkce
+ v přiměřeném rozsahu.
+\end_layout
+
+\begin_layout Frame
+Pokud by tedy tak například byla utvrzena povinnost, respektive právo, se
+ kterým by byla spojena nižší peněžní hodnota pod hrozbou sankce nepřiměřeně
+ velkou vzhledem k hodnotě, kterou zajišťuje, jednalo by se o nepřiměřenou
+ smluvní pokutu.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Shrnutí judikatury
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+Smluvní pokuta by tak svou výší měla splnit všechny tři funkce, tedy měla
+ by být nastavena tak, aby plnila preventivní funkci, která je pod hrozbou
+ sankce, a zároveň by měla být nastavena tak, aby splnila uhrazovací funkci,
+ tedy aby její výše odpovídala škodě, která v rámci závazku může vzniknout.
 \end_layout
 
 \begin_layout Standard
