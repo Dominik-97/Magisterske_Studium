@@ -29,3 +29,6 @@
 2-rocnik-1-trimestr-sprava-obchodni-korporace-v-upadku/*.pdf
 2-rocnik-1-trimestr-strategicky-a-projektovy-management/*.pdf
 2-rocnik-2-trimestr-danove-pravo-v-obchodnich-vztazich/*.pdf
+
+# Ignore obsidian files
+*/.obsidian/*

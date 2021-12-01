@@ -38,7 +38,7 @@ Makefile will then ignore the `--toc` part of the basic pandoc command, and will
 
 Etc.
 
-## Správa obchodní korporace v úpadku
+## Správa obchodní korporace v úpadku paragrafy
 
 § 97/7 IZ
 § 3/5 IZ
