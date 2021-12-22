@@ -1,1 +1,31 @@
 Ahoj.
+
+\begin{tikzpicture}
+	\begin{axis}[
+    	xlabel=$x$,
+    	ylabel=$y$,
+    	xmin=0, xmax=30,
+    	ymin=0, ymax=100,
+    	xtick={10,20,30},
+    	xticklabels={A,B,X},   % <---
+    	ytick={0,10,...,100}
+            ]
+		\addplot[smooth,mark=*,blue] 
+			plot coordinates {
+    			(0,10)
+    			(8,30)
+    			(16,40)
+			};
+		\addlegendentry{Case 1}
+
+		\addplot[smooth,color=red,mark=x]
+    		plot coordinates {
+        		(4,15)
+        		(10,25)
+        		(15,40)
+        		(18,60)
+    		};
+		\addlegendentry{Case 2}
+
+	\end{axis}
+\end{tikzpicture}

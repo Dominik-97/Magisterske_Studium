@@ -7,6 +7,29 @@
 \usepackage[headheight=2cm,]{geometry}
 \usepackage[most]{tcolorbox}
 \usepackage{lipsum}
+\usepackage{pgfplots}
+\usepackage{xcolor}
+\usepackage{multirow}
+
+% --- Defining bibliography backend and package ---
+
+\usepackage[backend=biber,defernumbers=true]{biblatex}
+\addbibresource{Zdroje/Zdroje.bib}
+
+% --- Defining new thicker hline ---
+
+\makeatletter
+\newcommand{\thickhline}{%
+    \noalign {\ifnum 0=`}\fi \hrule height 1pt
+    \futurelet \reserved@a \@xhline
+}
+
+% --- Defining a set of colors ---
+
+\definecolor{brown}{RGB}{149,36,47}
+
+% --- Set pgfplotsset ---
+\pgfplotsset{compat=1.16}
 
 % --- Define page styles ---
 \pagestyle{fancy}
@@ -32,13 +55,22 @@
     colframe=black,
     enlarge left by=15pt,
     width=\linewidth - 15pt,
-    colframe=blue 
+    colframe=brown,
+    enlarge left by=-20pt 
 }
 
+% --- Define variable file ---
+\input{variables.tex}
+
+% --- Define date format ---
+
+\def\shortdateformat{\leavevmode\hbox{\twodigits\day.\twodigits\month.\the\year}}
+\def\twodigits#1{\ifnum#1<10 0\fi\the#1}
+
 % --- Define maketitle values ---
-\author{Dominik Bálint}
-\date{Právo v obchodních vztazích, dominik.balint@vsci.cz, \today}
-\title{\textbf{\Huge Strategický audit\\}hello}
+\author{\Authors}
+\date{\InformationOfTheWork, \shortdateformat}
+\title{\TitleOfTheWork}
 
 % --- Begin the document ---
 \begin{document}
@@ -46,5 +78,11 @@
 \include{Parts/Introduction}
 
 \include{Parts/Vision_and_Process_Identification}
+
+\printbibliography[omitnumbers=true,type=misc,heading=subbibliography,title={Online zdroje}]
+%\printbibliography[omitnumbers=true,type=book,heading=subbibliography,title={Knižní zdroje}]
+%\printbibliography[omitnumbers=true,type=article,heading=subbibliography,title={Články}]
+%\printbibliography[omitnumbers=true,type=proceedings,heading=subbibliography,title={Zákony}]
+%\printbibliography[omitnumbers=true,type=thesis,heading=subbibliography,title={Kvalifikační práce}]	
 	
 \end{document}
