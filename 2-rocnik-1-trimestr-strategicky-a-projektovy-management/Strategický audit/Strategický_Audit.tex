@@ -10,6 +10,20 @@
 \usepackage{pgfplots}
 \usepackage{xcolor}
 \usepackage{multirow}
+\usepackage{tikz}
+
+% --- Define tikz libraries for the generation of a diagrams ---
+
+\usetikzlibrary{shapes.geometric, arrows}
+
+% --- Define tikz objects for the diagrams ---
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=red!30]
+\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!30]
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=orange!30]
+\tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=green!30]
+\tikzstyle{arrow} = [thick, ->, >=stealth]
+%\tikzstyle{circle} = [circle, radius=0.3cm]
 
 % --- Defining bibliography backend and package ---
 
@@ -75,14 +89,12 @@
 % --- Begin the document ---
 \begin{document}
 
+% --- Import the individual parts of the documents ---
 \include{Parts/01_Introduction}
-
-%\include{Parts/Vision_and_Process_Identification}
-
-\printbibliography[omitnumbers=true,type=misc,heading=subbibliography,title={Online zdroje}]
-%\printbibliography[omitnumbers=true,type=book,heading=subbibliography,title={Knižní zdroje}]
-%\printbibliography[omitnumbers=true,type=article,heading=subbibliography,title={Články}]
-%\printbibliography[omitnumbers=true,type=proceedings,heading=subbibliography,title={Zákony}]
-%\printbibliography[omitnumbers=true,type=thesis,heading=subbibliography,title={Kvalifikační práce}]	
+\include{Parts/02_Surroundings}
+\include{Parts/03_Internal}
+\include{Parts/04_Recommendation}
+\include{Parts/05_Project_Part}
+\include{Parts/06_Bibliography}
 	
 \end{document}
