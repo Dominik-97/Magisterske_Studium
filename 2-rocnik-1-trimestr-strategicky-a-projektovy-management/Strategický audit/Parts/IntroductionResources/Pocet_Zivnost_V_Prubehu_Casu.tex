@@ -30,18 +30,6 @@
 
 \begin{center}
 \begin{tikzpicture}[node distance=2cm]
-
-	%\node (start) [startstop] {Start};
-	%\node (in1) [io, below of=start] {Input};
-	%\node (pro1) [process, below of=in1] {Process 1};
-	%\node (dec1) [decision, below of=pro1, yshift=-0.5cm] {Decision 1};
-	%\coordinate [left of=in1, node distance=2cm] (update) {};
-	%\node (cir) [circle, inner sep=0pt, minimum size=1cm, color=white, fill=blue, draw=black, right of=pro1, yshift=0.5cm, xshift=-0.5cm] {A};
-	
-	%\draw [arrow] (start) -- (in1);
-	%\draw [arrow] (start) -| (pro1);
-	%\draw [arrow] (start) -- node[right of=in1, xshift=2cm]{} -- (pro1);
-	%\draw [arrow] (start) -| node [near start] {} (update) |- (pro1);
 	
 	% --- Starting node ---
 	\node (start) [startstop] {SWOT / SFAS};
@@ -77,12 +65,6 @@
 	\node (start9) [startstop, below of=start5, minimum width=2.6cm] {VRIO};
 	\node (start10) [startstop, below of=start6, minimum width=2.6cm, align=center] {Organizační\\(ne)efektivnost};
 	
-	%\draw [arrow] (start) -| node [near start] {} (update) |- (start1);
-	%\draw [arrow] (start) -| node [near start] {} (update2) |- (start2);
-	
-	%\draw [arrow] (start) |- (start1);
-	%\draw [arrow] (start) |- (start2);
-	
 	\draw [arrow] (start) |- (update) -- (start1);
 	\draw [arrow] (start) |- (update2) -- (start2);
 	
@@ -97,7 +79,6 @@
 	
 	\draw [arrow] (start5) -- (start9);
 	\draw [arrow] (start6) -- (start10);
-	
 	
 \end{tikzpicture}
 \end{center}

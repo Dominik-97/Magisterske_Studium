@@ -11,6 +11,8 @@
 \usepackage{xcolor}
 \usepackage{multirow}
 \usepackage{tikz}
+\usepackage[hyphens, spaces, obeyspaces]{url}
+\usepackage{hyperref}
 
 % --- Define tikz libraries for the generation of a diagrams ---
 
@@ -29,6 +31,14 @@
 
 \usepackage[backend=biber,defernumbers=true]{biblatex}
 \addbibresource{Zdroje/Zdroje.bib}
+
+% --- Change field style for misc resources ---
+% --- Field order should be also change to conform to the ISO 690 norm ---
+% --- Not doing it here, as it is not that important for this work ---
+
+\DeclareFieldFormat[misc]{urldate}{[cit. #1].}
+\DeclareFieldFormat[misc]{url}{Dostupné z: #1,}
+\DeclareFieldFormat[misc]{title}{#1 [online]}
 
 % --- Defining new thicker hline ---
 
