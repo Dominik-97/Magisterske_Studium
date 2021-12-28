@@ -14,7 +14,7 @@ BUILDTEX=$(TEXENGINE) $(BUILDFLAGS) $(TEXFILE)
 
 build: prepareBib prepareOut
 	$(BUILDTEX)
-	$(BIBLATEX) $(TEXFILE)
+	$(BIBLATEX) $(FOLDER)/$(TEXFILE)
 	$(BUILDTEX)
 	$(BUILDTEX)
 	cp out/$(TEXFILE).pdf .
