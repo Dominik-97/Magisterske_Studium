@@ -1,6 +1,7 @@
 \documentclass{article}
 
 % --- Import packages ---
+%\usepackage[english,czech]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{fancyhdr}
 \usepackage{graphicx}
@@ -28,7 +29,7 @@
 
 % --- Defining bibliography backend and package ---
 
-\usepackage[backend=biber,defernumbers=true]{biblatex}
+\usepackage[backend=biber,defernumbers=true,style=iso-authoryear,]{biblatex}
 \addbibresource{Zdroje/Zdroje.bib}
 
 % --- Change field style for misc resources ---
@@ -36,8 +37,9 @@
 % --- Not doing it here, as it is not that important for this work ---
 
 \DeclareFieldFormat[misc]{urldate}{[cit. #1].}
-\DeclareFieldFormat[misc]{url}{Dostupné z: #1,}
-\DeclareFieldFormat[misc]{title}{#1 [online]}
+\DeclareFieldFormat[misc]{howpublished}{[#1].}
+\DeclareFieldFormat[misc]{url}{Dostupné z: #1}
+%\DeclareFieldFormat[misc]{title}{#1}
 
 % --- Defining new thicker hline ---
 
