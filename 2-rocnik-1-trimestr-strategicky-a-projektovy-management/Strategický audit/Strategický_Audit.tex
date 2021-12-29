@@ -13,7 +13,8 @@
 \usepackage{multirow}
 \usepackage{tikz}
 \usepackage[hyphens, spaces, obeyspaces]{url}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{breaklinks=true}
 
 % --- Define tikz libraries for the generation of a diagrams ---
 
@@ -24,6 +25,15 @@
 \newcommand\inputfile[1]{%
     \InputIfFileExists{#1}{}{\typeout{No file #1.}}%
 }
+
+% --- Define page style ---
+
+%\cfoot{\thepage}
+%\pagestyle{fancy}
+
+% --- Rename the TOC ---
+
+\renewcommand{\contentsname}{Obsah}
 
 % --- Define tikz objects for the diagrams ---
 
@@ -44,7 +54,7 @@
 
 \DeclareFieldFormat[misc]{urldate}{[cit. #1].}
 \DeclareFieldFormat[misc]{howpublished}{[#1].}
-\DeclareFieldFormat[misc]{url}{Dostupné z: #1}
+\DeclareFieldFormat[misc]{url}{Dostupné z: \url{#1}}
 %\DeclareFieldFormat[misc]{title}{#1}
 
 % --- Defining new thicker hline ---
@@ -68,6 +78,15 @@
 \renewcommand{\headrulewidth}{0pt}
 \fancyhead{}
 \chead{\includegraphics{Images/School_Logo.png}}
+\cfoot{\thepage}
+
+\fancypagestyle{plain}{%
+  	\fancyhf{}% Clear header/footer
+  	\renewcommand{\headrulewidth}{0pt}
+	\fancyhead{}
+	\chead{\includegraphics{Images/School_Logo.png}}
+	\cfoot{\thepage}
+}
 
 % --- Define newtcolorbox environment ---
 \newtcolorbox{lefttextpipe}{

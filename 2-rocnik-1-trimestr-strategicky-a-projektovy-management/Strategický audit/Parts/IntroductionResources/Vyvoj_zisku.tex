@@ -1,0 +1,28 @@
+\begin{center}
+\begin{tikzpicture}
+	\begin{axis}[
+		width=10cm,
+    	xlabel=Rok,
+    	ylabel=Výsledek hospodaření,
+    	xmin=0, xmax=100,
+    	ymin=10, ymax=25,
+    	xtick={10,30,50,70,90},
+    	xticklabels={2014,2015,2016,2017,2019},   % <---
+    	ytick={10,12,...,24},
+    	yticklabels={10 mil., 12 mil., 14 mil., 16 mil., 18 mil., 20 mil., 22 mil., 24 mil.}
+            ]
+		\addplot[smooth,mark=*,blue] 
+			plot coordinates {
+    			(10,10.314)
+    			(30,11.054)
+    			(50,12.619)
+    			(70,13.181)
+    			(90,22.571)
+			};
+		\addlegendentry{Výsledek hospodaření za účetní období}
+
+	\end{axis}
+\end{tikzpicture}
+\end{center}
+
+%\input{Parts/IntroductionResources/Diagram}

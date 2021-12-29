@@ -1,5 +1,5 @@
 TEXFILE := Strategický_audit
-BIBFILE := Zdroje/Zdroje.bib
+BIBFILE := Zdroje/Zdroje.bib # 
 TEXENGINE=pdflatex
 BIBLATEX=biber
 BUILDFLAGS=-output-directory=out
