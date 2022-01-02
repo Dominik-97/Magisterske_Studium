@@ -53,9 +53,46 @@
 % --- Not doing it here, as it is not that important for this work ---
 
 \DeclareFieldFormat[misc]{urldate}{[cit. #1].}
-\DeclareFieldFormat[misc]{howpublished}{[#1].}
+%\DeclareFieldFormat[misc]{howpublished}{[#1].}
 \DeclareFieldFormat[misc]{url}{Dostupné z: \url{#1}}
 %\DeclareFieldFormat[misc]{title}{#1}
+
+% The url seen date of @online entries is always printed
+%\renewbibmacro*{urldate}{%
+%  % if there is no publisher specified in the bib file, set unit to period
+%  \ifboolexpr{%
+%    test {\iflistundef{publisher}}%
+%    and test {\iflistundef{location}}%
+%  }{\setunit{\adddot\addspace}}%
+%  {\setunit{\addspace}}%
+%  \ifboolexpr{
+%    test {\iftoggle{bbx:url}}
+%    or test {\ifentrytype{online}}
+%  }
+%    {\printurldate}%
+%    {}%
+%}
+
+\providetoggle{bbx:url}
+
+% The url seen date of @online entries is always printed
+\renewbibmacro*{urldate}{%
+  % if there is no publisher specified in the bib file, set unit to period
+  \ifboolexpr{%
+    test {\iflistundef{publisher}}%
+    and test {\iflistundef{location}}%
+  }{\setunit{\adddot\addspace}}%
+  {\setunit{\addspace}}%
+  \ifboolexpr{
+    test {\iftoggle{bbx:url}}
+    or test {\ifentrytype{online}}
+  }
+    {\printurldate}%
+    {}%
+}
+
+\DeclareFieldFormat[online]{urldate}{[cit. #1].}
+\DeclareFieldFormat[online]{url}{Dostupné z: \url{#1}}
 
 % --- Defining new thicker hline ---
 
