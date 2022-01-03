@@ -14,6 +14,7 @@
 \usepackage[hyphens, spaces, obeyspaces]{url}
 \usepackage[hidelinks]{hyperref}
 \hypersetup{breaklinks=true}
+\usepackage{forest}
 
 % --- Define tikz libraries for the generation of a diagrams ---
 
@@ -28,6 +29,8 @@
 % --- Rename the TOC ---
 
 \renewcommand{\contentsname}{Obsah}
+\renewcommand{\listfigurename}{Seznam grafů}
+\renewcommand{\listtablename}{Seznam tabulek}
 
 % --- Define tikz objects for the diagrams ---
 
@@ -36,6 +39,61 @@
 \tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=orange!30]
 \tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=green!30]
 \tikzstyle{arrow} = [thick, ->, >=stealth]
+
+% --- Define forest set ---
+
+\forestset{
+  direction switch/.style={
+    for tree={
+      if level=3{}{draw},
+      thick,
+      edge={thick},
+      if level=1{
+        child anchor=north,
+        edge path={
+          \noexpand\path [\forestoption{edge}] (!u.parent anchor) -- ++(0,-.5em) -| (.child anchor)\forestoption{edge label};
+        },
+        s sep+=.5em,
+        for descendants={
+          child anchor=west,
+          align=left,
+          edge path={
+            \noexpand\path [\forestoption{edge}] (!u.parent anchor) ++(1em,0) |- (.child anchor)\forestoption{edge label};
+          },
+          fit=band,
+        },
+        for tree={
+          parent anchor=south west,
+          anchor=mid west,
+          grow'=0,
+          font=\sffamily,
+          if n children=0{}{
+            delay={
+              prepend={[,phantom, calign with current]}
+            }
+          },
+          before computing xy={
+            l=2em
+          },
+        },
+        before drawing tree={
+          x/.wrap pgfmath arg={##1}{.6*x()},
+          for children={
+            x/.wrap pgfmath arg={##1+1em}{.6*x()},
+            for children={
+              x/.wrap pgfmath arg={##1+2em}{.6*x()},
+            }
+          }
+        }
+      }{
+        if level=0{
+          parent anchor=south,
+          anchor=south,
+        }{},
+      },
+    },
+  }
+}
 
 % --- Defining bibliography backend and package ---
 
@@ -51,6 +109,7 @@
 \DeclareFieldFormat[online]{url}{Dostupné z: \url{#1}}
 
 \providetoggle{bbx:url}
+\settoggle{bbx:url}{true}
 
 % The url seen date of @online entries is always printed
 \renewbibmacro*{urldate}{%
