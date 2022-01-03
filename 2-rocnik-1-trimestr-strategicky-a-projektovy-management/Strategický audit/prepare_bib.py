@@ -2,7 +2,7 @@
 
 # ---
 # A Python script to parse bibfile and add online to all misc entries
-# Currently only misc is implemented, other types and types to ignore will have to be implemented
+# Currently only misc and online types are implemented
 # ---
 
 from typing import Iterable, Any, Tuple

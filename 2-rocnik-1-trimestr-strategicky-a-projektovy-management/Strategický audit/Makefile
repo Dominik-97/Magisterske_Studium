@@ -1,5 +1,5 @@
-TEXFILE := Strategický_audit
-BIBFILE := Zdroje/Zdroje.bib # 
+TEXFILE := Strategický_audit # Change name here
+BIBFILE := Zdroje/Zdroje.bib # Change bibliography here
 TEXENGINE=pdflatex
 BIBLATEX=biber
 BUILDFLAGS=-output-directory=out
@@ -8,9 +8,9 @@ BUILDTEX=$(TEXENGINE) $(BUILDFLAGS) $(TEXFILE)
 
 .PHONY: all
 .PHONY: prepareBib
-.PHONE: clear
+.PHONY: clear
 .PHONY: clean
-.PHONE: prepareOut
+.PHONY: prepareOut
 
 build: prepareBib prepareOut
 	$(BUILDTEX)
