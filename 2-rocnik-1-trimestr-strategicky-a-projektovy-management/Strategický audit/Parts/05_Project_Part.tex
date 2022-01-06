@@ -20,7 +20,9 @@ Tato změna se tak musí odrazit v několika oblastech:
 \begin{itemize}
 	\item procurementu\footfullcite{anon_sustainable_2013}\textsuperscript{,}\footfullcite{anon_using_2011} - především v rámci nákupu a používání věcí, které jsou vyrobeny z obnovitelných zdrojů a svojí výrobou neškodí přírodě,
 	\item dopravě\footfullcite{noauthor_co2_2019} - není možné rozšiřovat flotilu automobilů, společnost by měla podporovat sdílenou mobilitu a podporovat MHD,
-	\item a facility managementu\footfullcite{jayasena_environmental_2019} - především ve smyslu spotřeby energií z obnovitelných zdrojů a přizpůsobení nemovitých věcí nejnovějším a nejšětrnějším standardům a likvidace odpadů.	
+	\item a facility managementu\footfullcite{jayasena_environmental_2019} - především ve smyslu spotřeby energií z obnovitelných zdrojů a přizpůsobení nemovitých věcí nejnovějším a nejšětrnějším standardům a likvidace odpadů,
+	\item zapojení se do vnějších enviromentálních projektů,
+	\item marketing.
 \end{itemize}
 
 Co se rozpočtu na změnu týče, předpoklad je takový, že náklady na implementaci nebudou příliš vysoké v počáteční fázi. V rámci procurementu se jedná především o nakupování recyklovaných, netoxických, kompostovatelných, či biodegradabel, waste free předmětů. Dále například \textit{low power} elektrického příslušenství, většího využití solární energie, udržitelná obměna mobiliáře a podobně. Bez pochyby by se náklady na procurement zvýšily, nicméně s ohledem na to, že \textit{eco-friendly} produkty jsou čím dál tím dostupnější, přičemž jejich cena dlouhodobě kleasá.\\
@@ -28,6 +30,8 @@ Co se rozpočtu na změnu týče, předpoklad je takový, že náklady na implem
 V rámci dopravy je naopak možné uvažovat i o úspoře, místo nutnosti hradit povinné ručení, havarijní pojištění, pohonné hmoty a další náklady spojené s údržbou vozového parku, mohla by se společnost zaměřit například na redukovaný, avšak sdílený vozový park elektro automobilů, příspěvky na hromadnou dopravu, větší podporu homeoffice (s tím spojené omezení využívání kancelářských prostor) a podporu alternativních způsobů dopravy.\\
 
 V rámci linkvidace je zásadní se zaměřit na třídění odpadů a správnou likvidaci nebezpečných produktů - například ekologická likvidace počítačů. Ačkoli je s ekologickou likvidací spojena vyšší cena, tato není vzhledem k ziskům společnosti absolutně relevantní.\\
+
+V rámci zapojení se do vnějších enviromentálních procesů není možné náklady předem vyčíslit, odhat se příliš odvíjí od druhů projektů. Marketing rovněž není jednoduché odhadnout, v případě nejběžnějších kanálů lze však začít s již několika tisíci.\\
 
 Implementace těchto změn povede nejen k přispění společnosti k udržitelnosti, ale rovněž přispěje k jejímu dobrému ménu a může tak generovat potenciální nové příležitosti.\\
 
@@ -37,6 +41,8 @@ Implementace těchto změn povede nejen k přispění společnosti k udržitelno
 \label{sec:WBS}
 \addcontentsline{toc}{subsection}{\nameref{sec:WBS}}
 
+\begin{center}
+\resizebox{14cm}{10cm}{%
 \begin{tikzpicture}[
   level 1/.style={sibling distance=40mm},
   edge from parent/.style={->,draw},
@@ -47,7 +53,9 @@ Implementace těchto změn povede nejen k přispění společnosti k udržitelno
 % The first level, as children of the initial tree
   child {node[level 2] (c1) {Procurement}}
   child {node[level 2] (c2) {Doprava}}
-  child {node[level 2] (c3) {Facility management}};
+  child {node[level 2] (c3) {Facility management}}
+  child {node[level 2] (c4) {Vnější projekty}}
+  child {node[level 2] (c5) {Marketing}};
 
 % The second level, relatively positioned nodes
 \begin{scope}[every node/.style={level 3}]
@@ -57,15 +65,23 @@ Implementace těchto změn povede nejen k přispění společnosti k udržitelno
 \node [below of = c13, yshift=-12pt] (c14) {Nákup eco-friendly produktů};
 
 \node [below of = c2, xshift=15pt] (c21) {Doprava};
-\node [below of = c21] (c22) {Rozprodej stávajícího vozového parku};
-\node [below of = c22] (c23) {Zavedení příspěvku na hromadnou, sdílenou dopravu};
-\node [below of = c23] (c24) {Implementace alternativních způsobů dopravy};
-\node [below of = c24] (c25) {Nákup elektro automobilů};
-\node [below of = c25] (c26) {Vytvoření malého sdíleného vozového parku};
+\node [below of = c21, yshift=-7pt] (c22) {Rozprodej stávajícího vozového parku};
+\node [below of = c22, yshift=-30pt] (c23) {Zavedení příspěvku na hromadnou, sdílenou dopravu};
+\node [below of = c23, yshift=-35pt] (c24) {Implementace alternativních způsobů dopravy};
+\node [below of = c24, yshift=-20pt] (c25) {Nákup elektro automobilů};
+\node [below of = c25, yshift=-20pt] (c26) {Vytvoření malého sdíleného vozového parku};
 
-\node [below of = c3, xshift=15pt, yshift=-15pt] (c31) {Ekologická likvidace odpadů};
-\node [below of = c31, yshift=-25pt] (c32) {Přizpůsobení nejvyšším enviromentálním standardům};
-\node [below of = c32, yshift=-30pt] (c33) {Spotřeba energií z obnovitelných zdrojů};
+\node [below of = c3, xshift=15pt, yshift=-7pt] (c31) {Research dotací};
+\node [below of = c31, yshift=-8pt] (c32) {kologická likvidace odpadů};
+\node [below of = c32, yshift=-18pt] (c33) {Přizpůsobení nejvyšším enviromentálním standardům};
+\node [below of = c33, yshift=-30pt] (c34) {Spotřeba energií z obnovitelných zdrojů};
+
+\node [below of = c4, xshift=15pt] (c41) {Research};
+\node [below of = c41] (c42) {Zapojení};
+
+\node [below of = c5, xshift=15pt] (c51) {Definice};
+\node [below of = c51] (c52) {Research};
+\node [below of = c52] (c52) {Kampaně};
 
 %\node [below of = c4, xshift=15pt] (c41) {Default arrows};
 %\node [below of = c41] (c42) {Arrow library};
@@ -87,6 +103,8 @@ Implementace těchto změn povede nejen k přispění společnosti k udržitelno
 %\foreach \value in {1,...,5}
 %	\draw[->] (c4.195) |- (c4\value.west);
 \end{tikzpicture}
+}
+\end{center}
 
 % k výše uvedenému autoři nepokládají za nutné rozšiřovat aktivity společ
 
