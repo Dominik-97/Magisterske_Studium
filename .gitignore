@@ -32,3 +32,6 @@
 
 # Ignore obsidian files
 */.obsidian/*
+
+# Ignore all pdfs in Strategicky Audit Parts Folder
+2-rocnik-1-trimestr-strategicky-a-projektovy-management/Strategický\ audit/Parts/*.pdf
