@@ -187,21 +187,49 @@ Asi ovládnout trh.
 
 Asi takticky ovládnout trh.
 
+\newpage
+
 \section*{E. Odhad diskontních faktorů}
 \label{sec:Odhad diskontnich faktoru}
 \addcontentsline{toc}{subsection}{\nameref{sec:Odhad diskontnich faktoru}}
 
-Níže autoři uvádějí odhad diskontních faktorů. Před vysvětlením a vyhodnocením dat v tabulce autoři považují za vhodné definovat základní metriky použité k výpočtu.\\
+Níže autoři uvádějí odhad diskontních faktorů. Před vysvětlením a vyhodnocením dat v tabulce autoři považují za vhodné definovat základní metriky použité k výpočtu a vzorec.\\
 
-\textbf{WACC}\\
+\noindent\textbf{WACC vzorec}\\
 
-$WACC = r_e * \frac{E}{C} + r_d * \frac{D}{C} * (1 - t)$
+\begin{center}
+$WACC = r_e * \frac{E}{C} + r_d * \frac{D}{C} * (1 - t)$\\
+\end{center}
 
-kde:
+kde:\\
 
-\begin{enumerate}
-	
-\end{enumerate}
+\begin{itemize}
+	\item $r_e$ náklady vlastního kapitálu
+	\item $E$ objem vlastního kapitálu
+	\item $C$ celkový kapitál (bilanční suma, součet vlastních a cizích zdrojů)
+	\item $r_d$ náklady na cizí kapitál (placené úroky dělené dlouhodobým cizím kaptálem)
+	\item $D$ cizí úročený kapitál
+	\item $t$ sazba z daně z příjmu (daňový štít)
+\end{itemize}
+
+\noindent\textbf{Výpočet základních metrik použitých pro výpočet WACC}
+
+\begin{itemize}
+	\item náklady vlastního kapitálu: $8.07\%$\footfullcite{damodoran_aswath_eva_2020}%$19\%$
+	\item objem vlastího kapitálu: $26\ 871$ (v tisících Kč)\footfullcite[Účetní závěrka za rok 2019]{proxy_justice}
+	\item celkový kapitál: $26\ 871 + 15 423 = 42\ 294$ (v tisících Kč)\footnote{Tamtéž.}
+	\item náklady na cizí kapitál: $\frac{0}{15\ 423} = 0$ (v tisících Kč)\footnote{Tamtéž.}
+	\item cizí úročený kapitál: $15\ 423$ (v tisících Kč)\footnote{Tamtéž.}
+	\item sazba daně z příjmu: $19\%$ (v tisících Kč)\footnote{Tamtéž.}
+\end{itemize}
+
+Výsledný vzorec lze tedy napsat jako:
+
+\begin{center}
+$WACC = 0.0807 * \frac{26\ 871}{42\ 294} + 0 * \frac{15\ 423}{42\ 294} * (1 - 0.19)$	
+\end{center}
+
+WACC je pro společnost PROXY a.s. tedy $0,051271804511278$.
 
 
 \begin{table}[!htbp]
