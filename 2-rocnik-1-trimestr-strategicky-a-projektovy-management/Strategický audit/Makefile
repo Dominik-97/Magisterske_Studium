@@ -11,6 +11,14 @@ BUILDTEX=$(TEXENGINE) $(BUILDFLAGS) $(TEXFILE)
 .PHONY: clear
 .PHONY: clean
 .PHONY: prepareOut
+.PHONY: buildStandalone
+
+buildStandalone: prepareOut
+	$(BUILDTEX)
+	$(BIBLATEX) $(FOLDER)/$(TEXFILE)
+	$(BUILDTEX)
+	$(BUILDTEX)
+	cp out/$(TEXFILE).pdf .
 
 build: prepareBib prepareOut
 	$(BUILDTEX)
@@ -32,9 +40,10 @@ clean:
 	@rm -rf $(FOLDER);
 
 help:
-	@echo "build:    Generate pdf file."; \
-	 echo "clear:    Delete all generated files."; \
-	 echo "clean:    Delete all temporary files."; \
-	 echo "help:     Print help for Makefile."
+	@echo "buildStandalone:    Generate pdf file without preparing the bib file."; \
+	 echo "build:    	   Generate pdf file."; \
+	 echo "clear:    	   Delete all generated files."; \
+	 echo "clean:    	   Delete all temporary files."; \
+	 echo "help:     	   Print help for Makefile."
 
 all: build clean
