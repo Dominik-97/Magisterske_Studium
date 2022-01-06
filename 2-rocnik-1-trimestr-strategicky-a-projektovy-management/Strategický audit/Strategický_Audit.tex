@@ -1,0 +1,222 @@
+\documentclass[table,xcdraw]{article}
+
+% --- Import packages ---
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[headheight=2cm,]{geometry}
+\usepackage[most]{tcolorbox}
+\usepackage{lipsum}
+\usepackage{pgfplots}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage[hyphens, spaces, obeyspaces]{url}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{breaklinks=true}
+\usepackage{forest}
+\usepackage{footnote}
+
+% --- Define tikz libraries for the generation of a diagrams ---
+
+\usetikzlibrary{shapes.geometric, arrows,shapes,positioning,shadows,trees}
+
+% --- Define footfullcite for figures ---
+
+\makesavenoteenv{figure}
+
+% --- Define newcommand for inputing files to not throw errors during the compilationg if the file does not exist ---
+
+\newcommand\inputfile[1]{%
+    \InputIfFileExists{#1}{}{\typeout{No file #1.}}%
+}
+
+% --- Rename the TOC, TOF, TOT ---
+
+\renewcommand{\contentsname}{Obsah}
+\renewcommand{\listfigurename}{Seznam grafů a obrázků}
+\renewcommand{\listtablename}{Seznam tabulek}
+
+% --- Define tikz objects for the diagrams ---
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=red!30]
+\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!30]
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=orange!30]
+\tikzstyle{decision} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=green!30]
+\tikzstyle{arrow} = [thick, ->, >=stealth]
+
+% --- Define forest set ---
+
+\forestset{
+  direction switch/.style={
+    for tree={
+      if level=3{}{draw},
+      thick,
+      edge={thick},
+      if level=1{
+        child anchor=north,
+        edge path={
+          \noexpand\path [\forestoption{edge}] (!u.parent anchor) -- ++(0,-.5em) -| (.child anchor)\forestoption{edge label};
+        },
+        s sep+=.5em,
+        for descendants={
+          child anchor=west,
+          align=left,
+          edge path={
+            \noexpand\path [\forestoption{edge}] (!u.parent anchor) ++(1em,0) |- (.child anchor)\forestoption{edge label};
+          },
+          fit=band,
+        },
+        for tree={
+          parent anchor=south west,
+          anchor=mid west,
+          grow'=0,
+          font=\sffamily,
+          if n children=0{}{
+            delay={
+              prepend={[,phantom, calign with current]}
+            }
+          },
+          before computing xy={
+            l=2em
+          },
+        },
+        before drawing tree={
+          x/.wrap pgfmath arg={##1}{.6*x()},
+          for children={
+            x/.wrap pgfmath arg={##1+1em}{.6*x()},
+            for children={
+              x/.wrap pgfmath arg={##1+2em}{.6*x()},
+            }
+          }
+        }
+      }{
+        if level=0{
+          parent anchor=south,
+          anchor=south,
+        }{},
+      },
+    },
+  }
+}
+
+\tikzset{
+  basic/.style  = {draw, text width=2cm, drop shadow, font=\sffamily, rectangle},
+  root/.style   = {basic, rounded corners=2pt, thin, align=center,
+                   fill=green!30},
+  level 2/.style = {basic, rounded corners=6pt, thin,align=center, fill=green!60,
+                   text width=8em},
+  level 3/.style = {basic, thin, align=left, fill=pink!60, text width=6.5em}
+}
+
+% --- Defining bibliography backend and package ---
+
+\usepackage[backend=biber,defernumbers=true,style=iso-authoryear,]{biblatex}
+\addbibresource{Zdroje/Zdroje.bib}
+
+% --- Change field style for misc and online resources ---
+
+\DeclareFieldFormat[misc]{urldate}{[cit. #1].}
+\DeclareFieldFormat[misc]{howpublished}{[#1].}
+\DeclareFieldFormat[misc]{url}{Dostupné z: \url{#1}}
+\DeclareFieldFormat[report]{url}{Dostupné z: \url{#1}}
+\DeclareFieldFormat[article]{url}{Dostupné z DOI: \url{#1}}
+\DeclareFieldFormat[online]{urldate}{[cit. #1].}
+\DeclareFieldFormat[online]{url}{Dostupné z: \url{#1}}
+
+\providetoggle{bbx:url}
+\settoggle{bbx:url}{true}
+
+% The url seen date of @online entries is always printed
+\renewbibmacro*{urldate}{%
+  % if there is no publisher specified in the bib file, set unit to period
+  \ifboolexpr{%
+    test {\iflistundef{publisher}}%
+    and test {\iflistundef{location}}%
+  }{\setunit{\adddot\addspace}}%
+  {\setunit{\addspace}}%
+  \ifboolexpr{
+    test {\iftoggle{bbx:url}}
+    or test {\ifentrytype{online}}
+  }
+    {\printurldate}%
+    {}%
+}
+
+% --- Defining new thicker hline ---
+
+\makeatletter
+\newcommand{\thickhline}{%
+    \noalign {\ifnum 0=`}\fi \hrule height 1pt
+    \futurelet \reserved@a \@xhline
+}
+
+% --- Defining a set of colors ---
+
+\definecolor{brown}{RGB}{149,36,47}
+
+% --- Set pgfplotsset ---
+\pgfplotsset{compat=1.16}
+
+% --- Define page styles ---
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\chead{\includegraphics{Images/School_Logo.png}}
+\cfoot{\thepage}
+
+\fancypagestyle{plain}{%
+  	\fancyhf{}% Clear header/footer
+  	\renewcommand{\headrulewidth}{0pt}
+	\fancyhead{}
+	\chead{\includegraphics{Images/School_Logo.png}}
+	\cfoot{\thepage}
+}
+
+% --- Define newtcolorbox environment ---
+\newtcolorbox{lefttextpipe}{
+	enhanced jigsaw,
+    breakable=true,
+    outer arc=0pt,
+    arc=0pt,
+    colback=white,
+    rightrule=0pt,
+    leftrule=2pt,
+    toprule=0pt,
+    top=0pt,
+    right=-3pt,
+    bottom=4pt,
+    bottomrule=0pt,
+    colframe=black,
+    enlarge left by=15pt,
+    width=\linewidth - 15pt,
+    colframe=brown,
+    enlarge left by=-20pt 
+}
+
+% --- Define variable file ---
+\input{variables.tex}
+
+% --- Define date format ---
+
+\def\shortdateformat{\leavevmode\hbox{\twodigits\day.\twodigits\month.\the\year}}
+\def\twodigits#1{\ifnum#1<10 0\fi\the#1}
+
+% --- Define maketitle values ---
+\author{\Authors}
+\date{\InformationOfTheWork, \shortdateformat}
+\title{\TitleOfTheWork}
+
+% --- Begin the document ---
+\begin{document}
+
+% --- Import the individual parts of the documents ---
+\include{Parts/01_Introduction}
+\include{Parts/02_Surroundings}
+\include{Parts/03_Internal}
+\include{Parts/04_Recommendation}
+\include{Parts/05_Project_Part}
+\include{Parts/06_Bibliography}
+	
+\end{document}

@@ -1,0 +1,59 @@
+\newcommand\HorizontalSpaceBetweenNodes{2cm}
+\newcommand\MinimumWidthOfNodes{6cm}
+\newcommand\NodesXShift{0.3cm}
+\newcommand\MinimumWidthOfLeftAndRightNodes{2.6cm}
+
+\begin{center}
+\begin{tikzpicture}[node distance=\HorizontalSpaceBetweenNodes]
+	
+	% --- Starting node ---
+	\node (start) [startstop] {SWOT / SFAS};
+	
+	% --- First left node ---
+	\coordinate [below left of=start, node distance=\HorizontalSpaceBetweenNodes, xshift=-\HorizontalSpaceBetweenNodes] (update) {};
+	\node (start1) [startstop, below left of=start, minimum width=\MinimumWidthOfNodes, xshift=-\HorizontalSpaceBetweenNodes, yshift=-\HorizontalSpaceBetweenNodes] {Vnější - PESTEL/STEEP (O+T)};
+	
+	% --- First right node ---
+	\coordinate [below right of=start, node distance=\HorizontalSpaceBetweenNodes, xshift=\HorizontalSpaceBetweenNodes] (update2) {};
+	\node (start2) [startstop, below right of=start, minimum width=\MinimumWidthOfNodes, xshift=\HorizontalSpaceBetweenNodes, yshift=-\HorizontalSpaceBetweenNodes] {Vnitřní (S+W)};
+	
+	% --- Second left nodes ---
+	\coordinate [below left of=start1, node distance=\HorizontalSpaceBetweenNodes, xshift=-\NodesXShift] (update3) {};
+	\node (start3) [startstop, below left of=start1, minimum width=\HorizontalSpaceBetweenNodes, xshift=-\NodesXShift, yshift=-\HorizontalSpaceBetweenNodes] {Odvětvové analýzy};
+	\coordinate [below right of=start1, node distance=\HorizontalSpaceBetweenNodes, xshift=\NodesXShift] (update4) {};
+	\node (start4) [startstop, below right of=start1, minimum width=\HorizontalSpaceBetweenNodes, xshift=\NodesXShift, yshift=-\HorizontalSpaceBetweenNodes] {Makro analýzy};
+	
+	
+	% --- Second right nodes ---
+	\coordinate [below left of=start2, node distance=\HorizontalSpaceBetweenNodes, xshift=-\NodesXShift] (update5) {};
+	\node (start5) [startstop, below left of=start2, minimum width=\HorizontalSpaceBetweenNodes, xshift=-\NodesXShift, yshift=-\HorizontalSpaceBetweenNodes] {Zdroje a schopnosti};
+	\coordinate [below right of=start2, node distance=\HorizontalSpaceBetweenNodes, xshift=\NodesXShift] (update6) {};
+	\node (start6) [startstop, below right of=start2, minimum width=\HorizontalSpaceBetweenNodes, xshift=\NodesXShift, yshift=-\HorizontalSpaceBetweenNodes] {Podnik jako systém};
+	
+	% --- Third left nodes ---
+	
+	\node (start7) [startstop, below of=start3, minimum width=\MinimumWidthOfLeftAndRightNodes] {Porter};
+	\node (start8) [startstop, below of=start4, minimum width=\MinimumWidthOfLeftAndRightNodes] {$u, \pi, FX, HDP$};
+	
+	% --- Third right nodes ---
+	
+	\node (start9) [startstop, below of=start5, minimum width=\MinimumWidthOfLeftAndRightNodes] {VRIO};
+	\node (start10) [startstop, below of=start6, minimum width=\MinimumWidthOfLeftAndRightNodes, align=center] {Organizační\\(ne)efektivnost};
+	
+	\draw [arrow] (start) |- (update) -- (start1);
+	\draw [arrow] (start) |- (update2) -- (start2);
+	
+	\draw [arrow] (start1) |- (update3) -- (start3);
+	\draw [arrow] (start1) |- (update4) -- (start4);
+	
+	\draw [arrow] (start2) |- (update5) -- (start5);
+	\draw [arrow] (start2) |- (update6) -- (start6);
+	
+	\draw [arrow] (start3) -- (start7);
+	\draw [arrow] (start4) -- (start8);
+	
+	\draw [arrow] (start5) -- (start9);
+	\draw [arrow] (start6) -- (start10);
+	
+\end{tikzpicture}
+\end{center}
