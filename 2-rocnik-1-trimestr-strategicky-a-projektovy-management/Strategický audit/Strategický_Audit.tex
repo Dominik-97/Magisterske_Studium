@@ -33,6 +33,7 @@
 % --- Define footfullcite for figures ---
 
 \makesavenoteenv{figure}
+\makesavenoteenv{table}
 
 % --- Define newcommand for inputing files to not throw errors during the compilationg if the file does not exist ---
 
@@ -98,7 +99,7 @@
         before drawing tree={
           x/.wrap pgfmath arg={##1}{.6*x()},
           for children={
-            x/.wrap pgfmath arg={##1+1em}{.6*x()},
+            x/.wrap pgfmath arg={##1+0.5em}{.6*x()},
             for children={
               x/.wrap pgfmath arg={##1+2em}{.6*x()},
             }
