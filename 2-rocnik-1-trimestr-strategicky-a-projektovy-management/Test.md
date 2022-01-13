@@ -167,7 +167,7 @@ Faktory ovlivňující strategii v životním cyklu (viz Kapitola 5.):
 - Multi-produktovost - Pro každý produkt sestavujeme životní cyklus a to v rámci podnikové jednotky (BU)
   - obvykle nesledujeme produktovou konkurenci více podniků ve stejné skupině podniků.
 - Na BU hledíme jako souhrn produktových životních cyklů - souhrn produktových životních cyklů dopadá na životní cyklus projektu.
-
+  - Toto děláme podle trhů, na kterých působí.
 
 ## 33. Aktivity spojené s procesem přípravy a zahájení projektu?
 
