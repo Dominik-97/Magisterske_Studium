@@ -53,6 +53,71 @@ Hierarchie druhů řízení by se tedy dala zapsat následovně:
 
 ## 4. Rozlište vnitřní, soutěžní, společenské a globální prostředí?
 
+Faktory ovlivňující strategii v životním cyklu lze obecně charakterizovat následovně:
+
+- Externí faktory
+  - Globální okolí
+    - Společenské okolí
+      - Soutěžní vnější okolí
+- Interní faktory
+  - Vnitřní okolí
+
+Vnitřní faktory jsou faktory organizace, které může subjekt nějak ovlivňovat jako:
+
+- Cíle, hodnoty
+- Zdroje a možnosti
+- Struktura a systém
+- Organizační struktura
+- Zaměstnanecká struktura
+- Business plán, model
+- Nákladová struktura
+- Motivace
+- etc.
+
+Okolí, respektive externí, nebo vnější faktory jsou faktory organizace, které (ne)může subjekt přímo nějak ovlivnit, nebo na ně má malý vliv, jako:
+
+- Konkurence
+- Zákazníci
+- Dodavatelé
+- etc.
+
+Subjekt tak na externí faktory musí reagovat změnami v interním okolí a revidovat svojí strukturu a plány, aby byl rentabilní a konkurenceschopným podnikem.
+
+Pokud bude mít **Externí** a **Interní** faktory pokryté - má úspěšnou strategii.
+
+Úspěšná strategie se tedy musí zaměřit jak na externí okolí, tak i na interní okolí, i na samotné interní fungování podniku.
+
+Úspěšná strategie efektivně implementuje:
+
+- jasné a konzistentní dlouhodobé cíle vzhledem k vnitřním a vnějším faktorům,
+- Důkladné pochopení konkurenčního prostředí
+- Objektivní posouzení dostupných zdrojů
+- **Unique value proposition**
+
+Strategie by tedy měla zahrnovat:
+
+**Otázku: Kde jsme teď?**
+
+- Kde konkurujeme?
+  - Geograficky,
+  - Produktově,
+  - etc.
+
+- Jak konkurujeme?
+  - Naše konkurenční výhoda.
+
+**Otázku: Kam směřujeme?**
+
+- Čím se chceme stát?
+  - Vize organizace
+
+- Čeho chceme dosáhnout?
+  - Mise organizace
+  - Výkonnostní cíle
+
+- Jak se tam dostaneme?
+  - Priority pro kapitálové výdaje, výzkum a vývoj, organický růst vs. M&A, spojenectví…atd.
+
 ## 5. Rozlište korporátní, obchodní a funkční strategii
 
 Faktory obvyklé pro velké podniky:
@@ -173,11 +238,12 @@ Další negativní/pozitivní faktury ovlivňující cyklus:
 
 - Mezinárodní trhy, kurzové riziko - inflace, depreciace
 - Zadlužení podniku a nákladová struktura (Podniky s vyššími fixními náklady a bez možnosti outsourcingu jsou méně flexibilní a v případě problému (pokles poptávky, výpadek produkce, COVID 19 apod.) musí platit vysoké náklady (za cizí kapitál, za nájmy, energie, platy…) a jsou tak pro investory (anebo vlastníky) rizikovým subjektem na trhu.)
-- Interní faktory
+- Interní a externí faktory (Viz Kapitola 4)
 - Externí faktory
   - Globální okolí,
   - Společenské okolí,
   - Soutěžní vnější okolí
+- Interní faktory
 
 Životní cyklus produktů se sestává opět z několika částí:
 
