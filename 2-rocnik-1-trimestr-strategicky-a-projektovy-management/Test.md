@@ -169,6 +169,24 @@ Faktory ovlivňující strategii v životním cyklu (viz Kapitola 5.):
 - Na BU hledíme jako souhrn produktových životních cyklů - souhrn produktových životních cyklů dopadá na životní cyklus projektu.
   - Toto děláme podle trhů, na kterých působí.
 
+Další negativní/pozitivní faktury ovlivňující cyklus:
+
+- Mezinárodní trhy, kurzové riziko - inflace, depreciace
+- Zadlužení podniku a nákladová struktura (Podniky s vyššími fixními náklady a bez možnosti outsourcingu jsou méně flexibilní a v případě problému (pokles poptávky, výpadek produkce, COVID 19 apod.) musí platit vysoké náklady (za cizí kapitál, za nájmy, energie, platy…) a jsou tak pro investory (anebo vlastníky) rizikovým subjektem na trhu.)
+- Interní faktory
+- Externí faktory
+  - Globální okolí,
+  - Společenské okolí,
+  - Soutěžní vnější okolí
+
+Životní cyklus produktů se sestává opět z několika částí:
+
+1. Vývoj (Standardně 0 tržby, negativní zisk)
+2. Zavádění (Rostoucí tržby, zisk stále záporný)
+3. Růst (Zvyšující se zisk, který přeroste do pozitiva)
+4. Zralost (Vyvážený zisk)
+5. Úpadek (Začátek poklesu)
+
 ## 33. Aktivity spojené s procesem přípravy a zahájení projektu?
 
 ## 34. Aktivity spojené s procesem plánování projektu?
