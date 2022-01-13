@@ -66,6 +66,8 @@ Vlastníci větších skupin podniků (holdingů), tím snižují rizikovost cel
 
 Obecné rozdíly mezi korporátní, obchodní a funkční strategií:
 
+Záleží, zda se jedná o jednu business unit, tak strategie mohou splývat, pokud se jedná o více BU, může být obchodní strategie, obchodní plán a obchodní model pro každou BU jiný, pak by to dopadlo i strategii, která by vypadala spíše následovně (to však neznamená, že nemůže být pro všechny BU stejná):
+
 splívají v jednu obchodní strategie, obchodní plán, obchodní model
 
 ## 6. Popište, co je to obchodní model a uveďte tři příklady obchodního modelu.
