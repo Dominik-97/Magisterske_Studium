@@ -68,7 +68,11 @@ Obecné rozdíly mezi korporátní, obchodní a funkční strategií:
 
 Záleží, zda se jedná o jednu business unit, tak strategie mohou splývat, pokud se jedná o více BU, může být obchodní strategie, obchodní plán a obchodní model pro každou BU jiný, pak by to dopadlo i strategii, která by vypadala spíše následovně (to však neznamená, že nemůže být pro všechny BU stejná):
 
-splívají v jednu obchodní strategie, obchodní plán, obchodní model
+- Korporátní strategie - Celkový pohled na směřování organizace a řízení vlastněných podniků ve skupině.
+  - Obchodní strategie BU 1 - Tržní strategie daného podniku
+    - Funkční strategie BU 1 - Uvnitř podniku - jednotlivé procesy, klíčové ukazatele.
+  - Obchodní strategie BU 2
+    - Funkční strategie BU 2
 
 ## 6. Popište, co je to obchodní model a uveďte tři příklady obchodního modelu.
 
@@ -157,6 +161,13 @@ Jak zvládnout krizi středního věku:
   3. Formulace nové strategie
   4. Zavedení strategie
   5. Opakování tohoto procesu
+
+Faktory ovlivňující strategii v životním cyklu (viz Kapitola 5.):
+
+- Multi-produktovost - Pro každý produkt sestavujeme životní cyklus a to v rámci podnikové jednotky (BU)
+  - obvykle nesledujeme produktovou konkurenci více podniků ve stejné skupině podniků.
+- Na BU hledíme jako souhrn produktových životních cyklů - souhrn produktových životních cyklů dopadá na životní cyklus projektu.
+
 
 ## 33. Aktivity spojené s procesem přípravy a zahájení projektu?
 
