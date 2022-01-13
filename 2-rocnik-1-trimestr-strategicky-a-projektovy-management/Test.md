@@ -53,7 +53,18 @@ Hierarchie druhů řízení by se tedy dala zapsat následovně:
 
 ## 4. Rozlište vnitřní, soutěžní, společenské a globální prostředí?
 
-## 5. Rozlište korporátní, obchodní a funkční strategii.
+## 5. Rozlište korporátní, obchodní a funkční strategii
+
+Faktory obvyklé pro velké podniky:
+
+- horizontální a vertikální spojování podniků (fůze, akvizice), strategické spojování
+  - horizontální: spojování společností na stejné úrovni dodavatelského řetězce,
+  - vertikální: spojování společností na rozdílné úrovni dodavatelského řetězce,
+  - strategické: spojování společností s úplně jiným obchodním modelem, business plánem, vizema, druhem podnikání (například akvizice společnosti zabývající se cateringem a jídlem společností prodávající tabákové výrobky)
+
+Vlastníci větších skupin podniků (holdingů), tím snižují rizikovost celku. Na podnik jako takový hledíme jako na souhrn skupin jednotlivých podniků (BU, business unit) - ty mohou být multi-produktové (detail funkční strategie) - viz strategické spojování.
+
+Obecné rozdíly mezi korporátní, obchodní a funkční strategií:
 
 ## 6. Popište, co je to obchodní model a uveďte tři příklady obchodního modelu.
 
