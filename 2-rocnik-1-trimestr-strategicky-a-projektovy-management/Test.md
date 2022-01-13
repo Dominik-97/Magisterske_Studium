@@ -66,6 +66,8 @@ Vlastníci větších skupin podniků (holdingů), tím snižují rizikovost cel
 
 Obecné rozdíly mezi korporátní, obchodní a funkční strategií:
 
+splívají v jednu obchodní strategie, obchodní plán, obchodní model
+
 ## 6. Popište, co je to obchodní model a uveďte tři příklady obchodního modelu.
 
 ## 7. Jaké jsou v současnosti spouštěcí událost, které vybízejí ke změně strategie?
