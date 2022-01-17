@@ -126,7 +126,37 @@ O platební neschopnost se jedná jestliže dlužník:
 
 ### Způsoby řešení úpadku
 
+Způsoby řešení úpadků jsou tři druhy, **sanační** a **likvidační** a **zvláštní způsoby řešení úpadku** - vyhlašuje se rozhodnutím:
+
+- sanační:
+  - oddlužení,
+  - reorganizace,
+- likvidační,
+  - konkurz a
+- zvláštní způsoby řešení úpadku,
+  - nepatrný konkurz,
+  - úpadek.
+
 ### Zásady insolvenčního práva
+
+- Spravedlivé vyrovnání (zákaz nespravedlivého poškození, nebo zvýhodnění kteréhokoliv z věřitelů),
+- rychlost,
+- hospodárnost,
+- co nejvyšší uspokojení věřitelů,
+- rovnost věřitelů,
+- nemožnost omezení práv nabytích v dobré víře,
+- zákaz jednání vedoucího k uspokojení pohledávek mimo insolvenční zákon, ledaže to povoluje zákon.
 
 ### Výjimky z působnosti zákona
 
+- stát,
+- územní samosprávný celek,
+- ČNB,
+- VZP,
+- Garanční systém finančního trhu a jím spravované fondy,
+- Garanční fondy obchodníků se cennými papíry,
+- veřejnou VŠ,
+- PO pokud se stát, nebo ÚSC před zahájením IZ zaručil za její dluhy, nebo její dluhy převzal,
+- finanční instituce po dobu co mají licenci,
+- zdravotní pojišťovnu zřízenou podle zvláštního předpisu po dobu co mají licenci,
+- politickou stranu nebo hnutí v době voleb.
