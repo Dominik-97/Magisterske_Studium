@@ -67,3 +67,60 @@ Krom individuálního podnikání, tak existuje spoustu jiných forem, prostřed
 > Motivace a očekávání při správě korporace a ex ante význam insolvenčního práva (existence
 hrozícího úpadku, hospodářské nedostatečnosti, moratoria, zajištění apod.).
 
+## Motivace a očekávání při správě korporace
+
+## Ex ante význam insolvenčního práva
+
+### Co je insolvenční právo?
+
+Otázku poskytuje §1 Předmět úpravy:
+
+> Tento zákon upravuje
+> a) řešení úpadku a hrozícího úpadku dlužníka soudním řízením některým ze stanovených způsobů tak, aby došlo k uspořádání majetkových vztahů k osobám dotčeným dlužníkovým úpadkem nebo hrozícím úpadkem a k co nejvyššímu a zásadně poměrnému uspokojení dlužníkových věřitelů,
+> b) oddlužení dlužníka.
+
+Subsidiárně je možné použít občanský soudní řád a zákon o zvláštních řízeních soudních.
+
+Věcnou příslušnost mají krajské soudy.
+
+Místní příslušností je obecně místní soud dlužníka.
+
+### Základní pojmy pro pochopení insolvenčního práva:
+
+- insolvenční řízení: soudní řízení - předmět je dlužníkův úpadek, nebo hrozící úpadek a způsob jeho řešení,
+- insolvenční soud: soud u kterého probíhá insolvenční řízení,
+- insolvenční návrh: jedná se o návrh na zahájení insolvenčního řízení podaný soudu,
+- incidenční spor: spor v rámci insolvenčního řízení podle zákona, projednává ho insolvenční soud,
+- majetková podstata: majetek dlužníka určený k uspokojení věřitelů,
+- osoba s dispozičními oprávněními: osoba oprávněná nakládat s majetkovou podstatou,
+- zajištěný věřitel: věřitel jehož pohledávka je zajištěna majetkem, který spadá do majetkové podstaty
+- přihláška pohledávky: procesní úkon přihlášení pohledávky do insolvenčního řízení
+- insolvenční rejstřík: rejstřík obsahující údaje podle insolvenčního zákona, vede ho příslušný rejstříkový soud - krajský,
+- společný zájem věřitelů: zájem věřitelů nadřazený jejich individuálním zájmům,
+- fianční instituce: banky etc., stanovené zákonem.
+
+### Co je to úpadek, kdy je dlužník v úpadku?
+
+Aby mohlo započít insolvenční řízení rozhoduje soud, zda je dlužník v **úpadku**, být v úpadku je tedy základní prerekvizitou pro to, aby mohlo proběhnout insolvenční řízení (insolvence).
+
+Existují dvě, respektive tři formy úpadku:
+
+- platební neschopnost,
+  - více věřitelů,
+  - **peněžité** závazky více než 30 dní po splatnosti,
+  - tyto závazky není schopen plnit (**platební neschopnost** - ta je fingována, viz bod níže), 
+- předlužení,
+- hrozící úpadek.
+
+#### Platební neschopnost
+
+O platební neschopnost se jedná jestliže dlužník:
+
+
+
+### Způsoby řešení úpadku
+
+### Zásady insolvenčního práva
+
+### Výjimky z působnosti zákona
+
