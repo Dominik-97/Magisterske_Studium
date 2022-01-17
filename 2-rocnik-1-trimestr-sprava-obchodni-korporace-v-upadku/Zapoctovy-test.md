@@ -185,7 +185,7 @@ Insolvenční správce může pro udržení nebo obnovení provozu podniku, kter
 
 ### Průběh insolvence
 
-- Lze zahájit pouze na návrh, zahajuje se dnem kdy dojde návrh na zahájení insolvenčního řízení.
+- Lze zahájit pouze na návrh, zahajuje se dnem kdy dojde návrh na zahájení insolvenčního řízení pokud ho podává dlužník a chce dosáhnout odlužení, musí rovněž připojit návrh na oddlužení.
 - Návrh může podat dlužník, nebo věřitel, jde-li o hrozící úpadek, může jej podat pouze dlužník.
 - Dlužník (popřípadě zákonní zástupci dlužníka, jeho statutární orgán a likvidátor), který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku. Tuto povinnost má i tehdy, byl-li pravomocně zastaven výkon rozhodnutí prodejem jeho podniku nebo exekuce podle zvláštního právního předpisu4) proto, že cena majetku náležejícího k podniku nepřevyšuje výši závazků náležejících k podniku; to neplatí, má-li dlužník ještě jiný podnik.
 - Pokud osoba, která měla podat návrh (viz přeechozí bod) takto neučinila, odpovídá věřiteli za škodu nebo jinou újmu, kterou způsobí porušením této povinnosti - lze se jí zprostit (pokud by porušení nemělo vliv na konečný rozsah částky vydané k uspokojení věřitelů, nebo že tuto povinnost nesplnila vzhledem ke skutečnostem, které nastaly nezávisle na její vůli a které nemohla odvrátit ani při vynaložení veškerého úsilí, které lze po ní spravedlivě požadovat).
