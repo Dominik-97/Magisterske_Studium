@@ -206,3 +206,19 @@ Navrhovatel (věřitel) musí složit zálohu na náklady insolvenčního říze
 - a další body.
 
 #### Moratorium
+
+Dlužník, který je podnikatelem, může do 7 dnů od podání insolvenčního návrhu, a jde-li o insolvenční návrh věřitele, do 15 dnů od jeho doručení insolvenčním soudem, navrhnout insolvenčnímu soudu vyhlášení moratoria; toto právo nemá právnická osoba v likvidaci.
+
+Moratorium je účinné od okamžiku zveřejnění rozhodnutí o jeho vyhlášení v insolvenčním rejstříku a trvá po dobu uvedenou v návrhu na moratorium, nejdéle však 3 měsíce.
+
+Insolvenční soud může na návrh dlužníka prodloužit moratorium nejdéle o 30 dnů, jestliže dlužník k takovému návrhu připojí ke dni podání návrhu aktualizovaný seznam závazků a písemné prohlášení většiny jeho věřitelů, počítané podle výše jejich pohledávek, že s prodloužením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
+
+Po dobu trvání moratoria nelze vydat rozhodnutí o úpadku.
+
+Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachovány účinky spojené se zahájením insolvenčního řízení.
+
+**Účinky moratoria:**
+
+1. Závazky bezprostředně souvisící se zachováním provozu podniku vzniklé v posledních 30 dnech před vyhlášením moratoria nebo po něm je dlužník po dobu trvání moratoria oprávněn hradit přednostně před dříve splatnými závazky.
+2. Smlouvy na dodávky energií a surovin, jakož i další smlouvy o dodávkách zboží a služeb, které ke dni vyhlášení moratoria trvaly alespoň po dobu 3 měsíců, nemůže druhý účastník smlouvy po dobu trvání moratoria vypovědět nebo od nich odstoupit pro prodlení dlužníka s placením úhrady za zboží nebo služby, ke kterému došlo před vyhlášením moratoria, nebo pro zhoršení majetkové situace dlužníka, hradí-li dlužník na základě těchto smluv řádně a včas alespoň závazky podle odstavce 1.
+3. Započtení vzájemných pohledávek dlužníka a věřitele není po dobu trvání moratoria přípustné, ledaže insolvenční soud určí jinak předběžným opatřením. To platí i tehdy, jestliže zákonné podmínky tohoto započtení byly splněny před vyhlášením moratoria.
