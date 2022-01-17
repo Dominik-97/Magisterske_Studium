@@ -226,3 +226,24 @@ Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachová
 #### Rozhodnutí o úpadku
 
 Insolvenční soud vydá rozhodnutí o úpadku, je-li osvědčením nebo dokazováním zjištěno, že dlužník je v úpadku nebo že mu úpadek hrozí.
+
+#### Účinky spojené s rozhodnutím o úpadku
+
+- předběžná opatření trvají, soud je však může změnit,
+- započtení je upraveno pravidly zákony,
+- přerušují se zákonem stanovené druhy řízení,
+- zakazuje se vydat rozhodnutí ve stanovených druzích řízení, jako například v rozhodčím řízení,
+- nelze zahájit nová řízení týkající se pohledávek a jiných právech týkajících se majetkové pdostaty dlužníka,
+- nelze nařídit a zahájit výkon rozhodnutí, nebo exekuci,
+- odvolání je přípusté jenom ze strany dlužníka, pokud návrh podal věřitel.
+
+#### Jiná rozhodnutí o insolvenčním návrhu
+
+Mimo zahájení řízení a rozhodnutí o úpadku je možné:
+
+Jinými rozhodnutími o insolvenčním návrhu jsou
+
+- odmítnutí insolvenčního návrhu pro vady nebo pro zjevnou bezdůvodnost,
+- zastavení řízení pro nedostatek podmínky řízení, který nelze odstranit nebo který se nepodařilo odstranit, nebo pro zpětvzetí insolvenčního návrhu,
+- zamítnutí insolvenčního návrhu.
+
