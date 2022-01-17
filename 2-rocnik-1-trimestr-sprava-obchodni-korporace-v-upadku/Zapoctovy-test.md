@@ -145,7 +145,8 @@ Způsoby řešení úpadků jsou tři druhy, **sanační** a **likvidační** a 
 - co nejvyšší uspokojení věřitelů,
 - rovnost věřitelů,
 - nemožnost omezení práv nabytích v dobré víře,
-- zákaz jednání vedoucího k uspokojení pohledávek mimo insolvenční zákon, ledaže to povoluje zákon.
+- zákaz jednání vedoucího k uspokojení pohledávek mimo insolvenční zákon, ledaže to povoluje zákon,
+- jednotnost - další insolvenční návrh - přistoupení k řízení.
 
 ### Výjimky z působnosti zákona
 
@@ -192,3 +193,12 @@ Insolvenční správce může pro udržení nebo obnovení provozu podniku, kter
 Soud může návrh posoudit v takzvaném **předběžném posouzení insolvenčního návrhu podaného věřitelem**, ten se nemusí okamžitě zveřejňovat v insolvenčním rejstříku (například v případě podezření na šikanózní podání).
 
 Pokud se nejedná o bod výše, uveřejní insolvenční soud oznámení o zahájení insolvenčního řízení v insolvenčním rejstříku.
+
+Navrhovatel (věřitel) musí složit zálohu na náklady insolvenčního řízení.
+
+#### Účinky spojené se zahájením řízení
+
+- pohledávky nemohou být uplatněny žalobou, lze-li je uplatnit přihláškou,
+- uplatnění ráva ze zajištění podléha podmínkám zákonu,
+- výkon rozhodnutí či exekuci lze nařídit nebo zahájit, nelze ji však provést (mimo případy stanovené zákonem),
+- a další body.
