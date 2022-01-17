@@ -11,6 +11,10 @@ jobs:
     steps:
       - name: Checking out repository
         uses: actions/checkout@v2
+      - name: Cleaning
+        run: sudo apt-get clean
+      - name: Updating
+        run: sudo apt-get update
       - name: Install Pandoc
         run: sudo apt-get install pandoc
       - name: Install Make
