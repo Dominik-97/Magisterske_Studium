@@ -247,3 +247,8 @@ Jinými rozhodnutími o insolvenčním návrhu jsou
 - zastavení řízení pro nedostatek podmínky řízení, který nelze odstranit nebo který se nepodařilo odstranit, nebo pro zpětvzetí insolvenčního návrhu,
 - zamítnutí insolvenčního návrhu.
 
+### Stanovení způsobů řešení úpadku
+
+1. Insolvenční soud spojí s rozhodnutím o úpadku rozhodnutí o prohlášení konkursu, je-li dlužníkem osoba, u které tento zákon vylučuje řešení úpadku reorganizací nebo oddlužením.
+2. Jestliže dlužník společně s insolvenčním návrhem, ve kterém jako způsob řešení úpadku navrhuje reorganizaci, předloží reorganizační plán přijatý alespoň polovinou všech zajištěných věřitelů, počítanou podle výše jejich pohledávek, a alespoň polovinou všech nezajištěných věřitelů, počítanou podle výše pohledávek, spojí insolvenční soud s rozhodnutím o úpadku i rozhodnutí o způsobu řešení úpadku.
+3. Jestliže dlužník společně s insolvenčním návrhem podá návrh na povolení oddlužení, spojí insolvenční soud s rozhodnutím o úpadku i rozhodnutí o způsobu řešení úpadku.
