@@ -222,3 +222,7 @@ Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachová
 1. Závazky bezprostředně souvisící se zachováním provozu podniku vzniklé v posledních 30 dnech před vyhlášením moratoria nebo po něm je dlužník po dobu trvání moratoria oprávněn hradit přednostně před dříve splatnými závazky.
 2. Smlouvy na dodávky energií a surovin, jakož i další smlouvy o dodávkách zboží a služeb, které ke dni vyhlášení moratoria trvaly alespoň po dobu 3 měsíců, nemůže druhý účastník smlouvy po dobu trvání moratoria vypovědět nebo od nich odstoupit pro prodlení dlužníka s placením úhrady za zboží nebo služby, ke kterému došlo před vyhlášením moratoria, nebo pro zhoršení majetkové situace dlužníka, hradí-li dlužník na základě těchto smluv řádně a včas alespoň závazky podle odstavce 1.
 3. Započtení vzájemných pohledávek dlužníka a věřitele není po dobu trvání moratoria přípustné, ledaže insolvenční soud určí jinak předběžným opatřením. To platí i tehdy, jestliže zákonné podmínky tohoto započtení byly splněny před vyhlášením moratoria.
+
+#### Rozhodnutí o úpadku
+
+Insolvenční soud vydá rozhodnutí o úpadku, je-li osvědčením nebo dokazováním zjištěno, že dlužník je v úpadku nebo že mu úpadek hrozí.
