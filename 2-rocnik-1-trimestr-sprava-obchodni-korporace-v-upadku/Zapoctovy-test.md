@@ -202,4 +202,7 @@ Navrhovatel (věřitel) musí složit zálohu na náklady insolvenčního říze
 - uplatnění ráva ze zajištění podléha podmínkám zákonu,
 - výkon rozhodnutí či exekuci lze nařídit nebo zahájit, nelze ji však provést (mimo případy stanovené zákonem),
 - nakládání s majetkovou podstatou (podstatné změny) - mimo zákonem stanovené výjimky,
+- soud může rozhodnout o předběžném opatření - například dodatečné omezení dlužníka v dispozici s majetkem náležejícím do majetkové podstaty,
 - a další body.
+
+#### Moratorium
