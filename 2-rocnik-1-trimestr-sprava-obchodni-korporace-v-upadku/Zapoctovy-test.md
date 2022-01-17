@@ -87,7 +87,7 @@ Místní příslušností je obecně místní soud dlužníka.
 
 ### Základní pojmy pro pochopení insolvenčního práva:
 
-- insolvenční řízení: soudní řízení - předmět je dlužníkův úpadek, nebo hrozící úpadek a způsob jeho řešení,
+- insolvenční řízení (insolvence): soudní řízení - předmět je dlužníkův úpadek, nebo hrozící úpadek a způsob jeho řešení,
 - insolvenční soud: soud u kterého probíhá insolvenční řízení,
 - insolvenční návrh: jedná se o návrh na zahájení insolvenčního řízení podaný soudu,
 - incidenční spor: spor v rámci insolvenčního řízení podle zákona, projednává ho insolvenční soud,
@@ -101,7 +101,7 @@ Místní příslušností je obecně místní soud dlužníka.
 
 ### Co je to úpadek, kdy je dlužník v úpadku?
 
-Aby mohlo započít insolvenční řízení rozhoduje soud, zda je dlužník v **úpadku**, být v úpadku je tedy základní prerekvizitou pro to, aby mohlo proběhnout insolvenční řízení (insolvence).
+Aby mohl soud rozhodnout o způsobu úpadku v insolvenční řízení rozhoduje soud, zda je dlužník v **úpadku**, být v úpadku je tedy základní prerekvizitou pro to, aby mohl soud rozhodnout o způsobu úpadku.
 
 Existují dvě, respektive tři formy úpadku:
 
