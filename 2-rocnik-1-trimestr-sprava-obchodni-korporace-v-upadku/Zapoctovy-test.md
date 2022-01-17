@@ -160,3 +160,24 @@ Způsoby řešení úpadků jsou tři druhy, **sanační** a **likvidační** a 
 - finanční instituce po dobu co mají licenci,
 - zdravotní pojišťovnu zřízenou podle zvláštního předpisu po dobu co mají licenci,
 - politickou stranu nebo hnutí v době voleb.
+
+### Procesní subjekty:
+
+Procesními subjekty podle tohoto zákona jsou:
+
+1. insolvenční soud,
+2. dlužník (účastníci řízení, vedlejší účastenství je přípustné),
+3. věřitelé, kteří uplatňují svá práva vůči dlužníku,
+4. insolvenční správce, popřípadě další správce,
+5. státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu, a
+6. likvidátor dlužníka.
+
+### Úvěrové financování
+
+Insolvenční správce může pro udržení nebo obnovení provozu podniku, který je součástí majetkové podstaty, uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, jakož i smlouvy na dodávky energií11) a surovin, včetně smluv o zajištění splnění těchto smluv (dále jen "úvěrové financování").
+
+### Věřitelské orgány
+
+- schůze věřitelů - nejvyšší orgán věřitelů,
+- věřitelský výbor - pokud je přihlášených více než 50 věřitelů - věřitelská schůze stanovuje, jaké má působnost (má i zákonem stanovenou působnost), a jakou působnost vyhrazuje sama sobě,
+- zástupce věřitelů - není li volba věřitelského výboru povinná, může být zvolen, ustanovení o věřitelském výboru na něj platí obdobně - ustanovuje se v rámci nepatrného konkurzu.
