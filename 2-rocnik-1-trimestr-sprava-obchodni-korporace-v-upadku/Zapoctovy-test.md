@@ -201,4 +201,5 @@ Navrhovatel (věřitel) musí složit zálohu na náklady insolvenčního říze
 - pohledávky nemohou být uplatněny žalobou, lze-li je uplatnit přihláškou,
 - uplatnění ráva ze zajištění podléha podmínkám zákonu,
 - výkon rozhodnutí či exekuci lze nařídit nebo zahájit, nelze ji však provést (mimo případy stanovené zákonem),
+- nakládání s majetkovou podstatou (podstatné změny) - mimo zákonem stanovené výjimky,
 - a další body.
