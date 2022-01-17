@@ -61,3 +61,9 @@ Krom individuálního podnikání, tak existuje spoustu jiných forem, prostřed
 ### Test insolvence
 
 ### Rozvahový test
+
+# Otázka 2
+
+> Motivace a očekávání při správě korporace a ex ante význam insolvenčního práva (existence
+hrozícího úpadku, hospodářské nedostatečnosti, moratoria, zajištění apod.).
+
