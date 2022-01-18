@@ -277,4 +277,14 @@ Při plnění závazku věřiteli se nejdříve se započítává na jistinu, po
 
 Veškeré příslušenství je součástí pohledávky, v insolvenčním řízení se však neuspokojuje příslušenství pohledávky, které vznikly až po rozhodnutí o úpadku. Pohledávka se však stále může úročit ve sjednané výši, tento úrok však není možné uspokojit v rámci insolvenčního řízení jak jsem psal výše.
 
+#### Přezkum pohledávek
+
+Insolvenční správce přezkoumá podané přihlášky pohledávek zejména podle přiložených dokladů a podle účetnictví dlužníka nebo jeho evidence vedené podle zvláštního právního předpisu. Dále vyzve dlužníka, aby se k přihlášeným pohledávkám vyjádřil. Je-li to třeba, provede o pohledávkách nezbytná šetření s tím, že využije součinnosti orgánů, které mu ji jsou povinny poskytnout - může započít **přezkumné jednání** - pohledávky lze popřít co do pravosti, výše, pořadí - soud buď vyhoví, nebo ne.
+
+Insolvenční správce rovněž sestaví seznam pohledávek.
+
+#### Způsoby řešení úpadku detailně
+
+
+
 ## Slovníček insolvenčních pojmů
