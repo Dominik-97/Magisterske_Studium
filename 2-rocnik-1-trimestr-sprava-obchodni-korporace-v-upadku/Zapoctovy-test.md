@@ -366,6 +366,19 @@ v rámci tohoto předmětu to není tak důležité, ponechávám zde tedy pouze
 
 **Oddlužení**:
 
+Dlužník může insolvenčnímu soudu navrhnout, aby jeho úpadek nebo jeho hrozící úpadek řešil oddlužením, jde-li o
+
+1. právnickou osobu, která podle zákona není považována za podnikatele a současně nemá dluhy z podnikání, nebo
+2. fyzickou osobu.
+
+Dluh z podnikání nebrání řešení dlužníkova úpadku nebo hrozícího úpadku oddlužením, jestliže
+
+1. s tím souhlasí věřitel, o jehož pohledávku jde; platí, že věřitel souhlasí, pokud nejpozději spolu s přihláškou své pohledávky výslovně nesdělí, že s řešením úpadku oddlužením nesouhlasí, a toto své stanovisko odůvodní, nebo
+2. jde o pohledávku věřitele, která zůstala neuspokojena po skončení insolvenčního řízení, ve kterém insolvenční soud zrušil konkurs na majetek dlužníka podle § 308 odst. 1 písm. c) nebo d), anebo
+3. jde o pohledávku zajištěného věřitele.
+
+Jiná osoba než dlužník není oprávněna návrh na povolení oddlužení podat.
+
 ## Insolvenční rejstřík:
 
 1. Insolvenční rejstřík je informačním systémem veřejné správy, jehož správcem je Ministerstvo spravedlnosti (dále jen "ministerstvo").
