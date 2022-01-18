@@ -128,9 +128,9 @@ S ohledem na výše zmíněné právní formy podnikání se však podnikatel m�
 
 Formy podnikání můžeme dělit na:
 
-1. individuální - například podnikatel FO,
-2. societní - societa dle OZ, združení, tichá společnost, tichý společník,
-3. joint ventures,
+1. individuální - například podnikatel FO - OSVČ,
+2. societní - societa dle OZ, obligační sdružení bez právní subjektivity, tichá společnost, tichý společník - závazkový vztah,
+3. joint ventures - dva subjekty poolnou resources a založí další subjekt, ale zařadil bych sem i holding,
 4. osobní společnosti - v.o.s., k.s.,
 5. kapitálové společnosti - s.r.o., a.s.,
 6. fundace - nadace a nadační fond
