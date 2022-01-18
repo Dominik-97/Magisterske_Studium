@@ -265,3 +265,10 @@ Druhy:
 
 #### Přihlášení pohledávek a jejich uspokojení
 
+Nesplatné se stávají splatnými, jak je to s příslušenství a součástí pohledávky? Myslím si, že se stopují.
+
+Příslušenstvím pohledávky pak jsou vždy úroky, úroky z prodlení a náklady spojené s jejím uplatněním.[1] Např. smluvní pokuta tedy příslušenstvím pohledávky není.[2]
+
+Nejdříve se započítává na jistinu, potom na úroky, potom na úroky z prodlení a až potom na náklady spojené s uplatněním pohledávky.
+
+Veškeré příslušenství je součástí pohledávky, v insolvenčním řízení se však neuspokojuje příslušenství pohledávky, které vznikly až po rozhodnutí o úpadku.
