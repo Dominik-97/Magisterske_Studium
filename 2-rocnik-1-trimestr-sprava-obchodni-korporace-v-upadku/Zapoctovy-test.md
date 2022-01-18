@@ -24,7 +24,16 @@
     - Nařízení č. 2015/848/EU o insolvenčním řízení (přepracované znění)
   - Judikatura SD EU
 
+## Variabilní nástroje obchodní politiky
 
+Využití variabilních nástrojů obchodní politiky jako způsobu předcházení úpadku
+
+- loajalita zákazníků
+  1. věrnostní systémy
+  2. kvalita poskytovaného zboží a služeb
+  3. zákaznický servis
+- cenová strategie
+- marketingové průzkumy
 
 ## Oblasti
 
@@ -72,6 +81,17 @@ Krom výše vytyčených forme právnických osob existuje mnoho dalších osob,
 
 Rozvedené příklady právnických osob je možné nalézt [zde](https://cs.wikipedia.org/wiki/Pr%C3%A1vnick%C3%A1_osoba).
 
+S ohledem na výše zmíněné právní formy podnikání se však podnikatel může rozhodnout operovat s rizikem prostřednictvím jedním z mnoha způsobu podnikání:
+
+Formy podnikání můžeme dělit na:
+
+1. individuální - například podnikatel FO,
+2. societní - societa dle OZ, združení, tichá společnost, tichý společník,
+3. joint ventures,
+4. osobní společnosti - v.o.s., k.s.,
+5. kapitálové společnosti - s.r.o., a.s.,
+6. fundace - nadace a nadační fond
+
 #### Podnikání prostřednictvím variabilních nástrojů
 
 Jaké druhy jsou druhy podnikání, respektive osob, které by se na podnikání mohli podílet jsme si shrnuli výše. Krom samotné právní formy, pod kterou bude subjekt podnikat je dále potřeba se rozhodnout, jakou formou bude podnikat, respektive participovat na ekonomické činnosti své, nebo jiného subjektu.
@@ -83,6 +103,12 @@ Rizika, ale i benefity se v tomto případě vážou přímo na subjekt - v př�
 Krom individuálního podnikání, tak existuje spoustu jiných forem, prostřednictvím kterých může subjekt participovat na ekonomické činnosti.
 
 ### Pojem residuálního vlastníka
+
+Rozlišujeme:
+
+1. Formálního vlastníka,
+2. Faktického vlastníka
+3. Residuálního (ekonomického) vlastníka
 
 ### Test insolvence
 
