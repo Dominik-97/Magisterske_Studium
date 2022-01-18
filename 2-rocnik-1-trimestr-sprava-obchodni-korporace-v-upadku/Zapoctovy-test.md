@@ -187,7 +187,13 @@ Test insolvence má dvě složky (viz účetní závěrka - rozvaha, výkaz zisk
 1. Test předlužení (rozvahový test)
 2. Test likvidity
 
-### Rozvahový test
+#### Rozvahový test
+
+Rozvahový test vyplývá z toho, zda jsou splněny podmínky předlužení.
+
+#### Test likvidity
+
+Test likvidity vyplývá z toho, zda jsou splněny podmínky platební neschopnosti.
 
 # Otázka 2
 
