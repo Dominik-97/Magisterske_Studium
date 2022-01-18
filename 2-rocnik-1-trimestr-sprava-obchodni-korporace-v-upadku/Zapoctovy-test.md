@@ -263,6 +263,8 @@ Druhy:
 - pohledávky za majetkovou podstatou - například náhrady a odměny,
 - pohledávky postavené na roveň pohledávkám za majetkovou podstatou - například výživné.
 
+Insolvenční zákon rozlišuje další druhy, jako je zajištěná, nezajištěná, podřízená etc. ty v této části nejsou tak důležité, jejich popis bude v poslední části této otázky viz Slovníček insolvenčních pojmů.
+
 #### Přihlášení pohledávek a jejich uspokojení
 
 Věřitelé podávají přihlášky pohledávek u insolvenčního soudu od zahájení insolvenčního řízení až do uplynutí lhůty stanovené rozhodnutím o úpadku. K přihláškám, které jsou podány později, insolvenční soud nepřihlíží a takto uplatněné pohledávky se v insolvenčním řízení neuspokojují.
@@ -274,3 +276,5 @@ Příslušenstvím pohledávky pak jsou vždy úroky, úroky z prodlení a nákl
 Při plnění závazku věřiteli se nejdříve se započítává na jistinu, potom na úroky, potom na úroky z prodlení a až potom na náklady spojené s uplatněním pohledávky.
 
 Veškeré příslušenství je součástí pohledávky, v insolvenčním řízení se však neuspokojuje příslušenství pohledávky, které vznikly až po rozhodnutí o úpadku. Pohledávka se však stále může úročit ve sjednané výši, tento úrok však není možné uspokojit v rámci insolvenčního řízení jak jsem psal výše.
+
+## Slovníček insolvenčních pojmů
