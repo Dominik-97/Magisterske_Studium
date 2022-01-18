@@ -112,6 +112,16 @@ Rozlišujeme:
 2. Faktického vlastníka - jedná se o správce, tedy o někoho, kdo se reálně stará o fungování subjektu (například zastoupení, prokura) - může zde vznikat zásadní problém vlastníka (formální vlastník) a správce (faktický vlastník),
 3. Residuálního (ekonomického) vlastníka - vlastník, kterému náleží užitek ze subjektu, standardně jím je formální vlastník, pokud má však subjekt dluhy, stávají se ekonomickými vlastníky věřitelé - toto má zásadní dopad do insolvenčního řízení, kdy po vyhlášení úpadku (fakticky i před ním) se stávají ekonomickými vlastníky přihlášení věřitelé.
 
+**Příklad**:
+
+Akciová společnost:
+
+- formální vlastník: nejvyšší orgán - valná hromada,
+- faktický vlastník: statutární orgán - představenstvo - správce,
+- residuální (ekonomický) vlastník:
+  - v běžném případě formální vlastníci - dividenda,
+  - při předlužení - věřitelé - například banka.
+
 ### Zájmy zainteresovaných subjektů (viz stratifikace vlastnictví)
 
 Rozlišujeme mezi zájmy:
