@@ -316,4 +316,30 @@ Další odchylky jsou stanoveny v zákoně, není-li to v rozporu s rozhodnutím
 
 **Reorganizace**:
 
+Reorganizací se rozumí zpravidla postupné uspokojování pohledávek věřitelů při zachování provozu dlužníkova podniku, zajištěné opatřeními k ozdravění hospodaření tohoto podniku podle insolvenčním soudem schváleného reorganizačního plánu s průběžnou kontrolou jeho plnění ze strany věřitelů.
+
+Reorganizací lze řešit úpadek nebo hrozící úpadek dlužníka, který je podnikatelem; reorganizace se týká jeho podniku.
+
+Reorganizace není přípustná, je-li dlužníkem právnická osoba v likvidaci, obchodník s cennými papíry nebo osoba oprávněná k obchodování na komoditní burze podle zvláštního právního předpisu.
+
+Reorganizace je přípustná, jestliže celkový roční úhrn čistého obratu dlužníka podle zvláštního právního předpisu46) za poslední účetní období předcházející insolvenčnímu návrhu dosáhl alespoň částku 50000000 Kč, nebo zaměstnává-li dlužník nejméně 50 zaměstnanců v pracovním poměru; ustanovení odstavce 3 tím není dotčeno.
+
+Jestliže dlužník společně s insolvenčním návrhem nebo nejpozději do rozhodnutí o úpadku předložil insolvenčnímu soudu reorganizační plán přijatý alespoň polovinou všech zajištěných věřitelů počítanou podle výše jejich pohledávek a alespoň polovinou všech nezajištěných věřitelů počítanou podle výše pohledávek, omezení podle odstavce 4 se nepoužije.
+
+Osobou oprávněnou podat návrh na povolení reorganizace je dlužník nebo přihlášený věřitel.
+
+Osoba, která podala návrh na povolení reorganizace, jej může vzít zpět do doby, než insolvenční soud reorganizaci povolí nebo o podaném návrhu jinak rozhodne.
+
+Návrh na povolení reorganizace podaný věřitelem musí schválit schůze věřitelů; učiní tak po zprávě insolvenčního správce o hospodářské situaci dlužníka.
+
+Insolvenční soud zamítne návrh na povolení reorganizace,
+
+1. lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že jím je sledován nepoctivý záměr, nebo
+2. který znovu podala osoba, o jejímž návrhu na povolení reorganizace bylo již dříve rozhodnuto, anebo
+3. který podal věřitel, jestliže jej neschválí schůze věřitelů.
+
+Insolvenční správce vykonává dohled nad činností dlužníka s dispozičními oprávněními, pokračuje ve zjišťování majetkové podstaty a jejím soupisu, vede incidenční spory, sestavuje a doplňuje seznam věřitelů a podává zprávy věřitelskému výboru. Kromě toho plní i další úkoly a provádí další činnosti, které mu uložil insolvenční soud.
+
+Nestanoví-li tento zákon jinak, rozhodnutím o povolení reorganizace se pozastavuje výkon funkce valné hromady nebo členské schůze dlužníka a místo valné hromady nebo členské schůze dlužníka rozhoduje v její působnosti insolvenční správce.
+
 ## Slovníček insolvenčních pojmů
