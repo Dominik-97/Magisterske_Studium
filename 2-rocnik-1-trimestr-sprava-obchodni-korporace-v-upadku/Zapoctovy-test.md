@@ -10,6 +10,7 @@
   - Zák. č. 191/2020 Sb., o zmírnění dopadů pandemie COVID-19
   - Zák. č. 90/2012 Sb., o obchodních korporacích
   - Zák. č. 89/2012 Sb., občanský zákoník
+  - Zák. č. 40/2009 Sb., trestní zákoník
 - Vyhlášky (nedůležité)
   - Vyhl. č. 311/2007 Sb.,
   - 312/2007 Sb.,
@@ -661,3 +662,7 @@ Ze zákona vyplývá, že:
 ## Zvláštní podivnnosti při úpadku obchodní korporace
 
 - Viz předchozí bod § 66/1 ZOK.
+
+## Trestní odpovědnost
+
+- Je řešena v rámci Trestního zákoníku 40/2009 Sb..
