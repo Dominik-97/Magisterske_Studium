@@ -69,7 +69,7 @@ V rámci tohoto předmětu jsou důležité pouze soukromoprávní právnické o
 
 > ***TODO:*** Přidat základní organizační strukturu
 
-Organizační struktura pro soukromoprávní organizace (mimo družstva), fundace a ústavy:
+Organizační struktura pro soukromoprávní organizace, fundace a ústavy:
 
 - spolek
   - nejvyšší orgán: členská schůze,
@@ -111,7 +111,6 @@ Organizační struktura pro soukromoprávní organizace (mimo družstva), fundac
   - statutární orgán: ředitel společnosti,
   - nejvyšší orgán: správní rada,
   - kontrolní orgán: dozorčí rada
-
 
 > Rozdíl mezi kapitálovou a osobní společností: společníci v osobní společnosti ručí za závazky společnosti z části, nebo celým svým majetkem, zatímco společníci v kapitálových společnostech ručí za závazky společnosti omezeně, standardně do výše vkladu.
 
@@ -546,4 +545,24 @@ Oddlužení plněním splátkového kalendáře se zpeněžením majetkové pods
 3. Insolvenční rejstřík je veřejně přístupný, s výjimkou údajů, o kterých tak stanoví tento zákon. Každý má právo do něj nahlížet a pořizovat si z něj kopie a výpisy. Soudce insolvenčního soudu má přístup ke všem údajům vedeným v insolvenčním rejstříku.
 4. Na žádost vydá ministerstvo nebo insolvenční soud úředně ověřený výstup z informačního systému veřejné správy obsahující údaje z insolvenčního rejstříku nebo informaci o tom, že požadovaný údaj není veden v insolvenčním rejstříku.
 
-## Slovníček insolvenčních pojmů
+## Slovníček insolvenčních pojmů (extenze základních pojmů)
+
+Tento slovníček obsahuje nejdůležitější pojmy, které se nevešly do bodů sepsaných výše:
+
+- **insolvenční správce**: Insolvenční správce představuje administrátora celého insolvenčního řízení. Insolvenční správce sepisuje majetek dlužníka, za určitých okolností na něho přechází právo s tímto majetkem disponovat, přezkoumává přihlášené pohledávky a případně je popírá, uspokojuje věřitele a vykonává další činnosti, které mu ukládá insolvenční zákon.
+- **konečná zpráva**: Konečná zpráva je termín, který insolvenční zákon používá v souvislosti s řešením úpadku konkurzem. Konečnou zprávu předkládá insolvenční správce na elektronickém formuláři soudu v závěru zpeněžení majetku dlužníka a musí obsahovat celkovou charakteristiku jeho činnosti a finanční výsledky (zjm. přehled výdajů vynaložených na správu majetku dlužníka, přehled zpeněžení majetkové podstaty a údaje o výtěžku).
+- **Lhůta pro podání přihlášky**: Je důležité vědět, že věřitel si musí do insolvenčního řízení přihlásit svou pohledávku v určené lhůtě, která pro řízení, ve kterých byl úpadek dlužníka zjištěn po 1. 6. 2019, činí 2 měsíce bez ohledu na způsob řešení úpadku. Lhůta začíná běžet zveřejněním rozhodnutí o úpadku v insolvenčním rejstříku a následkem jejího zmeškání je neuspokojování pohledávky v rámci insolvenčního řízení a současně nemožnost ji po dobu insolvenčního řízení uplatnit vůči dlužníkovi jiným způsobem. Soud nemůže zmeškání lhůty prominout. Lhůta k uplatnění pohledávky je procesní lhůtou, což znamená, že je třeba nejpozději poslední den lhůty přihlášku odevzdat na poště k doručení soudu.
+- **Návrh na povolení odlužení**: Návrh na povolení oddlužení je návrhem na konkrétní způsob řešení úpadku a může být podán pouze dlužníkem. Podrobnosti o tom, jak se liší od insolvenčního návrhu, kdo ho smí za dlužníka sepsat a podat a za jakou odměnu a co musí obsahovat, naleznete v sekci Sepisovatelé návrhů.
+- **Nezajištěný věřitel**: Jako nezajištěný věřitel se označuje osoba, jejíž pohledávka vůči insolvenčnímu dlužníkovi není zajištěna (tedy není podpořena např. zástavním právem), jedná se tedy o nezajištěnou pohledávku.
+- **Pohledávka nezajištěná**: V zákoně je vysvětlen pouze termín „zajištěná pohledávka„. Nezajištěná pohledávka představuje její protipól, tedy pohledávku, která není zajištěna majetkem, který náleží do majetkové podstaty dlužníka. V praxi je většina pohledávek nezajištěná.
+- **Pohledávka podníměná**: Pojem „podmíněná pohledávka“ označuje takovou pohledávku, jejíž vznik, změna nebo zánik je vázána na určitou podmínku. Takovou podmínkou může být např. situace, kdy má dlužník ručitele – svou pohledávku, jejíž existence závisí na tom, zda bude věřiteli plnit místo dlužníka nebo ne, si ručitel může přihlásit do insolvenčního řízení jako pohledávku podmíněnou.
+- **Pohledávka podřízená**: Zákon definuje podřízenou pohledávku jako pohledávku, která má být uspokojena až po uspokojení jiné pohledávky (resp. všech pohledávek dlužníka). V žebříčku pohledávek je tato skupina na posledním místě, je tak velmi pravděpodobné, že v insolvenčním řízení nebudou zaplaceny. Př. pohledávky společníků, které vyplývající z jejich účasti ve společnosti, nebo nadměrné příslušenství.
+- **Pohledávka vykonatelná**: Vykonatelná pohledávka je taková pohledávka, jejíž splnění si může věřitel vynutit prostřednictvím soudního výkonu rozhodnutí nebo exekuce.
+- **Pohledávka vyloučená z uspokojení v insolvenčním řízení**: V insolvenčním řízení nalezneme skupinu pohledávek, které dlužník vůbec nemá povinnost platit – pohledávky vyloučené z uspokojení v insolvenčním řízení. Neznamená to však, že by byla nějak zpochybněna jejich existence, nejedná se o pohledávky popřené
+
+Mezi vyloučené pohledávky patří:
+
+- úroky, které se staly splatné až po rozhodnutí o úpadku
+- náklady, které účastníkům vznikly účastí v insolvenčním řízení – př. odměna advokáta.
+
+- **Pohledávka zajištěná**: Jedná se o pohledávky, které jsou zajištěny majetkem náležejícím do majetkové podstaty dlužníka. Zajištění zjednodušeně představuje posílení postavení věřitele (tzv. zajištěného věřitele), který může v případě, že dlužník nezaplatí, získat peníze jinou cestou, a to prodejem předmětu zajištění. V insolvenčním řízení se za zajištění považuje zástavní právo (např. hypotéka), zadržovací právo (právo legálně nevydat cizí věc, dokud není splněn dluh) či zajišťovací převod práva (dlužník na věřitele dočasně převede nějaké své majetkové právo a teprve pokud nesplní, stává se věřitel vlastníkem).
