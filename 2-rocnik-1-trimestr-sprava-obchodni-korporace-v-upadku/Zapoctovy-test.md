@@ -736,3 +736,9 @@ Trestní delikty:
 1. definice,
 2. cíle,
 3. compliance programy.
+
+# Otázka 4
+
+> Osoba s disposičním oprávněním, součinnost orgánů dlužníka a insolvenčního správce, samostatná působnost dlužníka, vazba na věřitelské orgány a jejich rozhodování.
+
+# Otázka 5
