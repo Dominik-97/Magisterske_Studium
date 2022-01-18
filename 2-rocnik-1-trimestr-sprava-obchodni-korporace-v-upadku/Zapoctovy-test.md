@@ -265,10 +265,12 @@ Druhy:
 
 #### Přihlášení pohledávek a jejich uspokojení
 
-Nesplatné se stávají splatnými, jak je to s příslušenství a součástí pohledávky? Myslím si, že se stopují.
+Věřitelé podávají přihlášky pohledávek u insolvenčního soudu od zahájení insolvenčního řízení až do uplynutí lhůty stanovené rozhodnutím o úpadku. K přihláškám, které jsou podány později, insolvenční soud nepřihlíží a takto uplatněné pohledávky se v insolvenčním řízení neuspokojují.
 
-Příslušenstvím pohledávky pak jsou vždy úroky, úroky z prodlení a náklady spojené s jejím uplatněním.[1] Např. smluvní pokuta tedy příslušenstvím pohledávky není.[2]
+Lze přihlásit i nesplatné pohledávky, ty se stávají splatnými.
 
-Nejdříve se započítává na jistinu, potom na úroky, potom na úroky z prodlení a až potom na náklady spojené s uplatněním pohledávky.
+Příslušenstvím pohledávky pak jsou vždy úroky, úroky z prodlení a náklady spojené s jejím uplatněním. Např. smluvní pokuta tedy příslušenstvím pohledávky není.
 
-Veškeré příslušenství je součástí pohledávky, v insolvenčním řízení se však neuspokojuje příslušenství pohledávky, které vznikly až po rozhodnutí o úpadku.
+Při plnění závazku věřiteli se nejdříve se započítává na jistinu, potom na úroky, potom na úroky z prodlení a až potom na náklady spojené s uplatněním pohledávky.
+
+Veškeré příslušenství je součástí pohledávky, v insolvenčním řízení se však neuspokojuje příslušenství pohledávky, které vznikly až po rozhodnutí o úpadku. Pohledávka se však stále může úročit ve sjednané výši, tento úrok však není možné uspokojit v rámci insolvenčního řízení jak jsem psal výše.
