@@ -112,6 +112,19 @@ Rozlišujeme:
 2. Faktického vlastníka - jedná se o správce, tedy o někoho, kdo se reálně stará o fungování subjektu (například zastoupení, prokura) - může zde vznikat zásadní problém vlastníka (formální vlastník) a správce (faktický vlastník),
 3. Residuálního (ekonomického) vlastníka - vlastník, kterému náleží užitek ze subjektu, standardně jím je formální vlastník, pokud má však subjekt dluhy, stávají se ekonomickými vlastníky věřitelé - toto má zásadní dopad do insolvenčního řízení, kdy po vyhlášení úpadku (fakticky i před ním) se stávají ekonomickými vlastníky přihlášení věřitelé.
 
+### Zájmy zainteresovaných subjektů (viz stratifikace vlastnictví)
+
+Rozlišujeme mezi zájmy:
+
+- Společníků (Shareholderů - vlastní share, zájem na výkonu společnosti především kvůli zhodnocení jeho majetku)
+- Stakeholderů (Zájem na výkon společnosti i pro ostatní důvody, než zhodnocení jejího majetku)
+  - vnitřních stakeholderů
+  - vnějších stakeholderů
+- Orgánů veřejné moci
+- Věřitelů
+  - jednotlivých věřitelů
+  - společným zájmem věřitelů (viz otázka číslo 2 a základní pojmy)
+
 ### Test insolvence
 
 ### Rozvahový test
