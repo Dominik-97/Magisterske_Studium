@@ -381,6 +381,26 @@ Dluh z podnikání nebrání řešení dlužníkova úpadku nebo hrozícího úp
 
 Jiná osoba než dlužník není oprávněna návrh na povolení oddlužení podat.
 
+Návrh na oddlužení může podat pouze:
+
+- advokát, notář, soudní exekutor, insolvenční správce
+- akreditovanou osobou - akreditována ministerstvem,
+- dlužník pokud má magisterský titul v oblasti ekonomie nebo práva.
+
+Insolvenční soud může zamítnout návrh na oddlužení ze zákonem vymezených důvodů, například:
+
+- že jím je sledován nepoctivý záměr, nebo
+- v posledních 5 letech před podáním insolvenčního návrhu byl návrh dlužníka na povolení oddlužení pravomocně zamítnut z důvodu, že je jím sledován nepoctivý záměr etc.
+
+Jestliže insolvenční soud návrh na povolení oddlužení odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, může současně rozhodnout o způsobu řešení dlužníkova úpadku konkursem v případě zákonem vymezených situací.
+
+Oddlužení lze provést zpeněžením majetkové podstaty nebo plněním splátkového kalendáře se zpeněžením majetkové podstaty.
+
+1. Při oddlužení zpeněžením majetkové podstaty se postupuje obdobně podle ustanovení o zpeněžení majetkové podstaty v konkursu a zpeněžení majetkové podstaty při oddlužení má tytéž účinky jako zpeněžení majetkové podstaty v konkursu. Není-li dále stanoveno jinak, při tomto způsobu oddlužení do majetkové podstaty nenáleží majetek, který dlužník nabyl v průběhu insolvenčního řízení poté, co nastaly účinky schválení oddlužení. Zajištění věřitelé se uspokojují jen z výtěžku zpeněžení zajištění.
+2. Při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty je dlužník povinen vydat insolvenčnímu správci majetek náležející do majetkové podstaty ke zpeněžení postupem obdobným podle ustanovení o zpeněžení majetkové podstaty v konkursu a dále do doby podání zprávy o splnění oddlužení měsíčně splácet nezajištěným věřitelům ze svých příjmů částku ve stejném rozsahu, v jakém z nich mohou být při výkonu rozhodnutí nebo při exekuci uspokojeny přednostní pohledávky.
+
+Insolvenční správce předává zprávu pro oddlužení.
+
 ## Insolvenční rejstřík:
 
 1. Insolvenční rejstřík je informačním systémem veřejné správy, jehož správcem je Ministerstvo spravedlnosti (dále jen "ministerstvo").
