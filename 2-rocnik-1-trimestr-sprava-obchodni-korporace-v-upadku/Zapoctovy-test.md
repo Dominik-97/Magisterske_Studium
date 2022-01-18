@@ -179,17 +179,17 @@ Aby mohl soud rozhodnout o způsobu úpadku v insolvenční řízení rozhoduje 
 
 Existují dvě, respektive tři formy úpadku:
 
-- platební neschopnost - FO, PO, podnikatel,
+- platební neschopnost - FO, PO, podnikatel, - jedná se o test insolvence, test cash flow
   - více věřitelů,
   - **peněžité** závazky více než 30 dní po splatnosti,
-  - tyto závazky není schopen plnit (**platební neschopnost** - ta je fingována, viz bod níže) - pokud se jedná o podnikatele, neplatí, že není schopen plnit své závazky, jestliže rozdíl mezi výší jeho splatných peněžitých závazků a výší jeho disponibilních prostředků - mezera krití, je nižší než jedna desetina - buď současně, nebo výhledově, 
-- předlužení - PO, FO podnikatel,
+  - tyto závazky není schopen plnit (tento bod je fingován, viz bod níže) - pokud se jedná o podnikatele, neplatí, že není schopen plnit své závazky, jestliže rozdíl mezi výší jeho splatných peněžitých závazků a výší jeho disponibilních prostředků - mezera krití, je nižší než jedna desetina - buď současně, nebo výhledově, 
+- předlužení - PO, FO podnikatel, - jedná se o test předlužení, rozvahový test
   - více věřitelů,
   - souhrn jeho závazků převyšuje hodnotu jeho majetku - hodnotí se i vzhledem k budoucímu vývoji majetku,
 - hrozící úpadek,
   - lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník nebude schopen řádně a včas splnit podstatnou část svých peněžitých závazků.
 
-#### Platební neschopnost
+#### Platební neschopnost, fingování neschopnosti plnit
 
 O platební neschopnost se jedná jestliže dlužník:
 
