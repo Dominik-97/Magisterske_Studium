@@ -649,4 +649,12 @@ Ze zákona vyplývá, že:
     - (1) Přispěl-li člen statutárního orgánu porušením svých povinností k úpadku obchodní korporace a bylo-li v insolvenčním řízení již rozhodnuto o způsobu řešení úpadku obchodní korporace, insolvenční soud na návrh insolvenčního správce
       - a) rozhodne o povinnosti tohoto člena vydat do majetkové podstaty prospěch získaný ze smlouvy o výkonu funkce, jakož i případný jiný prospěch, který od obchodní korporace obdržel, a to až za období 2 let zpět před zahájením insolvenčního řízení, jedná-li se o insolvenční řízení zahájené na návrh jiné osoby než dlužníka; není-li vydání prospěchu možné, nahradí jej člen statutárního orgánu v penězích, a
       - b) byl-li na majetek obchodní korporace prohlášen konkurs, může také rozhodnout, že tento člen je povinen poskytnout do majetkové podstaty plnění až do výše rozdílu mezi souhrnem dluhů a hodnotou majetku obchodní korporace; při určení výše plnění insolvenční soud přihlédne zejména k tomu, jakou měrou přispělo porušení povinnosti k nedostatečné výši majetkové podstaty.
+  - § 64
+    - (1) Právní mocí rozhodnutí o vyloučení člena statutárního orgánu přestává být osoba, které se rozhodnutí týká, členem statutárního orgánu ve všech obchodních korporacích; zánik funkce oznámí soud, který o tom rozhodl, bez zbytečného odkladu soudu, který podle jiného právního předpisu vede obchodní rejstřík (dále jen „rejstříkový soud“).
+    - (2) Soud může rozhodnout, že osoba, u níž jsou dány důvody pro vyloučení člena statutárního orgánu, může za podmínek stanovených v tomto rozhodnutí zůstat členem statutárního orgánu jiné obchodní korporace, pokud okolnosti případu dokládají, že dosavadní výkon její funkce v této obchodní korporaci neodůvodňuje vyloučení z výkonu funkce, a pokud by vyloučení mohlo vést k poškození oprávněných zájmů této obchodní korporace nebo jejích věřitelů. Rozhodnutí může být vydáno jen na návrh osoby, o jejímž vyloučení soud rozhoduje, nebo dotčené obchodní korporace.
+  - § 65
+    - Osoba, která poruší zákaz uložený jí rozhodnutím o vyloučení člena statutárního orgánu, ručí za splnění všech povinností obchodní korporace, které vznikly v době, kdy přes zákaz fakticky vykonávala činnost člena jejího statutárního orgánu. Soud i bez návrhu rozhodne, že se této osobě opětovně zakazuje vykonávat funkci člena statutárního orgánu, a to až na dobu 10 let; ustanovení § 63 odst. 3 se použije obdobně.
 
+## Zvláštní podivnnosti při úpadku obchodní korporace
+
+- Viz předchozí bod § 66/1 ZOK.
