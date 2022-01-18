@@ -195,6 +195,30 @@ Rozvahový test vyplývá z toho, zda jsou splněny podmínky předlužení.
 
 Test likvidity vyplývá z toho, zda jsou splněny podmínky platební neschopnosti.
 
+## Výběr obchodní společnosti
+
+Při výběru obchodní společnosti jako formy podnikání je třeba zvažovat, zda a v jakém rozsahu ručí společníci za závazky společnosti.
+
+Rozdíl spočívá zejména mezi osobními a kapitálovými společnostmi.
+
+### Veřejná obchodní společnost
+
+§ 95/1 ZOK
+
+Veřejná obchodní společnost je společnost alespoň dvou osob, které se účastní na jejím podnikání nebo správě jejího majetku a ručí za její dluhy společně a nerozdílně.
+
+### Komanditní společnost
+
+§ 118/1 ZOK
+
+Komanditní společnost je společnost, v níž alespoň jeden společník ručí za její dluhy omezeně (dále jen "komanditista") a alespoň jeden společník neomezeně (dále jen "komplementář").
+
+### Společnost s ručením omezeným
+
+§ 132/1 ZOK
+
+Společnost s ručením omezeným je společnost, za jejíž dluhy ručí společníci společně a nerozdílně do výše, v jaké nesplnili vkladové povinnosti podle stavu zapsaného v obchodním rejstříku v době, kdy byli věřitelem vyzváni k plnění.
+
 # Otázka 2
 
 > Motivace a očekávání při správě korporace a ex ante význam insolvenčního práva (existence
