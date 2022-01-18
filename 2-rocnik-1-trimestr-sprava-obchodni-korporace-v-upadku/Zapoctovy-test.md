@@ -241,10 +241,10 @@ Otázky (Kontrolní otázky):
 Student se seznámí se strukturou právní úpravy insolvenčního práva. Student bude schopen uvést, jaké jsou zákonem stanovené předpoklady hrozícího úpadku. Student bude znát podmínky vyhlášení moratoria.
 
 1. Jak lze zjistit při správě obchodní korporace existenci hrozícího úpadku? - **Zodpovězeno**
-2. Jak lze zjistit při správě obchodní korporace, že nastala hospodářská nedostatečnost? -
-3. Jaké jsou obsahové náležitosti návrhu na moratorium?
-4. V jaké lhůtě může podat návrh na vyhlášení moratoria dlužník?
-5. V jaké lhůtě může podat návrh na vyhlášení moratoria věřitel?
+2. Jak lze zjistit při správě obchodní korporace, že nastala hospodářská nedostatečnost? - Správným nastavením compliance, testy insolvence - **Zodpovězeno**
+3. Jaké jsou obsahové náležitosti návrhu na moratorium? - **Zodpovězeno**
+4. V jaké lhůtě může podat návrh na vyhlášení moratoria dlužník? - 7 dní - **Zodpovězeno**
+5. V jaké lhůtě může podat návrh na vyhlášení moratoria věřitel? - 15 dní - **Zodpovězeno**
 
 ## Motivace a očekávání při správě korporace
 
@@ -412,6 +412,8 @@ Po dobu trvání moratoria nelze vydat rozhodnutí o úpadku.
 Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachovány účinky spojené se zahájením insolvenčního řízení.
 
 K návrhu na vyhlášení moratoria musí navrhovatel připojit listiny a seznamy, poslední účetní závěrku a seznamy většiny jeho věřitelů, že s vyhlášením moratoria souhlasí.
+
+Návrh dále musí obsahovat všechny skutečnosti, které odůvodňují vyhlášení moratoria.
 
 **Účinky moratoria:**
 
@@ -759,6 +761,10 @@ Trestní delikty:
 1. definice,
 2. cíle,
 3. compliance programy.
+
+Je současně očekávatelné, že je-li korporace hospodářsky rozsáhlejší strukturou, měla by mít nastaven funkční model compliance, který bude včas indikovat hospodářskou nedostatečnost, zejména tehdy, není-li při běžné správě možné, aby statutární orgán tuto informaci zachytil nebo vyhodnotil sám. I tento (obchodními korporacemi často opomíjený aspekt) lze podřadit pod povinnost péče řádného hospodáře.
+
+Součástí péče řádného hospodáře je nejen mít schopnost možný budoucí úpadek zachytit a vyhodnotit (např. pomocí výše zmiňovaného compliance modelu), ale také mu předcházet, resp. ho odvracet, a to již ve fázi, kdy ještě ani nehrozí, ale korporace vykazuje nedostatečnou kondici (spojeno s aplikací ust. § 40 odst. 1 ZOK, které zakazuje výplatu zisku, pokud by si tím korporace přivodila úpadek). V případě, že nelze úpadku zabránit, musí nastoupit buď včasná likvidace, nebo podání insolvenčního návrhu. Odvrácení hrozícího úpadku je totiž v zásadě spojeno s uspokojením pohledávek věřitelů.
 
 # Otázka 4
 
