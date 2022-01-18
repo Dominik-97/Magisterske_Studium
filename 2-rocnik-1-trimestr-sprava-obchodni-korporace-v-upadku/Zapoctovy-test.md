@@ -285,6 +285,20 @@ Insolvenční správce rovněž sestaví seznam pohledávek.
 
 #### Způsoby řešení úpadku detailně
 
+**Konkurs**:
 
+Konkurs je způsob řešení úpadku spočívající v tom, že na základě rozhodnutí o prohlášení konkursu jsou zjištěné pohledávky věřitelů zásadně poměrně uspokojeny z výnosu zpeněžení majetkové podstaty s tím, že neuspokojené pohledávky nebo jejich části nezanikají, pokud zákon nestanoví jinak.
+
+Účinky prohlášení konkursu nastávají okamžikem zveřejnění rozhodnutí o prohlášení konkursu v insolvenčním rejstříku.
+
+Prohlášením konkursu se přerušuje likvidace právnické osoby, končí nucená správa, a pokud insolvenční soud nerozhodne jinak, zaniká předběžné opatření, bylo-li nařízeno.
+
+Prohlášením konkursu přechází na insolvenčního správce oprávnění nakládat s majetkovou podstatou, jakož i výkon práv a plnění povinností, které přísluší dlužníku, pokud souvisí s majetkovou podstatou. Insolvenční správce vykonává zejména akcionářská práva spojená s akciemi zahrnutými do majetkové podstaty, rozhoduje o obchodním tajemství a jiné mlčenlivosti, vystupuje vůči dlužníkovým zaměstnancům jako zaměstnavatel, zajišťuje provoz dlužníkova podniku, vedení účetnictví a plnění daňových povinností.
+
+Dlužníkovi věřitelé mohou po prohlášení konkursu svá práva uplatnit jen způsobem a za podmínek stanovených tímto zákonem; to platí i pro ty věřitele, kteří se nestali účastníky insolvenčního řízení.
+
+Nesplatné pohledávky proti dlužníku se prohlášením konkursu považují za splatné, nestanoví-li zákon jinak.
+
+V závěru zpeněžení majetkové podstaty insolvenční správce předloží insolvenčnímu soudu konečnou zprávu (konečná zpráva insolvenčního správce musí podat celkovou charakteristiku jeho činnosti s vyčíslením jejích finančních výsledků, například seznam pohledávek) a rozvrh (v jakém pořadí se uspokojují pohledávky).
 
 ## Slovníček insolvenčních pojmů
