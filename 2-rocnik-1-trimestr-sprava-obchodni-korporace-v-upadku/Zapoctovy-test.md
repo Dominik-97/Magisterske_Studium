@@ -692,6 +692,17 @@ Mezi vyloučené pohledávky patří:
 
 > Zjištění úpadku a jeho vliv na dosavadní členy orgánů korporace (odměny, vydání odměn, ručení, vyloučení z výkonu funkce, trestní odpovědnost).
 
+Otázky (Kontrolní otázky):
+
+Student bude umět uvést způsoby zjištění úpadku. Student bude znát důvody vyloučení člena statutárního orgánu z výkonu funkce. Student bude umět vymezit skutkové podstaty úpadkových trestných činů.
+
+1. Jak lze zjistit, že je obchodní korporace v úpadku? - Insolvenčním testem, compliance - **Zodpovězeno**
+2. Jaké musejí být splněny podmínky pro to, aby insolvenční soud rozhodl o povinnosti člena statutárního orgánu vydat majetkový prospěch získaný od obchodní korporace?
+3. Jaké znáte úpadkové trestné činy?
+4. Jaké musejí být splněny podmínky pro rozhodnutí soudu o vyloučení člena statutárního
+orgánu?
+5. Jaký vliv má zjištění úpadku na dosavadní členy orgánů korporace?
+
 Ze zákona vyplývá, že:
 
 - § 6/1 OZ - Každý má povinnost jednat v právním styku poctivě.
