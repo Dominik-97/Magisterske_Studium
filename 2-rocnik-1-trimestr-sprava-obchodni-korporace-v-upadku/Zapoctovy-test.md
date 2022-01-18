@@ -118,8 +118,8 @@ Rozlišujeme mezi zájmy:
 
 - Společníků (Shareholderů - vlastní share, zájem na výkonu společnosti především kvůli zhodnocení jeho majetku)
 - Stakeholderů (Zájem na výkon společnosti i pro ostatní důvody, než zhodnocení jejího majetku)
-  - vnitřních stakeholderů
-  - vnějších stakeholderů
+  - vnitřních stakeholderů - subjekty uvnitř subjektu - zaměstnanci, manažeři a samotní shareholdeři,
+  - vnějších stakeholderů - subjekty mimo subjektu - investoři, věřitelé, zákazníci (odběratelé), dodavatelé, lidé žijící v okolí subjektu etc.
 - Orgánů veřejné moci
 - Věřitelů
   - jednotlivých věřitelů
