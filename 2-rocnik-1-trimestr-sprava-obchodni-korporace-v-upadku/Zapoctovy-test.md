@@ -270,7 +270,7 @@ Existují dvě, respektive tři formy úpadku:
   - tyto závazky není schopen plnit (tento bod je fingován, viz bod níže) - pokud se jedná o podnikatele, neplatí, že není schopen plnit své závazky, jestliže rozdíl mezi výší jeho splatných peněžitých závazků a výší jeho disponibilních prostředků - mezera krití, je nižší než jedna desetina - buď současně, nebo výhledově, 
 - předlužení - PO, FO podnikatel, - jedná se o test předlužení, rozvahový test
   - více věřitelů,
-  - souhrn jeho závazků převyšuje hodnotu jeho majetku - hodnotí se i vzhledem k budoucímu vývoji majetku,
+  - souhrn jeho závazků (nikoli jen splatných) převyšuje hodnotu jeho majetku - hodnotí se i vzhledem k budoucímu vývoji majetku,
 - hrozící úpadek,
   - lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník nebude schopen řádně a včas splnit podstatnou část svých peněžitých závazků.
 
@@ -281,7 +281,7 @@ O platební neschopnost se jedná jestliže dlužník:
 - zastavil platby podstatné části svých peněžitých závazků, nebo
 - je neplní po dobu delší 3 měsíců po lhůtě splatnosti, nebo
 - není možné dosáhnout uspokojení některé ze splatných peněžitých pohledávek vůči dlužníku výkonem rozhodnutí nebo exekucí, nebo
-- nesplnil povinnost předložit seznamy uvedené v § 104 odst. 1, kterou mu uložil insolvenční soud.
+- nesplnil povinnost předložit seznamy uvedené v § 104 odst. 1, kterou mu uložil insolvenční soud - tedy předložit seznam veškerého svého majetku včetně svých pohledávek.
 
 ### Způsoby řešení úpadku
 
@@ -634,3 +634,4 @@ Mezi vyloučené pohledávky patří:
     - (1) Přispěl-li člen statutárního orgánu porušením svých povinností k úpadku obchodní korporace a bylo-li v insolvenčním řízení již rozhodnuto o způsobu řešení úpadku obchodní korporace, insolvenční soud na návrh insolvenčního správce
       - a) rozhodne o povinnosti tohoto člena vydat do majetkové podstaty prospěch získaný ze smlouvy o výkonu funkce, jakož i případný jiný prospěch, který od obchodní korporace obdržel, a to až za období 2 let zpět před zahájením insolvenčního řízení, jedná-li se o insolvenční řízení zahájené na návrh jiné osoby než dlužníka; není-li vydání prospěchu možné, nahradí jej člen statutárního orgánu v penězích, a
       - b) byl-li na majetek obchodní korporace prohlášen konkurs, může také rozhodnout, že tento člen je povinen poskytnout do majetkové podstaty plnění až do výše rozdílu mezi souhrnem dluhů a hodnotou majetku obchodní korporace; při určení výše plnění insolvenční soud přihlédne zejména k tomu, jakou měrou přispělo porušení povinnosti k nedostatečné výši majetkové podstaty.
+
