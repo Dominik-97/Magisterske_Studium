@@ -218,7 +218,7 @@ Místní příslušností je obecně místní soud dlužníka.
 - insolvenční soud: soud u kterého probíhá insolvenční řízení,
 - insolvenční návrh: jedná se o návrh na zahájení insolvenčního řízení podaný soudu,
 - incidenční spor: spor v rámci insolvenčního řízení podle zákona, projednává ho insolvenční soud,
-- majetková podstata: majetek dlužníka určený k uspokojení věřitelů,
+- majetková podstata: majetek dlužníka určený k uspokojení věřitelů - zapisuje se do soupisu majetkové podstaty,
 - osoba s dispozičními oprávněními: osoba oprávněná nakládat s majetkovou podstatou,
 - zajištěný věřitel: věřitel jehož pohledávka je zajištěna majetkem, který spadá do majetkové podstaty
 - přihláška pohledávky: procesní úkon přihlášení pohledávky do insolvenčního řízení
@@ -229,6 +229,8 @@ Místní příslušností je obecně místní soud dlužníka.
 ### Co je to úpadek, kdy je dlužník v úpadku?
 
 Aby mohl soud rozhodnout o způsobu úpadku v insolvenční řízení rozhoduje soud, zda je dlužník v **úpadku**, být v úpadku je tedy základní prerekvizitou pro to, aby mohl soud rozhodnout o způsobu úpadku.
+
+Úpadek je neschopnost dlužníka platit své závazky více věřitelům řádně a včas.
 
 Existují dvě, respektive tři formy úpadku:
 
@@ -308,7 +310,7 @@ Insolvenční správce může pro udržení nebo obnovení provozu podniku, kter
 
 - schůze věřitelů - nejvyšší orgán věřitelů,
 - věřitelský výbor - pokud je přihlášených více než 50 věřitelů - věřitelská schůze stanovuje, jaké má působnost (má i zákonem stanovenou působnost), a jakou působnost vyhrazuje sama sobě,
-- zástupce věřitelů - není li volba věřitelského výboru povinná, může být zvolen, ustanovení o věřitelském výboru na něj platí obdobně - ustanovuje se v rámci nepatrného konkurzu.
+- zástupce věřitelů - není li volba věřitelského výboru povinná, může být zvolen, ustanovení o věřitelském výboru na něj platí obdobně - ustanovuje se v rámci nepatrného konkurzu, nebo tam kde je méně než 50 věřitelů.
 
 ### Průběh insolvence
 
@@ -382,7 +384,7 @@ Jinými rozhodnutími o insolvenčním návrhu jsou
 
 #### Uspokojování pohledávek a druhy pohledávek
 
-Věřitelé, kteří své pohledávky uplatňují podáním přihlášky, se uspokojují v závislosti na způsobu řešení úpadku, a to rozvrhem při konkursu, plněním reorganizačního plánu při reorganizaci nebo plněním při oddlužení, nestanoví-li zákon jinak.
+Věřitelé, kteří své pohledávky uplatňují podáním přihlášky, se uspokojují v závislosti na způsobu řešení úpadku, a to rozvrhem (v rozvrhovém usnesení je určeno, jaká částka má být vyplacena věřiteli každé pohledávky) při konkursu, plněním reorganizačního plánu při reorganizaci nebo plněním při oddlužení, nestanoví-li zákon jinak.
 
 Druhy:
 
@@ -566,3 +568,6 @@ Mezi vyloučené pohledávky patří:
 - náklady, které účastníkům vznikly účastí v insolvenčním řízení – př. odměna advokáta.
 
 - **Pohledávka zajištěná**: Jedná se o pohledávky, které jsou zajištěny majetkem náležejícím do majetkové podstaty dlužníka. Zajištění zjednodušeně představuje posílení postavení věřitele (tzv. zajištěného věřitele), který může v případě, že dlužník nezaplatí, získat peníze jinou cestou, a to prodejem předmětu zajištění. V insolvenčním řízení se za zajištění považuje zástavní právo (např. hypotéka), zadržovací právo (právo legálně nevydat cizí věc, dokud není splněn dluh) či zajišťovací převod práva (dlužník na věřitele dočasně převede nějaké své majetkové právo a teprve pokud nesplní, stává se věřitel vlastníkem).
+- **Zajištěný věřitel**: Podle zákona je zajištěným věřitelem takový věřitel, jehož pohledávka je zajištěna majetkem náležejícím do majetkové podstaty dlužníka. Podrobnější informace naleznete pod heslem Pohledávka zajištěná a Nezajištěný věřitel.
+- **Zpráva o přezkumu**: Zpráva o přezkumu je dokument, který obsahuje seznam přihlášených pohledávek se stanoviskem insolvenčního správce i dlužníka, zápis o osobním jednání správce s dlužníkem (podepsaný dlužníkem) a také doklady o písemném vyrozumění věřitele, jehož nevykonatelná pohledávka byla popřena. Předkládá ji insolvenční správce insolvenčnímu soudu v případě, že je způsobem řešení úpadku oddlužení (při konkursu nebo reorganizaci se koná přezkumné jednání před soudem). Soud se následně rozhodne, zda ji schválí, nebo vrátí správci k doplnění, nebo zcela zamítne.
+- **Zpráva pro oddlužení**: Zpráva pro oddlužení je dokument, ve kterém insolvenční správce zhodnotí předpokládané plnění věřitelům podle možných způsobů oddlužení (tedy přibližně vypočítá, kolik by věřitelé mohli dostat zaplaceno při oddlužení splátkovým kalendářem, zpeněžením majetku nebo kombinací obou způsobů) majetkové podstatě. Pokud je v majetkové podstatě nemovitost, musí přiložit znalecký posudek, kterým byla oceněna její hodnota. Kromě toho správce popíše osobní a majetkové poměry dlužníka (rodinný stav, počet dětí, příjmy dlužníka, dary, soupis majetkové podstaty…). Ve zprávě pro oddlužení správce též uvede doporučený způsob oddlužení – pokud doporučí splátkový kalendář, musí rovnou připravit tzv. distribuční schéma (tabulku, ve které bude napsáno, kolik bude zaplaceno kterému věřiteli na kterou pohledávku).
