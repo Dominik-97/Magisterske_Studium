@@ -601,3 +601,36 @@ Mezi vyloučené pohledávky patří:
 - **Zajištěný věřitel**: Podle zákona je zajištěným věřitelem takový věřitel, jehož pohledávka je zajištěna majetkem náležejícím do majetkové podstaty dlužníka. Podrobnější informace naleznete pod heslem Pohledávka zajištěná a Nezajištěný věřitel.
 - **Zpráva o přezkumu**: Zpráva o přezkumu je dokument, který obsahuje seznam přihlášených pohledávek se stanoviskem insolvenčního správce i dlužníka, zápis o osobním jednání správce s dlužníkem (podepsaný dlužníkem) a také doklady o písemném vyrozumění věřitele, jehož nevykonatelná pohledávka byla popřena. Předkládá ji insolvenční správce insolvenčnímu soudu v případě, že je způsobem řešení úpadku oddlužení (při konkursu nebo reorganizaci se koná přezkumné jednání před soudem). Soud se následně rozhodne, zda ji schválí, nebo vrátí správci k doplnění, nebo zcela zamítne.
 - **Zpráva pro oddlužení**: Zpráva pro oddlužení je dokument, ve kterém insolvenční správce zhodnotí předpokládané plnění věřitelům podle možných způsobů oddlužení (tedy přibližně vypočítá, kolik by věřitelé mohli dostat zaplaceno při oddlužení splátkovým kalendářem, zpeněžením majetku nebo kombinací obou způsobů) majetkové podstatě. Pokud je v majetkové podstatě nemovitost, musí přiložit znalecký posudek, kterým byla oceněna její hodnota. Kromě toho správce popíše osobní a majetkové poměry dlužníka (rodinný stav, počet dětí, příjmy dlužníka, dary, soupis majetkové podstaty…). Ve zprávě pro oddlužení správce též uvede doporučený způsob oddlužení – pokud doporučí splátkový kalendář, musí rovnou připravit tzv. distribuční schéma (tabulku, ve které bude napsáno, kolik bude zaplaceno kterému věřiteli na kterou pohledávku).
+
+# Otázka 3
+
+> Zjištění úpadku a jeho vliv na dosavadní členy orgánů korporace (odměny, vydání odměn, ručení, vyloučení z výkonu funkce, trestní odpovědnost).
+
+## Kdy musí podat člen orgánu korporace návrh na zahájení insolvenčního řízení:
+
+- 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
+  - § 98
+    - (1) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku. Tuto povinnost má i tehdy, byl-li pravomocně zastaven výkon rozhodnutí prodejem jeho podniku nebo exekuce podle zvláštního právního předpisu proto, že cena majetku náležejícího k podniku nepřevyšuje výši závazků náležejících k podniku; to neplatí, má-li dlužník ještě jiný podnik.
+    - (2) Povinnost podle odstavce 1 mají i zákonní zástupci dlužníka a jeho statutární orgán a likvidátor dlužníka, který je právnickou osobou v likvidaci. Je-li těchto osob více a jsou-li oprávněny jednat jménem dlužníka samostatně, má tuto povinnost každá z nich. Insolvenční návrh podávají jménem dlužníka.
+    - (3) Povinnost podat insolvenční návrh podle odstavců 1 a 2 není splněna, bylo-li řízení o insolvenčním návrhu vinou navrhovatele zastaveno nebo byl-li jeho insolvenční návrh odmítnut.
+
+## Odpovědnost za škodu (ručení)
+
+- § 99
+  - (1) Osoba, která v rozporu s ustanovením § 98 nepodala insolvenční návrh, odpovídá věřiteli za škodu nebo jinou újmu, kterou způsobí porušením této povinnosti.
+  - (2) Škoda nebo jiná újma podle odstavce 1 spočívá v rozdílu mezi v insolvenčním řízení zjištěnou výší pohledávky přihlášené věřitelem k uspokojení a částkou, kterou věřitel v insolvenčním řízení na uspokojení této pohledávky obdržel.
+  - (3) Osoba uvedená v odstavci 1 se odpovědnosti za škodu nebo jinou újmu podle odstavce 2 zprostí, jen prokáže-li, že porušení povinnosti podat insolvenční návrh nemělo vliv na rozsah částky určené k uspokojení pohledávky přihlášené věřitelem v insolvenčním řízení, nebo že tuto povinnost nesplnila vzhledem ke skutečnostem, které nastaly nezávisle na její vůli a které nemohla odvrátit ani při vynaložení veškerého úsilí, které lze po ní spravedlivě požadovat.
+
+## Vyloučení člena statutárního orgánu
+
+- 2) zák. č. 90/2012 Sb., o obchodních společnostech a družstvech (zákon o obchodních korporacích)
+- Vyloučení člena statutárního orgánu z výkonu funkce
+  - § 63
+    - (1) Soud může i bez návrhu rozhodnout, že člen statutárního orgánu obchodní korporace, který v posledních 3 letech před zahájením řízení opakovaně nebo závažně porušil své povinnosti při výkonu funkce, nesmí až po dobu 3 let od právní moci rozhodnutí o vyloučení vykonávat funkci člena statutárního orgánu jakékoli obchodní korporace (dále jen „vyloučení člena statutárního orgánu“).
+    - (2) Soud rozhodne i bez návrhu o vyloučení člena statutárního orgánu, jestliže byla tomuto členovi statutárního orgánu uložena povinnost podle § 66 odst. 1.
+    - (3) Návrh na vydání rozhodnutí o vyloučení člena statutárního orgánu může podat každý, kdo na něm má důležitý zájem.
+  - § 66 odst. 1
+  - Zvláštní povinnosti při úpadku obchodní korporace
+    - (1) Přispěl-li člen statutárního orgánu porušením svých povinností k úpadku obchodní korporace a bylo-li v insolvenčním řízení již rozhodnuto o způsobu řešení úpadku obchodní korporace, insolvenční soud na návrh insolvenčního správce
+      - a) rozhodne o povinnosti tohoto člena vydat do majetkové podstaty prospěch získaný ze smlouvy o výkonu funkce, jakož i případný jiný prospěch, který od obchodní korporace obdržel, a to až za období 2 let zpět před zahájením insolvenčního řízení, jedná-li se o insolvenční řízení zahájené na návrh jiné osoby než dlužníka; není-li vydání prospěchu možné, nahradí jej člen statutárního orgánu v penězích, a
+      - b) byl-li na majetek obchodní korporace prohlášen konkurs, může také rozhodnout, že tento člen je povinen poskytnout do majetkové podstaty plnění až do výše rozdílu mezi souhrnem dluhů a hodnotou majetku obchodní korporace; při určení výše plnění insolvenční soud přihlédne zejména k tomu, jakou měrou přispělo porušení povinnosti k nedostatečné výši majetkové podstaty.
