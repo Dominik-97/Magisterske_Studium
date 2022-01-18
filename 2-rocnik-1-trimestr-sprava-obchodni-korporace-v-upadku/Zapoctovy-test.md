@@ -34,6 +34,8 @@ V rámci tohoto předmětu jsou důležité pouze soukromoprávní právnické o
   - nadační fondy,
 - ústavy (a přetrvávající o.p.s.).
 
+> ***TODO:*** Přidat základní organizační strukturu
+
 > Rozdíl mezi kapitálovou a osobní společností: společníci v osobní společnosti ručí za závazky společnosti z části, nebo celým svým majetkem, zatímco společníci v kapitálových společnostech ručí za závazky společnosti omezeně, standardně do výše vkladu.
 
 Krom výše vytyčených forme právnických osob existuje mnoho dalších osob, které jsou dále upraveny v českém právním řádu, vzhledem k předmětu však nejsou důležité, několik příkladů zahrnuje:
