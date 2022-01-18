@@ -407,6 +407,12 @@ Dlužník má po dobu probíhajícího oddlužení mnoho zákonem stanovených p
 
 Pokud by tyto podmínky neplnil, může soud přistoupit až ke zrušení schváleného oddlužení a přeměnit ho v konkurz (v konkurzu nezanikají neuspokojené pohledávky).
 
+Oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty je splněno, jestliže
+
+1. dlužník splatil nezajištěným věřitelům jejich pohledávky v plné výši,
+2. dlužník v době 3 let od schválení oddlužení splatil nezajištěným věřitelům alespoň 60 % jejich pohledávek,
+3. po dobu 5 let od schválení oddlužení nebylo dlužníku oddlužení zrušeno a dlužník neporušil svou povinnost vynaložit veškeré úsilí, které po něm bylo možno spravedlivě požadovat, k plnému uspokojení pohledávek svých věřitelů; má se za to, že tuto povinnost neporušil, jestliže v této době splatil nezajištěným věřitelům alespoň 30 % jejich pohledávek.
+
 ## Insolvenční rejstřík:
 
 1. Insolvenční rejstřík je informačním systémem veřejné správy, jehož správcem je Ministerstvo spravedlnosti (dále jen "ministerstvo").
