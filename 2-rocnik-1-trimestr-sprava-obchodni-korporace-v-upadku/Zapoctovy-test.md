@@ -245,10 +245,23 @@ Jinými rozhodnutími o insolvenčním návrhu jsou
 
 - odmítnutí insolvenčního návrhu pro vady nebo pro zjevnou bezdůvodnost,
 - zastavení řízení pro nedostatek podmínky řízení, který nelze odstranit nebo který se nepodařilo odstranit, nebo pro zpětvzetí insolvenčního návrhu,
-- zamítnutí insolvenčního návrhu.
+- zamítnutí insolvenčního návrhu (rozhodnutí o tom, že dlužník není v úpadku).
 
 ### Stanovení způsobů řešení úpadku
 
 1. Insolvenční soud spojí s rozhodnutím o úpadku rozhodnutí o prohlášení konkursu, je-li dlužníkem osoba, u které tento zákon vylučuje řešení úpadku reorganizací nebo oddlužením.
 2. Jestliže dlužník společně s insolvenčním návrhem, ve kterém jako způsob řešení úpadku navrhuje reorganizaci, předloží reorganizační plán přijatý alespoň polovinou všech zajištěných věřitelů, počítanou podle výše jejich pohledávek, a alespoň polovinou všech nezajištěných věřitelů, počítanou podle výše pohledávek, spojí insolvenční soud s rozhodnutím o úpadku i rozhodnutí o způsobu řešení úpadku.
 3. Jestliže dlužník společně s insolvenčním návrhem podá návrh na povolení oddlužení, spojí insolvenční soud s rozhodnutím o úpadku i rozhodnutí o způsobu řešení úpadku.
+
+#### Uspokojování pohledávek a druhy pohledávek
+
+Věřitelé, kteří své pohledávky uplatňují podáním přihlášky, se uspokojují v závislosti na způsobu řešení úpadku, a to rozvrhem při konkursu, plněním reorganizačního plánu při reorganizaci nebo plněním při oddlužení, nestanoví-li zákon jinak.
+
+Druhy:
+
+- přihlášené pohledávky,
+- pohledávky za majetkovou podstatou - například náhrady a odměny,
+- pohledávky postavené na roveň pohledávkám za majetkovou podstatou - například výživné.
+
+#### Přihlášení pohledávek a jejich uspokojení
+
