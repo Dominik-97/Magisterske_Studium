@@ -780,4 +780,72 @@ Součástí péče řádného hospodáře je nejen mít schopnost možný budouc
 
 > Osoba s disposičním oprávněním, součinnost orgánů dlužníka a insolvenčního správce, samostatná působnost dlužníka, vazba na věřitelské orgány a jejich rozhodování.
 
+Otázky (Kontrolní otázky):
+
+Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním. Student se seznámí s rozsahem součinnosti orgánů dlužníka a insolvenčního správce. Student bude znát mechanismus rozhodování věřitelských orgánů.
+
+1. Jaké znáte věřitelské orgány? - Schůze, Výbor, Zástupce - **Zodpovězeno**
+2. Kdo svolává schůzi věřitelů?
+3. Je možné hlasovat na schůzi věřitelů písemně?
+4. V jakých případech může hlasovat na schůzi věřitelů věřitel, který s dlužníkem tvoří koncern?
+5. Jakým způsobem se zveřejnuje oznámení o svolání schůze věřitelů?
+
+## Osoba s dispozičním oprávněním
+
+1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
+Věřitelské orgány
+§ 46
+Schůze věřitelů, věřitelský výbor a zástupce věřitelů
+(1) Věřitelskými orgány jsou schůze věřitelů a věřitelský výbor nebo zástupce věřitelů.
+(2) Schůzi věřitelů přísluší volba a odvolání členů věřitelského výboru a jeho náhradníků nebo zástupce
+věřitelů; rozhoduje též o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Schůze věřitelů si
+může vyhradit cokoli, co patří do působnosti věřitelských orgánů. Usnesení, jímž si schůze věřitelů
+vyhrazuje působnost jiných věřitelských orgánů, je přijato, jestliže pro ně hlasovala většina tvořená
+nejméně dvěma třetinami hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše
+jejich pohledávek. Není-li ustanoven věřitelský výbor ani zástupce věřitelů a není-li v tomto zákoně
+stanoveno jinak, vykonává schůze věřitelů i jejich působnost.
+(3) Věřitelský výbor vykonává působnost věřitelských orgánů s výjimkou věcí, které patří do
+působnosti schůze věřitelů nebo které si schůze věřitelů vyhradila.
+§ 210
+(1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování
+majetkové podstaty všestrannou součinnost, zejména dbát pokynů insolvenčního správce nebo
+předběžného správce.
+(2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její statutární orgány a jejich
+členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu
+má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3
+měsících před zahájením insolvenčního řízení.
+(3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou
+společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za
+právnickou osobu.
+(4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci; má-li
+fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může
+insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
+
 # Otázka 5
+
+> Oprávnění a součinnost orgánů dlužníka a insolvenčního správce v
+konkursu.
+
+Otázky (Kontrolní otázky):
+
+Student bude znát rozsah oprávnění a součinnosti orgánů dlužníka v konkursu. Student bude umět vymezit rozsah oprávnění a součinnosti insolvenčního správce v konkursu. Student se seznámí s možnými následky porušení povinnosti k součinnosti, které zákon ukládá orgánům dlužníka a insolvenčnímu správci.
+
+1. V jakém rozsahu je povinen dlužník poskytnout součinnost insolvenčnímu správci?
+2. V jakém rozsahu je povinen insolvenční správce poskytovat součinnost insolvenčnímu soudu v průběhu konkursu?
+3. Jaké následky může mít porušení povinnosti k součinnosti pro orgány dlužníka, resp. jejich členy?
+4. Jaké následky může mít porušení povinnosti k součinnosti pro insolvenčního správce?
+5. Které orgány dlužníka mají povinnost poskytovat součinnost insolvenčnímu správci v průběhu konkursu?
+
+## Oprávnění a součinnost
+
+1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
+§ 212
+(1) Dlužník musí umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek
+náležející do majetkové podstaty.
+(2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke
+zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit
+prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich
+umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenční správce oprávněn zjednat si do
+bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+
+# Otázka 6
