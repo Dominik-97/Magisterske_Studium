@@ -52,7 +52,7 @@ Rozlišujeme:
 
 V rámci tohoto předmětu jsou důležité pouze soukromoprávní právnické osoby, ty rozlišujeme na:
 
-- soukromoprávní korporace:
+- soukromoprávní korporace - společenství osob:
   - spolky,
   - obchodní korporace:
     - obchodní společnosti:
@@ -62,12 +62,56 @@ V rámci tohoto předmětu jsou důležité pouze soukromoprávní právnické o
       - v.o.s. - osobní společnost,
       - komanditní společnost - osobní společnost.
     - družstva,
-- fundace:
+- fundace - společenství majetku:
   - nadece,
   - nadační fondy,
-- ústavy (a přetrvávající o.p.s.).
+- ústavy (a přetrvávající o.p.s.) - společenství osob a majetku.
 
 > ***TODO:*** Přidat základní organizační strukturu
+
+Organizační struktura pro soukromoprávní organizace (mimo družstva), fundace a ústavy:
+
+- spolek
+  - nejvyšší orgán: členská schůze,
+  - statutární orgán: kolektivní - výbor, nebo individuální - předseda,
+  - další možné orgány stanovené ve stanovách, například kontrolní a rozhodčí komise
+- a.s.
+  - dualistický systém:
+    - nejvyšší orgán: valná hromada,
+    - statutární orgán: představenstvo,
+    - kontrolní orgán: dozorčí rada,
+  - monistický systém:
+    - nejvyšší orgán: valná hromada,
+    - statutární orgán: správní rada a statutární ředitel
+- s.r.o.
+  - nejvyšší orgán: valná hromada - všichni společníci,
+  - statutární orgán: jednatelé,
+  - kontrolní orgán: dozorčí rada
+- v.o.s.
+  - statutární orgán: všichni společníci
+- k.s.
+  - společníci:
+    - komplementáři - ručí neomezeně, faktický statutární orgán
+    - komanditisté - ručí do výše svého nesplaceného vkladu
+- družstvo (SVJ):
+  - nejvyšší orgán: členská schůze,
+  - statutární orgán: představenstvo,
+  - kontrolní orgán: kontrolní komise
+- nadace:
+  - statutární orgán: správní rada
+  - kontrolní orgán: dozorčí rada, nebo revizor
+- nadační fond:
+  - statutární orgán: správní rada
+  - kontrolní orgán: revizor
+- ústav:
+  - statutární orgán: ředitel ústavu,
+  - nejvyšší orgán: správní rada,
+  - kontrolní orgán: dozorčí rada
+- o.p.s.
+  - statutární orgán: ředitel společnosti,
+  - nejvyšší orgán: správní rada,
+  - kontrolní orgán: dozorčí rada
+
 
 > Rozdíl mezi kapitálovou a osobní společností: společníci v osobní společnosti ručí za závazky společnosti z části, nebo celým svým majetkem, zatímco společníci v kapitálových společnostech ručí za závazky společnosti omezeně, standardně do výše vkladu.
 
