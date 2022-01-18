@@ -2,6 +2,30 @@
 
 > Formy a rizika podnikání prostřednictvím variabilních nástrojů a motivace k jejich volbě (individuální, societní, joint ventures, osobní společnosti, kapitálové společnosti, fundace atd.). Pojem residuálního vlastníka při chování dlužníka v úpadku (zájem společníků, stakeholderů, veřejné moci, věřitelů, společný zájem věřitelů atd.).
 
+## Prameny právní úpravy
+
+- Zákony:
+  - Zák. č. 182/2006 Sb., insolvenční zákon
+  - Zák. č. 312/2006 Sb., o insolvenčních správcích
+  - Zák. č. 191/2020 Sb., o zmírnění dopadů pandemie COVID-19
+  - Zák. č. 90/2012 Sb., o obchodních korporacích
+  - Zák. č. 89/2012 Sb., občanský zákoník
+- Vyhlášky (nedůležité)
+  - Vyhl. č. 311/2007 Sb.,
+  - 312/2007 Sb.,
+  - 313/2007 Sb.,
+  - 314/2007 Sb.,
+  - 190/2017 Sb.,
+  - 191/2017 Sb.,
+  - 121/2019 Sb.,
+  - 193/2019 Sb.
+- Prameny právní úpravy EU:
+  - Nařízení
+    - Nařízení č. 2015/848/EU o insolvenčním řízení (přepracované znění)
+  - Judikatura SD EU
+
+
+
 ## Oblasti
 
 ### Právní formy
