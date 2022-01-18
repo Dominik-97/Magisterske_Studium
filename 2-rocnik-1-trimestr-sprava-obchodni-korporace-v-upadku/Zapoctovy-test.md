@@ -697,10 +697,9 @@ Otázky (Kontrolní otázky):
 Student bude umět uvést způsoby zjištění úpadku. Student bude znát důvody vyloučení člena statutárního orgánu z výkonu funkce. Student bude umět vymezit skutkové podstaty úpadkových trestných činů.
 
 1. Jak lze zjistit, že je obchodní korporace v úpadku? - Insolvenčním testem, compliance - **Zodpovězeno**
-2. Jaké musejí být splněny podmínky pro to, aby insolvenční soud rozhodl o povinnosti člena statutárního orgánu vydat majetkový prospěch získaný od obchodní korporace?
-3. Jaké znáte úpadkové trestné činy?
-4. Jaké musejí být splněny podmínky pro rozhodnutí soudu o vyloučení člena statutárního
-orgánu?
+2. Jaké musejí být splněny podmínky pro to, aby insolvenční soud rozhodl o povinnosti člena statutárního orgánu vydat majetkový prospěch získaný od obchodní korporace? - **Zodpovězeno**
+3. Jaké znáte úpadkové trestné činy? - **Zodpovězeno**
+4. Jaké musejí být splněny podmínky pro rozhodnutí soudu o vyloučení člena statutárního orgánu? - **Zodpovězeno**
 5. Jaký vliv má zjištění úpadku na dosavadní členy orgánů korporace?
 
 Ze zákona vyplývá, že:
