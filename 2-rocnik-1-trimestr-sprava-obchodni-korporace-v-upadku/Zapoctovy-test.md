@@ -392,7 +392,7 @@ Insolvenční soud může zamítnout návrh na oddlužení ze zákonem vymezený
 - že jím je sledován nepoctivý záměr, nebo
 - v posledních 5 letech před podáním insolvenčního návrhu byl návrh dlužníka na povolení oddlužení pravomocně zamítnut z důvodu, že je jím sledován nepoctivý záměr etc.
 
-Jestliže insolvenční soud návrh na povolení oddlužení odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, může současně rozhodnout o způsobu řešení dlužníkova úpadku konkursem v případě zákonem vymezených situací.
+Jestliže insolvenční soud návrh na povolení oddlužení odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, může současně rozhodnout o způsobu řešení dlužníkova úpadku konkursem v případě zákonem vymezených situací. Insolvenční soud samozřejmě může rovněž rozhodnout o schválení oddlužení.
 
 Oddlužení lze provést zpeněžením majetkové podstaty nebo plněním splátkového kalendáře se zpeněžením majetkové podstaty.
 
@@ -400,6 +400,12 @@ Oddlužení lze provést zpeněžením majetkové podstaty nebo plněním splát
 2. Při oddlužení plněním splátkového kalendáře se zpeněžením majetkové podstaty je dlužník povinen vydat insolvenčnímu správci majetek náležející do majetkové podstaty ke zpeněžení postupem obdobným podle ustanovení o zpeněžení majetkové podstaty v konkursu a dále do doby podání zprávy o splnění oddlužení měsíčně splácet nezajištěným věřitelům ze svých příjmů částku ve stejném rozsahu, v jakém z nich mohou být při výkonu rozhodnutí nebo při exekuci uspokojeny přednostní pohledávky.
 
 Insolvenční správce předává zprávu pro oddlužení.
+
+Dlužník má po dobu probíhajícího oddlužení mnoho zákonem stanovených povinností, například:
+
+- vykonávat přiměřenou výdělečnou činnost a v případě, že je nezaměstnaný, o získání příjmu usilovat; nesmí rovněž odmítat splnitelnou možnost si příjem obstarat etc.
+
+Pokud by tyto podmínky neplnil, může soud přistoupit až ke zrušení schváleného oddlužení a přeměnit ho v konkurz (v konkurzu nezanikají neuspokojené pohledávky).
 
 ## Insolvenční rejstřík:
 
