@@ -611,6 +611,13 @@ Mezi vyloučené pohledávky patří:
 
 > Zjištění úpadku a jeho vliv na dosavadní členy orgánů korporace (odměny, vydání odměn, ručení, vyloučení z výkonu funkce, trestní odpovědnost).
 
+Ze zákona vyplývá, že:
+
+- § 6/1 OZ - Každý má povinnost jednat v právním styku poctivě.
+- § 159/1 OZ - Kdo přijme funkci člena voleného orgánu, zavazuje se, že ji bude vykonávat s nezbytnou loajalitou i s potřebnými znalostmi a pečlivostí. Má se za to, že jedná nedbale, kdo není této **péče řádného hospodáře** schopen, ač to musel zjistit při přijetí funkce nebo při jejím výkonu, a nevyvodí z toho pro sebe důsledky.
+- § 51/1 ZOK - Pečlivě a s potřebnými znalostmi jedná ten, kdo mohl při podnikatelském rozhodování v dobré víře rozumně předpokládat, že jedná informovaně a v obhajitelném zájmu obchodní korporace; to neplatí, pokud takovéto rozhodování nebylo učiněno s nezbytnou loajalitou.
+
+
 ## Kdy musí podat člen orgánu korporace návrh na zahájení insolvenčního řízení:
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
@@ -625,6 +632,9 @@ Mezi vyloučené pohledávky patří:
   - (1) Osoba, která v rozporu s ustanovením § 98 nepodala insolvenční návrh, odpovídá věřiteli za škodu nebo jinou újmu, kterou způsobí porušením této povinnosti.
   - (2) Škoda nebo jiná újma podle odstavce 1 spočívá v rozdílu mezi v insolvenčním řízení zjištěnou výší pohledávky přihlášené věřitelem k uspokojení a částkou, kterou věřitel v insolvenčním řízení na uspokojení této pohledávky obdržel.
   - (3) Osoba uvedená v odstavci 1 se odpovědnosti za škodu nebo jinou újmu podle odstavce 2 zprostí, jen prokáže-li, že porušení povinnosti podat insolvenční návrh nemělo vliv na rozsah částky určené k uspokojení pohledávky přihlášené věřitelem v insolvenčním řízení, nebo že tuto povinnost nesplnila vzhledem ke skutečnostem, které nastaly nezávisle na její vůli a které nemohla odvrátit ani při vynaložení veškerého úsilí, které lze po ní spravedlivě požadovat.
+
+- § 53/1 ZOK
+  - Osoba, která porušila povinnost péče řádného hospodáře, vydá obchodní korporaci prospěch, který v souvislosti s takovým svým jednáním získala. Není-li vydání prospěchu možné, nahradí ho povinná osoba obchodní korporaci v penězích.
 
 ## Vyloučení člena statutárního orgánu
 
