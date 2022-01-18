@@ -305,4 +305,15 @@ Konkurz může být rovněž ze zákonem stanovených důvodů **zrušen**.
 
 **Nepatrný konkurz**:
 
+O nepatrný konkurz se jedná v případě, kdy:
+
+- dlužníkem je fyzická osoba, která není podnikatelem, nebo,
+- nebyl zjištěn celkový obrat dlužníka podle zvláštního právního předpisu46) za poslední účetní období předcházející prohlášení konkursu přesahující 2 000 000 Kč a dlužník nemá více než 50 věřitelů.
+
+Jsou tady mírné odchylky, například se nemusí stanovovat věitelský výbor, ale může se stanovit zástupce věřitelů.
+
+Další odchylky jsou stanoveny v zákoně, není-li to v rozporu s rozhodnutím schůze věřitelů, insolvenční soud může pro nepatrný konkurs stanovit i další odchylky od zákona.
+
+**Reorganizace**:
+
 ## Slovníček insolvenčních pojmů
