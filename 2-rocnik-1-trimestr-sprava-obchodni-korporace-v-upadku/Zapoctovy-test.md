@@ -127,6 +127,8 @@ Rozlišujeme mezi zájmy:
 
 ### Test insolvence
 
+Doslovná povinnost aplikace testu insolvence vyplývá pouze z § 40 zákona o obchodních korporacích (dále jen ZOK) v rámci distribuce majetku společnosti, avšak ZOK předpokládá jeho užití i v rámci běžné podnikatelské činnosti, a to v rámci povinnosti statutárního orgánu odvracet úpadek společnosti. Statutární orgán má povinnost aplikovat test insolvence ve stanovených případech (například při rozdělení zisku, pokud společnosti hrozí úpadek - povinnost podat insolvenční návrh atd.).
+
 Test insolvence má dvě složky (viz účetní závěrka - rozvaha, výkaz zisku a ztrát, přehled o peněžních tocích - cash flow, přehled o změnách vlastního kapitálu, příloha k účetní závěrce):
 
 1. Test předlužení (rozvahový test)
