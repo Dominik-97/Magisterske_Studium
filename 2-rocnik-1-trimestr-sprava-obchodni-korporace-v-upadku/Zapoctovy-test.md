@@ -104,11 +104,13 @@ Krom individuálního podnikání, tak existuje spoustu jiných forem, prostřed
 
 ### Pojem residuálního vlastníka
 
+Jedná se o stratifikaci vlastnictví:
+
 Rozlišujeme:
 
-1. Formálního vlastníka,
-2. Faktického vlastníka
-3. Residuálního (ekonomického) vlastníka
+1. Formálního vlastníka - jedná se o konečného vlastníka, standardně někoho, kdo je zapsát v registru - společník,
+2. Faktického vlastníka - jedná se o správce, tedy o někoho, kdo se reálně stará o fungování subjektu (například zastoupení, prokura) - může zde vznikat zásadní problém vlastníka (formální vlastník) a správce (faktický vlastník),
+3. Residuálního (ekonomického) vlastníka - vlastník, kterému náleží užitek ze subjektu, standardně jím je formální vlastník, pokud má však subjekt dluhy, stávají se ekonomickými vlastníky věřitelé - toto má zásadní dopad do insolvenčního řízení, kdy po vyhlášení úpadku (fakticky i před ním) se stávají ekonomickými vlastníky přihlášení věřitelé.
 
 ### Test insolvence
 
