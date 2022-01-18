@@ -301,4 +301,8 @@ Nesplatné pohledávky proti dlužníku se prohlášením konkursu považují za
 
 V závěru zpeněžení majetkové podstaty insolvenční správce předloží insolvenčnímu soudu konečnou zprávu (konečná zpráva insolvenčního správce musí podat celkovou charakteristiku jeho činnosti s vyčíslením jejích finančních výsledků, například seznam pohledávek) a rozvrh (v jakém pořadí se uspokojují pohledávky).
 
+Konkurz může být rovněž ze zákonem stanovených důvodů **zrušen**.
+
+**Nepatrný konkurz**:
+
 ## Slovníček insolvenčních pojmů
