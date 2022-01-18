@@ -127,6 +127,11 @@ Rozlišujeme mezi zájmy:
 
 ### Test insolvence
 
+Test insolvence má dvě složky (viz účetní závěrka - rozvaha, výkaz zisku a ztrát, přehled o peněžních tocích - cash flow, přehled o změnách vlastního kapitálu, příloha k účetní závěrce):
+
+1. Test předlužení (rozvahový test)
+2. Test likvidity
+
 ### Rozvahový test
 
 # Otázka 2
