@@ -366,4 +366,11 @@ v rámci tohoto předmětu to není tak důležité, ponechávám zde tedy pouze
 
 **Oddlužení**:
 
+## Insolvenční rejstřík:
+
+1. Insolvenční rejstřík je informačním systémem veřejné správy, jehož správcem je Ministerstvo spravedlnosti (dále jen "ministerstvo").
+2. Insolvenční rejstřík obsahuje seznam insolvenčních správců, seznam dlužníků a insolvenční spisy. Pro každého dlužníka se vede jeden insolvenční spis.
+3. Insolvenční rejstřík je veřejně přístupný, s výjimkou údajů, o kterých tak stanoví tento zákon. Každý má právo do něj nahlížet a pořizovat si z něj kopie a výpisy. Soudce insolvenčního soudu má přístup ke všem údajům vedeným v insolvenčním rejstříku.
+4. Na žádost vydá ministerstvo nebo insolvenční soud úředně ověřený výstup z informačního systému veřejné správy obsahující údaje z insolvenčního rejstříku nebo informaci o tom, že požadovaný údaj není veden v insolvenčním rejstříku.
+
 ## Slovníček insolvenčních pojmů
