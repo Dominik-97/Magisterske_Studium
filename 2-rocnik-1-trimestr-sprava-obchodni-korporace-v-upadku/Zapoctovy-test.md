@@ -387,8 +387,8 @@ Věřitelé, kteří své pohledávky uplatňují podáním přihlášky, se usp
 Druhy:
 
 - přihlášené pohledávky,
-- pohledávky za majetkovou podstatou - například náhrady a odměny,
-- pohledávky postavené na roveň pohledávkám za majetkovou podstatou - například výživné.
+- pohledávky za majetkovou podstatou - Pohledávky za majetkovou podstatou jsou zvláštní pohledávky, které vznikají až po zahájení insolvenčního řízení (popř. po vydání rozhodnutí o úpadku). - například náhrady a odměny,
+- pohledávky postavené na roveň pohledávkám za majetkovou podstatou - Skupina pohledávek postavených na roveň pohledávkám za majetkovou podstatou má podobný režim jako pohledávky za majetkovou podstatou – také se uplatňují přímo u osoby s dispozičním oprávněním a jsou placeny v plné výši kdykoliv po rozhodnutí o úpadku. - například výživné.
 
 Insolvenční zákon rozlišuje další druhy, jako je zajištěná, nezajištěná, podřízená etc. ty v této části nejsou tak důležité, jejich popis bude v poslední části této otázky viz Slovníček insolvenčních pojmů.
 
