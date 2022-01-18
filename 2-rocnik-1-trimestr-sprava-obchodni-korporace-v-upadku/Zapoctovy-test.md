@@ -700,7 +700,7 @@ Student bude umět uvést způsoby zjištění úpadku. Student bude znát důvo
 2. Jaké musejí být splněny podmínky pro to, aby insolvenční soud rozhodl o povinnosti člena statutárního orgánu vydat majetkový prospěch získaný od obchodní korporace? - **Zodpovězeno**
 3. Jaké znáte úpadkové trestné činy? - **Zodpovězeno**
 4. Jaké musejí být splněny podmínky pro rozhodnutí soudu o vyloučení člena statutárního orgánu? - **Zodpovězeno**
-5. Jaký vliv má zjištění úpadku na dosavadní členy orgánů korporace?
+5. Jaký vliv má zjištění úpadku na dosavadní členy orgánů korporace? - Především jde o povinnost doplnění pasiv a podání návrhu - **Zodpovězeno**
 
 Ze zákona vyplývá, že:
 
