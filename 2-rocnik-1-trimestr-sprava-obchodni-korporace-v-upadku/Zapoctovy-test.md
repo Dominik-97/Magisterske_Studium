@@ -342,4 +342,16 @@ Insolvenční správce vykonává dohled nad činností dlužníka s dispozičn�
 
 Nestanoví-li tento zákon jinak, rozhodnutím o povolení reorganizace se pozastavuje výkon funkce valné hromady nebo členské schůze dlužníka a místo valné hromady nebo členské schůze dlužníka rozhoduje v její působnosti insolvenční správce.
 
+Společně s návrhem na reorganizaci musí být předložen reorganizační plán a reorganizační zpráva (přednostní právo pro sestavení reorganizačního plánu má dlužník, ale může ho navrhnout i věřitel).
+
+Reorganizační plán vymezuje právní postavení dotčených osob v důsledku povolené reorganizace, a to na základě opatření sledujících ozdravení provozu dlužníkova podniku a uspořádání vzájemných vztahů mezi dlužníkem a jeho věřiteli.
+
+Reorganizační plán je účinný, jakmile rozhodnutí o jeho schválení nabylo právní moci, nebyla-li reorganizačním plánem jeho účinnost odložena na pozdější dobu nebo nerozhodl-li o jeho pozdější účinnosti insolvenční soud.
+
+Reorganizace může skončit úspěšně, může být zrušena, nebo může být přeměněna v konkurz.
+
+**Úpadek finančních institucí**:
+
+
+
 ## Slovníček insolvenčních pojmů
