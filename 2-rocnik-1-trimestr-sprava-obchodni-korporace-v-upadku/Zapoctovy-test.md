@@ -2,6 +2,17 @@
 
 > Formy a rizika podnikání prostřednictvím variabilních nástrojů a motivace k jejich volbě (individuální, societní, joint ventures, osobní společnosti, kapitálové společnosti, fundace atd.). Pojem residuálního vlastníka při chování dlužníka v úpadku (zájem společníků, stakeholderů, veřejné moci, věřitelů, společný zájem věřitelů atd.).
 
+Otázky (Kontrolní otázky):
+
+Student bude umět vymezit, jaká rizika jsou spojena s jednotlivými formami podnikání.
+
+
+1. Jaká jsou rizika podnikání pro společníky spojená s podnikáním v rámci osobních společností? - **Zodpovězeno**
+2. Co je to joint venture? - **Zodpovězeno**
+3. V jakém rozsahu mohou podnikat fundace? - Jejím hlavním účelem nesmí být podníkání - **Zodpovězeno**
+4. Co je to test insolvence? - **Zodpovězeno**
+5. Co je to rozvahový test? - **Zodpovězeno**
+
 ## Prameny právní úpravy
 
 - Zákony:
@@ -225,6 +236,16 @@ Společnost s ručením omezeným je společnost, za jejíž dluhy ručí spole�
 > Motivace a očekávání při správě korporace a ex ante význam insolvenčního práva (existence
 hrozícího úpadku, hospodářské nedostatečnosti, moratoria, zajištění apod.).
 
+Otázky (Kontrolní otázky):
+
+Student se seznámí se strukturou právní úpravy insolvenčního práva. Student bude schopen uvést, jaké jsou zákonem stanovené předpoklady hrozícího úpadku. Student bude znát podmínky vyhlášení moratoria.
+
+1. Jak lze zjistit při správě obchodní korporace existenci hrozícího úpadku? - **Zodpovězeno**
+2. Jak lze zjistit při správě obchodní korporace, že nastala hospodářská nedostatečnost? -
+3. Jaké jsou obsahové náležitosti návrhu na moratorium?
+4. V jaké lhůtě může podat návrh na vyhlášení moratoria dlužník?
+5. V jaké lhůtě může podat návrh na vyhlášení moratoria věřitel?
+
 ## Motivace a očekávání při správě korporace
 
 ## Ex ante význam insolvenčního práva
@@ -389,6 +410,8 @@ Insolvenční soud může na návrh dlužníka prodloužit moratorium nejdéle o
 Po dobu trvání moratoria nelze vydat rozhodnutí o úpadku.
 
 Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachovány účinky spojené se zahájením insolvenčního řízení.
+
+K návrhu na vyhlášení moratoria musí navrhovatel připojit listiny a seznamy, poslední účetní závěrku a seznamy většiny jeho věřitelů, že s vyhlášením moratoria souhlasí.
 
 **Účinky moratoria:**
 
