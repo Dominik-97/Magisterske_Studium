@@ -352,6 +352,18 @@ Reorganizace může skončit úspěšně, může být zrušena, nebo může být
 
 **Úpadek finančních institucí**:
 
+Ustanovení tohoto dílu zapracovávají příslušné předpisy Evropských společenství51) a použijí se na úpadek:
 
+- banky a spořitelního a úvěrového družstva poté, kdy zanikla licence nebo povolení podle zvláštních právních předpisů upravujících jejich činnosti,
+- zahraniční banky podnikající na území České republiky na základě jednotné licence podle zvláštního právního předpisu52),
+- pobočky zahraniční banky jiné než uvedené v písmenu b),
+- obchodníka s cennými papíry,
+- zahraničního obchodníka s cennými papíry poskytujícího investiční služby na území České republiky na základě povolení podle zákona upravujícího podnikání na kapitálovém trhu62),
+- pobočky zahraničního obchodníka s cennými papíry jiného než uvedeného v písmenu e),
+- povinných osob podle § 3 písm. b) a c) zákona o ozdravných postupech a řešení krize na finančním trhu.
+
+v rámci tohoto předmětu to není tak důležité, ponechávám zde tedy pouze toto základní info.
+
+**Oddlužení**:
 
 ## Slovníček insolvenčních pojmů
