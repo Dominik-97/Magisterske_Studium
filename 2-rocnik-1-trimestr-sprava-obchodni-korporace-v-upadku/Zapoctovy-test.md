@@ -386,6 +386,11 @@ Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachová
 
 Insolvenční soud vydá rozhodnutí o úpadku, je-li osvědčením nebo dokazováním zjištěno, že dlužník je v úpadku nebo že mu úpadek hrozí.
 
+Může tedy rozhodnout, že:
+
+- byl zjištěn úpadek dlužníka,
+- nebyl zjištěn úpadek dlužníka.
+
 #### Účinky spojené s rozhodnutím o úpadku
 
 - předběžná opatření trvají, soud je však může změnit,
