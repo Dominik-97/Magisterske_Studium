@@ -249,7 +249,7 @@ Místní příslušností je obecně místní soud dlužníka.
 - insolvenční soud: soud u kterého probíhá insolvenční řízení,
 - insolvenční návrh: jedná se o návrh na zahájení insolvenčního řízení podaný soudu,
 - incidenční spor: spor v rámci insolvenčního řízení podle zákona, projednává ho insolvenční soud,
-- majetková podstata: majetek dlužníka určený k uspokojení věřitelů - zapisuje se do soupisu majetkové podstaty,
+- majetková podstata: majetek dlužníka určený k uspokojení věřitelů - zapisuje se do soupisu majetkové podstaty, zjišťuje se majetková podstata (neplatnost a neúčinnost právních jednání - nakládání s majetkovou podstatou - která zásadně mění jeho výši)
 - osoba s dispozičními oprávněními: osoba oprávněná nakládat s majetkovou podstatou,
 - zajištěný věřitel: věřitel jehož pohledávka je zajištěna majetkem, který spadá do majetkové podstaty
 - přihláška pohledávky: procesní úkon přihlášení pohledávky do insolvenčního řízení
@@ -289,13 +289,13 @@ O platební neschopnost se jedná jestliže dlužník:
 Způsoby řešení úpadků jsou tři druhy, **sanační** a **likvidační** a **zvláštní způsoby řešení úpadku** - vyhlašuje se rozhodnutím ve formě usnesení, přičemž opravné prostředky nejsou standardně přípustné, pokud zákon nestanoví jinak:
 
 - sanační:
-  - oddlužení,
-  - reorganizace,
+  - oddlužení - FO, PO nepodnikající,
+  - reorganizace - podnikatel,
 - likvidační,
-  - konkurz a
-- zvláštní způsoby řešení úpadku,
-  - nepatrný konkurz,
-  - úpadek.
+  - konkurz - všichni a
+- zvláštní způsoby řešení úpadku (likvidační),
+  - nepatrný konkurz - všichni,
+  - úpadek finančních institucí - finanční instituce.
 
 ### Zásady insolvenčního práva
 
@@ -306,7 +306,20 @@ Způsoby řešení úpadků jsou tři druhy, **sanační** a **likvidační** a 
 - rovnost věřitelů,
 - nemožnost omezení práv nabytích v dobré víře,
 - zákaz jednání vedoucího k uspokojení pohledávek mimo insolvenční zákon, ledaže to povoluje zákon,
-- jednotnost - další insolvenční návrh - přistoupení k řízení.
+- jednotnost - další insolvenční návrh - přistoupení k řízení,
+- prevence úpadku,
+- pluralita způsobů řešení úpadku,
+- jednotnost řízení,
+- a další, příklady:
+  - oddělení obecné a zvláštní úpravy
+  - principy, kterými se řídí insolvenční rejstřík
+  - rovnost věřitelů
+  - ochrana práv věřitelů nabytých v dobré víře
+  - kombinuje prvky nalézacího řízení a vykonávacího řízení, jakož i prvky řízení sporného a nesporného
+  - zásada hospodárnosti řízení
+  - zásada exkluzivity (výlučnosti) insolvenčního řízení
+  - zásada veřejnosti
+  - ochrana dobrých mravů
 
 ### Výjimky z působnosti zákona
 
@@ -390,7 +403,8 @@ Insolvenční soud vydá rozhodnutí o úpadku, je-li osvědčením nebo dokazov
 Může tedy rozhodnout, že:
 
 - byl zjištěn úpadek dlužníka,
-- nebyl zjištěn úpadek dlužníka.
+- nebyl zjištěn úpadek dlužníka,
+- soud zamítne/odmítne návrh.
 
 #### Účinky spojené s rozhodnutím o úpadku
 
@@ -430,6 +444,16 @@ Druhy:
 
 Insolvenční zákon rozlišuje další druhy, jako je zajištěná, nezajištěná, podřízená etc. ty v této části nejsou tak důležité, jejich popis bude v poslední části této otázky viz Slovníček insolvenčních pojmů.
 
+Posloupnost síly přihlášených pohledávek:
+
+- a) věřitelé s pohledávkami za podstatou
+- b) věřitelé s nárokem na vyloučení majetku z majetkové podstaty
+- c) zajištění věřitelé
+- d) ostatní věřitelé
+- e) věřitelé s pohledávkou zajištěnou zajištěním poskytnutým třetí osobou
+- f) podřízené pohledávky
+- g) vyloučené pohledávky
+
 #### Přihlášení pohledávek a jejich uspokojení
 
 Věřitelé podávají přihlášky pohledávek u insolvenčního soudu od zahájení insolvenčního řízení až do uplynutí lhůty stanovené rozhodnutím o úpadku. K přihláškám, které jsou podány později, insolvenční soud nepřihlíží a takto uplatněné pohledávky se v insolvenčním řízení neuspokojují.
@@ -467,6 +491,15 @@ Nesplatné pohledávky proti dlužníku se prohlášením konkursu považují za
 V závěru zpeněžení majetkové podstaty insolvenční správce předloží insolvenčnímu soudu konečnou zprávu (konečná zpráva insolvenčního správce musí podat celkovou charakteristiku jeho činnosti s vyčíslením jejích finančních výsledků, například seznam pohledávek) a rozvrh (v jakém pořadí se uspokojují pohledávky).
 
 Konkurz může být rovněž ze zákonem stanovených důvodů **zrušen**.
+
+Obecný průběh:
+
+- a) Schůze věřitelů
+- b) Zpeněžování podstaty
+- c) Konečná zpráva
+- d) Rozvrh
+- e) Zrušení konkursu
+- f) Zánik účinků prohlášení konkursu
 
 **Nepatrný konkurz**:
 
@@ -514,6 +547,17 @@ Reorganizační plán vymezuje právní postavení dotčených osob v důsledku 
 Reorganizační plán je účinný, jakmile rozhodnutí o jeho schválení nabylo právní moci, nebyla-li reorganizačním plánem jeho účinnost odložena na pozdější dobu nebo nerozhodl-li o jeho pozdější účinnosti insolvenční soud.
 
 Reorganizace může skončit úspěšně, může být zrušena, nebo může být přeměněna v konkurz.
+
+Jak může soud rozhodnout:
+
+Podmínkou zahájení reorganizace je podání návrhudlužníkem nebo přihlášeným věřitelem.
+
+Soud rozhodne o návrhu některým z následujících způsobů:
+
+- a) povolení,
+- b) zamítnutí– pokračuje se v insolvenčním řízení,
+- c) zpětvzetí návrhu – soud vezme na vědomí a nepokračuje se v reorganizaci – pokračuje se v insolvenčním řízení,
+- d) odmítnutí– pokračuje se v insolvenčním řízení.
 
 **Úpadek finančních institucí**:
 
@@ -575,6 +619,17 @@ Oddlužení plněním splátkového kalendáře se zpeněžením majetkové pods
 1. dlužník splatil nezajištěným věřitelům jejich pohledávky v plné výši,
 2. dlužník v době 3 let od schválení oddlužení splatil nezajištěným věřitelům alespoň 60 % jejich pohledávek,
 3. po dobu 5 let od schválení oddlužení nebylo dlužníku oddlužení zrušeno a dlužník neporušil svou povinnost vynaložit veškeré úsilí, které po něm bylo možno spravedlivě požadovat, k plnému uspokojení pohledávek svých věřitelů; má se za to, že tuto povinnost neporušil, jestliže v této době splatil nezajištěným věřitelům alespoň 30 % jejich pohledávek.
+
+Jak může soud rozhodnout:
+
+Insolvenční soud rozhodne tak, že návrh:
+
+- a) odmítne,
+- b) zamítne,
+- c) vezme na vědomí zpětvzetí návrhu dlužníkem,
+- d) povolí.
+
+Jestliže insolvenční soud návrh na povolení oddlužení odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, může podle § 396 odst. 1 IZ současně rozhodnout o způsobu řešení dlužníkova úpadku konkursem.
 
 ## Insolvenční rejstřík:
 
@@ -659,10 +714,25 @@ Ze zákona vyplývá, že:
   - § 65
     - Osoba, která poruší zákaz uložený jí rozhodnutím o vyloučení člena statutárního orgánu, ručí za splnění všech povinností obchodní korporace, které vznikly v době, kdy přes zákaz fakticky vykonávala činnost člena jejího statutárního orgánu. Soud i bez návrhu rozhodne, že se této osobě opětovně zakazuje vykonávat funkci člena statutárního orgánu, a to až na dobu 10 let; ustanovení § 63 odst. 3 se použije obdobně.
 
-## Zvláštní podivnnosti při úpadku obchodní korporace
+## Zvláštní povinnosti při úpadku obchodní korporace
 
 - Viz předchozí bod § 66/1 ZOK.
 
 ## Trestní odpovědnost
 
 - Je řešena v rámci Trestního zákoníku 40/2009 Sb..
+
+Trestní delikty:
+
+- poškození věřitele - tím, že bude machinovan se svým majetkem - například zatajení, zničení, zcizení atd. a způsobí škodu nikoli malou - odnětí svobody až na 2 léta, nebo zákaz činnosti,
+- zvýhodnění věřitele - zvýhodní jednoho věřitele a tím poškodí jiného - odnětí svobody na 1 léto, nebo zákaz činnosti,
+- způsobení úpadku - kdo činí tak, že si tím přivodí úpadek - odnětí svobody na 1 léto, nebo zákaz činnosti,
+- porušení povinnosti v insolvenčním řízení - maření, nebo hrubé ztěžování výkonu funkce insolvenčního správce - odnětí svobody na 6 měsíců až 3 léta, nebo zákaz činnosti,
+- pletichy v insolvenčním řízení - věřitel, úplatkářství v souvislosti s hlasováním věřitelů - odnětí svobody až na 1 rok, nebo zákaz činnosti,
+- porušení povinnosti učinit pravdivé prohlášení o majetku - lhaní, vyhýbání, odmítnutí splnění povinnosti - odnětí svobody na šest měsíců až 3 léta, peněžitým trestem, nebo zákazem činnosti.
+
+## Compliance
+
+1. definice,
+2. cíle,
+3. compliance programy.
