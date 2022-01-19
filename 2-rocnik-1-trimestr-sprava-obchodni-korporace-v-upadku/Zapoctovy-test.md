@@ -990,6 +990,26 @@ Insolvenční správce poskytuje věřitelským orgánům součinnost nezbytnou 
 
 ## Insolvenční správce
 
+§ 21/1 IZ
+
+Insolvenční správce se ustanovuje ze seznamu insolvenčních správců, který vede Ministerstvo spravedlnosti…
+
+§ 27/1 IZ
+
+Insolvenční soud ustanoví insolvenčního správce nejpozději v rozhodnutí o úpadku. Za podmínek stanovených IZ může insolvenční soud ustanovit před rozhodnutím o úpadku předběžného insolvenčního správce …
+
+§ 33 IZ
+
+Je-li to účelné, může insolvenční soud ustanovit insolvenčnímu správci zástupce pro případ, že by ze závažných důvodů nemohl přechodně svou funkci vykonávat. …
+
+§ 34/1 IZ
+
+Je-li insolvenční správce vyloučen z některých úkonů pro svůj poměr jen k některému z dlužníkových věřitelů nebo jen k některému ze zástupců dlužníkových věřitelů a není-li se zřetelem k charakteru pohledávky dlužníkova věřitele a jeho postavení v insolvenčním řízení důvod pochybovat, že tento vztah ovlivní celkový způsob výkonu práv a povinností insolvenčního správce, může insolvenční soud ustanovit pro tyto úkony odděleného insolvenčního správce.
+
+§ 35/1 IZ
+
+V případech, kdy je nutné v rámci insolvenčního řízení řešit zvláštní problematiku vyžadující odborné specializace, může insolvenční soud ustanovit i zvláštního insolvenčního správce a upravit jeho vztah k insolvenčnímu správci. …
+
 - Insolvenční správce – právní úprava postavení insolvenčního správce v zákoně č. 312/2006 Sb. o insolvenčních správcích.
 
 Insolvenčním správcem je:
@@ -1087,8 +1107,7 @@ Samostatná působnost dlužníka - nakládání s majetkovou podstatou, dispozi
 
 # Otázka 5
 
-> Oprávnění a součinnost orgánů dlužníka a insolvenčního správce v
-konkursu.
+> Oprávnění a součinnost orgánů dlužníka a insolvenčního správce v konkursu.
 
 Otázky (Kontrolní otázky):
 
@@ -1100,17 +1119,18 @@ Student bude znát rozsah oprávnění a součinnosti orgánů dlužníka v konk
 4. Jaké následky může mít porušení povinnosti k součinnosti pro insolvenčního správce?
 5. Které orgány dlužníka mají povinnost poskytovat součinnost insolvenčnímu správci v průběhu konkursu?
 
-## Oprávnění a součinnost
+## Oprávnění a součinnost v konkursu
 
-1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
-§ 212
-(1) Dlužník musí umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek
-náležející do majetkové podstaty.
-(2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke
-zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit
-prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich
-umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenční správce oprávněn zjednat si do
-bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+### Rozsah oprávnění a součinnost dlužníka v konkursu
+
+### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
+
+### Následky porušení součinnosti dlužníka a insolvenčního správce
+
+- 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
+  - § 212
+    - (1) Dlužník musí umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek náležející do majetkové podstaty.
+    - (2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenční správce oprávněn zjednat si do bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
 
 # Otázka 6
 
