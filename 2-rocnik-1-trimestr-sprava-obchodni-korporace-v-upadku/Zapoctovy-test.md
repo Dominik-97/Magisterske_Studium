@@ -996,19 +996,19 @@ Insolvenční správce se ustanovuje ze seznamu insolvenčních správců, kter�
 
 § 27/1 IZ
 
-Insolvenční soud ustanoví insolvenčního správce nejpozději v rozhodnutí o úpadku. Za podmínek stanovených IZ může insolvenční soud ustanovit před rozhodnutím o úpadku předběžného insolvenčního správce …
+Insolvenční soud ustanoví insolvenčního správce nejpozději v rozhodnutí o úpadku. Za podmínek stanovených IZ může insolvenční soud ustanovit před rozhodnutím o úpadku **předběžného insolvenčního správce** …
 
 § 33 IZ
 
-Je-li to účelné, může insolvenční soud ustanovit insolvenčnímu správci zástupce pro případ, že by ze závažných důvodů nemohl přechodně svou funkci vykonávat. …
+Je-li to účelné, může insolvenční soud ustanovit insolvenčnímu správci **zástupce** pro případ, že by ze závažných důvodů nemohl přechodně svou funkci vykonávat. …
 
 § 34/1 IZ
 
-Je-li insolvenční správce vyloučen z některých úkonů pro svůj poměr jen k některému z dlužníkových věřitelů nebo jen k některému ze zástupců dlužníkových věřitelů a není-li se zřetelem k charakteru pohledávky dlužníkova věřitele a jeho postavení v insolvenčním řízení důvod pochybovat, že tento vztah ovlivní celkový způsob výkonu práv a povinností insolvenčního správce, může insolvenční soud ustanovit pro tyto úkony odděleného insolvenčního správce.
+Je-li insolvenční správce vyloučen z některých úkonů pro svůj poměr jen k některému z dlužníkových věřitelů nebo jen k některému ze zástupců dlužníkových věřitelů a není-li se zřetelem k charakteru pohledávky dlužníkova věřitele a jeho postavení v insolvenčním řízení důvod pochybovat, že tento vztah ovlivní celkový způsob výkonu práv a povinností insolvenčního správce, může insolvenční soud ustanovit pro tyto úkony **odděleného insolvenčního správce**.
 
 § 35/1 IZ
 
-V případech, kdy je nutné v rámci insolvenčního řízení řešit zvláštní problematiku vyžadující odborné specializace, může insolvenční soud ustanovit i zvláštního insolvenčního správce a upravit jeho vztah k insolvenčnímu správci. …
+V případech, kdy je nutné v rámci insolvenčního řízení řešit zvláštní problematiku vyžadující odborné specializace, může insolvenční soud ustanovit i **zvláštního insolvenčního správce** a upravit jeho vztah k insolvenčnímu správci. …
 
 - Insolvenční správce – právní úprava postavení insolvenčního správce v zákoně č. 312/2006 Sb. o insolvenčních správcích.
 
