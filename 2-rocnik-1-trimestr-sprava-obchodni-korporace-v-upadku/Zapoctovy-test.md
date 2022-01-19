@@ -1148,6 +1148,15 @@ Povinnost součinnosti má:
 
 ### Rozsah oprávnění a součinnost dlužníka v konkursu
 
+Jsou stanoveny obecné podmínky součinnosti, které se aplikují na všechny způsoby řešení úpadku.
+
+Obecné povinnosti dlužníka lze rozdělina na:
+
+- a) Obecná povinnost součinnosti dlužníka
+- b) Povinnost součinnosti statutárního orgánu dlužníka
+- c) Povinnost součinnosti společníků, zaměstnanců nebo členů právnické osoby
+- d) Součinnost při zjišťování podstaty
+
 ### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
 
 **Povinnosti insolvenčního správce:**
