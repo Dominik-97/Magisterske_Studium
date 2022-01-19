@@ -956,6 +956,19 @@ Osob s dispozičním oprávněním může být více, v jednotlivých fázích i
 
 - (1) Insolvenční soud ustanoví předběžným opatřením předběžného správce i bez návrhu, jestliže nařídil předběžné opatření, kterým omezil dlužníka v nakládání s majetkovou podstatou v širším rozsahu, než je uvedeno v § 111.
 
+## Insolvenční správce
+
+- Insolvenční správce – právní úprava postavení insolvenčního správce v zákoně č. 312/2006 Sb. o insolvenčních správcích.
+
+Insolvenčním správcem je:
+
+- a) fyzická osoba, která je oprávněna vykonávat činnost insolvenčního správce.
+- b) veřejná obchodní společnost nebo zahraniční obchodní společnost nebo zahraniční sdružení, které poskytuje stejné záruky ručení společníků jako veřejná obchodní společnost, a je založená podle práva členského státu Evropské unie, členských států Dohody o evropském hospodářském prostoru a která je oprávněna vykonávat činnost insolvenčního správce.
+
+### Povolení k výkonu funkce insolvenčního správce (není důležité pro tuto zkoušku):
+
+
+
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
   - § 46
