@@ -409,7 +409,7 @@ Procesními subjekty podle tohoto zákona jsou:
 
 1. insolvenční soud,
 2. dlužník (účastníci řízení, vedlejší účastenství je přípustné),
-3. věřitelé, kteří uplatňují svá práva vůči dlužníku,
+3. věřitelé, kteří uplatňují svá práva vůči dlužníku a věřitelské orgány (viz Věřitelské orgány),
 4. insolvenční správce, popřípadě další správce,
 5. státní zastupitelství, které vstoupilo do insolvenčního řízení nebo do incidenčního sporu, a
 6. likvidátor dlužníka.
@@ -891,6 +891,10 @@ Trestní delikty:
 - porušení povinnosti učinit pravdivé prohlášení o majetku - lhaní, vyhýbání, odmítnutí splnění povinnosti - odnětí svobody na šest měsíců až 3 léta, peněžitým trestem, nebo zákazem činnosti.
 
 ## Compliance
+
+Compliance je všeobecný název pro soulad s pravidly. Z hlediska podnikání podnikové sféry rozumíme slovem compliance zejména jednání společnosti, zaměstnanců a vedení v souladu s právními předpisy a vnitropodnikovými směrnicemi. Velký důraz je kladen na dodržování firemních etických kodexů. Pro tuto odnož compliance vznikl výraz korporátní compliance, jelikož pojednává o obchodních korporacích.
+
+Compliance není čistě právní tematikou, svůj původ má v oblasti korporátního řízení (Corporate Governance). Pro systém vnitropodnikových směrnic a organizačních opatření se ve světě uchytil název Compliance Management System (zkratka CMS). Pro moderní obchodní korporace by měla být compliance přirozenou součástí interní strategie a firemní kultury.
 
 1. definice,
 2. cíle,
