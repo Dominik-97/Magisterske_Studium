@@ -418,6 +418,8 @@ Procesními subjekty podle tohoto zákona jsou:
 
 Insolvenční správce může pro udržení nebo obnovení provozu podniku, který je součástí majetkové podstaty, uzavřít za obvyklých obchodních podmínek smlouvy o úvěru a smlouvy obdobné, jakož i smlouvy na dodávky energií11) a surovin, včetně smluv o zajištění splnění těchto smluv (dále jen "úvěrové financování").
 
+K uzavření smluv o úvěrovém financování je oprávněn také dlužník s dispozičními oprávněními nebo dlužník po dobu trvání moratoria.
+
 ### Věřitelské orgány
 
 - schůze věřitelů - nejvyšší orgán věřitelů,
@@ -928,6 +930,11 @@ Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním
 5. Jakým způsobem se zveřejnuje oznámení o svolání schůze věřitelů?
 
 ## Osoba s dispozičním oprávněním
+
+Osob s dispozičním oprávněním může být více, v jednotlivých fázích insolvenčního řízení. Důležitá jsou rovněž předběžná opatření, která mohou dispoziční oprávnění dodatečně omezit.
+
+- Věřitelský výbor zejména uděluje insolvenčnímu správci nebo dlužníku s dispozičními oprávněními souhlas k uzavírání smluv o úvěrovém financování.
+
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
