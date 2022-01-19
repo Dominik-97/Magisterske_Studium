@@ -364,7 +364,7 @@ O hrozící úpadek jde tehdy, lze-li se zřetelem ke všem okolnostem důvodně
 Způsoby řešení úpadků jsou tři druhy, **sanační** a **likvidační** a **zvláštní způsoby řešení úpadku** - vyhlašuje se rozhodnutím ve formě usnesení, přičemž opravné prostředky nejsou standardně přípustné, pokud zákon nestanoví jinak:
 
 - sanační:
-  - oddlužení - FO, PO nepodnikající,
+  - oddlužení - FO (i podnikající), PO nepodnikající,
   - reorganizace - podnikatel,
 - likvidační,
   - konkurz - všichni a
@@ -1223,6 +1223,17 @@ Student bude umět vymezit oprávnění a součinnost orgánů dlužníka v oddl
     - (2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenční správce oprávněn zjednat si do bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
     - (3) Písemné vyhotovení rozhodnutí podle odstavce 2 nemusí obsahovat odůvodnění; proti tomuto rozhodnutí není odvolání přípustné. Rozhodnutí se doručuje pouze insolvenčnímu správci a dlužníku. Insolvenční soud doručí rozhodnutí insolvenčnímu správci spolu se stejnopisem rozhodnutí, který má být doručen dlužníku. Dlužníku doručí rozhodnutí insolvenční správce při prohlídce místností, kterých se usnesení týká. Nepodaří-li se insolvenčnímu správci doručit rozhodnutí dlužníku při tomto úkonu, vrátí je k doručení insolvenčnímu soudu.
     - (4) Každý, v jehož objektu má dlužník svůj byt, sídlo nebo jiné své místnosti, je povinen strpět, aby insolvenční správce, který provádí soupis nebo činí úkony směřující k řádnému zajištění a správě majetkové podstaty, provedl prohlídku bytu a jiných místností dlužníka. Nesplní-li tuto povinnost, je insolvenční správce oprávněn zjednat si k bytu nebo jiné místnosti dlužníka přístup.
+
+## Součinnost dlužníka v oddlužení:
+
+- vykonávat výdělečnou činnost, nebo o ní usilovat,
+- neodmítat hodnoty získané z dědictví, darů etc.,
+- oznamovat změny bydliště, zaměstnání,
+- předkládat přehledy o svých výdajích a příjmech,
+- nezatajovat příjmy,
+- neposkytovat žádnému věřiteli zvláštní výhody,
+- nepřijímat na sebe nové nesplnitelné závazky,
+- vynaložit veškeré usilí, které po něm lze spravedlivě požadovat, aby uspokojil pohledávky v plné výši.
 
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
