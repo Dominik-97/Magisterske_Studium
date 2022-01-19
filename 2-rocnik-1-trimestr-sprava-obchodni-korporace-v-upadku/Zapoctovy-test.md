@@ -231,6 +231,41 @@ Komanditní společnost je společnost, v níž alespoň jeden společník ruč�
 
 Společnost s ručením omezeným je společnost, za jejíž dluhy ručí společníci společně a nerozdílně do výše, v jaké nesplnili vkladové povinnosti podle stavu zapsaného v obchodním rejstříku v době, kdy byli věřitelem vyzváni k plnění.
 
+### Akciová společnost
+
+§ 243/1 ZOK
+
+Akciovou společností je společnost, jejíž základní kapitál je rozvržen na určitý počet akcií.
+
+### Fundace
+
+§ 303 OZ
+
+Fundace je právnická osoba vytvořená majetkem vyčleněným k určitému účelu. Její činnost se váže na účel, k němuž byla zřízena.
+
+Fundace se dělí na:
+
+- a) Nadace
+- b) Nadační fondy
+
+#### Nadace
+
+§ 306/1,2 OZ
+
+(1) Zakladatel zakládá nadaci k trvalé službě společensky nebo hospodářsky užitečnému účelu. Účel nadace může být veřejně prospěšný, spočívá-li v podpoře obecného blaha, i dobročinný, spočívá-li v podpoře určitého okruhu osob určených
+jednotlivě či jinak.
+(2) Zakazuje se založit nadaci za účelem podpory politických stran a hnutí nebo jiné účasti na jejich činnosti. Zakazuje se založit nadaci sloužící výlučně výdělečným cílům (podnikání). …
+
+§ 307/1 OZ
+
+(1) Nadace může podnikat, pokud podnikání představuje pouhou vedlejší činnost a výtěžky podnikání slouží jen k podpoře jejího účelu; nadace však podnikat nesmí, pokud to zakladatel v nadační listině vyloučil. Za stejných podmínek může nadace převzít vedení obchodní společnosti.
+
+#### Nadační fond
+
+§ 394 OZ
+
+(1) Zakladatel zakládá nadační fond k účelu užitečnému společensky nebo hospodářsky.
+
 # Otázka 2
 
 > Motivace a očekávání při správě korporace a ex ante význam insolvenčního práva (existence
