@@ -342,6 +342,16 @@ O platební neschopnost se jedná jestliže dlužník:
 - není možné dosáhnout uspokojení některé ze splatných peněžitých pohledávek vůči dlužníku výkonem rozhodnutí nebo exekucí, nebo
 - nesplnil povinnost předložit seznamy uvedené v § 104 odst. 1, kterou mu uložil insolvenční soud - tedy předložit seznam veškerého svého majetku včetně svých pohledávek.
 
+#### Hrozící úpadek
+
+§ 97/7 IZ
+
+Insolvenční návrh je oprávněn podat dlužník nebo jeho věřitel; jde-li o hrozící úpadek, může insolvenční návrh podat jen dlužník.
+
+§ 3/5 IZ
+
+O hrozící úpadek jde tehdy, lze-li se zřetelem ke všem okolnostem důvodně předpokládat, že dlužník nebude schopen řádně a včas splnit podstatnou část svých peněžitých závazků.
+
 ### Způsoby řešení úpadku
 
 Způsoby řešení úpadků jsou tři druhy, **sanační** a **likvidační** a **zvláštní způsoby řešení úpadku** - vyhlašuje se rozhodnutím ve formě usnesení, přičemž opravné prostředky nejsou standardně přípustné, pokud zákon nestanoví jinak:
@@ -438,15 +448,19 @@ Navrhovatel (věřitel) musí složit zálohu na náklady insolvenčního říze
 
 #### Moratorium
 
+§ 115 IZ
+
 Dlužník, který je podnikatelem, může do 7 dnů od podání insolvenčního návrhu, a jde-li o insolvenční návrh věřitele, do 15 dnů od jeho doručení insolvenčním soudem, navrhnout insolvenčnímu soudu vyhlášení moratoria; toto právo nemá právnická osoba v likvidaci.
 
 Moratorium je účinné od okamžiku zveřejnění rozhodnutí o jeho vyhlášení v insolvenčním rejstříku a trvá po dobu uvedenou v návrhu na moratorium, nejdéle však 3 měsíce.
 
 Insolvenční soud může na návrh dlužníka prodloužit moratorium nejdéle o 30 dnů, jestliže dlužník k takovému návrhu připojí ke dni podání návrhu aktualizovaný seznam závazků a písemné prohlášení většiny jeho věřitelů, počítané podle výše jejich pohledávek, že s prodloužením moratoria souhlasí; podpisy věřitelů na tomto prohlášení musí být úředně ověřeny.
 
-Po dobu trvání moratoria nelze vydat rozhodnutí o úpadku.
+§ 120 IZ
 
-Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachovány účinky spojené se zahájením insolvenčního řízení.
+(1) Po dobu trvání moratoria nelze vydat rozhodnutí o úpadku.
+
+(2) Není-li dále stanoveno jinak, po dobu trvání moratoria zůstávají zachovány účinky spojené se zahájením insolvenčního řízení.
 
 K návrhu na vyhlášení moratoria musí navrhovatel připojit listiny a seznamy, poslední účetní závěrku a seznamy většiny jeho věřitelů, že s vyhlášením moratoria souhlasí.
 
@@ -515,6 +529,10 @@ Posloupnost síly přihlášených pohledávek:
 - e) věřitelé s pohledávkou zajištěnou zajištěním poskytnutým třetí osobou
 - f) podřízené pohledávky
 - g) vyloučené pohledávky
+
+#### Zajištění a utvrzení dluhů
+
+
 
 #### Přihlášení pohledávek a jejich uspokojení
 
