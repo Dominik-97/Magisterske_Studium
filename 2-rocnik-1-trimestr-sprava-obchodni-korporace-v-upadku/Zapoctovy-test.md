@@ -1,3 +1,10 @@
+---
+geometry: "left=1cm,right=1cm,top=1cm,bottom=2cm"
+output: pdf_document
+title: "Informace ke zkoušce z předmětu Správa obchodní korporace v úpadku"
+toc-title: "Obsah"
+---
+
 # Otázka 1
 
 > Formy a rizika podnikání prostřednictvím variabilních nástrojů a motivace k jejich volbě (individuální, societní, joint ventures, osobní společnosti, kapitálové společnosti, fundace atd.). Pojem residuálního vlastníka při chování dlužníka v úpadku (zájem společníků, stakeholderů, veřejné moci, věřitelů, společný zájem věřitelů atd.).
