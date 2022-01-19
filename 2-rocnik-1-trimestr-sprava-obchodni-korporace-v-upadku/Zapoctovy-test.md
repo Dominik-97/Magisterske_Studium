@@ -849,3 +849,61 @@ umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenčn�
 bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
 
 # Otázka 6
+
+> Oprávnění a součinnost orgánů dlužníka a insolvenčního správce v oddlužení a reorganizaci.
+
+Otázky (Kontrolní otázky):
+
+Student bude umět vymezit oprávnění a součinnost orgánů dlužníka v oddlužení a v reorganizaci. Student bude umět vymezit oprávnění a součinnost insolvenčního správce v oddlužení a v reorganizaci.
+
+1. Jaká oprávnění mají orgány dlužníka v oddlužení a reorganizaci?
+2. V jakém rozsahu mají stanovenou povinnost součinnosti orgány dlužníka v oddlužení a v reorganizaci?
+3. Jaká oprávnění má insolvenční správce v oddlužení a reorganizaci?
+4. V jakém rozsahu má povinnost součinnosti insolvenční správce v oddlužení a reorganizaci?
+5. Jaké následky má porušení povinnosti orgánů dlužníka v průběhu oddlužení a reorganizace?
+
+## Oprávnění a součinnosti:
+
+1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
+§ 210
+(1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování
+majetkové podstaty všestrannou součinnost, zejména dbát pokynů insolvenčního správce nebo
+předběžného správce.
+(2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její statutární orgány a jejich
+členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu
+má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z
+nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3
+měsících před zahájením insolvenčního řízení.
+(3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou
+společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za
+právnickou osobu.
+(4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci; má-li
+fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může
+insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
+§ 211
+(1) Východiskem zjišťování majetkové podstaty je seznam majetku, který je dlužník povinen předložit
+současně s insolvenčním návrhem, případně na základě rozhodnutí insolvenčního soudu.
+(2) Insolvenční správce nebo předběžný správce provede vlastní šetření o tom, zda do majetkové
+podstaty nepatří i jiné věci, práva, pohledávky a majetkové hodnoty než ty, které dlužník uvedl v
+seznamu majetku. Potřebnou součinnost mu jsou povinny poskytnout také věřitelské orgány.
+(3) Nemůže-li insolvenční správce nebo předběžný správce dosáhnout úplného zjištění majetkové
+podstaty proto, že mu nebyla poskytnuta požadovaná součinnost, oznámí to insolvenčnímu soudu a
+navrhne mu přijetí příslušného opatření.
+§ 212
+(1) Dlužník musí umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek
+náležející do majetkové podstaty.
+(2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke
+zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit
+prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich
+umístěných, kde má dlužník svůj majetek; za tím účelem je insolvenční správce oprávněn zjednat si do
+bytu nebo do jiné místnosti dlužníka přístup, popřípadě uzavřené skříně nebo jiné schránky otevřít.
+(3) Písemné vyhotovení rozhodnutí podle odstavce 2 nemusí obsahovat odůvodnění; proti tomuto
+rozhodnutí není odvolání přípustné. Rozhodnutí se doručuje pouze insolvenčnímu správci a dlužníku.
+Insolvenční soud doručí rozhodnutí insolvenčnímu správci spolu se stejnopisem rozhodnutí, který má
+být doručen dlužníku. Dlužníku doručí rozhodnutí insolvenční správce při prohlídce místností, kterých
+se usnesení týká. Nepodaří-li se insolvenčnímu správci doručit rozhodnutí dlužníku při tomto úkonu,
+vrátí je k doručení insolvenčnímu soudu.
+(4) Každý, v jehož objektu má dlužník svůj byt, sídlo nebo jiné své místnosti, je povinen strpět, aby
+insolvenční správce, který provádí soupis nebo činí úkony směřující k řádnému zajištění a správě
+majetkové podstaty, provedl prohlídku bytu a jiných místností dlužníka. Nesplní-li tuto povinnost, je
+insolvenční správce oprávněn zjednat si k bytu nebo jiné místnosti dlužníka přístup.
