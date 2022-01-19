@@ -1182,6 +1182,21 @@ Mezi tyto opatření spadají:
 - pořádková pokuta,
 - naplnění skutkové podstaty deliktu porušení povinnosti v insolvenčním řízení.
 
+**Umožnění přístupu k majetku náležejícímu do majetkové podstaty:**
+
+§ 212/1,2 IZ
+
+- (1) Dlužník musí umožnit insolvenčnímu správci přístup na všechna místa, kde má umístěn majetek náležející do majetkové podstaty.
+- (2) Je-li to potřebné, zejména neposkytuje-li dlužník insolvenčnímu správci součinnost potřebnou ke zjištění a zajištění majetkové podstaty, může insolvenční soud na návrh insolvenčního správce nařídit prohlídku bytu, sídla a jiných místností dlužníka, jakož i jeho skříní nebo jiných schránek v nich umístěných, kde má dlužník svůj majetek; …
+
+**Prohlášení o majetku:**
+
+§ 214/1-3 IZ
+
+- (1) Insolvenční soud může na návrh insolvenčního správce nebo věřitelského výboru předvolat dlužníka nebo osoby jednající za dlužníka k výslechu a vyzvat je k prohlášení o majetku. Předvolání k prohlášení o majetku musí obsahovat účel výslechu a poučení o následcích odmítnutí prohlášení nebo uvedení nepravdivých, neúplných nebo hrubě zkreslujících údajů. Předvolání se doručuje předvolanému do vlastních rukou, a to nejméně 10 dnů před výslechem.
+- (2) Předvolaný je povinen dostavit se k insolvenčnímu soudu osobně. Jestliže se nedostaví bez včasné a důvodné omluvy, bude předveden; o tom musí být předvolaný poučen.
+- (3) Před zahájením výslechu zopakuje insolvenční soud poučení podle odstavce 1. V prohlášení o majetku musí předvolaný uvést, který majetek náleží do majetkové podstaty.
+
 ### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
 
 **Povinnosti insolvenčního správce:**
