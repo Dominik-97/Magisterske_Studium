@@ -142,9 +142,9 @@ Formy podnikání můžeme dělit na:
 
 1. individuální - například podnikatel FO - OSVČ,
 2. societní - societa dle OZ, obligační sdružení bez právní subjektivity, tichá společnost, tichý společník - závazkový vztah,
-3. joint ventures - dva subjekty poolnou resources a založí další subjekt, ale zařadil bych sem i holding,
-4. osobní společnosti - v.o.s., k.s.,
-5. kapitálové společnosti - s.r.o., a.s.,
+3. joint ventures - dva subjekty poolnou resources a založí další subjekt, ale zařadil bych sem i holding - dopadá pak například na příplatkovou povinnost, kterou má pak více subjektů - je tedy větší pravděpodobnost odvrácení úpadku,
+4. osobní společnosti - v.o.s., k.s. - ručí se společně a nerozdílně celým majetkem,
+5. kapitálové společnosti - s.r.o., a.s. - ručí se do výše nesplaceného vkladu,
 6. fundace - nadace a nadační fond
 
 #### Podnikání prostřednictvím variabilních nástrojů
