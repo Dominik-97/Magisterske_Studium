@@ -917,11 +917,11 @@ Součástí péče řádného hospodáře je nejen mít schopnost možný budouc
 
 # Otázka 4
 
-> Osoba s disposičním oprávněním, součinnost orgánů dlužníka a insolvenčního správce, samostatná působnost dlužníka, vazba na věřitelské orgány a jejich rozhodování.
+> Osoba s disposičním oprávněním, součinnost orgánů dlužníka a insolvenčního správce, samostatná působnost dlužníka, **vazba na věřitelské orgány a jejich rozhodování**.
 
 Otázky (Kontrolní otázky):
 
-Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním. Student se seznámí s rozsahem součinnosti orgánů dlužníka a insolvenčního správce. Student bude znát mechanismus rozhodování věřitelských orgánů.
+Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním. Student se seznámí s rozsahem součinnosti orgánů dlužníka a insolvenčního správce. **Student bude znát mechanismus rozhodování věřitelských orgánů**.
 
 1. Jaké znáte věřitelské orgány? - Schůze, Výbor, Zástupce - **Zodpovězeno**
 2. Kdo svolává schůzi věřitelů?
@@ -1054,6 +1054,8 @@ Samostatná působnost dlužníka - nakládání s majetkovou podstatou, dispozi
     - (2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její statutární orgány a jejich členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3 měsících před zahájením insolvenčního řízení.
     - (3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za právnickou osobu.
     - (4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci; má-li fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
+
+## Mechanismus věřitelských orgánů
 
 # Otázka 5
 
