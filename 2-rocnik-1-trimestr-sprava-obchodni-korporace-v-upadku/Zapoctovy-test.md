@@ -1177,6 +1177,11 @@ Východiskem zjišťování majetkové podstaty je seznam majetku, který je dlu
 
 Nemůže-li insolvenční správce nebo předběžný správce dosáhnout úplného zjištění majetkové podstaty proto, že mu nebyla poskytnuta požadovaná součinnost, oznámí to insolvenčnímu soudu a navrhne mu přijetí příslušného opatření.
 
+Mezi tyto opatření spadají:
+
+- pořádková pokuta,
+- naplnění skutkové podstaty deliktu porušení povinnosti v insolvenčním řízení.
+
 ### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
 
 **Povinnosti insolvenčního správce:**
