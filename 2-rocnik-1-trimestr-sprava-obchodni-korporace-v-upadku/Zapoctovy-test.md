@@ -926,7 +926,7 @@ Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním
 1. Jaké znáte věřitelské orgány? - Schůze, Výbor, Zástupce - **Zodpovězeno**
 2. Kdo svolává schůzi věřitelů?
 3. Je možné hlasovat na schůzi věřitelů písemně?
-4. V jakých případech může hlasovat na schůzi věřitelů věřitel, který s dlužníkem tvoří koncern?
+4. V jakých případech může hlasovat na schůzi věřitelů věřitel, který s dlužníkem tvoří koncern? - obecně žádný věřitel nesmí hlasovat o žádných věcech, které se ho týkají, pokud zákon nestanoví jinak (§ 53 IZ.) - **Zodpovězeno.**
 5. Jakým způsobem se zveřejnuje oznámení o svolání schůze věřitelů?
 
 ## Osoba s dispozičním oprávněním
