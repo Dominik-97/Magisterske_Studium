@@ -540,6 +540,49 @@ Zajištění dluhu znamená, že třetí osoba, nebo sám dlužník, dá věřit
 
 Je upravena v OZ v části relativní majetková práva.
 
+Obsahuje:
+
+- jistotu,
+- druhy zajištění,
+- druhy utvrzení.
+
+**Jistota**: - Není důležité pro zkoušku
+
+§ 2012 OZ
+
+(1) Kdo je povinen dát jistotu, učiní své povinnosti zadost zřízením zástavního práva.
+
+(2) Není-li někdo s to dát jistotu zřízením zástavního práva, dá jistotu způsobilým ručitelem. Má se za to, že způsobilým ručitelem je osoba, která může být žalována v tuzemsku a která má vhodný majetek.
+
+**Zajištění relativním majetkovým právem**:
+
+- **Ručení**:
+  - (§ 2018 an. OZ) – Předpokládá se platný dluh dlužníka. Dluh může být v době vzniku ručení již existující a účinný, nebo může vzniknout teprve v budoucnu. Ručitelský závazek vzniká dobrovolným prohlášením nebo přímo ze zákona. Ručitelský závazek je vázaný na existenci a platnost dluhu. V případě, že ručitel zcela splní dluh dlužníka, vzniká nová pohledávka ručitele a dlužníka do míry plnění ručitelem. Pohledávka nepřechází, ale vznikne nová pohledávka.
+- **Finanční záruka**:
+  - (§ 2029 an. OZ) – Oproti ručení je zcela na vůli vystavitele, zda bude záruka subsidiární vůči původnímu dluhu nebo se od původního dluhu zcela odtrhne. Finanční záruka vzniká jednostranným prohlášením výstavce, že uspokojí věřitele do výše určité peněžní částky, pokud dluh nesplní dlužník. Finanční záruku lze zcela oddělit od původního dluhu.
+- **Zajišťovací převod práva**:
+- **Dohoda o srážkách ze mzdy nebo jiných příjmů**:
+- **Závdavek** (Není relevantní pro insolvenci):
+  - (§ 1808 OZ) – Závdavek je peněžitá částka nebo jiná věc, která je odevzdána před nebo při uzavření smlouvy. Závdavek plní funkci důkazní (že smlouva byla uzavřena), zajišťovací (kauce) a sankční (přijetí závdavku).
+
+**Zajištění věcným právem (Jistota)**:
+
+- **Zástavní právo**:
+  - (§ 1309 an. OZ) – Základním obsahem zástavního práva je oprávnění věřitele uspokojit se z výtěžku zpeněžení zástavy do výše pohledávky s příslušenstvím, případně do ujednané výše. Předmětem zástavy může být každá věc, se kterou lze obchodovat, tedy každá hmotná, nehmotná i hromadná.
+- **Podzástavní právo**:
+  - (§ 1390 OZ) – Zástavou může být i pohledávka. Pokud původní věřitel dlužníkovi oznámí, že jeho dluh zastavil jinému věřiteli, může dlužník plnit jen tomuto novému zástavnímu věřiteli, pokud je jeho pohledávka splatná.
+- **Zadržovací právo**:
+  - retenční právo (§ 1395 an. OZ) – V případě, že věřitel má movitou věc u sebe po právu, např. opravář k opravě, kterou by měl posléze vydat jejímu vlastníkovi. Osoba, jíž by měl věc vydat, má proti němu spatný dluh, např. za provedenou opravu. Ten, kdo má movitou věc u sebe, ji může zadržet k zajištění splatného dluhu osoby, jíž by věc měl jinak vydat.
+
+**Utvrzení**:
+
+- **Smluvní pokuta**:
+  - Smluvní pokuta je sankční plnění, na něž nastane věřiteli právo v případě porušení smluvené povinnosti za podmínky, že se tak obě strany dohodly. Má objektivní charakter, právo ji vyžadovat vzniká porušením závazku nezávisle na zavinění i nezávisle na tom, zda porušení smluvní povinnosti způsobila nějakou škodu. Smluvní pokuta se považuje za paušalizovanou náhradu škody.
+- **Uznání dluhu**:
+  - Uznání dluhu je písemné prohlášení dlužníka, v němž svůj dluh uznává. Dluh lze uznat i konkludentním jednáním, které spočívá v placení úroků nebo částečném plnění.
+- **Směnka vlastní** (Není relevantní pro insolvenci):
+  - K utvrzení dluhu se používá i směnka vlastní. Obsahuje bezpodmínečný slib výstavce zaplatit určitou peněžní sumu. Většinou se jedná o cenný papír znějící na řad, takže se právo na zaplacení dá snadno převádět na další osobu.
+
 rozvrh, hierarchie, přednostní právo, zajištěný věřitel
 
 Do kdy může věřitel přihlásit pohledávku - myslím, že už mám někde napsáno, stane se přihlášená pohledávka splatnou?
