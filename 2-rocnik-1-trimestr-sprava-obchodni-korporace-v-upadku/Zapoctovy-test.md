@@ -778,10 +778,12 @@ Jak může soud rozhodnout:
 
 Insolvenční soud rozhodne tak, že návrh:
 
-- a) odmítne,
-- b) zamítne,
+- a) odmítne - odmítnutí insolvenčního návrhu pro vady nebo pro zjevnou bezdůvodnost,
+- b) zamítne - Insolvenční soud insolvenční návrh zamítne, nejsou-li splněny zákonem stanovené předpoklady pro vydání rozhodnutí o úpadku,
 - c) vezme na vědomí zpětvzetí návrhu dlužníkem,
 - d) povolí.
+
+Soud může rovněž **zamítnout insolvenční návrh**.
 
 Jestliže insolvenční soud návrh na povolení oddlužení odmítne, vezme na vědomí jeho zpětvzetí nebo jej zamítne, může podle § 396 odst. 1 IZ současně rozhodnout o způsobu řešení dlužníkova úpadku konkursem.
 
