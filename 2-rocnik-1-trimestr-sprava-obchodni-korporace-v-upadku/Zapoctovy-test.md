@@ -1173,6 +1173,10 @@ Insolvenční soud může vyžadovat splnění povinností podle § 210 odst. 1 
 
 Východiskem zjišťování majetkové podstaty je seznam majetku, který je dlužník povinen předložit současně s insolvenčním návrhem, případně na základě rozhodnutí insolvenčního soudu. …
 
+§ 211/3 IZ
+
+Nemůže-li insolvenční správce nebo předběžný správce dosáhnout úplného zjištění majetkové podstaty proto, že mu nebyla poskytnuta požadovaná součinnost, oznámí to insolvenčnímu soudu a navrhne mu přijetí příslušného opatření.
+
 ### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
 
 **Povinnosti insolvenčního správce:**
