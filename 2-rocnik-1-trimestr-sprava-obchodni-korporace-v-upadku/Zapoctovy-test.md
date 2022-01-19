@@ -601,6 +601,8 @@ Věřitelé podávají přihlášky pohledávek u insolvenčního soudu od zahá
 
 > ***TODO:*** Ověřit - Lze přihlásit i nesplatné pohledávky, ty se stávají splatnými.
 
+Lze přihlásit i nesplatné pohledávky, ty se stávají splatné (fikce splatnosti) v případě vyhlášení řešení úpadku konkurzem.
+
 Příslušenstvím pohledávky pak jsou vždy úroky, úroky z prodlení a náklady spojené s jejím uplatněním. Např. smluvní pokuta tedy příslušenstvím pohledávky není.
 
 Při plnění závazku věřiteli se nejdříve se započítává na jistinu, potom na úroky, potom na úroky z prodlení a až potom na náklady spojené s uplatněním pohledávky.
