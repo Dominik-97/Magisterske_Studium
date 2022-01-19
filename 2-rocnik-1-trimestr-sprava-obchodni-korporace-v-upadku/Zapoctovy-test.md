@@ -1071,3 +1071,4 @@ insolvenční správce oprávněn zjednat si k bytu nebo jiné místnosti dlužn
 
 
 V rámci životního cyklu společnosti se může stát, že ...
+> ***TODO***: Jak je to s likvidací?
