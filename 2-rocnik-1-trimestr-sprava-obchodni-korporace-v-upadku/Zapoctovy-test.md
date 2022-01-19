@@ -597,7 +597,7 @@ Viz uspokojování pohledávek a druhy pohledávek, to zda má věřitel zajišt
 
 > ***TODO:*** Do kdy může věřitel přihlásit pohledávku - myslím, že už mám někde napsáno, stane se přihlášená pohledávka splatnou?
 
-Pohledávku je dle § 136 možné přihlásit do dvou měsíců (pokud není stanovená jiná lhůta - viz § 173), jsou i typy pohledávek, které lze přihlásit kdykoliv v průběhu insolvenčního řízení - například pohledávky na náhradu škody nebo nemajetkové újmy způsobené trestným činem.
+Pohledávku je dle § 136 možné přihlásit do **dvou měsíců** (pokud není stanovená jiná lhůta - viz § 173), jsou i typy pohledávek, které lze přihlásit kdykoliv v průběhu insolvenčního řízení - například pohledávky na náhradu škody nebo nemajetkové újmy způsobené trestným činem.
 
 #### Přihlášení pohledávek a jejich uspokojení
 
