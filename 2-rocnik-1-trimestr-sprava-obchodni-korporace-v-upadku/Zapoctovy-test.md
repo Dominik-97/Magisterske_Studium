@@ -1070,6 +1070,17 @@ Samostatná působnost dlužníka - nakládání s majetkovou podstatou, dispozi
 
 **Specifické ustanovení týkající se věřitelského výboru**:
 
+- Je-li přihlášených věřitelů více než 50
+- Nejméně 3, nejvýše 7 členů (je možné jmenovat zástupce)
+- Je-li způsobem řešení úpadku nepatrný konkurs nebo oddlužení, není volba věřitelského výboru povinná
+- Ve věřitelském výboru mají být zastoupeni zajištění i nezajištění věřitelé
+- Věřitelský výbor chrání společný zájem věřitelů a v součinnosti s insolvenčním správcem přispívá k naplnění účelu insolvenčního řízení - dohlíží, poskytuje podporu, uděluje souhlas k uzavírání smluv o úvěrovém financování, schvaluje výdaje, nahlíží do dokumentů, podává návrhy insolvenčnímu soudu ohledně průběhu insolvenčního řízení etc.
+- Volí předsedu - svolává a řídí schůze
+- Do doby, než dojde k ustanovení věřitelského výboru a k potvrzení volby jeho členů a náhradníků, může insolvenční soud, a to i před první schůzí věřitelů a před rozhodnutím o úpadku, jmenovat prozatímní věřitelský výbor; navrhne-li to dlužník, přihlášený věřitel nebo předběžný správce, učiní tak neprodleně.
+- Jestliže v průběhu insolvenčního řízení poklesne počet členů věřitelského výboru ustanoveného schůzí věřitelů na méně než 3 nebo pod většinu, vykonává působnost věřitelského výboru až do potvrzení nové volby nebo doplňující volby členů věřitelského výboru do počtu nejméně 3 nebo do počtu většiny členů insolvenční soud.
+- Jestliže chybějící členy věřitelského výboru do počtu nejméně 3 nebo do počtu většiny členů nezvolila schůze věřitelů k tomu účelu svolaná, vykonává po jejím skončení působnost věřitelského výboru insolvenční soud; § 61 odst. 2 věta druhá a § 61 odst. 3 platí obdobně.
+- Úkon, který insolvenční soud provádí při výkonu působnosti věřitelského výboru, tak musí být označen.
+
 **Specifická ustanovení týkající se zástupce věřitelů:**
 
 - Ustanovení týkající se věřitelského výboru se použijí obdobně.
