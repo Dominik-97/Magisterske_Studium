@@ -1199,6 +1199,17 @@ Mezi tyto opatření spadají:
 
 ### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
 
+§ 246/1,2 IZ
+
+- (1) Prohlášením konkursu přechází na insolvenčního správce oprávnění nakládat s majetkovou podstatou, jakož i výkon práv a plnění povinností, které přísluší dlužníku, pokud souvisí s majetkovou podstatou. Insolvenční správce vykonává zejména akcionářská práva spojená s akciemi zahrnutými do majetkové podstaty, rozhoduje o obchodním tajemství a jiné mlčenlivosti, vystupuje vůči dlužníkovým zaměstnancům jako zaměstnavatel, zajišťuje provoz dlužníkova podniku, vedení účetnictví a plnění daňových povinností.
+- (2) Právní úkony podle odstavce 1, které dlužník učinil poté, co oprávnění nakládat s majetkovou podstatou přešlo na
+insolvenčního správce, jsou proti jeho věřitelům neúčinné ze zákona; § 235 odst. 2 se nepoužije.
+
+§ 246 IZ
+
+- (3) Nakládal-li dlužník s majetkovou podstatou v den, kdy se rozhodnutí o úpadku stalo účinným, má se v pochybnostech za to, že tak učinil poté, co oprávnění nakládat s majetkovou podstatou přešlo na insolvenčního správce, pokud tento zákon nestanoví jinak.
+- (4) Právní úkon, kterým dlužník po prohlášení konkursu odmítne přijetí daru nebo dědictví bez souhlasu insolvenčního správce, je neplatný. Totéž platí, jestliže dlužník uzavře bez souhlasu insolvenčního správce dohodu o vypořádání dědictví, podle které má z dědictví obdržet méně, než činí jeho dědický podíl.
+
 **Povinnosti insolvenčního správce:**
 
 § 36/1 IZ
@@ -1269,11 +1280,21 @@ Student bude umět vymezit oprávnění a součinnost orgánů dlužníka v oddl
 - Reorganizační plán je účinný, jakmile rozhodnutí o jeho schválení nabylo právní moci, nebyla-li reorganizačním plánem jeho účinnost odložena na pozdější dobu nebo nerozhodl-li o jeho pozdější účinnosti insolvenční soud.
 - Od účinnosti reorganizačního plánu je oprávněn nakládat s majetkovou podstatou dlužník. Toto jeho oprávnění může být omezeno ve prospěch jiných osob pouze reorganizačním plánem; jiná omezení, ke kterým došlo ze zákona nebo rozhodnutím insolvenčního soudu v dosavadním průběhu insolvenčního řízení, účinností reorganizačního plánu zanikají.
 - Od účinnosti reorganizačního plánu se obnovuje výkon funkce valné hromady nebo členské schůze družstva, pokud z reorganizačního plánu nevyplývá něco jiného. Hlasovací práva spojená s obchodním podílem, cennými papíry nebo členstvím vykonávají osoby uvedené v reorganizačním plánu za podmínek tam stanovených; pokud v reorganizačním plánu tyto osoby nejsou uvedeny nebo stanovené podmínky nebyly splněny, vykonávají je osoby, kterým tato práva až dosud náležela.
+- Od účinnosti reorganizačního plánu se mění zakladatelský dokument nebo stanovy anebo jiné dokumenty upravující vnitřní poměry dlužníka a údaje, které se zapisují do obchodního rejstříku nebo jiného rejstříku právnických osob, a to způsobem, který je uveden v reorganizačním plánu. …
 - V průběhu provádění reorganizačního plánu vykonává insolvenční správce dohled nad činností dlužníka. Zaměřuje se na doplňování seznamu majetku a závazků podle stavu řízení a na evidování činnosti dlužníka s dispozičními oprávněními. O výsledcích své činnosti pravidelně, nejméně však jednou za 3 měsíce, informuje insolvenční soud a věřitelský výbor.
 - Dlužník s dispozičními oprávněními je povinen informovat insolvenčního správce o svých právních úkonech, o plnění reorganizačního plánu a o své jiné činnosti podle reorganizačního plánu. Zprávy o běžných úkonech při podnikatelské činnosti a zprávy o plnění dlouhodobých nebo opakujících se činností podává souhrnně za časové úseky, stanovené reorganizačním plánem nebo rozhodnutím insolvenčního soudu.
 - Věřitelský výbor si může předem vyhradit, že některé právní úkony, které mají zásadní význam, může dlužník s dispozičními oprávněními uskutečnit jen s jeho předběžným souhlasem, i když nejsou uvedeny v reorganizačním plánu.
 - Není-li tímto zákonem nebo reorganizačním plánem stanoveno jinak, zanikají účinností tohoto plánu práva všech věřitelů vůči dlužníkovi, a to i v případě, že svou pohledávku do insolvenčního řízení nepřihlásili; za věřitele dlužníka se považují osoby uvedené v reorganizačním plánu za podmínek v něm stanovených, včetně rozsahu jejich práv.
 - Účinností reorganizačního plánu zanikají práva třetích osob k majetku, který náleží do majetkové podstaty, a tato práva vznikají osobám uvedeným v reorganizačním plánu za podmínek v něm stanovených, není-li v tomto zákoně nebo v reorganizačním plánu stanoveno jinak. To platí i pro majetek, který podle reorganizačního plánu má připadnout osobě odlišné od dlužníka. Právo třetích osob na vyloučení věci nebo jiné majetkové hodnoty z majetkové podstaty tím není dotčeno.
+
+**Insolvenční správce:**
+
+§ 354/1-3 IZ
+
+- (1) Insolvenční správce zajistí, aby byly provedeny procesní úkony spojené s účinností reorganizačního plánu. Dlužníku s dispozičními oprávněními předá zprávu o své dosavadní činnosti a provede další úkony potřebné k tomu, aby dlužník s dispozičními oprávněními mohl vykonávat svá oprávnění.
+- (2) V průběhu provádění reorganizačního plánu vykonává insolvenční správce dohled nad činností dlužníka. Zaměřuje se na doplňování seznamu majetku a závazků podle stavu řízení a na evidování činnosti dlužníka s dispozičními oprávněními. O výsledcích své činnosti pravidelně, nejméně však jednou za 3 měsíce, informuje insolvenční soud a věřitelský výbor.
+- (3) Dlužník s dispozičními oprávněními je povinen informovat insolvenčního správce o svých právních úkonech, o plnění reorganizačního plánu a o své jiné činnosti podle reorganizačního plánu. …
+- (4) Pokud jsou dispoziční oprávnění dlužníka omezena, vykonává je insolvenční správce. Stanoví-li reorganizační plán právní úkony, které může dlužník provést jen se souhlasem insolvenčního správce, jsou tyto úkony neplatné, pokud byly provedeny bez tohoto souhlasu. …
 
 ## Součinnost dlužníka v oddlužení:
 
