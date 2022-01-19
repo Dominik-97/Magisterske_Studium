@@ -561,7 +561,13 @@ Obsahuje:
 - **Finanční záruka**:
   - (§ 2029 an. OZ) – Oproti ručení je zcela na vůli vystavitele, zda bude záruka subsidiární vůči původnímu dluhu nebo se od původního dluhu zcela odtrhne. Finanční záruka vzniká jednostranným prohlášením výstavce, že uspokojí věřitele do výše určité peněžní částky, pokud dluh nesplní dlužník. Finanční záruku lze zcela oddělit od původního dluhu.
 - **Zajišťovací převod práva**:
+  - (§ 2040 an. OZ)
+  - (1) Smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo.
+  - (2) Má se za to, že zajišťovací převod práva je převodem s rozvazovací podmínkou, že dluh bude splněn.
 - **Dohoda o srážkách ze mzdy nebo jiných příjmů**:
+  - (§ 2045 an. OZ)
+  - (1) Dluh lze zajistit dohodou věřitele a dlužníka o srážkách ze mzdy nebo platu, z odměny ze smlouvy o výkonu závislé práce zakládající mezi zaměstnancem a zaměstnavatelem obdobný závazek nebo z náhrady mzdy nebo platu. Nejde-li o srážky podle věty první k uspokojení práva zaměstnavatele, je třeba k uzavření dohody předchozího souhlasu zaměstnavatele.
+  - (2) Proti plátci mzdy nebo platu nabývá věřitel práva na výplatu srážek okamžikem, kdy byla plátci dohoda předložena.
 - **Závdavek** (Není relevantní pro insolvenci):
   - (§ 1808 OZ) – Závdavek je peněžitá částka nebo jiná věc, která je odevzdána před nebo při uzavření smlouvy. Závdavek plní funkci důkazní (že smlouva byla uzavřena), zajišťovací (kauce) a sankční (přijetí závdavku).
 
