@@ -266,6 +266,8 @@ jednotlivě či jinak.
 
 (1) Zakladatel zakládá nadační fond k účelu užitečnému společensky nebo hospodářsky.
 
+Nadační fond je na rozdíl od nadace jednodušší na založení, administrativu i správu a nemá povinný nadační kapitál. NF nemusí mít narozdíl od nadace trvalou povahu.
+
 # Otázka 2
 
 > Motivace a očekávání při správě korporace a ex ante význam insolvenčního práva (existence
