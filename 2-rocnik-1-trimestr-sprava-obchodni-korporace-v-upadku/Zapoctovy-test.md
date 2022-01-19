@@ -1120,11 +1120,11 @@ Otázky (Kontrolní otázky):
 
 Student bude znát rozsah oprávnění a součinnosti orgánů dlužníka v konkursu. Student bude umět vymezit rozsah oprávnění a součinnosti insolvenčního správce v konkursu. Student se seznámí s možnými následky porušení povinnosti k součinnosti, které zákon ukládá orgánům dlužníka a insolvenčnímu správci.
 
-1. V jakém rozsahu je povinen dlužník poskytnout součinnost insolvenčnímu správci?
-2. V jakém rozsahu je povinen insolvenční správce poskytovat součinnost insolvenčnímu soudu v průběhu konkursu?
-3. Jaké následky může mít porušení povinnosti k součinnosti pro orgány dlužníka, resp. jejich členy?
-4. Jaké následky může mít porušení povinnosti k součinnosti pro insolvenčního správce?
-5. Které orgány dlužníka mají povinnost poskytovat součinnost insolvenčnímu správci v průběhu konkursu?
+1. V jakém rozsahu je povinen dlužník poskytnout součinnost insolvenčnímu správci? - všestrannou - **Zodpovězeno.**
+2. V jakém rozsahu je povinen insolvenční správce poskytovat součinnost insolvenčnímu soudu v průběhu konkursu? - v zákoně vymezeném - **Zodpovězeno.**
+3. Jaké následky může mít porušení povinnosti k součinnosti pro orgány dlužníka, resp. jejich členy? - Pořádková pokuta, porušení povinnosti v insolvenčním řízení - viz delikty - **Zodpovězeno.**
+4. Jaké následky může mít porušení povinnosti k součinnosti pro insolvenčního správce? - Náhrada škody, zproštění funkce - **Zodpovězeno.**
+5. Které orgány dlužníka mají povinnost poskytovat součinnost insolvenčnímu správci v průběhu konkursu? - dlužník, statutární orgán, společníci, zaměstnanci, členové právnické osoby - **Zodpovězeno.**
 
 ## Oprávnění a součinnost v konkursu
 
