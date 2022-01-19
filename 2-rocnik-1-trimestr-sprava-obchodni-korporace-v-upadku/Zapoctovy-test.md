@@ -708,6 +708,8 @@ Soud rozhodne o návrhu některým z následujících způsobů:
 - c) zpětvzetí návrhu – soud vezme na vědomí a nepokračuje se v reorganizaci – pokračuje se v insolvenčním řízení,
 - d) odmítnutí– pokračuje se v insolvenčním řízení.
 
+Konkurz: Vyhlášením konkurzu přecházejí na insolvenčního správce veškerá práva nakládat s majetkovou podstatou, vykonává akcionářská práva. Toto platí více méně i při reorganizaci, vše musí schválit insolvenční správce. Insolvenční správce dále vykonává dohled. ~~Insolvenční správce vykonává funkci statutárního orgánu.~~
+
 **Úpadek finančních institucí**:
 
 Ustanovení tohoto dílu zapracovávají příslušné předpisy Evropských společenství51) a použijí se na úpadek:
