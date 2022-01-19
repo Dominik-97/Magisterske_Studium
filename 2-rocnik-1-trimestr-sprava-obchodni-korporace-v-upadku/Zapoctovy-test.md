@@ -558,8 +558,10 @@ Obsahuje:
 
 - **Ručení**:
   - (§ 2018 an. OZ) – Předpokládá se platný dluh dlužníka. Dluh může být v době vzniku ručení již existující a účinný, nebo může vzniknout teprve v budoucnu. Ručitelský závazek vzniká dobrovolným prohlášením nebo přímo ze zákona. Ručitelský závazek je vázaný na existenci a platnost dluhu. V případě, že ručitel zcela splní dluh dlužníka, vzniká nová pohledávka ručitele a dlužníka do míry plnění ručitelem. Pohledávka nepřechází, ale vznikne nová pohledávka.
+  - Kdo věřiteli prohlásí, že ho uspokojí, jestliže dlužník věřiteli svůj dluh nesplní, stává se dlužníkovým ručitelem. Nepřijme-li věřitel ručitele, nemůže po něm nic žádat.
 - **Finanční záruka**:
   - (§ 2029 an. OZ) – Oproti ručení je zcela na vůli vystavitele, zda bude záruka subsidiární vůči původnímu dluhu nebo se od původního dluhu zcela odtrhne. Finanční záruka vzniká jednostranným prohlášením výstavce, že uspokojí věřitele do výše určité peněžní částky, pokud dluh nesplní dlužník. Finanční záruku lze zcela oddělit od původního dluhu.
+  - Finanční záruka vzniká prohlášením výstavce v záruční listině, že uspokojí věřitele podle záruční listiny do výše určité peněžní částky, nesplní-li dlužník věřiteli určitý dluh, anebo splní-li se jiné podmínky určené v záruční listině. …
 - **Zajišťovací převod práva**:
   - (§ 2040 an. OZ)
   - (1) Smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo.
@@ -584,8 +586,10 @@ Obsahuje:
 
 - **Smluvní pokuta**:
   - Smluvní pokuta je sankční plnění, na něž nastane věřiteli právo v případě porušení smluvené povinnosti za podmínky, že se tak obě strany dohodly. Má objektivní charakter, právo ji vyžadovat vzniká porušením závazku nezávisle na zavinění i nezávisle na tom, zda porušení smluvní povinnosti způsobila nějakou škodu. Smluvní pokuta se považuje za paušalizovanou náhradu škody.
+  - Ujednají-li strany pro případ porušení smluvené povinnosti smluvní pokutu v určité výši nebo způsob, jak se výše smluvní pokuty určí, může věřitel požadovat smluvní pokutu bez zřetele k tomu, zda mu porušením utvrzené povinnosti vznikla škoda. …
 - **Uznání dluhu**:
   - Uznání dluhu je písemné prohlášení dlužníka, v němž svůj dluh uznává. Dluh lze uznat i konkludentním jednáním, které spočívá v placení úroků nebo částečném plnění.
+  - Uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá.
 - **Směnka vlastní** (Není relevantní pro insolvenci):
   - K utvrzení dluhu se používá i směnka vlastní. Obsahuje bezpodmínečný slib výstavce zaplatit určitou peněžní sumu. Většinou se jedná o cenný papír znějící na řad, takže se právo na zaplacení dá snadno převádět na další osobu.
 
