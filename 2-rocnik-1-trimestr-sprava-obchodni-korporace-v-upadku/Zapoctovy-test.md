@@ -917,17 +917,17 @@ Součástí péče řádného hospodáře je nejen mít schopnost možný budouc
 
 # Otázka 4
 
-> Osoba s disposičním oprávněním, součinnost orgánů dlužníka a insolvenčního správce, samostatná působnost dlužníka, **vazba na věřitelské orgány a jejich rozhodování**.
+> Osoba s disposičním oprávněním, součinnost orgánů dlužníka a insolvenčního správce, samostatná působnost dlužníka, vazba na věřitelské orgány a jejich rozhodování.
 
 Otázky (Kontrolní otázky):
 
-Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním. Student se seznámí s rozsahem součinnosti orgánů dlužníka a insolvenčního správce. **Student bude znát mechanismus rozhodování věřitelských orgánů**.
+Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním. Student se seznámí s rozsahem součinnosti orgánů dlužníka a insolvenčního správce. Student bude znát mechanismus rozhodování věřitelských orgánů.
 
 1. Jaké znáte věřitelské orgány? - Schůze, Výbor, Zástupce - **Zodpovězeno**
-2. Kdo svolává schůzi věřitelů?
-3. Je možné hlasovat na schůzi věřitelů písemně?
+2. Kdo svolává schůzi věřitelů? - Insolvenční soud - **Zodpovězeno.**
+3. Je možné hlasovat na schůzi věřitelů písemně? - Ano - **Zodpovězeno.**
 4. V jakých případech může hlasovat na schůzi věřitelů věřitel, který s dlužníkem tvoří koncern? - obecně žádný věřitel nesmí hlasovat o žádných věcech, které se ho týkají, pokud zákon nestanoví jinak (§ 53 IZ.) - **Zodpovězeno.**
-5. Jakým způsobem se zveřejnuje oznámení o svolání schůze věřitelů?
+5. Jakým způsobem se zveřejnuje oznámení o svolání schůze věřitelů? - Vyhláškou - **Zodpovězeno.**
 
 ## Osoba s dispozičním oprávněním
 
