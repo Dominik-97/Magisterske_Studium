@@ -935,6 +935,18 @@ Osob s dispozičním oprávněním může být více, v jednotlivých fázích i
 
 - Věřitelský výbor zejména uděluje insolvenčnímu správci nebo dlužníku s dispozičními oprávněními souhlas k uzavírání smluv o úvěrovém financování.
 
+§ 229
+
+- (1) Zákon stanoví v závislosti na průběhu řízení, způsobech řešení úpadku a vlastnictví majetku náležejícího do majetkové podstaty, kdo je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními, případně komu přísluší právo nakládat s majetkovou podstatou ohledně části těchto oprávnění nebo pouze ohledně některých z nich.
+- (2) Je-li majetek náležející do majetkové podstaty ve vlastnictví jiné osoby než dlužníka, lze právo této osoby s takovým majetkem nakládat omezit jen zákonem nebo rozhodnutím insolvenčního soudu.
+- (3) Nestanoví-li tento zákon jinak, je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními
+  - a) dlužník v době do rozhodnutí o úpadku,
+  - b) dlužník v době od rozhodnutí o úpadku do rozhodnutí o způsobu řešení úpadku,
+  - c) insolvenční správce v době od prohlášení konkursu,
+  - d) dlužník v době od povolení reorganizace a
+  - e) dlužník v době od povolení oddlužení.
+- (4) Ustanovením odstavce 3 nejsou dotčena omezení uložená dlužníku s dispozičními oprávněními insolvenčním zákonem nebo rozhodnutím insolvenčního soudu v průběhu insolvenčního řízení. Má-li dispoziční oprávnění jiná osoba než dlužník, nejsou tím dotčeny povinnosti uložené dlužníku tímto zákonem.
+- (5) Od rozhodnutí o úpadku a je-li dlužník insolvenčním navrhovatelem, od okamžiku, kdy se jím stal, platí o povinnostech dlužníka s dispozičními oprávněními ustanovení § 36 a 37 přiměřeně.
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
