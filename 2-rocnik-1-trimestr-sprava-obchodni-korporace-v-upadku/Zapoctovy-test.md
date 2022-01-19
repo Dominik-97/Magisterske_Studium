@@ -846,8 +846,10 @@ Ze zákona vyplývá, že:
   - (2) Škoda nebo jiná újma podle odstavce 1 spočívá v rozdílu mezi v insolvenčním řízení zjištěnou výší pohledávky přihlášené věřitelem k uspokojení a částkou, kterou věřitel v insolvenčním řízení na uspokojení této pohledávky obdržel.
   - (3) Osoba uvedená v odstavci 1 se odpovědnosti za škodu nebo jinou újmu podle odstavce 2 zprostí, jen prokáže-li, že porušení povinnosti podat insolvenční návrh nemělo vliv na rozsah částky určené k uspokojení pohledávky přihlášené věřitelem v insolvenčním řízení, nebo že tuto povinnost nesplnila vzhledem ke skutečnostem, které nastaly nezávisle na její vůli a které nemohla odvrátit ani při vynaložení veškerého úsilí, které lze po ní spravedlivě požadovat.
 
-- § 53/1 ZOK
+- § 53/1 ZOK (Odměna, vydání odměny)
   - Osoba, která porušila povinnost péče řádného hospodáře, vydá obchodní korporaci prospěch, který v souvislosti s takovým svým jednáním získala. Není-li vydání prospěchu možné, nahradí ho povinná osoba obchodní korporaci v penězích.
+
+- Pokud je korporace v úpadku, tak například rozdělení zisku (nové odměny) musí projít schválením insolvenčního správce a věřitelů.
 
 ## Vyloučení člena statutárního orgánu
 
