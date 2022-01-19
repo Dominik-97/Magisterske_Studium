@@ -1232,4 +1232,4 @@ V rámci životního cyklu společnosti se může stát, že se společnost dost
 - (2) Za dlužníka, který je právnickou osobou, jednají opět jeho statutární orgány nebo likvidátor, jde-li o právnickou osobu v likvidaci; přerušení likvidace právnické osoby končí.
 - (3) Reorganizace není přípustná, je-li dlužníkem právnická osoba v likvidaci, obchodník s cennými papíry nebo osoba oprávněná k obchodování na komoditní burze podle zvláštního právního předpisu.
 
-> ***TODO***: Projet ještě Konkurs a Reorganizaci v insolvenčním zákoně, zda tam nenajdu další dodatečné užitečné informace.
+> ***TODO***: Projet ještě Konkurs a Reorganizaci a Oddlužení v insolvenčním zákoně, zda tam nenajdu další dodatečné užitečné informace.
