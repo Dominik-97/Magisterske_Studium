@@ -1057,6 +1057,12 @@ Samostatná působnost dlužníka - nakládání s majetkovou podstatou, dispozi
 
 ## Mechanismus věřitelských orgánů
 
+- schůzi svolává a řídí insolvenční soud
+- svolává ji z vlastní iniciativy, na návrh insolvenčního správce, věřitelského výboru, nebo za zákonem stanovených situací sami věřitelé
+- svolá ji tak, aby se konala do 30 dnů, co je insolvenční soud požádán o svolání schůze věřitelů
+- právo účastnit se mají: insolvenční správce, dlužník, věřitelé, státní zastupitelství a odborové organizace dlužníka
+- oznámení o svolání schůze učiní soud formou vyhlášky
+
 # Otázka 5
 
 > Oprávnění a součinnost orgánů dlužníka a insolvenčního správce v
