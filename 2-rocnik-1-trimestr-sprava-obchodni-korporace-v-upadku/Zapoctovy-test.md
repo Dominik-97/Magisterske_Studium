@@ -965,6 +965,22 @@ Insolvenčním správcem je:
 - a) fyzická osoba, která je oprávněna vykonávat činnost insolvenčního správce.
 - b) veřejná obchodní společnost nebo zahraniční obchodní společnost nebo zahraniční sdružení, které poskytuje stejné záruky ručení společníků jako veřejná obchodní společnost, a je založená podle práva členského státu Evropské unie, členských států Dohody o evropském hospodářském prostoru a která je oprávněna vykonávat činnost insolvenčního správce.
 
+§ 36 IZ
+
+- (1) Insolvenční správce je povinen při výkonu funkce postupovat svědomitě a s odbornou péčí; je povinen vyvinout veškeré úsilí, které lze po něm spravedlivě požadovat, aby věřitelé byli uspokojeni v co nejvyšší míře. Společnému zájmu věřitelů je povinen dát při výkonu funkce přednost před zájmy vlastními i před zájmy jiných osob.
+
+§ 37 IZ
+
+- (1) Insolvenční správce odpovídá za škodu nebo jinou újmu, kterou dlužníku, věřitelům nebo třetím osobám způsobil tím, že při výkonu své funkce porušil povinnosti, které jsou mu uloženy zákonem nebo rozhodnutím soudu, jakož i tím, že při jejím výkonu nepostupoval s odbornou péčí. Této odpovědnosti se insolvenční správce zprostí, jen když prokáže, že škodě nebo jiné újmě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm bylo možné spravedlivě požadovat se zřetelem k průběhu insolvenčního řízení.
+
+§ 31 IZ
+
+- (1) Z důležitých důvodů, které nemají původ v porušení povinností insolvenčního správce, může insolvenční soud na návrh insolvenčního správce nebo věřitelského orgánu anebo i bez tohoto návrhu odvolat insolvenčního správce z funkce. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+
+§ 32
+
+- (1) Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+
 ### Povolení k výkonu funkce insolvenčního správce (není důležité pro tuto zkoušku):
 
 Na návrh vydá Ministerstvo spravedlnosti povolení fyzické osobě, která splňuje podmínky podle zvláštního zákona (Zákon o insolvenčních správcích).
