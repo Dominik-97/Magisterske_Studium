@@ -970,6 +970,22 @@ Od účinnosti reorganizačního plánu je oprávněn nakládat s majetkovou pod
 
 - (1) Insolvenční soud ustanoví předběžným opatřením předběžného správce i bez návrhu, jestliže nařídil předběžné opatření, kterým omezil dlužníka v nakládání s majetkovou podstatou v širším rozsahu, než je uvedeno v § 111.
 
+## Věřitelské orgány (Viz otázka 2):
+
+- Věřitelský výbor
+  - Věřitelský výbor je jedním z věřitelských orgánů, a to „výkonný“ orgán (nejvyšším orgánem je schůze věřitelů).
+  - Věřitelský výbor je volen schůzí věřitelů
+
+## Součinnost
+
+§ 36/2 IZ
+
+Insolvenční správce poskytuje věřitelským orgánům součinnost nezbytnou k řádnému výkonu jejich funkce; zejména se na žádost věřitelského orgánu účastní jeho jednání. Neurčí-li insolvenční soud jinak, předkládá insolvenční správce věřitelskému orgánu a insolvenčnímu soudu nejméně jednou za 3 měsíce písemnou zprávu o stavu insolvenčního řízení; písemnou zprávu o splnění oddlužení předloží bez zbytečného odkladu po splnění oddlužení.
+
+§ 58 IZ
+
+(1) Věřitelský výbor chrání společný zájem věřitelů a v součinnosti s insolvenčním správcem přispívá k naplnění účelu insolvenčního řízení.
+
 ## Insolvenční správce
 
 - Insolvenční správce – právní úprava postavení insolvenčního správce v zákoně č. 312/2006 Sb. o insolvenčních správcích.
