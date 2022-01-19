@@ -929,34 +929,18 @@ Student bude umět vymezit osobu, resp. okruh osob s dispozičním oprávněním
 
 ## Osoba s dispozičním oprávněním
 
-1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
-Věřitelské orgány
-§ 46
-Schůze věřitelů, věřitelský výbor a zástupce věřitelů
-(1) Věřitelskými orgány jsou schůze věřitelů a věřitelský výbor nebo zástupce věřitelů.
-(2) Schůzi věřitelů přísluší volba a odvolání členů věřitelského výboru a jeho náhradníků nebo zástupce
-věřitelů; rozhoduje též o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Schůze věřitelů si
-může vyhradit cokoli, co patří do působnosti věřitelských orgánů. Usnesení, jímž si schůze věřitelů
-vyhrazuje působnost jiných věřitelských orgánů, je přijato, jestliže pro ně hlasovala většina tvořená
-nejméně dvěma třetinami hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše
-jejich pohledávek. Není-li ustanoven věřitelský výbor ani zástupce věřitelů a není-li v tomto zákoně
-stanoveno jinak, vykonává schůze věřitelů i jejich působnost.
-(3) Věřitelský výbor vykonává působnost věřitelských orgánů s výjimkou věcí, které patří do
-působnosti schůze věřitelů nebo které si schůze věřitelů vyhradila.
-§ 210
-(1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování
-majetkové podstaty všestrannou součinnost, zejména dbát pokynů insolvenčního správce nebo
-předběžného správce.
-(2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její statutární orgány a jejich
-členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu
-má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3
-měsících před zahájením insolvenčního řízení.
-(3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou
-společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za
-právnickou osobu.
-(4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci; má-li
-fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může
-insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
+- 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
+  - Věřitelské orgány
+  - § 46
+    - Schůze věřitelů, věřitelský výbor a zástupce věřitelů
+      - (1) Věřitelskými orgány jsou schůze věřitelů a věřitelský výbor nebo zástupce věřitelů.
+      - (2) Schůzi věřitelů přísluší volba a odvolání členů věřitelského výboru a jeho náhradníků nebo zástupce věřitelů; rozhoduje též o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Schůze věřitelů si může vyhradit cokoli, co patří do působnosti věřitelských orgánů. Usnesení, jímž si schůze věřitelů vyhrazuje působnost jiných věřitelských orgánů, je přijato, jestliže pro ně hlasovala většina tvořená nejméně dvěma třetinami hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek. Není-li ustanoven věřitelský výbor ani zástupce věřitelů a není-li v tomto zákoně stanoveno jinak, vykonává schůze věřitelů i jejich působnost.
+      - (3) Věřitelský výbor vykonává působnost věřitelských orgánů s výjimkou věcí, které patří do působnosti schůze věřitelů nebo které si schůze věřitelů vyhradila.
+  - § 210
+    - (1) Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování majetkové podstaty všestrannou součinnost, zejména dbát pokynů insolvenčního správce nebo **předběžného správce** - předběžný správce je .
+    - (2) Je-li dlužníkem právnická osoba, mají povinnosti podle odstavce 1 její statutární orgány a jejich členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3 měsících před zahájením insolvenčního řízení.
+    - (3) Insolvenční soud může vyžadovat splnění povinností podle odstavců 1 a 2 také od osob, které jsou společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za právnickou osobu.
+    - (4) Je-li dlužníkem fyzická osoba, mají povinnosti podle odstavců 1 a 2 i její zákonní zástupci; má-li fyzická osoba více zákonných zástupců oprávněných jednat jejím jménem samostatně, může insolvenční soud vyžadovat splnění těchto povinností od každého z nich.
 
 # Otázka 5
 
