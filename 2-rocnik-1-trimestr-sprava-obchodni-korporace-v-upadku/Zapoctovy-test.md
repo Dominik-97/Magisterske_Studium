@@ -975,6 +975,8 @@ Od účinnosti reorganizačního plánu je oprávněn nakládat s majetkovou pod
 - Věřitelský výbor
   - Věřitelský výbor je jedním z věřitelských orgánů, a to „výkonný“ orgán (nejvyšším orgánem je schůze věřitelů).
   - Věřitelský výbor je volen schůzí věřitelů
+- Schůze věřitelů
+- Zástupce věřitelů
 
 ## Součinnost
 
@@ -1034,7 +1036,11 @@ Přestupky právnických a podnikajících fyzických osob
 - 1) Přestupky podle ZIS projednává ministerstvo.
 - 2) Pokuty vybírá a vymáhá ministerstvo spravedlnosti.
 
+## Samostatná působnost dlužníka
+
 Samostatná působnost dlužníka - nakládání s majetkovou podstatou, dispoziční úkony a úkony v řízení, procesní úkony.
+
+## Další související ustanovení
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
