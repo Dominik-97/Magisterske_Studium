@@ -530,9 +530,19 @@ Posloupnost síly přihlášených pohledávek:
 - f) podřízené pohledávky
 - g) vyloučené pohledávky
 
+Mimo tento seznam stojí **nepřihlášené pohledávky**.
+
 #### Zajištění a utvrzení dluhů
 
+Zajištění dluhu je relativní majetkový vztah, který věřiteli umožňuje hojit se z dlužníkova majetku, nebo majetku jiné osoby, pokud dlužník poruší původní závazkovou povinnost.
 
+Zajištění dluhu znamená, že třetí osoba, nebo sám dlužník, dá věřiteli ve prospěch jistotu, nebo se jinak zaváže za dlužníkovo plnění. Plní především funkci náhradní reparace.
+
+Je upravena v OZ v části relativní majetková práva.
+
+rozvrh, hierarchie, přednostní právo, zajištěný věřitel
+
+Do kdy může věřitel přihlásit pohledávku - myslím, že už mám někde napsáno, stane se přihlášená pohledávka splatnou?
 
 #### Přihlášení pohledávek a jejich uspokojení
 
@@ -962,3 +972,6 @@ vrátí je k doručení insolvenčnímu soudu.
 insolvenční správce, který provádí soupis nebo činí úkony směřující k řádnému zajištění a správě
 majetkové podstaty, provedl prohlídku bytu a jiných místností dlužníka. Nesplní-li tuto povinnost, je
 insolvenční správce oprávněn zjednat si k bytu nebo jiné místnosti dlužníka přístup.
+
+
+V rámci životního cyklu společnosti se může stát, že ...
