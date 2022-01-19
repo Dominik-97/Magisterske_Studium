@@ -1157,6 +1157,22 @@ Obecné povinnosti dlužníka lze rozdělina na:
 - c) Povinnost součinnosti společníků, zaměstnanců nebo členů právnické osoby
 - d) Součinnost při zjišťování podstaty
 
+§ 210/1 IZ
+
+Dlužník je povinen poskytnout insolvenčnímu správci nebo předběžnému správci při zjišťování majetkové podstaty všestrannou součinnost, zejména dbát pokynů insolvenčního správce nebo předběžného správce.
+
+§ 210/2 IZ
+
+Je-li dlužníkem právnická osoba, mají povinnosti podle § 210 odst. 1 IZ její statutární orgány a jejich členové nebo likvidátor, jde-li o právnickou osobu v likvidaci. Jestliže postavení statutárního orgánu má více osob oprávněných jednat samostatně, lze splnění těchto povinností požadovat od kterékoli z nich. Uvedené osoby mají tuto povinnost i v případě, že jejich postavení zaniklo v posledních 3 měsících před zahájením insolvenčního řízení.
+
+§ 210/3 IZ
+
+Insolvenční soud může vyžadovat splnění povinností podle § 210 odst. 1 a 2 IZ také od osob, které jsou společníky, zaměstnanci nebo členy právnické osoby, a to v rozsahu jejich oprávnění jednat za právnickou osobu.
+
+§ 211/1 IZ
+
+Východiskem zjišťování majetkové podstaty je seznam majetku, který je dlužník povinen předložit současně s insolvenčním návrhem, případně na základě rozhodnutí insolvenčního soudu. …
+
 ### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
 
 **Povinnosti insolvenčního správce:**
