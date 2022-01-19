@@ -661,6 +661,8 @@ Další odchylky jsou stanoveny v zákoně, není-li to v rozporu s rozhodnutím
 
 **Reorganizace**:
 
+Smyslem reorganizace je zachování fungování dlužníkova podniku za cenu použití sanačních opatření schválených a kontrolovaných soudem. Dlužníkem může být pouze podnikatel, který není v likvidaci. Další podmínkou je, že zaměstnavatel vykázal čistý obrat za období předcházející insolvenčnímu návrhu ve výši min 50.000.000 Kč, nebo má min. 50 zaměstnanců.
+
 Reorganizací se rozumí zpravidla postupné uspokojování pohledávek věřitelů při zachování provozu dlužníkova podniku, zajištěné opatřeními k ozdravění hospodaření tohoto podniku podle insolvenčním soudem schváleného reorganizačního plánu s průběžnou kontrolou jeho plnění ze strany věřitelů.
 
 Reorganizací lze řešit úpadek nebo hrozící úpadek dlužníka, který je podnikatelem; reorganizace se týká jeho podniku.
@@ -697,7 +699,7 @@ Reorganizace může skončit úspěšně, může být zrušena, nebo může být
 
 Jak může soud rozhodnout:
 
-Podmínkou zahájení reorganizace je podání návrhudlužníkem nebo přihlášeným věřitelem.
+Podmínkou zahájení reorganizace je podání návrhu dlužníkem nebo přihlášeným věřitelem.
 
 Soud rozhodne o návrhu některým z následujících způsobů:
 
@@ -716,7 +718,8 @@ Ustanovení tohoto dílu zapracovávají příslušné předpisy Evropských spo
 - obchodníka s cennými papíry,
 - zahraničního obchodníka s cennými papíry poskytujícího investiční služby na území České republiky na základě povolení podle zákona upravujícího podnikání na kapitálovém trhu62),
 - pobočky zahraničního obchodníka s cennými papíry jiného než uvedeného v písmenu e),
-- povinných osob podle § 3 písm. b) a c) zákona o ozdravných postupech a řešení krize na finančním trhu.
+- povinných osob podle § 3 písm. b) a c) zákona o ozdravných postupech a řešení krize na finančním trhu,
+- pojišťovny a zajišťovny.
 
 v rámci tohoto předmětu to není tak důležité, ponechávám zde tedy pouze toto základní info.
 
