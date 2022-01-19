@@ -935,6 +935,8 @@ Osob s dispozičním oprávněním může být více, v jednotlivých fázích i
 
 - Věřitelský výbor zejména uděluje insolvenčnímu správci nebo dlužníku s dispozičními oprávněními souhlas k uzavírání smluv o úvěrovém financování.
 
+Osobou s dispozičními oprávněními je osoba, které v průběhu insolvenčního řízení přísluší právo nakládat s majetkovou podstatou ohledně všech oprávnění, ze kterých se skládá.
+
 § 229
 
 - (1) Zákon stanoví v závislosti na průběhu řízení, způsobech řešení úpadku a vlastnictví majetku náležejícího do majetkové podstaty, kdo je ve vztahu k majetkové podstatě osobou s dispozičními oprávněními, případně komu přísluší právo nakládat s majetkovou podstatou ohledně části těchto oprávnění nebo pouze ohledně některých z nich.
@@ -1003,6 +1005,8 @@ Přestupky právnických a podnikajících fyzických osob
 
 - 1) Přestupky podle ZIS projednává ministerstvo.
 - 2) Pokuty vybírá a vymáhá ministerstvo spravedlnosti.
+
+Samostatná působnost dlužníka - nakládání s majetkovou podstatou, dispoziční úkony a úkony v řízení, procesní úkony.
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
