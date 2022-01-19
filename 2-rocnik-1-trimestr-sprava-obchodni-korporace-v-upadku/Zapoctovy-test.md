@@ -307,7 +307,7 @@ Místní příslušností je obecně místní soud dlužníka.
 - insolvenční soud: soud u kterého probíhá insolvenční řízení,
 - insolvenční návrh: jedná se o návrh na zahájení insolvenčního řízení podaný soudu,
 - incidenční spor: spor v rámci insolvenčního řízení podle zákona, projednává ho insolvenční soud,
-- majetková podstata: majetek dlužníka určený k uspokojení věřitelů - zapisuje se do soupisu majetkové podstaty, zjišťuje se majetková podstata (neplatnost a neúčinnost právních jednání - nakládání s majetkovou podstatou - která zásadně mění jeho výši)
+- majetková podstata: majetek dlužníka určený k uspokojení dlužníkových věřitelů - zapisuje se do soupisu majetkové podstaty, zjišťuje se majetková podstata, postup pro určení rozsahu a výše m. p. (neplatnost a neúčinnost právních úkonů, jednání - nakládání s majetkovou podstatou - která zásadně mění jeho výši)
 - osoba s dispozičními oprávněními: osoba oprávněná nakládat s majetkovou podstatou,
 - zajištěný věřitel: věřitel jehož pohledávka je zajištěna majetkem, který spadá do majetkové podstaty
 - přihláška pohledávky: procesní úkon přihlášení pohledávky do insolvenčního řízení
@@ -427,7 +427,7 @@ Insolvenční správce může pro udržení nebo obnovení provozu podniku, kter
 ### Průběh insolvence
 
 - Lze zahájit pouze na návrh, zahajuje se dnem kdy dojde návrh na zahájení insolvenčního řízení pokud ho podává dlužník a chce dosáhnout odlužení, musí rovněž připojit návrh na oddlužení.
-- Návrh může podat dlužník, nebo věřitel, jde-li o hrozící úpadek, může jej podat pouze dlužník.
+- Návrh může podat **dlužník**, nebo **věřitel**, jde-li o hrozící úpadek, může jej podat pouze dlužník, náevrh musí mít úředně ověřený, nebo uznávaný elektronický podpis.
 - Dlužník (popřípadě zákonní zástupci dlužníka, jeho statutární orgán a likvidátor), který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku. Tuto povinnost má i tehdy, byl-li pravomocně zastaven výkon rozhodnutí prodejem jeho podniku nebo exekuce podle zvláštního právního předpisu4) proto, že cena majetku náležejícího k podniku nepřevyšuje výši závazků náležejících k podniku; to neplatí, má-li dlužník ještě jiný podnik.
 - Pokud osoba, která měla podat návrh (viz přeechozí bod) takto neučinila, odpovídá věřiteli za škodu nebo jinou újmu, kterou způsobí porušením této povinnosti - lze se jí zprostit (pokud by porušení nemělo vliv na konečný rozsah částky vydané k uspokojení věřitelů, nebo že tuto povinnost nesplnila vzhledem ke skutečnostem, které nastaly nezávisle na její vůli a které nemohla odvrátit ani při vynaložení veškerého úsilí, které lze po ní spravedlivě požadovat).
 
@@ -478,9 +478,9 @@ Insolvenční soud vydá rozhodnutí o úpadku, je-li osvědčením nebo dokazov
 
 Může tedy rozhodnout, že:
 
-- byl zjištěn úpadek dlužníka,
+- byl zjištěn úpadek dlužníka (soud vydá rozhodnutí o úpadku),
 - nebyl zjištěn úpadek dlužníka,
-- soud zamítne/odmítne návrh.
+  - soud zamítne/odmítne návrh.
 
 #### Účinky spojené s rozhodnutím o úpadku
 
