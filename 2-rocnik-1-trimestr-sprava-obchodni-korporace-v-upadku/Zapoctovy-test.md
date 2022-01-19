@@ -945,8 +945,16 @@ Osob s dispozičním oprávněním může být více, v jednotlivých fázích i
   - c) insolvenční správce v době od prohlášení konkursu,
   - d) dlužník v době od povolení reorganizace a
   - e) dlužník v době od povolení oddlužení.
-- (4) Ustanovením odstavce 3 nejsou dotčena omezení uložená dlužníku s dispozičními oprávněními insolvenčním zákonem nebo rozhodnutím insolvenčního soudu v průběhu insolvenčního řízení. Má-li dispoziční oprávnění jiná osoba než dlužník, nejsou tím dotčeny povinnosti uložené dlužníku tímto zákonem.
+- (4) Ustanovením odstavce 3 nejsou dotčena omezení uložená dlužníku s dispozičními oprávněními insolvenčním zákonem nebo rozhodnutím insolvenčního soudu v průběhu insolvenčního řízení (Předběžná opatření). Má-li dispoziční oprávnění jiná osoba než dlužník, nejsou tím dotčeny povinnosti uložené dlužníku tímto zákonem.
 - (5) Od rozhodnutí o úpadku a je-li dlužník insolvenčním navrhovatelem, od okamžiku, kdy se jím stal, platí o povinnostech dlužníka s dispozičními oprávněními ustanovení § 36 a 37 přiměřeně.
+
+§ 111
+
+- (1) Nerozhodne-li insolvenční soud jinak, je dlužník povinen zdržet se od okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, nakládání s majetkovou podstatou a s majetkem, který do ní může náležet, pokud by mělo jít o podstatné změny ve skladbě, využití nebo určení tohoto majetku anebo o jeho nikoli zanedbatelné zmenšení. Peněžité závazky vzniklé před zahájením insolvenčního řízení je dlužník oprávněn plnit jen v rozsahu a za podmínek stanovených tímto zákonem.
+
+§ 112
+
+- (1) Insolvenční soud ustanoví předběžným opatřením předběžného správce i bez návrhu, jestliže nařídil předběžné opatření, kterým omezil dlužníka v nakládání s majetkovou podstatou v širším rozsahu, než je uvedeno v § 111.
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
