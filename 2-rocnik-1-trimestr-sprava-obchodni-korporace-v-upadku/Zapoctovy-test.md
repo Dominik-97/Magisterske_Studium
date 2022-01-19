@@ -1061,7 +1061,18 @@ Samostatná působnost dlužníka - nakládání s majetkovou podstatou, dispozi
 - svolává ji z vlastní iniciativy, na návrh insolvenčního správce, věřitelského výboru, nebo za zákonem stanovených situací sami věřitelé
 - svolá ji tak, aby se konala do 30 dnů, co je insolvenční soud požádán o svolání schůze věřitelů
 - právo účastnit se mají: insolvenční správce, dlužník, věřitelé, státní zastupitelství a odborové organizace dlužníka
-- oznámení o svolání schůze učiní soud formou vyhlášky
+- oznámení o svolání schůze učiní soud formou vyhlášky (obsahuje předmět a místo jednání) - projednává se jen předmět, který byl uveden v pozvánce, jiné předměty jednání je možné jednat jen pokud se na tom usnesou věřitelé (musí však proto být všichni přítomni)
+- K platnosti hlasování se vyžaduje, pokud zákon nestanoví jinak, prostá většina hlasů (každá koruna pohledávky má hodnotu jednoho hlasu)
+- Věřitelé mohou hlasovat písemně pomocí listiny s názvem hlasovací lístek, musí být úředně ověřený podpis
+- Věřitel, který s dlužníkem tvoří koncern anebo je osobou dlužníkovi blízkou, nesmí na schůzi věřitelů hlasovat, nestanoví-li zákon jinak; o reorganizačním plánu předloženém jinou osobou než dlužníkem nebo věřitelem podle věty před středníkem hlasovat může.
+- Věřitel nesmí hlasovat ve věcech, kterých se účastní nebo kterých je nebo má být stranou, které se týkají zákonem stanovených věcí.
+- Odporuje-li usnesení schůze věřitelů společnému zájmu věřitelů, může je insolvenční soud zrušit.
+
+**Specifické ustanovení týkající se věřitelského výboru**:
+
+**Specifická ustanovení týkající se zástupce věřitelů:**
+
+- Ustanovení týkající se věřitelského výboru se použijí obdobně.
 
 # Otázka 5
 
