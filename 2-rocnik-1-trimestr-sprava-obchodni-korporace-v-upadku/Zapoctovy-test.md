@@ -1128,6 +1128,24 @@ Student bude znát rozsah oprávnění a součinnosti orgánů dlužníka v konk
 
 ## Oprávnění a součinnost v konkursu
 
+V insolvenčním řízení můžeme osoby dělit na ty, které:
+
+- a) mají právo na poskytnutí součinnosti a
+- b) mají povinnost poskytnout součinnost.
+
+Povinnost součinnosti má:
+
+- a) Dlužník
+- b) Předběžný správce vůči insolvenčnímu správci
+- c) Insolvenční správce
+  - ca) vůči věřitelským orgánům
+  - cb) vůči insolvenčnímu soudu
+  - cc) další formy součinnosti
+- d) Osoby a orgány uvedené v § 43 IZ vůči insolvenčnímu správci a soudu
+- e) Věřitelský výbor vůči insolvenčnímu správci
+- f) Likvidátor dlužníka vůči insolvenčnímu správci
+- g) Správce podniku
+
 ### Rozsah oprávnění a součinnost dlužníka v konkursu
 
 ### Rozsah oprávnění a součinnost insolvenčního správce v konkursu
