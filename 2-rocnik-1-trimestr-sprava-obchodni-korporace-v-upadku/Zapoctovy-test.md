@@ -699,7 +699,7 @@ Reorganizace může skončit úspěšně, může být zrušena, nebo může být
 
 Jak může soud rozhodnout:
 
-Podmínkou zahájení reorganizace je podání návrhu dlužníkem nebo přihlášeným věřitelem.
+Podmínkou zahájení reorganizace je podání návrhu **dlužníkem** nebo **přihlášeným věřitelem**.
 
 Soud rozhodne o návrhu některým z následujících způsobů:
 
@@ -727,7 +727,9 @@ v rámci tohoto předmětu to není tak důležité, ponechávám zde tedy pouze
 
 **Oddlužení**:
 
-Dlužník může insolvenčnímu soudu navrhnout, aby jeho úpadek nebo jeho hrozící úpadek řešil oddlužením, jde-li o
+Oddlužení patří mezi sanační způsoby řešení úpadku.
+
+Dlužník může podle § 389 odst. 1 IZ insolvenčnímu soudu navrhnout, aby jeho úpadek nebo jeho hrozící úpadek řešil oddlužením, jde-li o
 
 1. právnickou osobu, která podle zákona není považována za podnikatele a současně nemá dluhy z podnikání, nebo
 2. fyzickou osobu.
