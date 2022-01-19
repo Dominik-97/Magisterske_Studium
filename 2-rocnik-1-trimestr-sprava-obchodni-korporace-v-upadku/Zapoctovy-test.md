@@ -981,7 +981,12 @@ Právo vykonávat činnost insolvenčního správce insolvenčnímu správci zan
 
 ### Dohled nad insolvenčními správci
 
-Ministerstvo spravedlnosti vykonává dohled nad insolvenčními správci a hostujícími insolvenčními správci.
+Ministerstvo spravedlnosti vykonává dohled nad insolvenčními správci a hostujícími insolvenčními (insolvenční správce z jiného státu, který má právo vykonávat činnost insolvenčního správce v České republice) správci.
+
+Přestupky právnických a podnikajících fyzických osob
+
+- 1) Přestupky podle ZIS projednává ministerstvo.
+- 2) Pokuty vybírá a vymáhá ministerstvo spravedlnosti.
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
