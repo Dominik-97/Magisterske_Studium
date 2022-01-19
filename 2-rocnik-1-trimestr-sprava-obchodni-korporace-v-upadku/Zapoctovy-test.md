@@ -954,6 +954,18 @@ Osobou s dispozičními oprávněními je osoba, které v průběhu insolvenčn�
 
 - (1) Nerozhodne-li insolvenční soud jinak, je dlužník povinen zdržet se od okamžiku, kdy nastaly účinky spojené se zahájením insolvenčního řízení, nakládání s majetkovou podstatou a s majetkem, který do ní může náležet, pokud by mělo jít o podstatné změny ve skladbě, využití nebo určení tohoto majetku anebo o jeho nikoli zanedbatelné zmenšení. Peněžité závazky vzniklé před zahájením insolvenčního řízení je dlužník oprávněn plnit jen v rozsahu a za podmínek stanovených tímto zákonem.
 
+**Nakládání s majetkovou podstatou po dobu trvání moratoria**:
+
+- § 122 IZ
+  - Nakládání s majetkovou podstatou po dobu trvání moratoria
+    - 1) Závazky bezprostředně souvisící se zachováním provozu podniku vzniklé v posledních 30 dnech před vyhlášením moratoria nebo po něm je dlužník po dobu trvání moratoria oprávněn hradit přednostně před dříve splatnými závazky.
+
+**Reorganizace**:
+
+§ 353/1 IZ
+
+Od účinnosti reorganizačního plánu je oprávněn nakládat s majetkovou podstatou dlužník. … 
+
 § 112
 
 - (1) Insolvenční soud ustanoví předběžným opatřením předběžného správce i bez návrhu, jestliže nařídil předběžné opatření, kterým omezil dlužníka v nakládání s majetkovou podstatou v širším rozsahu, než je uvedeno v § 111.
