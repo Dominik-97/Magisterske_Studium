@@ -589,9 +589,9 @@ Obsahuje:
 - **Směnka vlastní** (Není relevantní pro insolvenci):
   - K utvrzení dluhu se používá i směnka vlastní. Obsahuje bezpodmínečný slib výstavce zaplatit určitou peněžní sumu. Většinou se jedná o cenný papír znějící na řad, takže se právo na zaplacení dá snadno převádět na další osobu.
 
-rozvrh, hierarchie, přednostní právo, zajištěný věřitel
+Viz uspokojování pohledávek a druhy pohledávek, to zda má věřitel zajištění závazek dopadá na **rozvrh**, je tím dotčena hierarchie vyplácení zpeněženého majetku/splátkového kalendáře/jiných plnění z majetkové podstaty věřiteli. Věřitel má tedy přednostní právo, neboť je zajištěný věřitel.
 
-Do kdy může věřitel přihlásit pohledávku - myslím, že už mám někde napsáno, stane se přihlášená pohledávka splatnou?
+> ***TODO:*** Do kdy může věřitel přihlásit pohledávku - myslím, že už mám někde napsáno, stane se přihlášená pohledávka splatnou?
 
 #### Přihlášení pohledávek a jejich uspokojení
 
