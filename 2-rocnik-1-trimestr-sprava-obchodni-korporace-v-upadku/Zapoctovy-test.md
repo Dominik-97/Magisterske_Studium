@@ -967,7 +967,21 @@ Insolvenčním správcem je:
 
 ### Povolení k výkonu funkce insolvenčního správce (není důležité pro tuto zkoušku):
 
+Na návrh vydá Ministerstvo spravedlnosti povolení fyzické osobě, která splňuje podmínky podle zvláštního zákona (Zákon o insolvenčních správcích).
 
+Je veden v insolvenčním rejstříku.
+
+### Pozastavení práva vykonávat insolvenčního správce
+
+Právo vykonávat činnost insolvenčního správce se insolvenčnímu správci pozastavuje z důvodů vymezené ve zvláštním předpisu (Zákon o insolvenčních správcích).
+
+### Zánik práva vykonávat činnost insolvenčního správce
+
+Právo vykonávat činnost insolvenčního správce insolvenčnímu správci zaniká z důvodů vymezených ve zvláštním předpisu (Zákon o insolvenčních správcích).
+
+### Dohled nad insolvenčními správci
+
+Ministerstvo spravedlnosti vykonává dohled nad insolvenčními správci a hostujícími insolvenčními správci.
 
 - 1) zák. č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon)
   - Věřitelské orgány
