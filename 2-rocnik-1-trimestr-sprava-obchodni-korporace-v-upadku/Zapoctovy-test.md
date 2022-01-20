@@ -448,6 +448,29 @@ Schůze věřitelů
 
 - Schůzi věřitelů svolává a řídí insolvenční soud. Svolá ji z vlastní iniciativy, nebo na návrh insolvenčního správce, věřitelského výboru anebo, není-li způsobem řešení úpadku oddlužení, alespoň 2 věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí alespoň desetinu přihlášených pohledávek; je-li způsobem řešení úpadku oddlužení, svolá ji na návrh nadpoloviční většiny všech věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí zároveň nadpoloviční většinu přihlášených pohledávek. Insolvenční soud svolá schůzi věřitelů tak, aby se konala do 30 dnů poté, co byl o její svolání požádán, není-li navržen pozdější termín konání.
 
+Právo zúčastnit se schůze věřitelů mají:
+
+- a) přihlášení věřitelé,
+- b) dlužník,
+- c) insolvenční správce,
+- d) státní zastupitelství,
+- e) odborová organizace působící u dlužníka.
+
+Věřitelský výbor
+
+§ 56/1-3 IZ
+
+- (1) Je-li přihlášených věřitelů více než 50, je schůze věřitelů povinna ustanovit věřitelský výbor. Členy věřitelského výboru a jejich náhradníky volí schůze věřitelů.
+- (2) Věřitelský výbor má nejméně 3 a nejvýše 7 členů. O počtu členů rozhoduje schůze věřitelů. Schůze věřitelů se může usnést, že každý člen věřitelského výboru má svého náhradníka; schůze věřitelů může rozhodnout o vyšším počtu náhradníků členů věřitelského výboru.
+- (3) Je-li způsobem řešení úpadku nepatrný konkurs nebo oddlužení, není volba věřitelského výboru povinná.
+
+Zástupce věřitelů
+
+§ 68/1,2 IZ
+
+- 1) Není-li volba věřitelského výboru povinná, může schůze věřitelů místo něho zvolit zástupce věřitelů a jeho náhradníka.
+- 2) Ustanovení o věřitelském výboru platí pro zástupce věřitelů a jeho náhradníka obdobně.
+
 ### Průběh insolvence
 
 - Lze zahájit pouze na návrh, zahajuje se dnem kdy dojde návrh na zahájení insolvenčního řízení pokud ho podává dlužník a chce dosáhnout odlužení, musí rovněž připojit návrh na oddlužení.
