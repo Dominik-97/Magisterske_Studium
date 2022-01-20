@@ -1524,6 +1524,12 @@ Pokuta za opožděné tvrzení daně
 - (1) Daňovému subjektu vzniká povinnost uhradit pokutu, nepodá-li daňové přiznání nebo dodatečné daňové přiznání, ačkoliv měl tuto povinnost, nebo učiní-li tak po stanovené lhůtě, a toto zpoždění je delší než 5 pracovních dnů, ve výši
   - a) 0,05 % stanovené daně za každý následující den prodlení, nejvýše však 5 % stanovené daně,…
 
+**c) Neposkytování součinnosti orgány a osobami majícími tuto povinnost stanovenou IZ:**
+
+§ 44/3 IZ
+
+Osoby a orgány, které jsou povinny poskytnout insolvenčnímu soudu nebo insolvenčnímu správci součinnost, odpovídají za škodu nebo jinou újmu, kterou způsobily, v případě, že tuto součinnost neposkytnou řádně a včas.
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
