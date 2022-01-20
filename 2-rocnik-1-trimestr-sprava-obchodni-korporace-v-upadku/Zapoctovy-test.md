@@ -1500,6 +1500,15 @@ Porušení povinnosti v insolvenčním řízení
 
 Kdo v insolvenčním řízení maří nebo hrubě ztěžuje výkon funkce insolvenčního správce, a tím ohrozí účel insolvenčního řízení, bude potrestán odnětím svobody na šest měsíců až tři léta nebo zákazem činnosti.
 
+**b) Neposkytování součinnosti insolvenčním správcem:**
+
+Zproštění insolvenčního správce
+
+§ 32/ 1,2 IZ
+
+- (1) Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
+- (2) Proti rozhodnutí podle odstavce 1 se mohou odvolat insolvenční správce a osoby oprávněné podat návrh podle odstavce 1. …
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
