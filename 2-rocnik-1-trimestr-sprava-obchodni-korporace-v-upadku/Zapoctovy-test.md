@@ -1373,13 +1373,13 @@ Insolvenční správce ustanovený v rozhodnutí o úpadku navazuje na činnost 
 - b) povinnost součinnosti insolvenčního správce vůči insolvenčnímu soudu
 - c) další formy součinnosti
 
-a) Povinnost součinnosti insolvenčního správce vůči věřitelským orgánům
+**a) Povinnost součinnosti insolvenčního správce vůči věřitelským orgánům:**
 
 § 36/2 IZ
 
 Insolvenční správce poskytuje věřitelským orgánům součinnost nezbytnou k řádnému výkonu jejich funkce; zejména se na žádost věřitelského orgánu účastní jeho jednání. Neurčí-li insolvenční soud jinak, předkládá insolvenční správce věřitelskému orgánu a insolvenčnímu soudu nejméně jednou za 3 měsíce písemnou zprávu o stavu insolvenčního řízení; písemnou zprávu o splnění oddlužení předloží bez zbytečného odkladu po splnění oddlužení.
 
-**Povinnost součinnosti insolvenčního správcevůči insolvenčnímu soudu:**
+**b) Povinnost součinnosti insolvenčního správcevůči insolvenčnímu soudu:**
 
 § 209/1 IZ
 
@@ -1392,6 +1392,12 @@ Zjišťování majetkové podstaty zajišťuje od svého ustanovení insolvenčn
 Přezkumné jednání
 
 Insolvenční soud může insolvenčnímu správci uložit, aby mu poskytl součinnost potřebnou k přípravě přezkumného jednání, a určit povahu této součinnosti.
+
+**c) Další formy součinnosti:**
+
+§ 375/5 IZ
+
+Insolvenční správce nesmí zasahovat do správy krytých bloků a je povinen poskytnout součinnost nucenému správci krytých bloků podle zákona o dluhopisech, aby mohl tento nucený správce plnit své povinnosti.
 
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
