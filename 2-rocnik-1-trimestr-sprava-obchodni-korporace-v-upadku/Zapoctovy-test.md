@@ -1517,6 +1517,13 @@ Pořádková pokuta
 - (2) Insolvenčnímu správci, který nesplnil povinnost uloženou mu soudem nebo řádně neplní jiné své povinnosti, může insolvenční soud uložit pořádkovou pokutu, a to i opakovaně, nejvýše však do úhrnné částky 200
 000 Kč.
 
+Pokuta za opožděné tvrzení daně
+
+§ 250/1 DŘ
+
+- (1) Daňovému subjektu vzniká povinnost uhradit pokutu, nepodá-li daňové přiznání nebo dodatečné daňové přiznání, ačkoliv měl tuto povinnost, nebo učiní-li tak po stanovené lhůtě, a toto zpoždění je delší než 5 pracovních dnů, ve výši
+  - a) 0,05 % stanovené daně za každý následující den prodlení, nejvýše však 5 % stanovené daně,…
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
