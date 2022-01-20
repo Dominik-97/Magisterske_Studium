@@ -1251,11 +1251,11 @@ Otázky (Kontrolní otázky):
 
 Student bude umět vymezit oprávnění a součinnost orgánů dlužníka v oddlužení a v reorganizaci. Student bude umět vymezit oprávnění a součinnost insolvenčního správce v oddlužení a v reorganizaci.
 
-1. Jaká oprávnění mají orgány dlužníka v oddlužení a reorganizaci?
-2. V jakém rozsahu mají stanovenou povinnost součinnosti orgány dlužníka v oddlužení a v reorganizaci?
-3. Jaká oprávnění má insolvenční správce v oddlužení a reorganizaci?
-4. V jakém rozsahu má povinnost součinnosti insolvenční správce v oddlužení a reorganizaci?
-5. Jaké následky má porušení povinnosti orgánů dlužníka v průběhu oddlužení a reorganizace?
+1. Jaká oprávnění mají orgány dlužníka v oddlužení a reorganizaci? - nakládat s majetkem vzhledem k reorganizačnímu plánu - **Zodpovězeno.**
+2. V jakém rozsahu mají stanovenou povinnost součinnosti orgány dlužníka v oddlužení a v reorganizaci? - všestrannou součinnost, zjišťování majetkové podstaty, informování, žádání souhlasu, zdržení se s nakládání s majetkem - **Zodpovězeno.**
+3. Jaká oprávnění má insolvenční správce v oddlužení a reorganizaci? - Kontrola, rozprodej, schvalování a informování - **Zodpovězeno.**
+4. V jakém rozsahu má povinnost součinnosti insolvenční správce v oddlužení a reorganizaci? - Informování, vyžadování souhlasu - **Zodpovězeno.**
+5. Jaké následky má porušení povinnosti orgánů dlužníka v průběhu oddlužení a reorganizace? - Pořádková pokuta, naplnění skutkové podstaty porušení povinnosti v insolvenčním řízení - **Zodpovězeno.**
 
 ## Oprávnění a součinnosti:
 
