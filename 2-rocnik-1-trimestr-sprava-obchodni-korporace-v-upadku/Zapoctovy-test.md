@@ -1329,6 +1329,12 @@ je dlužník povinen …
 
 Insolvenční správce ustanovený v rozhodnutí o úpadku navazuje na činnost předběžného správce, byl-li dříve ustanoven. Nejde-li o stejnou osobu, je předběžný správce povinen podat insolvenčnímu správci úplné informace o své dosavadní činnosti a předat mu její výsledky, jakož i doklady, které má k dispozici, a poskytnout mu potřebnou součinnost.
 
+**Povinnost součinnosti insolvenčního správce:**
+
+- a) povinnost součinnosti insolvenčního správce vůči věřitelským orgánům
+- b) povinnost součinnosti insolvenčního správce vůči insolvenčnímu soudu
+- c) další formy součinnosti
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
