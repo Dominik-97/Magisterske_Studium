@@ -442,6 +442,12 @@ Schůze věřitelů, věřitelský výbor a zástupce věřitelů
 - (2) Schůzi věřitelů přísluší volba a odvolání členů věřitelského výboru a jeho náhradníků nebo zástupce věřitelů; rozhoduje též o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Schůze věřitelů si může vyhradit cokoli, co patří do působnosti věřitelských orgánů. Usnesení, jímž si schůze věřitelů vyhrazuje působnost jiných věřitelských orgánů, je přijato, jestliže pro ně hlasovala většina tvořená nejméně dvěma třetinami hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek. Není-li ustanoven věřitelský výbor ani zástupce věřitelů a není-li v IZ stanoveno jinak, vykonává schůze věřitelů i jejich působnost.
 - (3) Věřitelský výbor vykonává působnost věřitelských orgánů s výjimkou věcí, které patří do působnosti schůze věřitelů nebo které si schůze věřitelů vyhradila.
 
+§47/1 IZ
+
+Schůze věřitelů
+
+- Schůzi věřitelů svolává a řídí insolvenční soud. Svolá ji z vlastní iniciativy, nebo na návrh insolvenčního správce, věřitelského výboru anebo, není-li způsobem řešení úpadku oddlužení, alespoň 2 věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí alespoň desetinu přihlášených pohledávek; je-li způsobem řešení úpadku oddlužení, svolá ji na návrh nadpoloviční většiny všech věřitelů, jejichž pohledávky počítané podle výše (§ 49 odst. 1) činí zároveň nadpoloviční většinu přihlášených pohledávek. Insolvenční soud svolá schůzi věřitelů tak, aby se konala do 30 dnů poté, co byl o její svolání požádán, není-li navržen pozdější termín konání.
+
 ### Průběh insolvence
 
 - Lze zahájit pouze na návrh, zahajuje se dnem kdy dojde návrh na zahájení insolvenčního řízení pokud ho podává dlužník a chce dosáhnout odlužení, musí rovněž připojit návrh na oddlužení.
