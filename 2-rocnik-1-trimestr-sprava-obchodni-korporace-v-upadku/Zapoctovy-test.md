@@ -1323,6 +1323,12 @@ je dlužník povinen …
 - (2) Po dobu trvání účinků schválení oddlužení plněním splátkového kalendáře vykonává insolvenční správce dohled nad činností dlužníka. O výsledcích své činnosti pravidelně informuje insolvenční soud a věřitelský výbor.
 - (3) Právní úkon, kterým dlužník za trvání účinků schválení oddlužení plněním splátkového kalendáře odmítne přijetí daru nebo dědictví bez souhlasu insolvenčního správce, je neplatný. Totéž platí, jestliže dlužník uzavře bez souhlasu insolvenčního správce dohodu o vypořádání dědictví, podle které má z dědictví obdržet méně, než činí jeho dědický podíl. …
 
+**Informační povinnost předběžného správce vůči insolvenčnímu správci:**
+
+§ 136/5 IZ
+
+Insolvenční správce ustanovený v rozhodnutí o úpadku navazuje na činnost předběžného správce, byl-li dříve ustanoven. Nejde-li o stejnou osobu, je předběžný správce povinen podat insolvenčnímu správci úplné informace o své dosavadní činnosti a předat mu její výsledky, jakož i doklady, které má k dispozici, a poskytnout mu potřebnou součinnost.
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
