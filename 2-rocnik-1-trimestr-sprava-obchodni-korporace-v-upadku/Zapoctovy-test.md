@@ -1509,6 +1509,14 @@ Zproštění insolvenčního správce
 - (1) Insolvenčního správce, který neplní řádně své povinnosti nebo který nepostupuje při výkonu své funkce s odbornou péčí anebo který závažně porušil důležitou povinnost, uloženou mu zákonem nebo soudem, může insolvenční soud na návrh věřitelského orgánu nebo dlužníka anebo i bez tohoto návrhu jeho funkce zprostit. Učiní tak zpravidla po slyšení insolvenčního správce; o podaném návrhu rozhodne neprodleně.
 - (2) Proti rozhodnutí podle odstavce 1 se mohou odvolat insolvenční správce a osoby oprávněné podat návrh podle odstavce 1. …
 
+Pořádková pokuta
+
+§ 81/2 IZ
+
+- ...
+- (2) Insolvenčnímu správci, který nesplnil povinnost uloženou mu soudem nebo řádně neplní jiné své povinnosti, může insolvenční soud uložit pořádkovou pokutu, a to i opakovaně, nejvýše však do úhrnné částky 200
+000 Kč.
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
