@@ -1316,6 +1316,13 @@ je dlužník povinen …
   - d) vždy k 15. březnu a k 15. září kalendářního roku předložit insolvenčnímu soudu, insolvenčnímu správci a věřitelskému výboru přehled svých příjmů za uplynulých 6 kalendářních měsíců, neurčí-li insolvenční soud v usnesení o schválení oddlužení jinou dobu předkládání…,
   - e) nezatajovat žádný ze svých příjmů a na žádost insolvenčního soudu, insolvenčního správce nebo věřitelského výboru předložit k nahlédnutí svá daňová přiznání za období trvání účinků schválení oddlužení,…
 
+**Insolvenční správce:**
+
+§ 412/2 a 3 IZ
+
+- (2) Po dobu trvání účinků schválení oddlužení plněním splátkového kalendáře vykonává insolvenční správce dohled nad činností dlužníka. O výsledcích své činnosti pravidelně informuje insolvenční soud a věřitelský výbor.
+- (3) Právní úkon, kterým dlužník za trvání účinků schválení oddlužení plněním splátkového kalendáře odmítne přijetí daru nebo dědictví bez souhlasu insolvenčního správce, je neplatný. Totéž platí, jestliže dlužník uzavře bez souhlasu insolvenčního správce dohodu o vypořádání dědictví, podle které má z dědictví obdržet méně, než činí jeho dědický podíl. …
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
