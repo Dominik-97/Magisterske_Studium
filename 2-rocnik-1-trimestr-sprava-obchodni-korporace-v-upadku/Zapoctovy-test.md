@@ -1458,6 +1458,12 @@ Nedostatek aktivní legitimace k podání insolvenčního návrhu
 
 …IZ neopravňuje správce podniku povinného k podání insolvenčního návrhu směřujícího proti povinnému, a to ani jménem povinného (dlužníka), ani jménem svým.
 
+## Následky neposkytování součinnosti
+
+- a) neposkytování součinnosti dlužníkem nebo jeho statutárním orgánem
+- b) neposkytování součinnosti insolvenčním správcem
+- c) neposkytování součinnosti orgány a osobami majícími tuto povinnost stanovenou IZ
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
@@ -1467,3 +1473,5 @@ V rámci životního cyklu společnosti se může stát, že se společnost dost
 - (3) Reorganizace není přípustná, je-li dlužníkem právnická osoba v likvidaci, obchodník s cennými papíry nebo osoba oprávněná k obchodování na komoditní burze podle zvláštního právního předpisu.
 
 > ***TODO***: Projet ještě Konkurs a Reorganizaci a Oddlužení v insolvenčním zákoně, zda tam nenajdu další dodatečné užitečné informace.
+
+- Done
