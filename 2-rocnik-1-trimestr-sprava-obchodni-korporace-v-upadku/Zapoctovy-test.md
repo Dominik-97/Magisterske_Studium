@@ -2,7 +2,8 @@
 geometry: "left=1cm,right=1cm,top=1cm,bottom=2cm"
 output: pdf_document
 title: "Informace ke zkoušce z předmětu Správa obchodní korporace v úpadku"
-toc-title: "Obsah"
+header-includes:
+  \renewcommand{\contentsname}{Obsah}
 ---
 
 # Otázka 1
