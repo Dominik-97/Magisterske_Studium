@@ -1399,6 +1399,31 @@ Insolvenční soud může insolvenčnímu správci uložit, aby mu poskytl souč
 
 Insolvenční správce nesmí zasahovat do správy krytých bloků a je povinen poskytnout součinnost nucenému správci krytých bloků podle zákona o dluhopisech, aby mohl tento nucený správce plnit své povinnosti.
 
+**D) Povinnost součinnosti osob a orgánů uvedených v § 43 IZ vůči insolvenčnímu správci a soudu (Orgány veřejné správy):**
+
+- a) Osoby a orgány mající povinnost součinnosti vůči insolvenčnímu správci a soudu
+- b) Obecné vymezení povinnosti součinnosti
+- c) Povinnost součinnosti exekutora
+
+§ 43/1 IZ
+
+Orgány veřejné správy, zejména katastrální úřady, orgány evidující motorová vozidla a jiné správní úřady, jakož i notáři, soudní exekutoři, osoby vedoucí evidenci cenných papírů, finanční instituce, provozovatelé telekomunikačních služeb, provozovatelé poštovních služeb a jiné osoby, které se zabývají přepravou zásilek, vydavatelé tisku a dopravci poskytnou insolvenčnímu správci na jeho písemnou žádost bez zbytečného odkladu součinnost dále uvedeným způsobem.
+
+§43/2 IZ
+
+Součinnost podle § 43 odstavce 1 IZ spočívá v tom, že orgány a osoby v něm uvedené poskytují insolvenčnímu správci údaje o majetku dlužníka a některé další údaje, které jsou nutné pro výkon správy, a to ve stejném rozsahu, v jakém by je poskytly přímo dlužníku. Tato součinnost spočívá také v tom, že uvedené orgány a osoby, které mají u sebe listiny nebo jiné věci, které mohou sloužit ke zjištění dlužníkova majetku, je bez zbytečného odkladu po doručení žádosti vydají nebo zapůjčí insolvenčnímu správci. Jde-li o údaje vedené v elektronické podobě, splní orgány a osoby uvedené v odstavci 1 povinnost poskytnout součinnost tím, že k nim insolvenčnímu správci umožní dálkový přístup. Součinnost se poskytuje bezplatně; nejde-li o orgány veřejné správy, přísluší tomu, kdo součinnost poskytl, právo na náhradu s tím spojených hotových výdajů.
+
+§ 43/3 IZ
+
+Soudní exekutor pověřený provedením exekuce v řízení, kde je povinným dlužník, poskytne insolvenčnímu správci součinnost podle § 43 odstavce 1 IZ také tak, že na jeho písemnou žádost poskytne insolvenčnímu správci údaje o majetku a závazcích a o jiných zjištěních k hospodářské situaci dlužníka získané v exekučním řízení. Na písemnou žádost vydá nebo zapůjčí insolvenčnímu správci také znalecký posudek vypracovaný k ocenění majetku dlužníka nebo jeho části. Náklady na vypracování znaleckého posudku jsou pohledávkou postavenou na roveň pohledávkám za majetkovou podstatou, jestliže nebyly v exekučním řízení uhrazeny.
+
+**E) Povinnost věřitelského výboru vůči insolvenčnímu správci:**
+
+Povinnost vůči insolvenčnímu správci má rovněž i věřitelský výbor, ta je následující:
+
+- a) Obecná povinnost součinnosti
+- b) Povinnost součinnosti při zjišťování majetkové podstaty
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
