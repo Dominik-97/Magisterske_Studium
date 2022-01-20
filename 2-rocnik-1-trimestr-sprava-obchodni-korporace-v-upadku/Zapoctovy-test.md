@@ -1307,6 +1307,15 @@ Student bude umět vymezit oprávnění a součinnost orgánů dlužníka v oddl
 - nepřijímat na sebe nové nesplnitelné závazky,
 - vynaložit veškeré usilí, které po něm lze spravedlivě požadovat, aby uspokojil pohledávky v plné výši.
 
+§ 412/1 IZ
+
+- (1) Po dobu trvání účinků schválení oddlužení plněním splátkového kalendáře
+je dlužník povinen …
+  - b) hodnoty získané dědictvím, darem a z neúčinného právního úkonu, jakož i majetek, který dlužník neuvedl v seznamu majetku, ač tuto povinnost měl, vydat insolvenčnímu správci ke zpeněžení a výtěžek, stejně jako jiné své mimořádné příjmy, … použít k mimořádným splátkám nad rámec splátkového kalendáře,…
+  - c) bez zbytečného odkladu oznámit insolvenčnímu soudu, insolvenčnímu správci a věřitelskému výboru každou změnu svého bydliště nebo sídla a zaměstnání,
+  - d) vždy k 15. březnu a k 15. září kalendářního roku předložit insolvenčnímu soudu, insolvenčnímu správci a věřitelskému výboru přehled svých příjmů za uplynulých 6 kalendářních měsíců, neurčí-li insolvenční soud v usnesení o schválení oddlužení jinou dobu předkládání…,
+  - e) nezatajovat žádný ze svých příjmů a na žádost insolvenčního soudu, insolvenčního správce nebo věřitelského výboru předložit k nahlédnutí svá daňová přiznání za období trvání účinků schválení oddlužení,…
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
