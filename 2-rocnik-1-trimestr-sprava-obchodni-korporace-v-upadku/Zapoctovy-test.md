@@ -1487,6 +1487,13 @@ Přeměna reorganizace na konkurs
   - d) v průběhu provádění reorganizačního plánu dlužník neplní své podstatné povinnosti stanovené tímto plánem nebo ukáže-li se, že podstatnou část tohoto plánu nebude možné plnit,…
 - (2) O přeměně reorganizace v konkurs v případech uvedených v odstavci 1 písm. a) až c) rozhodne insolvenční soud bez jednání. Proti tomuto rozhodnutí mohou podat odvolání jen dlužník, navrhovatel reorganizace, insolvenční správce a věřitelský výbor.
 
+Zrušení schváleného oddlužení
+
+§ 418/1 IZ
+
+- Insolvenční soud schválené oddlužení zruší a současně rozhodne o způsobu řešení dlužníkova úpadku konkursem, jestliže
+  - a) dlužník neplní podstatné povinnosti podle schváleného způsobu oddlužení,…
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
