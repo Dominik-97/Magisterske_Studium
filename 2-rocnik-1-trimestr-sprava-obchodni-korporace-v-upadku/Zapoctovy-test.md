@@ -434,6 +434,14 @@ K uzavření smluv o úvěrovém financování je oprávněn také dlužník s d
 - věřitelský výbor - pokud je přihlášených více než 50 věřitelů - věřitelská schůze stanovuje, jaké má působnost (má i zákonem stanovenou působnost), a jakou působnost vyhrazuje sama sobě,
 - zástupce věřitelů - není li volba věřitelského výboru povinná, může být zvolen, ustanovení o věřitelském výboru na něj platí obdobně - ustanovuje se v rámci nepatrného konkurzu, nebo tam kde je méně než 50 věřitelů.
 
+§ 46/1-3 IZ
+
+Schůze věřitelů, věřitelský výbor a zástupce věřitelů
+
+- (1) Věřitelskými orgány jsou schůze věřitelů a věřitelský výbor nebo zástupce věřitelů.
+- (2) Schůzi věřitelů přísluší volba a odvolání členů věřitelského výboru a jeho náhradníků nebo zástupce věřitelů; rozhoduje též o tom, zda ponechá ve funkci prozatímní věřitelský výbor. Schůze věřitelů si může vyhradit cokoli, co patří do působnosti věřitelských orgánů. Usnesení, jímž si schůze věřitelů vyhrazuje působnost jiných věřitelských orgánů, je přijato, jestliže pro ně hlasovala většina tvořená nejméně dvěma třetinami hlasů přítomných nebo řádně zastoupených věřitelů, počítaná podle výše jejich pohledávek. Není-li ustanoven věřitelský výbor ani zástupce věřitelů a není-li v IZ stanoveno jinak, vykonává schůze věřitelů i jejich působnost.
+- (3) Věřitelský výbor vykonává působnost věřitelských orgánů s výjimkou věcí, které patří do působnosti schůze věřitelů nebo které si schůze věřitelů vyhradila.
+
 ### Průběh insolvence
 
 - Lze zahájit pouze na návrh, zahajuje se dnem kdy dojde návrh na zahájení insolvenčního řízení pokud ho podává dlužník a chce dosáhnout odlužení, musí rovněž připojit návrh na oddlužení.
