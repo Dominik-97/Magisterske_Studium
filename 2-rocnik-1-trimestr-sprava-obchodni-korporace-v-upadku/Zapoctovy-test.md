@@ -1464,6 +1464,29 @@ Nedostatek aktivní legitimace k podání insolvenčního návrhu
 - b) neposkytování součinnosti insolvenčním správcem
 - c) neposkytování součinnosti orgány a osobami majícími tuto povinnost stanovenou IZ
 
+**a) Neposkytování součinnosti dlužníkem nebo jeho statutárním orgánem:**
+
+Povinnost podat insolvenční návrh
+
+§ 98/1,2 IZ
+
+- (1) Dlužník, který je právnickou osobou nebo fyzickou osobou - podnikatelem, je povinen podat insolvenční návrh bez zbytečného odkladu poté, co se dozvěděl nebo při náležité pečlivosti měl dozvědět o svém úpadku. Tuto povinnost má i tehdy, byl-li pravomocně zastaven výkon rozhodnutí prodejem jeho podniku nebo exekuce podle zvláštního právního předpisu proto, že cena majetku náležejícího k podniku nepřevyšuje výši závazků náležejících k podniku; to neplatí, má-li dlužník ještě jiný podnik.
+- (2) Povinnost podle odstavce 1 mají i zákonní zástupci dlužníka a jeho statutární orgán a likvidátor dlužníka, který je právnickou osobou v likvidaci. Je-li těchto osob více a jsou-li oprávněny jednat jménem dlužníka samostatně, má tuto povinnost každá z nich. Insolvenční návrh podávají jménem dlužníka.
+
+Porušení povinnosti podat insolvenční návrh
+
+§ 99/1 IZ
+
+Osoba, která v rozporu s ustanovením § 98 nepodala insolvenční návrh, odpovídá věřiteli za škodu nebo jinou újmu, kterou způsobí porušením této povinnosti.
+
+Přeměna reorganizace na konkurs
+
+§ 363/1 a 2 IZ
+
+- (1) Insolvenční soud rozhodne o přeměně reorganizace v konkurs, jestliže …
+  - d) v průběhu provádění reorganizačního plánu dlužník neplní své podstatné povinnosti stanovené tímto plánem nebo ukáže-li se, že podstatnou část tohoto plánu nebude možné plnit,…
+- (2) O přeměně reorganizace v konkurs v případech uvedených v odstavci 1 písm. a) až c) rozhodne insolvenční soud bez jednání. Proti tomuto rozhodnutí mohou podat odvolání jen dlužník, navrhovatel reorganizace, insolvenční správce a věřitelský výbor.
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
