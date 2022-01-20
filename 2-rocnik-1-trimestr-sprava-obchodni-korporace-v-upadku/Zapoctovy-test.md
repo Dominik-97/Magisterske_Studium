@@ -1450,6 +1450,14 @@ Likvidátor dlužníka
 
 Likvidátor dlužníka vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi.
 
+**Správce podniku:**
+
+Judikatura (MSPH 90 INS 10564/2012):
+
+Nedostatek aktivní legitimace k podání insolvenčního návrhu
+
+…IZ neopravňuje správce podniku povinného k podání insolvenčního návrhu směřujícího proti povinnému, a to ani jménem povinného (dlužníka), ani jménem svým.
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
