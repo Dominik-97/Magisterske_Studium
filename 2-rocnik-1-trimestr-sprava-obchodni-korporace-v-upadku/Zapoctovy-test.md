@@ -1494,6 +1494,12 @@ Zrušení schváleného oddlužení
 - Insolvenční soud schválené oddlužení zruší a současně rozhodne o způsobu řešení dlužníkova úpadku konkursem, jestliže
   - a) dlužník neplní podstatné povinnosti podle schváleného způsobu oddlužení,…
 
+Porušení povinnosti v insolvenčním řízení
+
+§ 225 TZ
+
+Kdo v insolvenčním řízení maří nebo hrubě ztěžuje výkon funkce insolvenčního správce, a tím ohrozí účel insolvenčního řízení, bude potrestán odnětím svobody na šest měsíců až tři léta nebo zákazem činnosti.
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
