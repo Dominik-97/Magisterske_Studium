@@ -1424,6 +1424,24 @@ Povinnost vůči insolvenčnímu správci má rovněž i věřitelský výbor, t
 - a) Obecná povinnost součinnosti
 - b) Povinnost součinnosti při zjišťování majetkové podstaty
 
+Obecná povinnost součinnosti
+
+§ 58/1 IZ
+
+Věřitelský výbor chrání společný zájem věřitelů a v součinnosti s insolvenčním správcem přispívá k naplnění účelu insolvenčního řízení.
+
+Povinnost součinnosti při zjišťování majetkové podstaty
+
+§ 211/2 IZ
+
+Insolvenční správce nebo předběžný správce provede vlastní šetření o tom, zda do majetkové podstaty nepatří i jiné věci, práva, pohledávky a majetkové hodnoty než ty, které dlužník uvedl v seznamu majetku. Potřebnou součinnost mu jsou povinny poskytnout také věřitelské orgány.
+
+Pořízení soupisu
+
+§ 217/1 IZ
+
+Soupis majetkové podstaty (dále jen "soupis") je listinou, do níž se zapisuje majetek náležející do majetkové podstaty. Jakmile dojde k zápisu do soupisu, lze se zapsanými majetkovými hodnotami nakládat jen způsobem stanoveným IZ; učinit tak může jen osoba s dispozičními oprávněními. Soupis provádí a soustavně doplňuje insolvenční správce v průběhu insolvenčního řízení, a to podle pokynů insolvenčního soudu a za součinnosti věřitelského výboru. …
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
