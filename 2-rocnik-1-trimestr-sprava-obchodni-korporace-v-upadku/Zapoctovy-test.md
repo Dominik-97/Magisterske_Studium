@@ -1442,6 +1442,14 @@ Pořízení soupisu
 
 Soupis majetkové podstaty (dále jen "soupis") je listinou, do níž se zapisuje majetek náležející do majetkové podstaty. Jakmile dojde k zápisu do soupisu, lze se zapsanými majetkovými hodnotami nakládat jen způsobem stanoveným IZ; učinit tak může jen osoba s dispozičními oprávněními. Soupis provádí a soustavně doplňuje insolvenční správce v průběhu insolvenčního řízení, a to podle pokynů insolvenčního soudu a za součinnosti věřitelského výboru. …
 
+**Povinnost součinnosti likvidátora dlužníka:**
+
+§ 70/1 IZ
+
+Likvidátor dlužníka
+
+Likvidátor dlužníka vykonává v insolvenčním řízení svou působnost v rozsahu, v jakém nepřešla na insolvenčního správce; do jeho působnosti patří i součinnost s insolvenčním správcem uložená zákonem dlužníkovi.
+
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
 > ***TODO***: Jak je to s likvidací?
