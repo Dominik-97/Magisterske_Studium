@@ -1381,19 +1381,17 @@ Insolvenční správce poskytuje věřitelským orgánům součinnost nezbytnou 
 
 **Povinnost součinnosti insolvenčního správcevůči insolvenčnímu soudu:**
 
-Zjišťování majetkové podstaty
-
 § 209/1 IZ
+
+Zjišťování majetkové podstaty
 
 Zjišťování majetkové podstaty zajišťuje od svého ustanovení insolvenční správce nebo předběžný správce, i když nejde o osobu s dispozičními oprávněními. Přitom je povinen řídit se pokyny insolvenčního soudu.
 
-§ 190/4 IZ 
+§ 190/4 IZ
 
 Přezkumné jednání
-Insolvenční soud může insolvenčnímu správci
-uložit, aby mu poskytl součinnost potřebnou k
-přípravě přezkumného jednání, a určit povahu
-této součinnosti.
+
+Insolvenční soud může insolvenčnímu správci uložit, aby mu poskytl součinnost potřebnou k přípravě přezkumného jednání, a určit povahu této součinnosti.
 
 V rámci životního cyklu společnosti se může stát, že se společnost dostane do insolvence.
 
