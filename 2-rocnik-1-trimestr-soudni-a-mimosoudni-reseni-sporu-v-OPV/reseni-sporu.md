@@ -21,10 +21,10 @@ Procesněprávní vztah
 
 ## Odmítnutí a zamítnutí žaloby, vyhovění a zastavení
 
-- Odmítnutí - meritorně se zabíval, ale právo neleží na stranně žalobce
+- Odmítnutí - meritorně se zabíval, ale právo neleží na stranně žalobce - nedostatek aktivní legitimace, bylo podáno pozdě etc.
 - Zamítnutí - věcně se zabíval, ale skončilo to pro žalobce neúspěchem
 - Vyhovění
-- Zastavení
+- Zastavení - například vzetí zpět
 
 ## Kvalifikovaná výzva
 
