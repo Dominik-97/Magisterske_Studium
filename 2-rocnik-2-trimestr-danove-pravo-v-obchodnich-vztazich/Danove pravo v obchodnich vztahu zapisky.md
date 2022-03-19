@@ -304,4 +304,26 @@ a) prokázat, že jde o výdaj na reklamu a nikoli na reprezentaci,
 b) i v případě, že jde o výdaj na reklamu, prokázat, že reklama byla opravdu uskutečněna, včetně jejího deklarovaného rozsahu, času a v ceně odpovídající odvedenému dílu,
 c) můžeme se setkat i s opačným ... (DOPLNIT)
 
+## Daňové právo v obchodních vztazích Téma č. 12 Judikatura
 
+(DOPLNIT)
+
+Odmítnutí vs. zamítnutí
+
+Odmítnutí - vůbec se s tím nechce zabývat
+Zamítnutí - nesplňuje na něj kladené požadavky, nebo že nevyhoví
+
+## 4. Žaloba proti rozhodnutí správního orgánu
+
+Materiální stránka deliktu, formální stránka deliktu
+
+### Koho žalovat?
+
+- Žalovaným je správní orgán, který věc rozhodl v posledním stupni.
+- Příklad
+- Nejčastěji je žaloba podávána v případech, kdy finanční úřad daňovému subjektu doměří daň a odvolání proti doměrku je zamítnuto  nadřízeným finančním ředitelstvím. Žalovaným tedy není finanční úřad, ale nadřízené finanční ředitelství, které odvolání zamítlo.
+
+- Abych mohl žalovat, musím vyčerpat řádné opravné prostředky u finančních orgánů.
+- Odvolání, rozklad.
+- Nemusím využít mimořádných a dozorčích opravných prostředků.
+- Nicotnost vs. nezákonnost

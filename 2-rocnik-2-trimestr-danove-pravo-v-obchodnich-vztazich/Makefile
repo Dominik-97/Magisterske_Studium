@@ -16,16 +16,16 @@ docx: clean $(DOCX)
 # Separator for these lines need to start with a hard tab, not 4 spaces!
 %.pdf: %.md
 	if grep -q no_TOC '$<'; then \
-		pandoc --wrap=preserve -F mermaid-filter -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
+		./pandoc-with-mermaid.sh run_pdf_without_toc ../pdf/$@ $< ; \
 	else \
-		pandoc --toc --wrap=preserve -F mermaid-filter -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../pdf/$@ $< ; \
+		./pandoc-with-mermaid.sh run_pdf_with_toc ../pdf/$@ $< ; \
 	fi
 
 %.docx: %.md
 	if grep -q no_TOC '$<'; then \
-		pandoc --wrap=preserve -F mermaid-filter -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $< ; \
+		./pandoc-with-mermaid.sh run_docx_without_toc ../docx/$@ $< ; \
 	else \
-		pandoc --toc --wrap=preserve -F mermaid-filter -f markdown-implicit_figures+hard_line_breaks+escaped_line_breaks -o ../docx/$@ $< ; \
+		./pandoc-with-mermaid.sh run_docx_with_toc ../docx/$@ $< ; \
 	fi
 
 clean:

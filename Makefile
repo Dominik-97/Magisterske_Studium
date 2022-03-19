@@ -73,5 +73,4 @@ help:
 	make -C 1-rocnik-2-trimestr-e-government-v-teorii-a-praxi
 
 # Vygenerování veškerých poznámek
-# all: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
-all: 1 2 3 4 5 6 7 8 9 11 12 13 14
+all: 1 2 3 4 5 6 7 8 9 10 11 12 13 14

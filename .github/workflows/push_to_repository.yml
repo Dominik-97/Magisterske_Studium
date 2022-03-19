@@ -31,8 +31,6 @@ jobs:
         run: npm i -g mermaid-filter
       - name: Run Makefile and check git status
         run: make all
-      - name: Run shell script for Danove pravo v obchodnich vztazich
-        run: ./2-rocnik-2-trimestr-danove-pravo-v-obchodnich-vztazich/pandoc-with-mermaid.sh 
       - name: Push
         run: |-
           git config user.name "Automated"
