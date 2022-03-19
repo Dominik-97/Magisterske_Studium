@@ -270,3 +270,5 @@ graph LR;
   3. Povinnost DS důkazní (doložit tvrzení)
   4. Povinnost SD prokázat, proč má pochybnosti
   5. Povinnost DS pochybnosti vyvrátit
+
+Daňový řád, ZSDP
