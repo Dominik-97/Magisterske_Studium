@@ -372,3 +372,4 @@ Daň - zákonem stanovená platba stanovená zákonem, zásada zákonnosti
 Daňové právo je součást finančního práva, ale je nejbližší správnímu právo a dotýká se ústavního práva.
 
 Kazuistické právo.
+
