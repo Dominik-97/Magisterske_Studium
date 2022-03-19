@@ -456,4 +456,36 @@ graph LR;
 
 Podívat se na to co byla Daň z obratu
 
+Plátce vyplňuje daňová přiznání - zdaňovací období - měsíc, nebo kvartál
 
+Pod dva miliony je možné mít kvartální zdaňovací období
+
+Jak vypadá v praxi:
+
+~~~plaintext
+                30%
+                |
+                \/
+25. dne   |----------------|
+          |                |
+nákl. --> | 100 21%        |
+          |                |
+prod. --> | 200 42%        |
+          |    -21%        |
+          |     21%        |
+          |----------------|
+~~~
+
+Základní princip neutraility.
+
+Základní pojmy:
+
+- plátce (osoba povinná k dani) - v podstatě podnikatel, OSVČ, obecně fyz, práv - prakticky nutné musí mít 1 mil. obrat za předcházejících 12 měsíců
+- poplatník
+- daňové plnění
+
+## Úmrtí daňového subjektu
+
+## Daňová kontrola
+
+## Daňové právo
