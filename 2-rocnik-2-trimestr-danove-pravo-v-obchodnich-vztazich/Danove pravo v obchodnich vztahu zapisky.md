@@ -217,7 +217,7 @@ Kontrola, postup k odstranění pochybností.
 
 ### Detailní diagram
 
-```mermaid
+~~~mermaid
 graph TD;
   A[Daň] --> B[DP];
   B --> B1{DP OK, bez pochybností?};
@@ -238,11 +238,11 @@ graph TD;
   E2 --Ne--> E4[Proces ukončen];
   E1 --Ne--> F[Žaloba KS];
   F --> G[Kasační stížnost NSS]
-```
+~~~
 
 ### Zjednodušený diagram
 
-```mermaid
+~~~mermaid
 graph LR;
   A[Daň] --> B[DP];
   B --> C[Kontrola];
@@ -250,7 +250,7 @@ graph LR;
   D --> E[Odvolání];
   E --> F[Žaloba KS];
   F --> G[Kasační stížnost NSS];
-```
+~~~
 
 ## Dokazování I.
 
@@ -272,3 +272,13 @@ graph LR;
   5. Povinnost DS pochybnosti vyvrátit
 
 Daňový řád, ZSDP
+
+## Svědci
+
+- nutnost vyrozumění DS
+
+- Každá osoba je povinna vypovídat, odepření možné za stejných podmínek jako v rámci trestního a občanskoprávního řízení
+
+## Pomůcky - kdy se použijí?
+
+- §87, 90, 98, 145, 167, 244 DŘ
