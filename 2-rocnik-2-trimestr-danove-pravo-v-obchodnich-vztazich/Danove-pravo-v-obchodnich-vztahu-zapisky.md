@@ -429,3 +429,31 @@ Poslední skupina - na 50 let
 Je to stanoveno v příloze, je tam napsáno rozdělení do skupin (V jakém zákoně toto je?)
 
 Klasifikace je podle CZ-CC, je možné dohledat na ČSÚ, zajímavostí je celní kodex, proclívání, něco podobného
+
+## Oprava a technické zhodnocení
+
+- Typicky stavba a stroje
+
+Oprava - nahrazujeme opotřebení nějaké věci a uvádíme ho do stavu před tím opotřebením (Například výměna krytiny) - vždy je to daňový výdaj, který je možné zaúčtovat okamžitě, daňové výdaje, odpočetli si je od zisku
+Technické zhodnocení - §33 Zákona o dani z příjmů - připočítání ke vstupní ceně věci - bude se dále odepisovat
+
+## DPH - VAT
+
+Spotřebitel (Spotřebitelské právo)
+
+Plátce a poplatník.
+
+~~~mermaid
+graph LR;
+  A[Madeta] --> B[Tesco] --> C[Spotřebitel];
+  D[100] --Marže--> E[200] --Marže--> F[300];
+  A --DPH Plátce--> D;
+  B --DPH Plátce--> E;
+  C --DPH Poplatník--> F;
+~~~
+
+30% státního rozpočtu tvoří DPH
+
+Podívat se na to co byla Daň z obratu
+
+
