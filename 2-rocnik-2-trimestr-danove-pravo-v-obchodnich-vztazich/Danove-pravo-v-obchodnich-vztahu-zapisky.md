@@ -373,3 +373,31 @@ Daňové právo je součást finančního práva, ale je nejbližší správním
 
 Kazuistické právo.
 
+~~~mermaid
+graph TD;
+  A[Daně] --> B[[Rozpočet]];
+  B --> Dotace;
+~~~
+
+## Odpisy (Účetnictví)
+
+Daň z příjmu, DPH
+
+Účetnictví - věrný a poctivý obraz - odraz reality
+
+~~~mermaid
+graph LR;
+  A[Odpisy] --> B[účetní];
+  A --> C[Daňové];
+~~~
+
+Koupím si stroj -> Odpisy 6 let, každý rok si odepíšu $1/6$
+
+Hmotný majetek, typicky stavba a budova, stroje, bytové jednotky (Kdyžtak si přečíst tu práci, kterou jsem dělal na ekonomii tu ekonomickou analýzu), jsou tam tedy věci jako movité, tak i nemovité
+
+Výsledovka - účetní
+Rozvaha - daňové
+
+Z čeho se skláda Účetní závěrka
+Jaké jsou jednotlivé druhy daňového přiznání
+Oprávky
