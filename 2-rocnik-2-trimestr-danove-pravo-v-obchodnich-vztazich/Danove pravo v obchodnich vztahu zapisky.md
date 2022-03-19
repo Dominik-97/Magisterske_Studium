@@ -252,6 +252,8 @@ graph LR;
   F --> G[Kasační stížnost NSS];
 ~~~
 
+DPV je dodatečný platební výměr.
+
 ## Dokazování I.
 
 - Dokazování provádí příslušný správce daně nebo jím dožádaný správce daně.
@@ -327,3 +329,46 @@ Materiální stránka deliktu, formální stránka deliktu
 - Odvolání, rozklad.
 - Nemusím využít mimořádných a dozorčích opravných prostředků.
 - Nicotnost vs. nezákonnost
+
+## Kdy žalobu nepodáváme?
+
+a) Nejde se odvolat jenom proti rozhodnutí - zpráva o kontrole, výzva.
+b) předběžné povahy
+Viz prezentace (DOPLNIT)
+
+## Lhůta
+
+- Žalobu je nutno podat do dvou měsíců od doručení rozhodnutí, které žalobou napadáme.
+- Lhůta je zachována, byla-li žaloba ve lhůtě podána u správního orgánu, proti jehož rozhodnutí směřuje.
+- Zmeškání lhůty pro podání žaloby nelze prominout.
+- Nelz doplňovat nebo namítat skutečnosti po první žalobě, tuplem v kasační stížnosti.
+
+## Odkladný účinek žaloby
+
+- Podání žaloby v zásadě nemá odkladný účinek. Dále viz prezentace (DOPLNIT)
+- Můžeme však požádat o odkladný účinek žaloby, nebo předběžné opatření
+
+## Co se děje po podání žaloby?
+
+Viz prezentace (DOPLNIT)
+
+## Je nutné ústní jednání?
+
+- Ne vždy musí dojít k osobnímu jednání u soudu. K jednání nedojde v následujících případech:
+  1. Důvody nezávislé na tom, zda si zúčastněné strany jednání přejí či nikoli.
+  - Soud totiž zruší napadené rozhodnutí pro vady řízení bez
+  - jednání rozsudkem:
+
+## Žaloba proti nečinnosti
+
+Viz prezentace (DOPLNIT)
+
+## Druhý blok
+
+WK - Komentář k DPH (ASPI)
+
+Daň - zákonem stanovená platba stanovená zákonem, zásada zákonnosti
+
+Daňové právo je součást finančního práva, ale je nejbližší správnímu právo a dotýká se ústavního práva.
+
+Kazuistické právo.

@@ -39,19 +39,27 @@ docx_with_toc () {
 case ${WHAT_FUNCTION_TO_RUN} in
 
   run_pdf_without_toc)
-    pdf_without_toc
+    echo "Running function ${WHAT_FUNCTION_TO_RUN} with arguments: ${FILE_TO_COMPILE}, ${TARGET}."
+    result=$((pdf_without_toc) 2>&1)
+    echo $result
     ;;
 
   run_pdf_with_toc)
-    pdf_with_toc
+    echo "Running function ${WHAT_FUNCTION_TO_RUN} with arguments: ${FILE_TO_COMPILE}, ${TARGET}."
+    result=$((pdf_with_toc) 2>&1)
+    echo $result
     ;;
 
   run_docx_without_toc)
-    docx_without_toc
+    echo "Running function ${WHAT_FUNCTION_TO_RUN} with arguments: ${FILE_TO_COMPILE}, ${TARGET}."
+    result=$((docx_without_toc) 2>&1)
+    echo $result
     ;;
 
   run_docx_with_toc)
-    docx_with_toc
+    echo "Running function ${WHAT_FUNCTION_TO_RUN} with arguments: ${FILE_TO_COMPILE}, ${TARGET}."
+    result=$((docx_with_toc) 2>&1)
+    echo $result
     ;;
 
   *)
