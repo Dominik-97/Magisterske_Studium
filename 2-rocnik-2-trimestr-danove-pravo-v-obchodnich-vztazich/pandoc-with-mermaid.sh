@@ -3,6 +3,7 @@
 WHAT_FUNCTION_TO_RUN=$1
 FILE_TO_COMPILE=$2
 TARGET=$3
+CURRENT_WORKING_DIRECTORY=$(pwd)
 
 pdf_without_toc () {
     pandoc --wrap=preserve \
@@ -35,6 +36,8 @@ docx_with_toc () {
     -o ${TARGET} \
     ${FILE_TO_COMPILE}
 }
+
+echo $CURRENT_WORKING_DIRECTORY
 
 case ${WHAT_FUNCTION_TO_RUN} in
 
