@@ -291,4 +291,17 @@ Daňový řád, ZSDP
 
 Viz zákon a prezentace (DOPLNIT)
 
+## Dokazování ve vybraných případech
+
+- Zprostředkování, reklama, manažerské služby
+- Viz prezentace (DOPLNIT)
+
+### Reklama
+
+- **Problémy:**
+
+a) prokázat, že jde o výdaj na reklamu a nikoli na reprezentaci,
+b) i v případě, že jde o výdaj na reklamu, prokázat, že reklama byla opravdu uskutečněna, včetně jejího deklarovaného rozsahu, času a v ceně odpovídající odvedenému dílu,
+c) můžeme se setkat i s opačným ... (DOPLNIT)
+
 
