@@ -401,3 +401,20 @@ Rozvaha - daňové
 Z čeho se skláda Účetní závěrka
 Jaké jsou jednotlivé druhy daňového přiznání
 Oprávky
+
+Nemovité věci se odepisují vždycky.
+Movité věci se odepisují jenom v případě, že mají určité vlastnosti, typicky cenu přes 80 tisíc, a které mají dobu použitelnosti, nebo životnosti více než rok - v opačném případě je mohu dát do výdajů přímo
+
+<ins>Hmotný majetek</ins>
+
+a) stavba, budova, jednotky
+b) <ins>movité věci</ins> - stroj, více než $80000$ Kč a doba použitelnosti delší než 1 rok
+
+<ins>Neodpis</ins>
+
+1) Pozemek
+
+### Druhy odpisů
+
+- §31 - Rovnoměrné
+- §32 - Zrychlené
