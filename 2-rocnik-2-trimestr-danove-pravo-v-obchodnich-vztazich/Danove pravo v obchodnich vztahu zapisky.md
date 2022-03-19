@@ -282,3 +282,13 @@ Daňový řád, ZSDP
 ## Pomůcky - kdy se použijí?
 
 - §87, 90, 98, 145, 167, 244 DŘ
+
+## Pomůcky - odvolání
+
+- Směřuje-lid odvolání proti rozhodnutí o stanovení daně podle pomůcek, zkoumá odvolací orgán pouze dodržení zákonných podmínek použití tohoto způsobu stanovení daně, **jakož i přeměřenosti jejich použití**.
+
+## Pomůcky - sjednání daně
+
+Viz zákon a prezentace (DOPLNIT)
+
+
