@@ -418,3 +418,14 @@ b) <ins>movité věci</ins> - stroj, více než $80000$ Kč a doba použitelnost
 
 - §31 - Rovnoměrné
 - §32 - Zrychlené
+
+### Odpisové skupiny
+
+Existuje 6 odpisových skupit
+
+První skupina - na 3 roky
+Poslední skupina - na 50 let
+
+Je to stanoveno v příloze, je tam napsáno rozdělení do skupin (V jakém zákoně toto je?)
+
+Klasifikace je podle CZ-CC, je možné dohledat na ČSÚ, zajímavostí je celní kodex, proclívání, něco podobného
