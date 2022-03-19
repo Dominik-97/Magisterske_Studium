@@ -27,6 +27,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '14'
+      - name: Install NPM package
         run: npm i -g mermaid-filter
       - name: Run Makefile and check git status
         run: make all
