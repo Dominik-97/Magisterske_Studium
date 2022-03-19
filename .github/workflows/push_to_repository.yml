@@ -23,6 +23,11 @@ jobs:
         run: sudo apt-get install texlive-lang-czechslovak
       - name: Test of installing LaTeX
         run: sudo apt install texlive-latex-extra
+      - name: Install NPM
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+        run: npm i -g mermaid-filter
       - name: Run Makefile and check git status
         run: make all
       - name: Push
