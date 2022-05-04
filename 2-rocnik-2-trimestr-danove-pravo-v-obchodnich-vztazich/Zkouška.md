@@ -74,3 +74,8 @@ Není je třeba znát, důležité je vědět, že určité zákony mají prová
 - 235/2004 Sb. zákon o dani z přidané hodnoty,
 - 523/1992 Sb. zákon o daňovém poradenství a komoře daňových poradců ČR,
 - 243/2000 Sb. zákon o rozpočtovém určení daní,
+- 586/1992 Sb. zákon o daních z příjmu,
+- 338/1992 Sb. zákon o dani z nemovitých věcí,
+- 16/1993 Sb. zákon o dani silniční.
+
+Existuje samozřejmě další řada zákonů, týkajících se určitým způsobem daní, výše jsou však vyjmenovány ty nejzásadnější.
