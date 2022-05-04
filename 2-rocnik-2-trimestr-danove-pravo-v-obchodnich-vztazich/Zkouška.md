@@ -46,7 +46,16 @@ odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse cha
 
 - Státní rozpočet Je schvalován zákonodárnými sbory, a to formou rozpočtového zákona (specifika jsou upravena zákonem 218/2000 Sb. zákon o rozpočtových pravidlech).
 - Využití daní (státního rozpočtu):
+  - financování provozu státu (obrana státu, školství, zdravotnictví, kultura, státní správa, komunikace a infrastruktura apod.)
+  - transferové platby firmám (dotace)
+  - transferové platby domácnostem (podpora v nezaměstnanosti, sociální dávky apod.)
+  - intervence (náklady na vládní zásahy spojené s řízením a regulací jiných subjektů)
+  - platby na úhradu jistiny i úroků z přijatých úvěrů nebo emitovaných státních dluhopisů
 
+### Fiskální a nefiskální účely daní
+
+- Fiskální (veřejný rozpočet) - v podstatě slouží k plnění veřejného rozpočtu.
+- Nefiskální - regulace podstaty peněz a peněžního systému (https://www.law.muni.cz/sborniky/dny_prava_2009/files/prispevky/obecna_cast/Kyncl_Libor__1041_.pdf).
 
 ## Druhy daní; přehled daňového systému České republiky
 
@@ -76,6 +85,7 @@ Není je třeba znát, důležité je vědět, že určité zákony mají prová
 - 243/2000 Sb. zákon o rozpočtovém určení daní,
 - 586/1992 Sb. zákon o daních z příjmu,
 - 338/1992 Sb. zákon o dani z nemovitých věcí,
-- 16/1993 Sb. zákon o dani silniční.
+- 16/1993 Sb. zákon o dani silniční,
+- 563/1991 Sb. zákon o účetnictví.
 
 Existuje samozřejmě další řada zákonů, týkajících se určitým způsobem daní, výše jsou však vyjmenovány ty nejzásadnější.
