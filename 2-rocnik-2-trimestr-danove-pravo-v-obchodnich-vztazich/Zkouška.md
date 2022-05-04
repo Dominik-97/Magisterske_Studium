@@ -1,4 +1,10 @@
-# Zkouška:
+---
+geometry: "left=1cm,right=1cm,top=1cm,bottom=2cm"
+output: pdf_document
+title: "Informace ke zkoušce z předmětu Správa obchodní korporace v úpadku"
+header-includes:
+  \renewcommand{\contentsname}{Obsah}
+---
 
 ## Zkušební okruhy:
 
@@ -33,6 +39,33 @@ odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse cha
 
 ### Účely daní
 
+- Viz část Co je státní rozpočet?
+
+Obecně se pod pojem účel dá použít pojem funkce, tedy jakou má funkci, za jakým účelem se používá. Tyto účely mohou být:
+
+- fiskální a
+- nefiskální.
+
+Samotné funkce pak můžeme rozdělit například na[^1]:
+
+- **FISKÁLNÍ FUNKCE** (fiskální účel)
+  - Což je primární funkce daní, mají schopnost naplnit veřejný rozpočet.
+
+- **ALOKAČNÍ FUNKCE** (nefiskální účel)
+  - Prostřednictvím daní se můžou dát prostředky tam, kde si stát myslí, že je to potřeba. Stát může poskytovat zvýhodnění prostřednictvím daňových úlev tzv. nepřímou daňovou úlevu nebo usměrnit preference spotřebitelů, kdy např. u očkování – těm, co si ho platí, může snížit daňovou povinnost.
+
+- **REDISTRIBUČNÍ FUNKCE** (nefiskální účel)
+  - Daně jsou vhodným nástrojem pro zmírnění rozdílů v důchodech jednotlivých subjektů tím, že se ve větší míře vybírají od bohatších, což umožňuje státu prostřednictvím transferů zvyšovat příjmy chudším.  Vychází se ze základu daně -jestliže roste základ daně pomaleji než daň – progresivní daň. Opakem je pak daň degresivní.
+
+- **STABILIZAČNÍ FUNKCE** (nefiskální účel)
+  - Prostřednictvím této funkce mohou daně přispívat např. ke zmírňování cyklických výkyvů v ekonomice. V období konjunktury daně odčerpávají do rozpočtů vyšší díl a zároveň dělají rezervu na horší časy. V období stagnace zase pomáhají ekonomiku nastartovat
+
+- **STIMULAČNÍ FUNKCE** (nefiskální účel)
+  - Využívá toho, že daně jsou subjekty vnímány zpravidla jako újma a subjekty jsou ochotny udělat hodně proto, aby svou daňovou povinnost omezily. Stát subjektům poskytuje různé formy daňových úspor anebo naopak je vystavuje vyššímu zdanění, aby podpořil ekonomický růst nebo je motivoval ke spotřebě určitých statků- např.  snižuje podnikatelské riziko tím, že subjektům umožňuje o ztrátu z podnikání v následujících letech snížit základ daně z příjmů nebo existují tzv. „daňové prázdniny“ – forma snížení daně konkrétní osobě za předpokladu, že splní určité podmínky (objem investic, nové technologie, tvorba pracovních míst, …).
+
+- **Další funkce:**
+  - Existují i také negativní stimulace, které mají plátce odradit např. vysoké zdanění alkoholu a cigaret - nefiskální účel.
+
 ### Co je daň?
 
 - Daň je povinná, nenávratná, zákonem určená platba do veřejného rozpočtu (povinná, nenávratná, neúčelová, neekvivalentní).
@@ -55,7 +88,19 @@ odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse cha
 ### Fiskální a nefiskální účely daní
 
 - Fiskální (veřejný rozpočet) - v podstatě slouží k plnění veřejného rozpočtu.
-- Nefiskální - regulace podstaty peněz a peněžního systému (https://www.law.muni.cz/sborniky/dny_prava_2009/files/prispevky/obecna_cast/Kyncl_Libor__1041_.pdf).
+- Nefiskální - regulace podstaty peněz a peněžního systému[^2]. Dále se za mě může jednat o sociální účely, například přerozdělování v rámci sociální stability a solidarity.
+
+### Výše daní
+
+Otázky:
+
+1. Efektivnost – vliv na ceny ‐ daně mohou  způsobovat velké distorze v cenách a užitku z různých druhů činností
+2. Daně – vliv na chování ekonomických subjektů ‐ daně by neměly potlačovat nabídkovou stránku ekonomiky
+3. Daňová solidarita – rovnoměrnější rozdělování důchodů než jaké vyplývá z tržních podmínek
+4. Působení na makroekonomiku – daně by měly působit pružně a stabilizovat makroekonomiku
+5. Právní perfektnost a politická průhlednost – otázka svobody jednotlivce, odkázanost na úřady, nepřehledná pravidla  
+
+## Fiskální situace států západní civilizace, včetně ČR
 
 ## Druhy daní; přehled daňového systému České republiky
 
@@ -89,3 +134,8 @@ Není je třeba znát, důležité je vědět, že určité zákony mají prová
 - 563/1991 Sb. zákon o účetnictví.
 
 Existuje samozřejmě další řada zákonů, týkajících se určitým způsobem daní, výše jsou však vyjmenovány ty nejzásadnější.
+
+---
+
+[^1]: https://www.profispolecnosti.cz/cs/vedeni-ucetnictvi/funkce-dani/a-1444/
+[^2]: https://www.law.muni.cz/sborniky/dny_prava_2009/files/prispevky/obecna_cast/Kyncl_Libor__1041_.pdf
