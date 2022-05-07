@@ -187,10 +187,24 @@ $23 %$.
 - Daňová sazba byla počínaje rokem 2009 stanovena na $20 %$, a od roku 2010 platí tato "firemní (korporátní) daň" ve výši $19 %$ (s výjimkou investičního fondu, podílového fondu, zahraničního fondu kolektivního investování a penzijního fondu, pro které platí 5 procent).
 - U příjmů zahrnutých do samostatného základu daně podle § 20b činí sazba daně $15 %$.
   - Do samostatného základu daně se zahrnují veškeré příjmy z podílů na zisku, vypořádacích podílů, podílů na likvidačním zůstatku nebo jim obdobná plnění[^3].
-- Od roku 1992, kdy byla sazba $42 %$, do roku 2010 došlo ke snížení daňové sazby o 23 procentních bodů. Ve většině zemí Evropské unie jsou firemní daně o něco vyšší než v ČR.  
+- Od roku 1992, kdy byla sazba $42 %$, do roku 2010 došlo ke snížení daňové sazby o 23 procentních bodů. Ve většině zemí Evropské unie jsou firemní daně o něco vyšší než v ČR.
+
+\underline{Daň silniční}
+
+- Předmětem jsou především vozidla určená k podnikání
+- Bez ohledu na to, zda jsou používána k podnikání, jsou předmětem daně vozidla s největší povolenou hmotností alespoň 12 tun určená výlučně k přepravě nákladů a registrovaná v ČR[^4].
+- Vozidla používaná výlučně pro osobní potřeby jsou od daně osvobozena.
+- Sazby daně jsou stanoveny jako pevně dané roční částky.
+- Zákon stanoví také zvláštní poplatek za užívání dálnic, který jsou povinna platit všechna vozidla užívající dálnice bez ohledu na jejich účel (tj. jak vozidla užívaná jak pro účely podnikání, tak i vozidla užívaná pro osobní potřeby)[^5].
+
+\underline{Daň z nemovitých věcí}
+
+- Daní z nemovitých věcí jsou zatíženy pozemky a stavby. Daň z nemovitých věcí nahradila v roce 2014 daň z nemovitostí. Daň je upravena zákonem č. 338/1992 Sb., (ve znění pozdějších předpisů) o dani z nemovitých věcí.
 
 ---
 
 [^1]: https://www.profispolecnosti.cz/cs/vedeni-ucetnictvi/funkce-dani/a-1444/
 [^2]: https://www.law.muni.cz/sborniky/dny_prava_2009/files/prispevky/obecna_cast/Kyncl_Libor__1041_.pdf
 [^3]: https://www.zakonyprolidi.cz/cs/1992-586
+[^4]: https://www.zakonyprolidi.cz/cs/1993-16
+[^5]: https://www.zakonyprolidi.cz/cs/2020-480/zneni-20210101#p7_p7-1-1
