@@ -284,7 +284,8 @@ TBD.
 ### Druhy
 
 - Daň z příjmu fyzických osob,
-- daň z příjmu právnických osob.
+- daň z příjmu právnických osob,
+  - daň z příjmu osob bez právní subjektivity, pro které zákon stanoví daňovou subjektivitu za účelem správy a hrazení daní z příjmu - například svěřenské fondy.
 
 ### Poplatníci daně z příjmu FO
 
