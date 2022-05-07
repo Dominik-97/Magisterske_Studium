@@ -403,6 +403,8 @@ Od základu daně lze odečíst různé plnění - ty se pak považují za nezda
 - úvěry ze stavebního spoření, hypotéčního úvěru atd.,
 - příspěvky na penzijní připojištění atd.
 
+Tyto hodnoty se odčítají od základu daně.
+
 ### Sazba a výpočet pro základ daně
 
 - $15%$ pro příjem, který činí méně než 48 násobek průměrné mzdy,
