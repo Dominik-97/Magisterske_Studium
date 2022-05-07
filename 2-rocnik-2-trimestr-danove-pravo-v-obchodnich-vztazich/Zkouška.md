@@ -308,6 +308,13 @@ TBD.
 
 Příjem jsou možnosti spotřeby nebo investic, které fyzická nebo právnická osoba získá v určitém časovém období v podobě peněz nebo naturálií. Obvykle se mluví o příjmech u fyzických osob, zatímco u právnických osob se jejich příjem nazývá zisk. Jako jednotlivý příjem se také označuje každá konkrétní částka přijatá fyzickou či právnickou osobou, např. jako protihodnota za práci, služby či zboží[^7].
 
+**Majetková sféra** je souhrn věcí (movitých, nemovitých, hmotných, nehmotných, zastupitelných atd.), které náležejí do majetkové sféry vlastníka a jejíž hodnotu tak úměrně zvyšují. V případě, že se do majetkové sféry dostane nová věc, jedná se o příjem, který může a nemusí podléhat dani.
+
+Tento zastřešující pojem má následně dva zastřešené pojmy, které definují, zda příjem podléhá dani, nebo ne:
+
+- Skutečný příjem - například příjemce plnění poskytne věc zastupitelnou (subjekt zaplatí za služby, či zboží podnikateli) - toto plnění okamžitě náleží do majetkové sféry podnikatele a ten s ním tak může nakládat - jedná se tedy o skutečný příjem.
+- Zdánlivý příjem - viz kapitola níže.
+
 ### Skutečný příjem
 
 - Příjmem podléhajícím dani z příjmů  podle zákona  č. 586/1992 Sb., o daních z příjmů, je zvýšení majetku daňového poplatníka.
