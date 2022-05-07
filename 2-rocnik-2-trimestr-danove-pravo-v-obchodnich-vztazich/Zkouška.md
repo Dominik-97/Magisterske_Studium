@@ -358,6 +358,21 @@ Základem daně (dílčím základem daně) jsou příjmy uvedené v odstavcích
 
 Výdaje je rovněž možné uplatňovat výdajovým paušálem od 30% až do 80% do maximální výše $600000$ až $1600000$ korun českých.
 
+### Daňová evidence
+
+Daňovou evidencí se pro účely daní z příjmů rozumí evidence pro účely stanovení základu daně a daně z příjmů. Tato evidence obsahuje údaje o
+
+- a) příjmech a výdajích, v členění potřebném pro zjištění základu daně,
+- b) majetku a dluzích.
+
+~~Tato je bez dalšího definována předpisy o účetnictví.~~
+
+Daňová evidence je vymezena v ZDP, účetnictví potom v zákoně o účetnictví, určité ustanovení zákona o účetnictví se však subsidiárně použijí i na vedení daňové evidence.
+
+Pod pojmem daňová evidence se rozumí dřívější pojem jednoduchého účetnictví, jedná se tedy stále fakticky o jednodušší formu vedení účetnictví - obsahuje hlavně evidenci příjmů a výdajů a pohledávek a závazků[^10], [^11].
+
+Pokud je subjekt účetní jednotkou, či splní další zákonné předpoklady, musí vést účetnictví podvojné (nově nazývané pouze účetnictví)[^10], [^11].
+
 ### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
@@ -490,3 +505,5 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
 [^7]: https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem_(ekonomie)
 [^8]: https://www.podnikatel.cz/clanky/rezim-prenesene-danove-povinnosti-kdy-se-pouzije-a-co-to-znamena/
 [^9]: https://www.mesec.cz/danovy-portal/dan-z-prijmu/funkcni-pozitky/
+[^10]: https://cs.wikipedia.org/wiki/Da%C5%88ov%C3%A1_evidence
+[^11]: https://www.podnikatel.cz/clanky/jaky-je-rozdil-mezi-vedenim-ucetnictvi-a-vedeni-danove-evidence/
