@@ -34,6 +34,7 @@ odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse cha
 22. Opravné a dozorčí prostředky v daňovém řízení
 23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky
 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
+25. (Není součástí otázek) Cvičení téma k diskusi
 
 ## 1. Účely daní (fiskální, nefiskální), rovnost ve zdanění
 
@@ -303,7 +304,29 @@ TBD.
   - Příklad
     - Firma se dohodne se zaměstnancem, že mu kromě jeho běžné mzdy dá každý rok 100 metráků uhlí, protože topí v kamnech. I tento naturální příjem může podléhat zdanění.
 
+## Cvičení téma k diskusi
 
+- Příklad 1
+  - Jste poslanci a máte rozhodnout o tom, zda bude daň z příjmů rovná nebo progresivní.
+  - Podotázky:
+    - Je současná daň z příjmů rovná, když má jednotnou sazbu?
+    - Mají bohatí platit vyšší daně než chudí?
+    - Mají bezdětní platit vyšší daně než ti, co děti mají?
+
+- Příklad č. 2
+  - Jste poslanci a máte rozhodnout, zda zavedete silniční daň:
+    - a) Jen pro podnikatele
+    - b) Pro všechny
+  - Podotázka – a co dálniční známky, mýtné:
+    - a) na všechny silnice
+    - b) jen na dálnice (dálnice + silnice 1. třídy)
+    - c) jen pro podnikatele
+  - Obdobně parkování ve městech, nízkoemisní zóny (třídění podle druhů automobilů, občanů a firem, které v zóně bydlí apod.
+
+- Příklad č. 3
+  - Jste poslanci a máte rozhodnout, zda v dani z příjmů poskytnout zvýhodnění (např. hypotéky, penzijní připojištění, životní pojištění, úlevy na studium, invalidní osoby, manželky v domácnosti apod.)
+    - Argumenty pro…………..
+    - Argumenty proti………….
 
 ---
 
