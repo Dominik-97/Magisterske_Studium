@@ -179,7 +179,7 @@ Existuje samozřejmě další řada zákonů, týkajících se určitým způsob
 \underline{Daň z příjmu fyzických osob}
 
 - Od zdaňovacího období 2008 byla zavedena jednotná sazba pro daň z příjmů fyzických osob, která je stanovena ve výši $15 %$ (včetně sazby pro výpočet měsíčních záloh u zaměstnanců), u vyšších příjmů sazba
-$23 %$.
+$23 %$ (§16 odst. 1 ZDP - do 48 násobku průměrné mzdy vs nad 48 násobek průměrné mzdy).
 - DPFO patří bezesporu k nejsložitějším daním, se kterými se lze setkat.
 - Dříve existovala solidární daň - ta byla zrušena a zavedly se dvě sazby.
 
@@ -337,6 +337,11 @@ TBD
 ## 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
 
 ### Daňová uznatelnost výdajů
+
+Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z příjmu jsou i další příjmy, jako příjem z kapitálu, z pronájmu atd.).
+
+- Příjem podle §6 ZDP je příjem ze závislé činnosti - zde se nejedná o uznávání výdajů, ale daňový základ lze rovněž snižovat podle §20 ZDP - Základ daně a položky snižující základ daně.
+- Příjem podle §7 ZDP je příjmem ze samostatné činnosti - zde se tedy jedná o daňovou uznatelnost výdajů, neboť v rámci příjmů ze samostatné činnosti existuje stránka příjmová a výdajová a výdaje lze tak definovat jako výdaje snižující daňový základ[^3].
 
 - Za výdaje snižující daňový základ poplatníka lze uznat takové výdaje, které poplatník:
   - 1) skutečně vynaložil,
