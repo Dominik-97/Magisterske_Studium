@@ -201,6 +201,11 @@ $23 %$.
 
 - Daní z nemovitých věcí jsou zatíženy pozemky a stavby. Daň z nemovitých věcí nahradila v roce 2014 daň z nemovitostí. Daň je upravena zákonem č. 338/1992 Sb., (ve znění pozdějších předpisů) o dani z nemovitých věcí.
 
+\underline{Zrušená daň: převodové daně}
+
+- Dříve se jednalo o samostatnou daň - daň z převodu nemovitostí - nejdříve platil prodávají, následně byla daňová povinnost přenesena na nabyvatele.
+- V současné době podřazena pod daně z příjmu, je možné od ní bý osvobozen - například pokud v ní měl prodávající bydliště nejméně po dobu 2 let bezprostředně před prodejem[^3].
+
 ---
 
 [^1]: https://www.profispolecnosti.cz/cs/vedeni-ucetnictvi/funkce-dani/a-1444/
