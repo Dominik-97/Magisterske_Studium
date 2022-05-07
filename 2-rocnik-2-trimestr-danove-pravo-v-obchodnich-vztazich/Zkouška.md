@@ -281,7 +281,7 @@ TBD.
 
 ## 5. Daně z příjmů – charakteristika
 
-TBD.
+### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
 
@@ -329,6 +329,49 @@ Tento zastřešující pojem má následně dva zastřešené pojmy, které defi
 - Příkladem je technické zhodnocení prostor, která poskytovatel přenechává za úplatu k využívání jinému subjektu - nájemci.
 - Pokud nájemce zhodnotí pronajímané prostory - tedy zvýší jejich hodnotu - dopadá tato změna do právní majetkové sféry pronajímatele (například za případu, že se nájemce rozhodne technické zhodnocení neodpisovat).
 - Toto zhodnocení však nedopadá do majetkové sféry pronajímatele okamžitě - nemůže ho okamžitě využívat, ale až okamžikem ukončení nájemního vztahu - do té doby se tedy jedná o příjem zdánlivý, který nepodléhá dani - je tedy osvobozen od daně[^6].
+
+## 7. Daňové odpisy – pojem, charakteristika, praktické problémy
+
+TBD
+
+## 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
+
+### Daňová uznatelnost výdajů
+
+- Za výdaje snižující daňový základ poplatníka lze uznat takové výdaje, které poplatník:
+  - 1) skutečně vynaložil,
+  - 2) vynaložil v souvislosti se získáním zdanitelných příjmů,
+  - 3) vynaložil v daném zdaňovacím období
+  - 4) o nichž tak stanoví zákon
+
+- Daňová uznatelnost výdajů
+  - V § 24 odst. 1 zákona o daních z příjmů ‐ obecný rámec pro daňovou uznatelnost výdajů.  
+    - „Výdaje (náklady) vynaložené na dosažení, zajištění a udržení zdanitelných příjmů se pro zjištění základu daně odečtou ve výši prokázané poplatníkem a ve výši stanovené tímto zákonem a zvláštními předpisy. Ve výdajích na dosažení, zajištění a udržení příjmů nelze uplatnit výdaje, které již byly v předchozích zdaňovacích obdobích ve výdajích na dosažení, zajištění a udržení příjmů uplatněny.“
+  - Některé výdaje upravuje konkrétněji §24 odst. 2 zákona o daních z příjmů
+
+### Daňově neuznatelné výdaje
+
+- Především §25 zákona o daních z příjmů
+- Např.
+  - výdaje na reprezentaci,
+  - pokuty od státu,
+  - nadlimitní úroky,
+  - podíly na zisku,
+  - manka a škody nad výši náhrad za ně,
+  - výdaje pro osobní potřebu apod.
+
+### Daňové výdaje
+
+- Některé výdaje není možno uznat plně v okamžiku jejich uhrazení, ale rozdělit na více období
+  - Pořízení hmotného a nehmotného majetku – odpisy
+  - Časové rozlišení nákladů v podvojném účetnictví
+  - Nájemné u finančního leasingu
+
+### Ekonomická racionalita
+
+- Stojí proti sobě dva pohledy:
+  - a) Nikdo nemůže daňový subjekt (DS) nutit k tomu, aby platil daně v maximální možné míře = právo DS vybrat si z možných zákonných řešení to nejvýhodnější
+  - b) Požadavek na ekonomickou racionalitu takových řešení ‐ často je potřeba předložit správci  daně dostatečné důkazy a zdůvodnění, proč  se DS rozhodly právě pro takový postup. Daný postup by měl mít racionální ekonomické zdůvodnění.  (viz též „disimulace právního úkonu“ či „zneužití práva“)
 
 ## Cvičení téma k diskusi
 
