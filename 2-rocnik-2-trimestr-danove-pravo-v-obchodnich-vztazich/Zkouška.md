@@ -531,6 +531,16 @@ Tento zastřešující pojem má následně dva zastřešené pojmy, které defi
 
 TBD
 
+výdaj danová povinnost základ daně
+
+aktiva dlouhodobý hmotný majetek
+
+aktiva pasiva
+
+daňová závěrka
+
+jsou oprávky a odpisy v rozvaze, nebo kde?
+
 ## 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
 
 ### Daňová uznatelnost výdajů
