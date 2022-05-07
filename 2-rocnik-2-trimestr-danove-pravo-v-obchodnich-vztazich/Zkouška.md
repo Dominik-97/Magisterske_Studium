@@ -395,6 +395,10 @@ Příjmy z nájmu, pokud nejde o příjmy uvedené v § 6 až 8, jsou
       - člena obchodní korporace s výjimkou společníka veřejné obchodní společnosti a komplementáře komanditní společnosti na likvidačním zůstatku, nebo
       - majitele podílového listu z podílu připadajícího na podílový list při zrušení podílového fondu s výjimkou splynutí nebo sloučení podílového fondu.
 
+### Nezdanitelná část základu daně
+
+
+
 ### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
@@ -454,7 +458,7 @@ TBD
 
 Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z příjmu jsou i další příjmy, jako příjem z kapitálu, z pronájmu atd.).
 
-- Příjem podle §6 ZDP je příjem ze závislé činnosti - zde se nejedná o uznávání výdajů, ale daňový základ lze rovněž snižovat podle §20 ZDP - Základ daně a položky snižující základ daně.
+- Příjem podle §6 ZDP je příjem ze závislé činnosti - zde se nejedná o uznávání výdajů, ale daňový základ lze rovněž snižovat podle §20 ZDP - Základ daně a položky snižující základ daně, popřípadě se může jednat o Nezdanitelnou součást daně, viz otázka číslo 5.
 - Příjem podle §7 ZDP je příjmem ze samostatné činnosti - zde se tedy jedná o daňovou uznatelnost výdajů, neboť v rámci příjmů ze samostatné činnosti existuje stránka příjmová a výdajová a výdaje lze tak definovat jako výdaje snižující daňový základ[^3].
 
 - Za výdaje snižující daňový základ poplatníka lze uznat takové výdaje, které poplatník:
