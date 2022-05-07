@@ -430,6 +430,20 @@ Zákon dále upravuje veřejně prospěšného poplatníka (v §17a ZDP) - veře
 
 Zákon rovněž stanoví taxativně, jací poplatníci nejsou veřejně prospěšným poplatníkem.
 
+### Předmět daně z příjmu právnických osob
+
+- Předmětem daně jsou příjmy z veškeré činnosti a z nakládání s veškerým majetkem, není-li dále stanoveno jinak.
+- Zákon taxativně stanoví, jaké příjmy předmětem daně nejsou.
+- Zákon dále stanoví, co není předmětem daně u veřejně prospěšného poplatníka (v §18a ZDP), předmětem daně v tomto případě pak není například:
+  - příjmy z nepodnikatelské činnosti za podmínky, že výdaje (náklady) vynaložené podle tohoto zákona v souvislosti s prováděním této činnosti jsou vyšší atd.
+- zákon dále stanoví (v §18b ZDP) zvláštní ustanovení o předmětu daně osobních společností a jejich společníků.
+
+### Osvobození od daně z příjmu právnických osob
+
+- Zákon stanoví, jaké plnění, či příjmy jsou od daně osvobozeny, jedná se například o členský příspěvek do zájmových sdružení právnických osob, odborových organizací atd.
+
+
+
 ### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
