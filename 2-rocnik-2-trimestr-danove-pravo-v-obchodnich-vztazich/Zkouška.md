@@ -397,7 +397,24 @@ Příjmy z nájmu, pokud nejde o příjmy uvedené v § 6 až 8, jsou
 
 ### Nezdanitelná část základu daně
 
+Od základu daně lze odečíst různé plnění - ty se pak považují za nezdanitelnou část základu daně, jedná se například o:
 
+- sponzoring,
+- úvěry ze stavebního spoření, hypotéčního úvěru atd.,
+- příspěvky na penzijní připojištění atd.
+
+### Sazba a výpočet pro základ daně
+
+- $15%$ pro příjem, který činí méně než 48 násobek průměrné mzdy,
+- $23%$ pro příjem, který činí více než 48 násobek průměrné mzdy.
+
+Daň se vypočte ze základu daně sníženého o nezdanitelné části základu daně a o odčitatelné položky od základu daně a zaokrouhleného na celá sta Kč dolů, a to jako součet součinů příslušné části takového základu daně a sazby pro tuto část základu daně.
+
+Daň poplatníka se vypočte jako součet daně podle § 16 snížené o slevy na dani a daně podle § 16a.
+
+### Zdaňovací období
+
+Zdaňovacím obdobím daně z příjmů fyzických osob je kalendářní rok.
 
 ### TBD
 
