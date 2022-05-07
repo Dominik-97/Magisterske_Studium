@@ -416,6 +416,20 @@ Daň poplatníka se vypočte jako součet daně podle § 16 snížené o slevy n
 
 Zdaňovacím obdobím daně z příjmů fyzických osob je kalendářní rok.
 
+### Poplatníci daně z příjmu právnických osob
+
+Zákon taxativně vymezuje (v §17 ZDP), důležitými poplatníky jsou:
+
+- právnická osoba,
+- podílové a investiční fondy,
+- svěřenský fond atd.
+
+Mohou být rezidenti a nerezidentni - dle sídla.
+
+Zákon dále upravuje veřejně prospěšného poplatníka (v §17a ZDP) - veřejně prospěšným poplatníkem je poplatník, který v souladu se svým zakladatelským právním jednáním, statutem, stanovami, zákonem nebo rozhodnutím orgánu veřejné moci jako svou hlavní činnost vykonává činnost, která není podnikáním.
+
+Zákon rovněž stanoví taxativně, jací poplatníci nejsou veřejně prospěšným poplatníkem.
+
 ### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
