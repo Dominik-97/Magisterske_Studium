@@ -304,6 +304,25 @@ TBD.
   - Příklad
     - Firma se dohodne se zaměstnancem, že mu kromě jeho běžné mzdy dá každý rok 100 metráků uhlí, protože topí v kamnech. I tento naturální příjem může podléhat zdanění.
 
+### Příjem
+
+Příjem jsou možnosti spotřeby nebo investic, které fyzická nebo právnická osoba získá v určitém časovém období v podobě peněz nebo naturálií. Obvykle se mluví o příjmech u fyzických osob, zatímco u právnických osob se jejich příjem nazývá zisk. Jako jednotlivý příjem se také označuje každá konkrétní částka přijatá fyzickou či právnickou osobou, např. jako protihodnota za práci, služby či zboží[^7].
+
+### Skutečný příjem
+
+- Příjmem podléhajícím dani z příjmů  podle zákona  č. 586/1992 Sb., o daních z příjmů, je zvýšení majetku daňového poplatníka.
+- Musí se přitom jednat o příjem skutečný, a nikoliv toliko zdánlivý.
+- To znamená, že se toto zvýšení majetku musí v právní sféře daňového poplatníka reálně projevit, a to tak, aby bylo pro poplatníka skutečně využitelné.
+- Příklad:
+  - K nepeněžnímu příjmu vlastníka nemovitosti  nedochází již v okamžiku jejího zhodnocení (zde: rekonstrukce provedená nájemcem na jeho vlastní náklady), nýbrž teprve v okamžiku skutečného obohacení vlastníka, tedy např. v okamžiku ukončení původního nájemního vztahu.
+
+### Zdánlivý příjem
+
+- Příjem zdánlivý je příjem, který se dá považovat jako příjem, nikoli však jako příjem skutečný.
+- Příkladem je technické zhodnocení prostor, která poskytovatel přenechává za úplatu k využívání jinému subjektu - nájemci.
+- Pokud nájemce zhodnotí pronajímané prostory - tedy zvýší jejich hodnotu - dopadá tato změna do právní majetkové sféry pronajímatele (například za případu, že se nájemce rozhodne technické zhodnocení neodpisovat).
+- Toto zhodnocení však nedopadá do majetkové sféry pronajímatele okamžitě - nemůže ho okamžitě využívat, ale až okamžikem ukončení nájemního vztahu - do té doby se tedy jedná o příjem zdánlivý, který nepodléhá dani - je tedy osvobozen od daně[^6].
+
 ## Cvičení téma k diskusi
 
 - Příklad 1
@@ -336,3 +355,4 @@ TBD.
 [^4]: https://www.zakonyprolidi.cz/cs/1993-16
 [^5]: https://www.zakonyprolidi.cz/cs/2020-480/zneni-20210101#p7_p7-1-1
 [^6]: https://sbirka.nssoud.cz/cz/dan-z-prijmu-zvyseni-majetku-nepenezni-prijem.p820.html
+[^7]: https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem_(ekonomie)
