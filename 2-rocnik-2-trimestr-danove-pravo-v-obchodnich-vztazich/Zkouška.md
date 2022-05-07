@@ -318,6 +318,46 @@ TBD.
     - příjem ze zvláštních vázaných účtů v bance atd.
   - tento příjem však podléhá oznamovací povinnosti, pokud ve stanoveném období přesáhne částku 5 milionů korun.
 
+- Zákon dále definuje **bezúplatné příjmy**, které jsou rovněž od daně osvobozeny:
+  - např:
+    - z nabytí dědictví, nebo odkazu,
+    - majetek vložen do svěřenského fondu pro případ *mortis causa* atd.
+
+### Základ daně a daňová ztráta
+
+- Základem daně je částka, o kterou příjmy plynoucí poplatníkovi ve zdaňovacím období přesahují výdaje prokazatelně vynaložené na jejich dosažení, zajištění a udržení, pokud dále u jednotlivých příjmů podle § 6 až 10 není stanoveno jinak.
+- Pokud poplatníkovi plyne více druhů příjmu, považuje se za základ daně jejich součet.
+- Pokud podle účetnictví, daňové evidence nebo podle záznamů o příjmech a výdajích přesáhnou výdaje příjmy uvedené v § 7 a 9, je rozdíl ztrátou. O ztrátu upravenou podle § 23 (dále jen "daňová ztráta") se sníží úhrn dílčích základů daně zjištěných podle jednotlivých druhů příjmů uvedených v § 7 až 10 s použitím ustanovení odstavce 1.
+
+### Příjmy ze závislé činnosti
+
+- Příjmy ze závislé činnosti jsou:
+  - příjem z pracovněprávního, služebního nebo členského a podobného poměru (zaměstnanec a zaměstnavatel),
+  - funkční požitky - odměna za výkon veřejné funkce - například poslanci[^9].
+  - příjmy za práci:
+    - člena družstva,
+    - společníka společnosti s ručením omezeným,
+    - komanditisty komanditní společnosti,
+  - odměny:
+    - člena orgánu právnické osoby,
+    - likvidátora.
+
+Zákon definuje další plnění, které je součástí příjmu ze závislé činnosti, nebo je od něho osvobozeno dále v §6.
+
+### Příjmy ze samostatné činnosti
+
+- příjem ze zemědělské výroby,
+- příjem ze živnostenského podnikání,
+- příjem z jiného podnikání neuvedeného v písmenech a) a b), ke kterému je potřeba podnikatelské oprávnění,
+- podíl společníka veřejné obchodní společnosti a komplementáře komanditní společnosti na zisku,
+- příjem z užití nebo poskytnutí práv z průmyslového vlastnictví, autorských práv včetně práv příbuzných právu autorskému, a to včetně příjmů z vydávání, rozmnožování a rozšiřování literárních a jiných děl vlastním nákladem,
+- příjem z nájmu majetku zařazeného v obchodním majetku,
+- příjem z výkonu nezávislého povolání.
+
+Základem daně (dílčím základem daně) jsou příjmy uvedené v odstavcích 1 a 2 s výjimkou uvedenou v odstavci 6. Tyto příjmy se snižují o výdaje vynaložené na jejich dosažení, zajištění a udržení s výjimkou příjmů uvedených v odstavci 1 písm. d). Pro zjištění základu daně (dílčího základu daně) se použijí ustanovení § 23 až 33.
+
+Výdaje je rovněž možné uplatňovat výdajovým paušálem od 30% až do 80% do maximální výše $600000$ až $1600000$ korun českých.
+
 ### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
@@ -449,3 +489,4 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
 [^6]: https://sbirka.nssoud.cz/cz/dan-z-prijmu-zvyseni-majetku-nepenezni-prijem.p820.html
 [^7]: https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem_(ekonomie)
 [^8]: https://www.podnikatel.cz/clanky/rezim-prenesene-danove-povinnosti-kdy-se-pouzije-a-co-to-znamena/
+[^9]: https://www.mesec.cz/danovy-portal/dan-z-prijmu/funkcni-pozitky/
