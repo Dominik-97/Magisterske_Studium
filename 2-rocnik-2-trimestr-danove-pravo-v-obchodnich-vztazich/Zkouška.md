@@ -35,7 +35,7 @@ odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse cha
 23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky
 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
-## Účely daní (fiskální, nefiskální), rovnost ve zdanění
+## 1. Účely daní (fiskální, nefiskální), rovnost ve zdanění
 
 ### Účely daní
 
@@ -100,7 +100,7 @@ Otázky:
 4. Působení na makroekonomiku – daně by měly působit pružně a stabilizovat makroekonomiku
 5. Právní perfektnost a politická průhlednost – otázka svobody jednotlivce, odkázanost na úřady, nepřehledná pravidla  
 
-## Fiskální situace států západní civilizace, včetně ČR
+## 2. Fiskální situace států západní civilizace, včetně ČR
 
 - Neustálé tlaky na zvyšování výdajů státního rozpočtu
 - Rozpočty obvykle deficitní, některé velmi výrazně
@@ -111,7 +111,7 @@ Otázky:
   - D) zvyšování deficitu
 - více prostředků do státního rozpočtu
 
-## Druhy daní; přehled daňového systému České republiky
+## 3. Druhy daní; přehled daňového systému České republiky
 
 ### Prameny daňového práva
 
@@ -231,7 +231,7 @@ $23 %$.
 - Plátci daně jsou výrobci a provozovatelé tzv. daňových skladů. Poplatníky jsou pak kupující výrobku, poněvadž daň je obsažena v ceně výrobku. Správu spotřebních daní od roku 2006 vykonává Celní úřad. Daň 
 - vychází ze zákona č. 353/2003 Sb. o daních spotřebních, a jeho obsahem je vymezení plátců spotřebních daní a předmětu daně, vznikem daňové povinnosti, metodikou výpočtu a sazbami daně, zdaňovacím obdobím
 
-## Základní pojmy – předmět daně, základ daně, zdaňovací období, subjekt daně
+## 4. Základní pojmy – předmět daně, základ daně, zdaňovací období, subjekt daně
 
 - **Daňový subjekt** – osoba, která je na základě zákona povinna strpět, odvádět nebo platit daň
   - A) poplatník – daňový subjekt, jehož předmět (příjem nebo majetek je podroben dani
@@ -255,7 +255,34 @@ $23 %$.
   - Kratší období – měsíc, čtvrtletí (např. DPH)
   - Bez zdaňovacího období – vážou se na výskyt nějaké skutečnosti – (např. prodej nemovitosti – daň z nabytí nemovitých věcí)
 
-## Pojem příjmu, skutečného příjmu, zdánlivého příjmu
+### Zásady správy daní
+
+Správce daně postupuje při správě daní v souladu se zákony a jinými právními předpisy (dále jen „právní předpis“). Zákonem se pro účely tohoto zákona rozumí též mezinárodní smlouva, která je součástí právního řádu.
+
+- Správce daně uplatňuje svou pravomoc pouze k těm účelům, k nimž mu byla zákonem nebo na základě zákona svěřena, a v rozsahu, v jakém mu byla svěřena.
+- Správce daně šetří práva a právem chráněné zájmy daňových subjektů a třetích osob (dále jen „osoba zúčastněná na správě daní“) v souladu s právními předpisy a používá při vyžadování plnění jejich povinností jen takové prostředky, které je nejméně zatěžují a ještě umožňují dosáhnout cíle správy daní.
+- Osoby zúčastněné na správě daní mají rovná procesní práva a povinnosti.
+- Osoby zúčastněné na správě daní a správce daně vzájemně spolupracují.
+- Správce daně umožní osobám zúčastněným na správě daní uplatňovat jejich práva a v souvislosti se svým úkonem jim poskytne přiměřené poučení o jejich právech a povinnostech, je‐li to vzhledem k povaze úkonu potřebné nebo stanoví‐li tak zákon.
+- Správce daně podle možností vychází osobám zúčastněným na správě daní vstříc. Úřední osoby jsou povinny vyvarovat se při správě daní nezdvořilostí.
+
+- Správce daně postupuje bez zbytečných průtahů.
+- Správce daně postupuje tak, aby nikomu nevznikaly zbytečné náklady. Z důvodu hospodárnosti může konat správce daně úkony pro různá řízení společně. Ze spisu, popřípadě z rozhodnutí vydaného na základě těchto úkonů, musí být zřejmé, ke které povinnosti a s jakým výsledkem byly úkony učiněny.
+- Správce daně při dokazování hodnotí důkazy podle své úvahy. Správce daně posuzuje každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom přihlíží ke všemu, co při správě daní vyšlo najevo.
+- Správce daně dbá na to, aby při rozhodování skutkově shodných nebo podobných případů nevznikaly nedůvodné rozdíly.
+- Správce daně vychází ze skutečného obsahu právního jednání nebo jiné skutečnosti rozhodné pro správu daní.
+
+- Správa daní je neveřejná. Osoby zúčastněné na správě daní a úřední osoby jsou povinny za podmínek stanovených tímto nebo jiným zákonem zachovávat mlčenlivost o všem, co se v souvislosti se správou daní dozvěděly.
+
+### Daňové principy
+
+TBD.
+
+## 5. Daně z příjmů – charakteristika
+
+TBD.
+
+## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
 
 \underline{Skutečný příjem x zdánlivý příjem x základ daně}
 
