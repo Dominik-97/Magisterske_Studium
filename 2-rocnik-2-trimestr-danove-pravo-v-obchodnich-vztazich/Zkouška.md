@@ -233,7 +233,7 @@ $23 %$.
 
 ## Základní pojmy – předmět daně, základ daně, zdaňovací období, subjekt daně
 
-- Daňový subjekt – osoba, která je na základě zákona povinna strpět, odvádět nebo platit daň
+- **Daňový subjekt** – osoba, která je na základě zákona povinna strpět, odvádět nebo platit daň
   - A) poplatník – daňový subjekt, jehož předmět (příjem nebo majetek je podroben dani
   - B) plátce – daňový subjekt, který je na základě zákona daň povinen vybrat od jiných subjektů nebo srazit jiným poplatníkům a pod svou majetkovou odpovědností ji odvést do státního rozpočtu
 
@@ -255,6 +255,8 @@ $23 %$.
   - Kratší období – měsíc, čtvrtletí (např. DPH)
   - Bez zdaňovacího období – vážou se na výskyt nějaké skutečnosti – (např. prodej nemovitosti – daň z nabytí nemovitých věcí)
 
+## Pojem příjmu, skutečného příjmu, zdánlivého příjmu
+
 \underline{Skutečný příjem x zdánlivý příjem x základ daně}
 
 - příjem ve smyslu zákona o daních z příjmů musí být příjmem skutečným, kdy se navýšení majetku musí reálně projevit v právní sféře daňového poplatníka tak, že musí být poplatníkem skutečně využitelné. V opačném případě se jedná pouze o navýšení zdánlivé.
@@ -267,6 +269,14 @@ $23 %$.
   - Základ daně = obvykle příjmy (výnosy) – výdaje (náklady) (u daně z příjmů)
 - Fakt, že po odečtení výdajů od příjmů bude základ daně nulový, má důsledek, že poplatníka daně nestíhá žádná daňová povinnost, neznamená to však, že by poplatník žádný příjem nezískal.
 - V určitých případech, je možné dosáhnout dokonce daňového zvýhodnění, kdy stát plátci naopak finanční zvýhodnění poskytuje - například pokud má plátce vyživované děti, je třeba to odlišovat od vrácení přeplatku na dani.
+
+- Daním nepodléhají jen peněžní příjmy, ale i nepeněžní
+  - Příklad
+    - Firma prodá svému zaměstnanci notebook v ceně Kč 30 000 za Kč 1000. Rozdíl 29 000 Kč může být příjem ke zdanění daní z příjmů ze závislé činnosti.
+  - Příklad
+    - Firma se dohodne se zaměstnancem, že mu kromě jeho běžné mzdy dá každý rok 100 metráků uhlí, protože topí v kamnech. I tento naturální příjem může podléhat zdanění.
+
+
 
 ---
 
