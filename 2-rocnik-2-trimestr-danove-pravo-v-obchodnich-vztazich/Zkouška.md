@@ -229,7 +229,31 @@ $23 %$.
 - Spotřební daň se řadí mezi nepřímé daně, které jsou státem zaváděny buď za účelem regulace ceny určitých komodit na trhu nebo aby zvýšily příjmy státního rozpočtu.
 - Spotřební daně mohou sloužit také jako účinný prostředek ke snižování poptávky po škodlivém zboží, poněvadž spotřební daň v České republice tvoří většinou více jak 50 % ceny zdaněného zboží.
 - Plátci daně jsou výrobci a provozovatelé tzv. daňových skladů. Poplatníky jsou pak kupující výrobku, poněvadž daň je obsažena v ceně výrobku. Správu spotřebních daní od roku 2006 vykonává Celní úřad. Daň 
-- vychází ze zákona č. 353/2003 Sb. o daních spotřebních, a jeho obsahem je vymezení plaáců spotřebních daní a předmětu daně, vznikem daňové povinnosti, metodikou výpočtu a sazbami daně, zdaňovacím obdobím
+- vychází ze zákona č. 353/2003 Sb. o daních spotřebních, a jeho obsahem je vymezení plátců spotřebních daní a předmětu daně, vznikem daňové povinnosti, metodikou výpočtu a sazbami daně, zdaňovacím obdobím
+
+## Základní pojmy – předmět daně, základ daně, zdaňovací období, subjekt daně
+
+- Daňový subjekt – osoba, která je na základě zákona povinna strpět, odvádět nebo platit daň
+  - A) poplatník – daňový subjekt, jehož předmět (příjem nebo majetek je podroben dani
+  - B) plátce – daňový subjekt, který je na základě zákona daň povinen vybrat od jiných subjektů nebo srazit jiným poplatníkům a pod svou majetkovou odpovědností ji odvést do státního rozpočtu
+
+- **Předmět daně** – jednoznačné a úplné určení rozsahu objektu zdanění
+  - Zákonem, kterým se ukládá daňová povinnost
+  - **Vynětí z předmětu daně** – deklarace, na co se daň nevztahuje (obvykle pro právní jistotu daňových subjektů
+  - X **Osvobození od daně** – daň se na daný předmět daně vztahuje, ale zákonodárce z nejrůznějších důvodů zdaňovat nechce.
+  - Osvobození od daně nemusí být jen jednoznačnou výhodou – často má své nevýhody (např.
+    - DPH osvobození příjmů z pronájmu nemovitostí zároveň znamená, že plátce si nemůže uplatnit odpočet DPH na vstupu z plnění pořizovaných pro osvobozenou činnost – např. pořízení nemovitosti, vymalování atd.)
+    - Daň z příjmů – hmotný majetek, který byl při pořízení osvobozen od daně (např. některý darů) není možno uplatnit z něj do N odpisy tohoto majetku.
+
+- **Základ daně** = předmět daně vyjádřený v měrných jednotkách a upravený
+  - podle zákonných pravidel (např. u daně z příjmů příjmy (výnosy) – výdaje
+  - (náklady) u podnikatelů, superhrubá mzda u zaměstnanců (= hrubá mzda + sociální a zdravotní pojištění hrazené zaměstnavatelem apod. – superhrubá
+  - mzda byla od roku 2021 zrušena)
+  - X **odpočet od základu daně** a **odpočet od daně**.
+- **Zdaňovací období** – časový interval, za který se stanovuje základ daně a výše daně a daň se platí
+  - (nejčastěji 1 rok – např. daň z příjmů, daň z nemovitostí, silniční daň),
+  - Kratší období – měsíc, čtvrtletí (např. DPH)
+  - Bez zdaňovacího období – vážou se na výskyt nějaké skutečnosti – (např. prodej nemovitosti – daň z nabytí nemovitých věcí)
 
 ---
 
