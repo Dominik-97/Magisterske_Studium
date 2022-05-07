@@ -281,6 +281,42 @@ TBD.
 
 ## 5. Daně z příjmů – charakteristika
 
+### Druhy
+
+- Daň z příjmu fyzických osob,
+- daň z příjmu právnických osob.
+
+### Poplatníci daně z příjmu FO
+
+- Daňoví rezidenti,
+- daňoví nerezidenti - příjmy plynoucí z území Čr.
+
+- Je možné být poplatníkem v paušálním režimu - za splnění zákonem stanovených podmínek - daň se pak hradí paušálně, nikoli ve skutečné výši.
+
+### Předmět daně z příjmu FO
+
+- příjmy ze závislé činnosti - §6 ZDP,
+- příjmy ze samostatné činnosti - §7 ZDP,
+- příjmy z kapitálového majetku - §8 ZDP,
+- příjmy z nájmu - §9 ZDP,
+- ostatní příjmy - §10 ZDP.
+
+- Příjem je jak příjem peněžní, tak i nepeněžní, tak i příjem dosažený směnou.
+  - Nepeněžní příjem se oceňuje podle právních předpisů upravujících ocenění majetku.
+
+- Zákon definuje taxativně i příjmy, které nejsou předmětem daně z příjmu FO (**vynětí z předmětu daně**):
+  - např.
+    - úvěry, nebo zápůjčky,
+    - vypořádání SJM,
+    - vypořádání společného vlastnictví atd.
+
+- Zákon dále definuje příjmy, které jsou od daně osvobozeny (**osvobození od daně**)
+  - např.
+    - příjem z prodeje nemovitosti, pokud v nich měl prodávající bydliště alespoň podobu 2 let bezprostředně před prodejem
+    - přijatá náhrada majetkové, či nemajetkové újmy,
+    - příjem ze zvláštních vázaných účtů v bance atd.
+  - tento příjem však podléhá oznamovací povinnosti, pokud ve stanoveném období přesáhne částku 5 milionů korun.
+
 ### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
