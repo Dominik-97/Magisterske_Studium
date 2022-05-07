@@ -1,7 +1,7 @@
 ---
 geometry: "left=1cm,right=1cm,top=1cm,bottom=2cm"
 output: pdf_document
-title: "Informace ke zkoušce z předmětu Správa obchodní korporace v úpadku"
+title: "Informace ke zkoušce z předmětu Daňové právo v obchodních vztazích"
 header-includes:
   \renewcommand{\contentsname}{Obsah}
 ---
@@ -102,6 +102,15 @@ Otázky:
 
 ## Fiskální situace států západní civilizace, včetně ČR
 
+- Neustálé tlaky na zvyšování výdajů státního rozpočtu
+- Rozpočty obvykle deficitní, některé velmi výrazně
+- Tlaky na zvyšování příjmů státního rozpočtu:
+  - A) zvyšování daní
+  - B) efektivnější výběr daní (kontroly finančních orgánů)
+  - C) vytváření podmínek pro růst ekonomiky, spotřeby s cílem získat
+  - D) zvyšování deficitu
+- více prostředků do státního rozpočtu
+
 ## Druhy daní; přehled daňového systému České republiky
 
 ### Prameny daňového práva
@@ -117,11 +126,11 @@ Otázky:
 
 Pro zkoušku důležité oblasti jsou napsané **tučně**.
 
-#### Vyhlášky
+\underline{Vyhlášky:}
 
 Není je třeba znát, důležité je vědět, že určité zákony mají prováděcí vyhlášku, která stanovuje, jak se mají provést.
 
-#### Zákony
+\underline{Zákony:}
 
 - 280/2009 Sb. daňový řád,
 - 353/2003 Sb. zákon o spotřebních daních,
@@ -134,6 +143,35 @@ Není je třeba znát, důležité je vědět, že určité zákony mají prová
 - 563/1991 Sb. zákon o účetnictví.
 
 Existuje samozřejmě další řada zákonů, týkajících se určitým způsobem daní, výše jsou však vyjmenovány ty nejzásadnější.
+
+### Daňová soustava
+
+- Daňová soustava se v Čr dělí na daně:
+  - přímé,
+  - a nepřímé.
+
+- A) přímé daně ‐ možná přesná definice subjektu, jenž bude tuto daň platit.
+  - Její výše bývá stanovována z majetku tohoto subjektu nebo z jeho příjmů.
+  - (v posledních létech je tendence  typ daní snižovat na úkor zvyšujícího se podílu nepřímých daní).
+  - Přímé daně – dvě skupiny
+    - a) Daně z příjmů, (daně z příjmů fyzických i právnických osob)
+    - b) Daně majetkové (daň z nemovitostí (jak z pozemků, tak ze staveb), dále daň silniční
+  - zrušené daně ‐ daň dědická, darovací a z převodu nemovitostí a daně převodové (daň z nabytí nemovitých věcí)
+- B) Nepřímé daně
+  - Nepřímá daň je taková daň, kterou státu platí jiná osoba (plátce) než ta, která je této dani podrobena a na kterou účinky daně dopadají (poplatník). Označuje se také jako daň ze spotřeby, neboť daň je zahrnuta v ceně zboží nebo služeb nakupovaných poplatníkem, který tedy tuto daň hradí v rámci úhrady své spotřeby (a státu pak daň zaplatí příslušný obchodník).  
+  - Nepřímá daň může být selektivní (např. spotřební daň), která se týká pouze vybraných druhů zboží, nebo univerzální (např. daň z přidané hodnoty), která se týká veškerého zboží - i ta však může být částečně selektivní co se do výše týče, neboť existuje několik stupňů DPH - $10%$, $15%$, $21%$.
+
+### Vlastnosti nepřímých daní
+
+- Vlastnosti nepřímých daní
+  - jsou stabilní a předvídatelné, poplatník může změnou svého chování do určité míry ovlivnit výši odvedené daně,
+  - jejich výběr je jednodušší než u přímých daní,
+  - jsou rovné – pro všechny platí stejná sazba daně,
+  - jsou nenápadné, skryté v ceně zboží – vyvolávají tedy u poplatníků méně negativních pocitů.
+- Některé vlastnosti však lze z určitých pohledů označit také za nevýhodné:
+  - jednorázově zvyšují ceny a krátkodobě zvyšují inflaci
+  - deformují ceny
+  - jsou nenápadné, skryté v ceně zboží
 
 ---
 
