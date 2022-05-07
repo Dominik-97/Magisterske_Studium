@@ -206,6 +206,31 @@ $23 %$.
 - Dříve se jednalo o samostatnou daň - daň z převodu nemovitostí - nejdříve platil prodávají, následně byla daňová povinnost přenesena na nabyvatele.
 - V současné době podřazena pod daně z příjmu, je možné od ní bý osvobozen - například pokud v ní měl prodávající bydliště nejméně po dobu 2 let bezprostředně před prodejem[^3].
 
+\underline{Daň z nabytí nemovitých věcí‐ v roce 2020 zrušena}
+
+- V souvislosti s rozsáhlými daňovými změnami vznikl nový zákon o dani z nabytí nemovitých věcí, který nahradil dosud existující zákon o dani dědické, darovací a dani z převodu nemovitostí (357/1992 Sb.).  
+- **Daň platil nabyvatel nemovitosti**
+- Norma k dani z nabytí nemovitých věcí byla přijata Senátem ve formě zákonného opatření č. 340/2013 Sb. na konci roku 2013, vzápětí jej schválila sněmovna a v účinnost vstoupil k 1. lednu 2014 a zrušena 2020. Původní zákon o dani dědické a darovací a dani z převodu nemovitosti byl zrušen. **Zdanění dědictví a darů je nově řešeno v rámci daně z příjmů**.
+
+### Nepřímé daně
+
+\underline{Daň z přidané hodnoty}
+
+- Daň z přidané hodnoty je harmonizována s příslušnými předpisy Evropské unie. Podléhá jí naprostá většina zdanitelného plnění v České republice i zboží z dovozu. Základní sazba daně je aktuálně ve výši $21 %$, snížená sazba daně ve výši $15 %$ (např. vlaky, ubytování v hotelu,  potraviny,, stavební práce týkající se bydlení apod.), druhá snížená ve výši $10 %$ (léky, knihy, kojenecká výživa, noviny, časopisy, jídlo v restauraci, vstupné na kulturní akce).
+- Plátci daně (kteří mají registrační povinnost) jsou ti, jejichž  obrat za 12 měs.  přesáhl 1 milion Kč. Daň je placena měsíčně nebo čtvrtletně.
+- Drtivá většina zboží a služeb v současnosti podléhá základní sazbě daně.
+
+\underline{Spotřební daň}
+
+- Rovněž spotřební daně jsou harmonizovány s příslušnými směrnicemi EU.
+- Spotřebním daním podléhají minerální oleje, líh, pivo, víno a jeho meziprodukty a tabákové výrobky.
+- Zdaňovacím obdobím je kalendářní měsíc.
+- Daň se stává splatnou, když je zboží uvedeno do volného daňového oběhu, tj. když opustí registrovaný daňový sklad.
+- Spotřební daň se řadí mezi nepřímé daně, které jsou státem zaváděny buď za účelem regulace ceny určitých komodit na trhu nebo aby zvýšily příjmy státního rozpočtu.
+- Spotřební daně mohou sloužit také jako účinný prostředek ke snižování poptávky po škodlivém zboží, poněvadž spotřební daň v České republice tvoří většinou více jak 50 % ceny zdaněného zboží.
+- Plátci daně jsou výrobci a provozovatelé tzv. daňových skladů. Poplatníky jsou pak kupující výrobku, poněvadž daň je obsažena v ceně výrobku. Správu spotřebních daní od roku 2006 vykonává Celní úřad. Daň 
+- vychází ze zákona č. 353/2003 Sb. o daních spotřebních, a jeho obsahem je vymezení plaáců spotřebních daní a předmětu daně, vznikem daňové povinnosti, metodikou výpočtu a sazbami daně, zdaňovacím obdobím
+
 ---
 
 [^1]: https://www.profispolecnosti.cz/cs/vedeni-ucetnictvi/funkce-dani/a-1444/
