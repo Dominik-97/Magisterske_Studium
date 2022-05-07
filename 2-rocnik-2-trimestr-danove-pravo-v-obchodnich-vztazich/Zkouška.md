@@ -249,11 +249,24 @@ $23 %$.
   - podle zákonných pravidel (např. u daně z příjmů příjmy (výnosy) – výdaje
   - (náklady) u podnikatelů, superhrubá mzda u zaměstnanců (= hrubá mzda + sociální a zdravotní pojištění hrazené zaměstnavatelem apod. – superhrubá
   - mzda byla od roku 2021 zrušena)
-  - X **odpočet od základu daně** a **odpočet od daně**.
+  - X **odpočet od základu daně** a **odpočet od vyměřené daně**.
 - **Zdaňovací období** – časový interval, za který se stanovuje základ daně a výše daně a daň se platí
   - (nejčastěji 1 rok – např. daň z příjmů, daň z nemovitostí, silniční daň),
   - Kratší období – měsíc, čtvrtletí (např. DPH)
   - Bez zdaňovacího období – vážou se na výskyt nějaké skutečnosti – (např. prodej nemovitosti – daň z nabytí nemovitých věcí)
+
+\underline{Skutečný příjem x zdánlivý příjem x základ daně}
+
+- příjem ve smyslu zákona o daních z příjmů musí být příjmem skutečným, kdy se navýšení majetku musí reálně projevit v právní sféře daňového poplatníka tak, že musí být poplatníkem skutečně využitelné. V opačném případě se jedná pouze o navýšení zdánlivé.
+- Je tedy podstatné, zda dochází k navýšení majetku.
+- Nemusí jít jen o příjem finanční
+- Příklad
+- Technické zhodnocení pronajímaného objektu provedeného nájemcem – např. vestavba,  rozhodující pro vznik příjmu  byla právě doba, kdy došlo ke skutečnému obohacení pronajímatelky v důsledku toho, že mohla se svými technicky zhodnocenými nemovitostmi opět volně nakládat (okamžikem ukončení nájemního vztahu).
+
+- Od pojmu „příjem“ (s jehož existencí je spojena povinnost podání daňového přiznání) je  nutno odlišovat pojem „základ daně“.
+  - Základ daně = obvykle příjmy (výnosy) – výdaje (náklady) (u daně z příjmů)
+- Fakt, že po odečtení výdajů od příjmů bude základ daně nulový, má důsledek, že poplatníka daně nestíhá žádná daňová povinnost, neznamená to však, že by poplatník žádný příjem nezískal.
+- V určitých případech, je možné dosáhnout dokonce daňového zvýhodnění, kdy stát plátci naopak finanční zvýhodnění poskytuje - například pokud má plátce vyživované děti, je třeba to odlišovat od vrácení přeplatku na dani.
 
 ---
 
