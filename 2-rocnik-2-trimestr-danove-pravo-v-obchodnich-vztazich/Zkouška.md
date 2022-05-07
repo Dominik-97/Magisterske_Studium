@@ -450,9 +450,35 @@ Zákon rovněž stanoví taxativně, jací poplatníci nejsou veřejně prospě�
   - Od daně z příjmů právnických osob se osvobozuje bezúplatný
     - a) příjem z nabytí dědictví nebo odkazu.
 
+### Základ daně a položky snižující základ daně z příjmu právnických osob
 
+- Zákonodárce stanovuje definici základu daně v určitých případech - například pokud je právnická osoba v likvidaci.
+- Rovněž taxativně stanovuje položky, které snižují základ daně.
 
-### TBD
+### Samostatný základ daně z příjmu právnických osob
+
+- Zákon stanvuje **základ daně** a odčitatelné položky, nicméně definuje rovněž **samostatný základ daně**, do kterého spadá například:
+  - Do samostatného základu daně se zahrnují veškeré příjmy z podílů na zisku, vypořádacích podílů, podílů na likvidačním zůstatku nebo jim obdobná plnění.
+- Samostatný základ daně potom představuje společně se základem daně hodnotu použitou pro výpočet daně.
+
+### Sazba a výpočet daně z příjmu právnických osob
+
+- Sazba daně činí 19 %, pokud v odstavcích 2 a 3 není stanoveno jinak. Daň se vypočte jako součin základu daně sníženého o položky snižující základ daně a o odčitatelné položky od základu daně zaokrouhleného na celé tisíce Kč dolů a sazby daně.
+- Sazba daně 15 % se vztahuje na samostatný základ daně podle § 20b zaokrouhlený na celé tisícikoruny dolů.
+- Zákon dále stanovuje specifickou daňovou sazbu pro jiné poplatníky, jako například pro investiční fond, penzijní společnost atd.
+
+### Zdaňovací období pro daň z příjmu právnických osob
+
+Zdaňovacím obdobím daně z příjmů právnických osob je
+
+- a) kalendářní rok,
+- b) hospodářský rok,
+- c) období od rozhodného dne fúze nebo rozdělení obchodní korporace nebo převodu jmění na společníka do konce kalendářního roku nebo hospodářského roku, ve kterém se přeměna nebo převod jmění staly účinnými, nebo
+- d) účetní období, pokud je toto účetní období delší než nepřetržitě po sobě jdoucích 12 měsíců.
+
+### Daňové přiznání
+
+Pro výpočet samotné daně se podává daňové přiznání.
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
 
