@@ -444,6 +444,12 @@ Zákon rovněž stanoví taxativně, jací poplatníci nejsou veřejně prospě�
 
 - Zákon stanoví, jaké plnění, či příjmy jsou od daně osvobozeny, jedná se například o členský příspěvek do zájmových sdružení právnických osob, odborových organizací atd.
 
+### Osvobození bezúplatných příjmů od daně z příjmu právnických osob
+
+- Zákon taxativně stanovuje v §19b, jedná se například o:
+  - Od daně z příjmů právnických osob se osvobozuje bezúplatný
+    - a) příjem z nabytí dědictví nebo odkazu.
+
 
 
 ### TBD
@@ -505,7 +511,7 @@ TBD
 
 Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z příjmu jsou i další příjmy, jako příjem z kapitálu, z pronájmu atd.).
 
-- Příjem podle §6 ZDP je příjem ze závislé činnosti - zde se nejedná o uznávání výdajů, ale daňový základ lze rovněž snižovat podle §20 ZDP - Základ daně a položky snižující základ daně, popřípadě se může jednat o Nezdanitelnou součást daně, viz otázka číslo 5.
+- Příjem podle §6 ZDP je příjem ze závislé činnosti - zde se nejedná o uznávání výdajů, ~~ale daňový základ lze rovněž snižovat podle §20 ZDP - Základ daně a položky snižující základ daně, popřípadě se~~ (paragraf §20 ZDP se použije pro stanovení daně PO) může se jednat o Nezdanitelnou součást daně (dle §15 ZDP), viz otázka číslo 5.
 - Příjem podle §7 ZDP je příjmem ze samostatné činnosti - zde se tedy jedná o daňovou uznatelnost výdajů, neboť v rámci příjmů ze samostatné činnosti existuje stránka příjmová a výdajová a výdaje lze tak definovat jako výdaje snižující daňový základ[^3].
 
 - Za výdaje snižující daňový základ poplatníka lze uznat takové výdaje, které poplatník:
