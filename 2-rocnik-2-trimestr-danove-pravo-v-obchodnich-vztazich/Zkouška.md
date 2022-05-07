@@ -173,7 +173,24 @@ Existuje samozřejmě další řada zákonů, týkajících se určitým způsob
   - deformují ceny
   - jsou nenápadné, skryté v ceně zboží
 
+### Přímé daně
+
+\underline{Daň z příjmu fyzických osob}
+
+- Od zdaňovacího období 2008 byla zavedena jednotná sazba pro daň z příjmů fyzických osob, která je stanovena ve výši $15 %$ (včetně sazby pro výpočet měsíčních záloh u zaměstnanců), u vyšších příjmů sazba
+$23 %$.
+- DPFO patří bezesporu k nejsložitějším daním, se kterými se lze setkat.
+- Dříve existovala solidární daň - ta byla zrušena a zavedly se dvě sazby.
+
+\underline{Daň z příjmu právnických osob}
+
+- Daňová sazba byla počínaje rokem 2009 stanovena na $20 %$, a od roku 2010 platí tato "firemní (korporátní) daň" ve výši $19 %$ (s výjimkou investičního fondu, podílového fondu, zahraničního fondu kolektivního investování a penzijního fondu, pro které platí 5 procent).
+- U příjmů zahrnutých do samostatného základu daně podle § 20b činí sazba daně $15 %$.
+  - Do samostatného základu daně se zahrnují veškeré příjmy z podílů na zisku, vypořádacích podílů, podílů na likvidačním zůstatku nebo jim obdobná plnění[^3].
+- Od roku 1992, kdy byla sazba $42 %$, do roku 2010 došlo ke snížení daňové sazby o 23 procentních bodů. Ve většině zemí Evropské unie jsou firemní daně o něco vyšší než v ČR.  
+
 ---
 
 [^1]: https://www.profispolecnosti.cz/cs/vedeni-ucetnictvi/funkce-dani/a-1444/
 [^2]: https://www.law.muni.cz/sborniky/dny_prava_2009/files/prispevky/obecna_cast/Kyncl_Libor__1041_.pdf
+[^3]: https://www.zakonyprolidi.cz/cs/1992-586
