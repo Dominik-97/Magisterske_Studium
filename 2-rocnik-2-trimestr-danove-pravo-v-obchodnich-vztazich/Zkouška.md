@@ -261,7 +261,7 @@ $23 %$.
 - Je tedy podstatné, zda dochází k navýšení majetku.
 - Nemusí jít jen o příjem finanční
 - Příklad
-- Technické zhodnocení pronajímaného objektu provedeného nájemcem – např. vestavba,  rozhodující pro vznik příjmu  byla právě doba, kdy došlo ke skutečnému obohacení pronajímatelky v důsledku toho, že mohla se svými technicky zhodnocenými nemovitostmi opět volně nakládat (okamžikem ukončení nájemního vztahu).
+- Technické zhodnocení pronajímaného objektu provedeného nájemcem – např. vestavba,  rozhodující pro vznik příjmu  byla právě doba, kdy došlo ke skutečnému obohacení pronajímatelky v důsledku toho, že mohla se svými technicky zhodnocenými nemovitostmi opět volně nakládat (okamžikem ukončení nájemního vztahu)[^6].
 
 - Od pojmu „příjem“ (s jehož existencí je spojena povinnost podání daňového přiznání) je  nutno odlišovat pojem „základ daně“.
   - Základ daně = obvykle příjmy (výnosy) – výdaje (náklady) (u daně z příjmů)
@@ -275,3 +275,4 @@ $23 %$.
 [^3]: https://www.zakonyprolidi.cz/cs/1992-586
 [^4]: https://www.zakonyprolidi.cz/cs/1993-16
 [^5]: https://www.zakonyprolidi.cz/cs/2020-480/zneni-20210101#p7_p7-1-1
+[^6]: https://sbirka.nssoud.cz/cz/dan-z-prijmu-zvyseni-majetku-nepenezni-prijem.p820.html
