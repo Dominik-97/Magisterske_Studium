@@ -373,6 +373,28 @@ Pod pojmem daňová evidence se rozumí dřívější pojem jednoduchého účet
 
 Pokud je subjekt účetní jednotkou, či splní další zákonné předpoklady, musí vést účetnictví podvojné (nově nazývané pouze účetnictví)[^10], [^11].
 
+### Příjmy z kapitálového majetku
+
+Jedná se například o:
+
+- podíly na zisku obchodní korporace nebo podílového fondu, je-li v něm podíl představován cenným papírem, úroky z držby cenných papírů a výnosy dluhopisů podle zákona upravujícího dluhopisy s výjimkou výnosu určeného rozdílem mezi jmenovitou hodnotou dluhopisu a jeho emisním kurzem,
+- a jiné obdobné příjmy.
+
+### Příjmy z nájmu
+
+Příjmy z nájmu, pokud nejde o příjmy uvedené v § 6 až 8, jsou
+
+- a) příjmy z nájmu nemovitých věcí nebo bytů,
+- b) příjmy z nájmu movitých věcí, kromě příležitostného nájmu podle § 10 odst. 1 písm. a).
+
+### Ostatní příjmy
+
+- Taxativně vymezené zákonem,
+  - např:
+    - podíl:
+      - člena obchodní korporace s výjimkou společníka veřejné obchodní společnosti a komplementáře komanditní společnosti na likvidačním zůstatku, nebo
+      - majitele podílového listu z podílu připadajícího na podílový list při zrušení podílového fondu s výjimkou splynutí nebo sloučení podílového fondu.
+
 ### TBD
 
 ## 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
