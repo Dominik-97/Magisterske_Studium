@@ -312,7 +312,7 @@ Příjem jsou možnosti spotřeby nebo investic, které fyzická nebo právnick�
 
 Tento zastřešující pojem má následně dva zastřešené pojmy, které definují, zda příjem podléhá dani, nebo ne:
 
-- Skutečný příjem - například příjemce plnění poskytne věc zastupitelnou (subjekt zaplatí za služby, či zboží podnikateli) - toto plnění okamžitě náleží do majetkové sféry podnikatele a ten s ním tak může nakládat - jedná se tedy o skutečný příjem.
+- Skutečný příjem - například příjemce plnění[^8] poskytne věc zastupitelnou (subjekt zaplatí za služby, či zboží podnikateli) - toto plnění okamžitě náleží do majetkové sféry podnikatele a ten s ním tak může nakládat - jedná se tedy o skutečný příjem.
 - Zdánlivý příjem - viz kapitola níže.
 
 ### Skutečný příjem
@@ -363,3 +363,4 @@ Tento zastřešující pojem má následně dva zastřešené pojmy, které defi
 [^5]: https://www.zakonyprolidi.cz/cs/2020-480/zneni-20210101#p7_p7-1-1
 [^6]: https://sbirka.nssoud.cz/cz/dan-z-prijmu-zvyseni-majetku-nepenezni-prijem.p820.html
 [^7]: https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem_(ekonomie)
+[^8]: https://www.podnikatel.cz/clanky/rezim-prenesene-danove-povinnosti-kdy-se-pouzije-a-co-to-znamena/
