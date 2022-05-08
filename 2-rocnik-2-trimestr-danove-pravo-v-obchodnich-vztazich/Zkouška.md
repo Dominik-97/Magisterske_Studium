@@ -641,7 +641,7 @@ TBD
 
 ## 22. Opravné a dozorčí prostředky v daňovém řízení
 
-Právní předpis upravující opravné a dozorčí prostředky v daňovém řízení - **daňový řád**.
+Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém řízení - **daňový řád**.
 
 - Paragrafy 108 až §124a.
 
@@ -687,11 +687,34 @@ Právní předpis upravující opravné a dozorčí prostředky v daňovém ří
       - návrh na změnu, nebo zrušení rozhodnutí.
     - Pokud odvolání obsahuje vady - vyzve ho správce daně k nápravě v minimální lhůtě 15 dní, pokud nejsou vady opraveny - řízení se zastaví.
   - Postup správce daně prvního stupně
-    - TBD
+    - Může rozhodnout o odvolání sám pokud - mu plně vyhoví a toto rozhodnutí není v rozporu s vyjádřením příjemců,
+    - Může rozhodnout pokud mu vyhoví částečně,
+    - Může řízení zastavit, pokud je odvolání nepřípustné, nebo bylo podáno po lhůtě.
   - Postup odvolacího orgánu
+    - Pokud o něm nemůže rozhodnout správce v prvním stupni.
+    - Odvolacím orgánem je orgán nejblíže nadřazený správci daně, který rozhodnutí vydal.
+    - Přezkoumá v rozsahu návrhu odvolatele - není jím však vázán, pokud odvolací orgán zjistí nezákonnosti, nebo nesprávnosti v rozhodnutí správce daně prvního stupně - prověří je.
+      - Rovněž může provádět vlastní šetření a doplňovat.
+      - Musí s nimi odvolatele seznámit, umožnit mu se k nim vyjádřit a navrhnout vlastní.
+      - Lhůta maximálně 15 dní.
+    - Může prověřit použití pomůcek pro stanovení výše daně, pokud proti nim odvolání směřuje.
+    - Rozhodnutí:
+      - napadené rozhodnutí změní,
+      - napadené rozhodnutí zruší a zastaví řízení,
+      - odvolání zamítne a napadené rozhodnutí potvrdí,
+      - pokud zjistí, že mohl rozhodnout správce daně v prvním stupni, může mu odvolání vrátit s právním názorem.
+    - Nelze se proti tomuto rozhodnutí dále odvolat - lze pouze použít mimořádné opravné prostředky.
 
 - Obnova řízení (§117-120 DŘ)
   - Povolení obnovy řízení
+    - Řízení ukončené pravomocným rozhodnutím správce daně se obnoví na návrh příjemce rozhodnutí, nebo z moci úřední, jestliže:
+      - vyšly najevo nové skutečnosti, nebo důkazy,
+      - za jiných zákonem stanovených podmínek - například bylo rozhodnuto kvůli padělaným dokladům, nebo bylo rozhodnutí dosaženo pomocí trestného činu.
+    - Návrh se podává u správce daně, který o věci rozhodl v prvním stupni.
+      - Existuje subjektivní lhůta 6 měsíců ode dne, kdy se navrhovatel měl dozvědět o skutečnostech, objektivní lhůta je 3 roky.
+      - Návrh musí obsahovat okolnosti svědčící o jeho důvodnosti a dodržení lhůty.
+    - Obnovu řízení povolí nebo nařídí správce daně, který ve věci rozhodl v posledním stupni, a neshledá-li důvod povolení obnovy, návrh zamítne.
+    - Řízení probíhá u správce daně v prvním stupni, zahajuje se rozhodnutím, má odkladné účinky a pokud bude vydáno nové rozhodnutí se původní rozhodnutí ruší.
   - Nařízení obnovy řízení (dozorčí prostředek)
 
 - Přezkumné řízení (§ 121-123)
@@ -1106,3 +1129,4 @@ Právní předpis upravující opravné a dozorčí prostředky v daňovém ří
 [^13]: https://eur-lex.europa.eu/CS/legal-content/summary/preliminary-ruling-proceedings-recommendations-to-national-courts.html
 [^14]: https://is.muni.cz/www/6685/Danove_pravo_v_judikature_Ustavniho_soudu_CR4-nekorigovano-hruby-draft.pdf
 [^15]: https://cs.wikipedia.org/wiki/Opravn%C3%BD_prost%C5%99edek
+[^16]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava7
