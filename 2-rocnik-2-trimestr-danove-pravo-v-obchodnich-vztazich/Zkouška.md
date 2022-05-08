@@ -762,7 +762,15 @@ Již se naplatí - součástí daní z příjmu.
 
 ## 18. Pojem zneužití práva, praktické případy
 
-Disimilace práva
+Rozdíl mezi:
+
+- **disimulace právního úkonu** - (§2 odst. 7 ZSDP, §8 odst. 3 DŘ) - prokazuje finanční úřad - švarcsystém
+- **zneužití práva** (§8 odst. 4 DŘ) - prokazuje finanční úřad
+  - (1) Správce daně při dokazování hodnotí důkazy podle své úvahy. Správce daně posuzuje každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom přihlíží ke všemu, co při správě daní vyšlo najevo.
+  - (2) Správce daně dbá na to, aby při rozhodování skutkově shodných nebo podobných případů nevznikaly nedůvodné rozdíly.
+  - (3) Správce daně vychází ze skutečného obsahu právního jednání nebo jiné skutečnosti rozhodné pro správu daní.
+  - (4) Při správě daní se nepřihlíží k právnímu jednání a jiným skutečnostem rozhodným pro správu daní, jejichž převažujícím účelem je získání daňové výhody v rozporu se smyslem a účelem daňového právního předpisu.
+- **obcházení zákona** - prokazuje finanční úřad
 
 ## 19. Daňové tvrzení, důkazní břemeno v daňovém řízení
 
@@ -1588,3 +1596,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^18]: https://cs.wikipedia.org/wiki/Spot%C5%99ebn%C3%AD_da%C5%88
 [^19]: https://cs.wikipedia.org/wiki/Majetkov%C3%A1_da%C5%88#:~:text=Majetkov%C3%A9%20dan%C4%9B%20jsou%20p%C5%99%C3%ADm%C3%A9%20dan%C4%9B,da%C5%88%20z%20nabyt%C3%AD%20nemovit%C3%BDch%20v%C4%9Bc%C3%AD.
 [^20]: https://cs.wikipedia.org/wiki/Silni%C4%8Dn%C3%AD_da%C5%88
+[^21]: https://www.integracentrum.cz/aktuality/danova-optimalizace-obchazeni-zakona-416#:~:text=postup%2C%20kdy%20se%20n%C4%9Bkdo%20chov%C3%A1,povinnosti%20vypl%C3%BDvaj%C3%ADc%C3%AD%20ze%20z%C3%A1kona%20%C4%8D.
