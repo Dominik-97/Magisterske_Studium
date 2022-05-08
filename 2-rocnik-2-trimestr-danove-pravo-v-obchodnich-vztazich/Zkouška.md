@@ -659,6 +659,8 @@ Vybrané výrobky, které byly uvedeny do volného daňového oběhu v jiném č
 
 Spotřební daň se vybírá prodejem kolků pro označení lahví lihovin nebo krabiček od cigaret. Bez těchto kontrolních prvků je zakázané produkty nabízet k prodeji. Výrobce si od státu koupí větší množství tabákových nálepek nebo kontrolních pásků (alkohol), které pak nalepuje na místa tak, aby při otevření produktu došlo k viditelnému poškození. Tyto kolky jsou tisknuty Státní tiskárnou cenin a obsahují mnoho bezpečnostních prvků.
 
+### Majetkové daně
+
 ## 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek
 
 - DPH II – evropské a vnitrostátní právo a praktické dopady dvouúrovňového právního systému, eurokonformní výklad, přímý a nepřímý účinek evropského práva
