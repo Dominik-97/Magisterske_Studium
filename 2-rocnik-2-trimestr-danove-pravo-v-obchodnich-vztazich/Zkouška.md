@@ -621,7 +621,7 @@ TBD
 
 ## 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek
 
-TBD
+Prezentace 9.
 
 ## 18. Pojem zneužití práva, praktické případy
 
@@ -732,117 +732,75 @@ Postup k odstranění pochybností (§ 89-90 DŘ)
   - § 167 – Zjištění výše zajišť. částky u zajišťovacího příkazu
   - § 244 – Zjistí-li insolvenční správce, že nemá podklady
 
-Pomůcky - pravidla
- pomůcky správce daně buď má nebo si je obstará
- při použití pomůcek není nutná součinnost s DS
- uplatnění pomůcek se uvede ve výroku rozhodnutí
- nutno přihlédnout k výhodám pro DS, i když jím nebyly
-uplatněny
+- Pomůcky - pravidla
+- pomůcky správce daně buď má nebo si je obstará
+- při použití pomůcek není nutná součinnost s DS
+- uplatnění pomůcek se uvede ve výroku rozhodnutí
+- nutno přihlédnout k výhodám pro DS, i když jím nebyly uplatněny
 
-Pomůcky – podmnínky pro použití
-Stanovit daň za použití pomůcek lze za splnění dvou
-kumulativních podmínek:
-1. Daňový subjekt nesplní při dokazování některou ze
-svých zákonných povinností
-2. Současně není možno stanovit daňovou povinnost
-dokazováním.
+- Pomůcky – podmnínky pro použití
+- Stanovit daň za použití pomůcek lze za splnění dvou kumulativních podmínek:
+  - 1) Daňový subjekt nesplní při dokazování některou ze svých zákonných povinností
+  - 2) Současně není možno stanovit daňovou povinnost dokazováním.
 
-Pomůcky - výčet
- Co může být pomůckou?
- a) důkazní prostředky, které nebyly správcem daně
-zpochybněny,
- b) podaná vysvětlení,
- c) porovnání srovnatelných daňových subjektů a jejich
-daňových povinností,
- d) vlastní poznatky správce daně získané při správě daní.
+- Pomůcky - výčet
+  - Co může být pomůckou?
+    - a) důkazní prostředky, které nebyly správcem daně zpochybněny,
+    - b) podaná vysvětlení,
+    - c) porovnání srovnatelných daňových subjektů a jejich daňových povinností,
+    - d) vlastní poznatky správce daně získané při správě daní.
 
-Pomůcky – kde je najdeme?
-Součástí vyhledávací části spisu jsou:
-- písemnosti, které mohou být použity při stanovení daně
-jako pomůcky, jejichž zpřístupnění daňovému subjektu
-by ohrozilo zájem jiného daňového subjektu nebo
-jiných osob zúčastněných na správě daní,
+- Pomůcky – kde je najdeme?
+  - Součástí vyhledávací části spisu jsou:
+  - písemnosti, které mohou být použity při stanovení daně jako pomůcky, jejichž zpřístupnění daňovému subjektu by ohrozilo zájem jiného daňového subjektu nebo jiných osob zúčastněných na správě daní,
 
-Pomůcky – jejich zpřístupnění
-- nevztahuje se na ně §65/2 o nutnosti je z vyhledávací
-části spisu ponechat nejdéle do provedení hodnocení
-důkazů
- Na druhé straně se do vyhledávací části spisu ukládají
-pouze takové pomůcky, které by mohly ohrozit zájem
-jiného DS nebo jiných osob zúčastněných na správě
-daní.
+- Pomůcky – jejich zpřístupnění
+  - nevztahuje se na ně §65/2 o nutnosti je z vyhledávací části spisu ponechat nejdéle do provedení hodnocení důkazů
+  - Na druhé straně se do vyhledávací části spisu ukládají pouze takové pomůcky, které by mohly ohrozit zájem jiného DS nebo jiných osob zúčastněných na správě daní.
 
-Pomůcky - odvolání
- Směřuje-li odvolání proti rozhodnutí o stanovení daně
-podle pomůcek, zkoumá odvolací orgán pouze dodržení
-zákonných podmínek použití tohoto způsobu stanovení
-daně, jakož i přiměřenosti použitých pomůcek.
+- Pomůcky - odvolání
+  - Směřuje-li odvolání proti rozhodnutí o stanovení daně podle pomůcek, zkoumá odvolací orgán pouze dodržení zákonných podmínek použití tohoto způsobu stanovení daně, jakož i přiměřenosti použitých pomůcek.
 
-Pomůcky – sjednání daně
-Sjednání daně přichází v úvahu, jestiže:
-- daň nelze stanovit dokazováním a zároveň
-- daň nelze dostatečně spolehlivě stanovit ani podle pomůcek, které má
-správce daně k dispozici (ne tedy, které si opatří)
-- Sjednání daně se zaprotokoluje
-- výše sjednané daně se uvede v rozhodnutí, které má náležitosti rozhodnutí o
-stanovení daně a které je součástí tohoto protokolu;
-- proti tomuto rozhodnutí nelze uplatnit opravné prostředky.
+- Pomůcky – sjednání daně
+  - Sjednání daně přichází v úvahu, jestiže:
+    - daň nelze stanovit dokazováním a zároveň
+    - daň nelze dostatečně spolehlivě stanovit ani podle pomůcek, které má správce daně k dispozici (ne tedy, které si opatří)
+  - Sjednání daně se zaprotokoluje
+  - výše sjednané daně se uvede v rozhodnutí, které má náležitosti rozhodnutí o stanovení daně a které je součástí tohoto protokolu;
+  - proti tomuto rozhodnutí nelze uplatnit opravné prostředky.
 
-Pomůcky – možné směry obrany
- Daň se dala stanovit dokazováním - snaha o vyvrácení tvrzení správce daně, že daň bylo nutno stanovit podle pomůcek.
- Správce daně neunesl své důkazní břemeno
- (např. neprokáže, že doručil výzvu k odstranění pochybností, platební výměr apod.)
- Porušení práv daňového subjektu
- - nenechal daňový subjekt nahlédnout do spisu
- - nevyslechl navrhované svědky
- - neprojednal s ním zprávu o kontrole
+- Pomůcky – možné směry obrany
+  - Daň se dala stanovit dokazováním - snaha o vyvrácení tvrzení správce daně, že daň bylo nutno stanovit podle pomůcek.
+  - Správce daně neunesl své důkazní břemeno
+  - (např. neprokáže, že doručil výzvu k odstranění pochybností, platební výměr apod.)
+  - Porušení práv daňového subjektu
+    - nenechal daňový subjekt nahlédnout do spisu
+    - nevyslechl navrhované svědky
+    - neprojednal s ním zprávu o kontrole
 
-Pomůcky – možné směry obrany II.
-Procesní problémy správce daně:
- rozhodnutí bez všech náležitostí,
- nepřezkoumatelnost rozhodnutí finančních orgánů pro
-nedostatek odůvodnění rozhodnutí
- polemika s výší pomůcek - nepřiměřenost jejich výše,
-nestanovení daně dostatečně spolehlivě, nepřihlédnutí
-k výhodám svědčící pro daňový subjekt
+- Pomůcky – možné směry obrany II.
+  - Procesní problémy správce daně:
+    - rozhodnutí bez všech náležitostí,
+    - nepřezkoumatelnost rozhodnutí finančních orgánů pro nedostatek odůvodnění rozhodnutí
+  - polemika s výší pomůcek - nepřiměřenost jejich výše, nestanovení daně dostatečně spolehlivě, nepřihlédnutí k výhodám svědčící pro daňový subjekt
 
-Pomůcky - judikatura
+- Pomůcky - judikatura
 
-Pomůcky – judikatura – nahlížení do pomůcek
- IV. ÚS 359/05 z 28. března 2006
- „Postupem souladným se zákonem je takový postup, kdy správce daně
-přihlédne i k výhodám plynoucím pro daňový subjekt. Přitom je však na
-daňovém subjektu, aby vznášel k případné nezákonnosti postupu správce
-daně námitky, tedy i relevantní a kvalifikované námitky týkající se nedodržení
-povinnosti správce daně přihlédnout k výhodám plynoucím pro daňový
-subjekt. Rovnost daňového subjektu garantovaná čl. 37 odst. 3 Listiny by
-však byla iluzorní, pokud by nebyl sám daňový subjekt obeznámen s
-tím, že k této výhodě bylo skutečně přihlédnuto a o jakou výhodu se
-jednalo.“
+- Pomůcky – judikatura – nahlížení do pomůcek
+  - IV. ÚS 359/05 z 28. března 2006
+    - „Postupem souladným se zákonem je takový postup, kdy správce daně přihlédne i k výhodám plynoucím pro daňový subjekt. Přitom je však na daňovém subjektu, aby vznášel k případné nezákonnosti postupu správce daně námitky, tedy i relevantní a kvalifikované námitky týkající se nedodržení povinnosti správce daně přihlédnout k výhodám plynoucím pro daňový subjekt. Rovnost daňového subjektu garantovaná čl. 37 odst. 3 Listiny by však byla iluzorní, pokud by nebyl sám daňový subjekt obeznámen s tím, že k této výhodě bylo skutečně přihlédnuto a o jakou výhodu se jednalo.“
 
-Pomůcky – judikatura – nahlížení do pomůcek
-IV. ÚS 359/05 – pokrač.:
- „Nelze proto připustit výklad, podle kterého postačí, aby byla tato výhoda
-patrná z daňového spisu a aby se s postupem správce daně seznámil toliko
-odvolací orgán, případně soudy přezkoumávající postup správce daně, resp.
-rozhodnutí odvolacího orgánu, a aby se s tímto postupem nemohl seznámit
-samotný daňový subjekt. Námitky může daňový subjekt relevantně a
-kvalifikovaně vznášet pouze tehdy, je-li s postupem správce daně seznámen,
-tedy je-li seznámen i s tím, jakou okolnost správce daně považoval za
-výhodu pro daňový subjekt.“
+- Pomůcky – judikatura – nahlížení do pomůcek
+  - IV. ÚS 359/05 – pokrač.:
+    - „Nelze proto připustit výklad, podle kterého postačí, aby byla tato výhoda patrná z daňového spisu a aby se s postupem správce daně seznámil toliko odvolací orgán, případně soudy přezkoumávající postup správce daně, resp. rozhodnutí odvolacího orgánu, a aby se s tímto postupem nemohl seznámit samotný daňový subjekt. Námitky může daňový subjekt relevantně a kvalifikovaně vznášet pouze tehdy, je-li s postupem správce daně seznámen, tedy je-li seznámen i s tím, jakou okolnost správce daně považoval za výhodu pro daňový subjekt.“
 
-Pomůcky – judikatura – výhody pro DS
- IV. ÚS 179/01 z 31. 8. 2001
- „V případech, kdy je daň stanovena podle pomůcek, musí se
-odvolací orgán vyrovnat i s otázkou, zda správce daně splnil své
-zákonné povinnosti vyplývající z ustanovení § 46 odst. 3 ZSDP (=
-výhody pro DS). Každý jiný postup staví účastníka daňového
-řízení do nedůvodně nerovného postavení a je tedy v rozporu s čl.
-37 odst. 3 Listiny základních práv a svobod.“
+- Pomůcky – judikatura – výhody pro DS
+  - IV. ÚS 179/01 z 31. 8. 2001
+    - „V případech, kdy je daň stanovena podle pomůcek, musí se odvolací orgán vyrovnat i s otázkou, zda správce daně splnil své zákonné povinnosti vyplývající z ustanovení § 46 odst. 3 ZSDP (= výhody pro DS). Každý jiný postup staví účastníka daňového řízení do nedůvodně nerovného postavení a je tedy v rozporu s čl. 37 odst. 3 Listiny základních práv a svobod.“
 
-Pomůcky – judikatura – výhody pro DS
- IV. ÚS 360/05 z 20. 11. 2006
- „Za takové výhody lze považovat příkladmo okolnosti, za jakých
+- Pomůcky – judikatura – výhody pro DS
+  - IV. ÚS 360/05 z 20. 11. 2006
+    - „Za takové výhody lze považovat příkladmo okolnosti, za jakých
 podmínek daňový subjekt podniká, v jakém oboru činnosti
 podniká, v jaké lokalitě má umístěnu provozovnu apod. To, zda
 správce daně takovou skutečnost zohlednil, je pak skutečností,
