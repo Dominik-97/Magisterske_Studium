@@ -18,10 +18,8 @@ header-includes:
 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
 9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů
 10. Pojem „švarcsystému“ a problémy s ním spojené
-11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH,
-ostatní daně (dědická aj.)
-12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění,
-odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
+11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
+12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
 13. Nejčastější podvody na DPH
 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
 15. ~~Pojistné na sociální zabezpečení - charakteristika~~
@@ -585,6 +583,118 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
   - a) Nikdo nemůže daňový subjekt (DS) nutit k tomu, aby platil daně v maximální možné míře = právo DS vybrat si z možných zákonných řešení to nejvýhodnější
   - b) Požadavek na ekonomickou racionalitu takových řešení ‐ často je potřeba předložit správci  daně dostatečné důkazy a zdůvodnění, proč  se DS rozhodly právě pro takový postup. Daný postup by měl mít racionální ekonomické zdůvodnění.  (viz též „disimulace právního úkonu“ či „zneužití práva“)
 
+## 9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů
+
+TBD
+
+## 10. Pojem „švarcsystému“ a problémy s ním spojené
+
+TBD
+
+## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
+
+TBD
+
+## 12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
+
+TBD
+
+## 13. Nejčastější podvody na DPH
+
+TBD
+
+## 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
+
+TBD
+
+## 16. Spotřební daně, majetkové daně - základní charakteristika
+
+TBD
+
+## 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek
+
+TBD
+
+## 18. Pojem zneužití práva, praktické případy
+
+TBD
+
+## 19. Daňové tvrzení, důkazní břemeno v daňovém řízení
+
+TBD
+
+## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
+
+TBD
+
+## 21. Dokazování v daňovém řízení
+
+TBD
+
+## 22. Opravné a dozorčí prostředky v daňovém řízení
+
+TBD
+
+## 23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky
+
+### Podklady
+
+- Ústavní zákon č. 1/1993 Sb., Ústava České republiky
+- Usnesení č. 2/1993 předsednictva ČNR o vyhlášení Listiny základních práv a svobod jako součásti ústavního pořádku ČR
+- Zákon č. 99/1963 Sb., občanský soudní řád
+- Zákon č. 150/2002 Sb., soudní řád správní
+- Vyhláška 177/1996 Sb. – advokátní tarif
+- Zákon č. 549/1991 Sb., o správních poplatcích
+
+### Obsah kapitoly
+
+1. Důvody existence správního soudnictví
+2. Správní soudnictví v ČR
+3. Druhy žalob
+4. Žaloba proti rozhodnutí správního orgánu
+5. Nečinnostní žaloba
+6. Zásahová žaloba
+7. Přezkum opatření obecné povahy
+8. Opravné prostředky ve správním soudnictví – kasační stížnost, obnova řízení
+9. Náklady na soudní řízení
+
+### Důvody existence správního soudnictví
+
+- Vedle „soukromých práv“ (např. pracovní, trestní, obchodní, rodinné, občanskoprávní) existují také subjektivní práva a povinnosti, která vznikají mezi subjekty, které jsou ve vzájemném postavení nadřízenosti a podřízenosti:
+  - (obvykle občan nebo právnická osoba na straně jedné a orgán státu nebo obce či samosprávného kraje na straně druhé).
+  - občan a právnická osoba se ocitají v podřízeném postavení - druhá strana právního vztahu má tzv. „vrchnostenskou pravomoc“ rozhodovat autoritativně o tom, co je pro občana či právnickou osobu právem a co povinností = **vztahy veřejného práva**.
+
+- Veřejné právo – např. stavební, daňové, celní, živnostenská oprávnění, dopravní předpisy, různé poplatky, sociální oblast, životní prostředí, ochrana památek, právo na informace apod.
+  - **Správní soudnictví = naplnění požadavku, aby každý, kdo se cítí zkrácen zásahem státního orgánu (obecněji aby také vztahy veřejného práva a subjektivní práva a povinnosti z nich plynoucí byly postaveny pod nezávislou (soudní)kontrolu „veřejné“ autority), se mohl dovolat účinné ochrany.**
+
+### Správní soudnictví v Čr
+
+- A) ŽALOBA PROTI ROZHODNUTÍ SPRÁVNÍHO ORGÁNU
+- B) ŽALOBA PROTI NEČINNOSTI
+- C) ŽALOBA PROTI NEZÁKONNÉMU ZÁSAHU
+- D) SOUDNICTVÍ VE VĚCECH VOLEBNÍCH A VE VĚCECH MÍSTNÍHO A KRAJSKÉHO REFERENDA
+- E) ŘÍZENÍ VE VĚCECH POLITICKÝCH STRAN A POLITICKÝCH HNUTÍ
+- F) ŘÍZENÍ O ZRUŠENÍ OPATŘENÍ OBECNÉ POVAHY NEBO JEHO ČÁSTI
+- G) KOMPETENČNÍ ŽALOBY
+- H) OPRAVNÉ PROSTŘEDKY PROTI ROZHODNUTÍM SPRÁVNÍCH SOUDŮ
+- I) ROZHODOVÁNÍ SPRÁVNÍHO ORGÁNU O VĚCECH SOUKROMÉHO PRÁVA
+- J) KONFLIKT KOMPETENCÍ MEZI MOCÍ VÝKONNOU A MOCÍ SOUDNÍ
+
+- V dnešní podobně od roku 2003 (do té doby neexistoval Nejvyšší správní soud)
+  - do r. 2003 pouze krajské soudy a Ústavní soud
+
+### Druhy žalob
+
+- Ve správním soudnictví poskytují krajské soudy (jako soudy správní)[^12] a Nejvyšší správní soud ochranu veřejným subjektivním právům fyzických a právnických osob v řízení o žalobách proti rozhodnutím správních orgánů, kterou doplňuje ochrana před nečinností správních orgánů a před nezákonnými zásahy, pokyny a donuceními správních orgánů.
+  - Žaloba proti rozhodnutí správního orgánu
+  - Žaloba na odstranění nečinnosti
+  - Žaloba proti nezákonnému zásahu
+  - Řízení o zrušení opatření obecné povahy
+
+## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
+
+TBD
+
 ## Cvičení téma k diskusi
 
 - Příklad 1
@@ -622,3 +732,4 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
 [^9]: https://www.mesec.cz/danovy-portal/dan-z-prijmu/funkcni-pozitky/
 [^10]: https://cs.wikipedia.org/wiki/Da%C5%88ov%C3%A1_evidence
 [^11]: https://www.podnikatel.cz/clanky/jaky-je-rozdil-mezi-vedenim-ucetnictvi-a-vedeni-danove-evidence/
+[^12]: https://cs.wikipedia.org/wiki/Spr%C3%A1vn%C3%AD_soudnictv%C3%AD
