@@ -651,6 +651,84 @@ TBD
   - Správce daně dbá, aby skutečnosti rozhodné pro správné zjištění a stanovení daně byly zjištěny co nejúplněji, a není v tom vázán jen návrhy daňových subjektů.
   - **Daňový subjekt** prokazuje všechny skutečnosti, které je povinen uvádět v řádném daňovém tvrzení, dodatečném daňovém tvrzení a dalších podáních.
 
+- Pokud to vyžaduje průběh řízení, může správce daně vyzvat daňový subjekt k prokázání skutečností potřebných pro správné stanovení daně, a to za předpokladu, že potřebné informace nelze získat z vlastní úřední evidence.
+
+- Správce daně prokazuje
+  - a) oznámení vlastních písemností,
+  - b) skutečnosti rozhodné pro užití právní domněnky nebo právní fikce,
+  - c) skutečnosti vyvracející věrohodnost, průkaznost, správnost či úplnost povinných evidencí, účetních záznamů, jakož i jiných záznamů, listin a dalších důkazních prostředků uplatněných daňovým subjektem,
+  - d) skutečnosti rozhodné pro posouzení skutečného obsahu právního úkonu nebo jiné skutečnosti (v ZSDP nebylo),
+  - e) skutečnosti rozhodné pro uplatnění následku za porušení povinnosti při správě daní.
+  - f) skutečnosti rozhodné pro posouzení účelu právního jednání a jiných skutečností rozhodných pro správu daní, jejichž převažujícím účelem je získání daňové výhody v rozporu se smyslem a účelem daňového právního předpisu.
+  - g) zneužití práva
+
+- Dokazování II.
+  - DS x SD
+    - 1) Povinnost DS k tvrzení (např. podat DP)
+    - 2) Výzva SD k prokázání
+    - 3) Povinnost DS důkazní (doložit tvrzení)
+    - 4) Povinnost SD prokázat, proč má pochybnosti
+    - 5) Povinnost DS pochybnosti vyvrátit
+
+- Dokazování III.
+  - Navrhuje-li v řízení účast třetí osoby (např. svědka) daňový subjekt, je povinen současně s návrhem sdělit správci daně potřebné údaje o této třetí osobě a informaci o tom, které skutečnosti hodlá účastí této třetí osoby prokázat nebo vysvětlit, popřípadě jiný důvod účasti. Není-li návrhu vyhověno, správce daně o tom vyrozumí daňový subjekt s uvedením důvodu.
+
+- Dokazování IV. důkazní prostředky
+  - všechny podklady, jimiž lze zjistit skutečný stav věci a ověřit skutečnosti rozhodné pro správné zjištění a stanovení daně a které nejsou získány v rozporu s právním předpisem, a to i těch, které byly získány před zahájením řízení. (Tvrzení daňového subjektu, listiny, znalecké posudky, svědecké výpovědi a ohledání věci),
+  - zákonně získané veškeré podklady předané správci daně jinými orgány veřejné moci, které byly získány pro jimi vedená řízení, jakož i podklady převzaté z jiných daňových řízení nebo získané při správě daní jiných daňových subjektů (např. výslech svědka na policii),
+  - Je-li podkladem předaným podle předch. bodu protokol o svědecké výpovědi, správce daně na návrh daňového subjektu provede svědeckou výpověď v rámci daňového řízení o této daňové povinnosti.
+  - Osoby, které mají listiny a další věci nezbytné pro správu daní, které mohou být důkazním prostředkem při správě daní, jsou povinny za podmínek podle § 58 na vyžádání správce daně listiny nebo jejich kopie a jiné věci vydat nebo zapůjčit k ohledání.
+
+- Dokazování V.
+  - § 8 odst. 3 DŘ
+    - „*Správce daně vychází ze skutečného obsahu právního úkonu nebo jiné skutečnosti rozhodné pro správu daní.*“
+  - srovnej s:
+  - §2 odst. 7 ZSDP x
+    - „*Při uplatňování daňových zákonů v daňovém řízení se bere v úvahu vždy skutečný obsah právního úkonu nebo jiné skutečnosti rozhodné pro stanovení či vybrání daně, pokud je zastřený stavem formálně právním a liší se od něho.*“
+  - (nutnost nové judikatury, též zneužití práva §8/4 DŘ)
+
+- Dokazování VI.
+  - Hodnocení důkazních prostředků:
+    - Správce daně po provedeném dokazování určí, které skutečnosti považuje za prokázané a které nikoliv a na základě kterých důkazních prostředků; o hodnocení důkazů sepíše úřední záznam, pokud se toto hodnocení neuvádí v jiné písemnosti založené ve spise.
+  - §8/1 volné hodnocení důkazů - správce daně při dokazování hodnotí důkazy podle své úvahy. Správce daně posuzuje každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom přihlíží ke všemu, co při správě daní vyšlo najevo.
+
+- Dokazování VII.
+  - Neunesení důkazního břemene:
+  - možnost pomůcek
+
+- Nahlížení do spisu
+  - Veřejná a „tajná“ vyhledávací část spisu
+  - „Není-li ohrožen zájem jiného daňového subjektu nebo jiných osob zúčastněných na správě daní anebo cíl správy daní, může správce daně v odůvodněných případech, kdy je to nutné pro další průběh řízení, umožnit nahlédnutí i do písemností ve vyhledávací části spisu.“
+
+- Nahlížení do spisu II.
+  - Obrana pro neumožnění nahlédnutí - sporná:
+  - Stížnost § 261 DŘ
+  - Odvolání § 101 DŘ
+  - Soudní obrana
+
+- Svědci
+  - nutnost vyrozumění DS a umožnění účasti na ní,
+  - označení svědka a věci, ve které bude vypovídat,
+  - vyrozumění není nutné, pokud hrozí nebezpečí z prodlení nebo zmaření účelu výpovědi
+
+- Každá osoba je povinna vypovídat jako svědek o důležitých okolnostech při správě daní týkajících se jiných osob, pokud jsou jí známy; musí vypovídat pravdivě a nic nezamlčovat.
+  - Výpověď může odepřít ten, kdo by tím způsobil nebezpečí trestního stíhání sobě nebo osobám mu blízkým.
+  - Jako svědek nesmí být vyslechnut ten, kdo by porušil povinnosti spojené s utajováním informací podle jiného právního předpisu, nebo zákonem uloženou nebo uznanou povinnost mlčenlivosti, ledaže by byl této povinnosti zproštěn příslušným orgánem nebo tím, v jehož zájmu tuto povinnost má.
+
+- Svědek musí být poučen - před výslechem SD poučí svědka o možnosti odepřít výpověď, o povinnosti vypovídat pravdivě a nic nezamlčovat a o právních následcích podané nepravdivé nebo neúplné výpovědi.
+- Svědek má nárok na náhradu nákladů.
+
+- Daňový subjekt má právo být přítomen výslechu svědka a klást mu otázky v rámci dokazovaní svých práv a povinností. O provádění svědecké výpovědi správce daně daňový subjekt včas vyrozumí, nehrozí-li nebezpečí z prodlení.
+- Ve vyrozumění daňového subjektu o provádění svědecké výpovědi správce daně uvede označení věci, ve které bude svědek vypovídat, a označení svědka, nehrozí-li nebezpečí, že by došlo ke zmaření účelu výpovědi.
+
+- Pomůcky – kdy se použijí?
+  - § 87 – Nevyhovění výzvě SD k zahájení kontroly
+  - § 90 - Neposkytnutí součinnosti u POP
+  - § 98 – Nemožnost stanovit daň dokazováním
+  - § 145 – Nepodání DP nebo dodateč. DP ani po výzvě SD
+  - § 167 – Zjištění výše zajišť. částky u zajišťovacího příkazu
+  - § 244 – Zjistí-li insolvenční správce, že nemá podklady
+
 ## 22. Opravné a dozorčí prostředky v daňovém řízení
 
 Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém řízení - **daňový řád**.
