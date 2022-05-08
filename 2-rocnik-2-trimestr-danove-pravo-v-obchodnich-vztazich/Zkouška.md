@@ -633,7 +633,27 @@ Druhým rozdílem je, že DPH se počítá jako procentuální částka ze zákl
 
 Je definována zákonem o spotřebních daních.
 
-V Česku jsou předmětem daně tabák, alkohol a pohonné hmoty (tvoří většinou více než 50 % ceny zdaněného zboží). Zdaňovací období pro tuto daň je jeden měsíc, pokud ale v tomto měsíci nevznikne povinnost daň přiznat, nemusí se podávat daňové přiznání. Plátci daně jsou výrobci a provozovatelé tzv. daňových skladů. Poplatníky jsou pak kupující výrobku, daň je obsažena v ceně výrobku, jako je tomu například i u DPH.[2] Daň se započítává do základu pro výpočet DPH, tedy nezvyšuje cenu samotného výrobku, ale i hodnotu DPH. Sazby daně jsou většinou stanoveny samostatně pro každý typ výrobku v závislosti na měrných jednotkách (l, kg, ks, ...) a nezáleží na kvalitě surovin a výrobku takového. Od roku 2004 vykonává její správu Celní úřad, do konce roku 2003 správu vykonával Finanční úřad. Spotřební daň tvoří přibližně 14 % státního rozpočtu ČR.[3]
+V Česku jsou předmětem daně tabák, alkohol a pohonné hmoty (tvoří většinou více než 50 % ceny zdaněného zboží). Zdaňovací období pro tuto daň je jeden měsíc, pokud ale v tomto měsíci nevznikne povinnost daň přiznat, nemusí se podávat daňové přiznání. Plátci daně jsou výrobci a provozovatelé tzv. daňových skladů. Poplatníky jsou pak kupující výrobku, daň je obsažena v ceně výrobku, jako je tomu například i u DPH. Daň se započítává do základu pro výpočet DPH, tedy nezvyšuje cenu samotného výrobku, ale i hodnotu DPH. Sazby daně jsou většinou stanoveny samostatně pro každý typ výrobku v závislosti na měrných jednotkách (l, kg, ks, ...) a nezáleží na kvalitě surovin a výrobku takového. Od roku 2004 vykonává její správu Celní úřad, do konce roku 2003 správu vykonával Finanční úřad. Spotřební daň tvoří přibližně 14 % státního rozpočtu ČR[^18].
+
+Jednotlivými spotřebními daněmi dle zákona o spotřební dani jsou:
+
+- a) daň z minerálních olejů,
+- b) daň z lihu,
+- c) daň z piva,
+- d) daň z vína a meziproduktů,
+- e) daň z tabákových výrobků,
+- f) daň ze surového tabáku,
+- g) daň ze zahřívaných tabákových výrobků,
+- h) daň z elektřiny,
+- i) daň z pevných paliv,
+- j) daň ze zemního plynu a některých dalších plynů.
+
+Od daně jsou osvobozeny
+
+- tabákové výrobky určené k použití pro zkoušky týkající se kvality výrobku a zkoušky související se zabezpečením kvality měření, nebo nezbytné výrobní zkoušky za podmínky, že tyto tabákové výrobky budou v průběhu zkoušek prokazatelně spotřebovány, zničeny nebo znehodnoceny, a to v technologicky odůvodněném množství. Zkoušky mohou být prováděny pouze v laboratořích akreditovaných podle technické normy ČSN EN ISO/IEC 17025 pro předmět zkoušení tabák nebo tabákové výrobky.
+- odebrané jako vzorky celním úřadem, nebo znehodnocené podle pokynů a za přítomnosti úředních osob celního úřadu, nebo zničené za jejich přítomnosti (to se týká pouze tabákových výrobků určených pro vývoz nebo pro dopravu v režimu podmíněného osvobození od daně do jiného členského státu, které současně nejsou způsobilé pro uvedení do volného daňového oběhu na území jiného členského státu nebo třetí země).
+
+Vybrané výrobky, které byly uvedeny do volného daňového oběhu v jiném členském státě a které fyzické osoby nabyly v tomto členském státě pro osobní spotřebu a jsou jimi dopravované na daňové území České republiky, jsou osvobozeny od daně - zákon definuje množství a typ.
 
 ## 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek
 
@@ -1617,3 +1637,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^15]: https://cs.wikipedia.org/wiki/Opravn%C3%BD_prost%C5%99edek
 [^16]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava7
 [^17]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6-dil3
+[^18]: https://cs.wikipedia.org/wiki/Spot%C5%99ebn%C3%AD_da%C5%88
