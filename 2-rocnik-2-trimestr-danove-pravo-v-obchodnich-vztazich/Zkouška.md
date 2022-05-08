@@ -16,14 +16,14 @@ header-includes:
 
 ## Zkušební okruhy:
 
-1. Účely daní (fiskální, nefiskální), rovnost ve zdanění
-2. Fiskální situace států západní civilizace, včetně ČR
-3. Druhy daní; přehled daňového systému České republiky
-4. Základní pojmy – předmět daně, základ daně, zdaňovací období, subjekt daně
-5. Daně z příjmů – charakteristika
-6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu
+1. Účely daní (fiskální, nefiskální), rovnost ve zdanění - **OK**
+2. Fiskální situace států západní civilizace, včetně ČR - **OK**
+3. Druhy daní; přehled daňového systému České republiky - **OK**
+4. Základní pojmy – předmět daně, základ daně, zdaňovací období, subjekt daně - **OK**
+5. Daně z příjmů – charakteristika - **OK**
+6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu - **OK**
 7. Daňové odpisy – pojem, charakteristika, praktické problémy
-8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
+8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu - **OK**
 9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů
 10. Pojem „švarcsystému“ a problémy s ním spojené
 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
@@ -32,7 +32,7 @@ header-includes:
 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
 15. ~~Pojistné na sociální zabezpečení - charakteristika~~
 16. Spotřební daně, majetkové daně - základní charakteristika
-17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek
+17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek - **OK**
 18. Pojem zneužití práva, praktické případy
 19. Daňové tvrzení, důkazní břemeno v daňovém řízení
 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
@@ -617,7 +617,23 @@ TBD
 
 ## 16. Spotřební daně, majetkové daně - základní charakteristika
 
-TBD
+### Spotřební daně
+
+Spotřební daň je nepřímá selektivní daň, kterou zavádí stát za účelem regulovat cenu určitých komodit na trhu. Účelem může být buď zvýšit příjmy státního rozpočtu, nebo snížit prodávané množství zboží, jehož spotřeba je považovaná za škodlivou pro jednotlivce a/nebo pro společnost.
+
+Spotřební daň bývá využívána k politickým či finančním potřebám. Důvodem vedle naplnění státního rozpočtu je i řešení problémů ohledně zdraví a bezpečnosti společnosti, ochrany životního prostředí a v některých zemích i společenské morálky. Vyšší cenou klesá poptávka po výrobcích zasažených touto daní. Příjem putuje zpátky do systému a je využit v oblastech týkajících se stejné tematiky, například odvykací centra pro závislé, protitabákové kampaně, léčba nemocných postižených rakovinou jater, plic, vysazování nových stromů, atd.
+
+### Rozdíl mezi spotřební daní a DPH
+
+Spotřební daň se liší od dani z přidané hodnoty ve dvou důležitých bodech. Je zpravidla selektivní: tzn. platí na nějakou skupinu specifických výrobků, které většinou souvisí se zdravotními riziky nebo s nebezpečím pro životní prostředí. Zatímco DPH se vztahuje na většinu produktů pro spotřebitele v různých výších nebo se jedná o výjimky.
+
+Druhým rozdílem je, že DPH se počítá jako procentuální částka ze základu, který zahrnuje i spotřební daň. Ta je přičítána fixní částkou podle naturální jednotky zboží (resp. minimální částkou). Na fakturách a účtenkách pak DPH lze vidět zvlášť a snadno vyčíst hodnotu, ale u spotřební daně to není možné.
+
+### Spotřební daň v česku
+
+Je definována zákonem o spotřebních daních.
+
+V Česku jsou předmětem daně tabák, alkohol a pohonné hmoty (tvoří většinou více než 50 % ceny zdaněného zboží). Zdaňovací období pro tuto daň je jeden měsíc, pokud ale v tomto měsíci nevznikne povinnost daň přiznat, nemusí se podávat daňové přiznání. Plátci daně jsou výrobci a provozovatelé tzv. daňových skladů. Poplatníky jsou pak kupující výrobku, daň je obsažena v ceně výrobku, jako je tomu například i u DPH.[2] Daň se započítává do základu pro výpočet DPH, tedy nezvyšuje cenu samotného výrobku, ale i hodnotu DPH. Sazby daně jsou většinou stanoveny samostatně pro každý typ výrobku v závislosti na měrných jednotkách (l, kg, ks, ...) a nezáleží na kvalitě surovin a výrobku takového. Od roku 2004 vykonává její správu Celní úřad, do konce roku 2003 správu vykonával Finanční úřad. Spotřební daň tvoří přibližně 14 % státního rozpočtu ČR.[3]
 
 ## 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek
 
