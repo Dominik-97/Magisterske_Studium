@@ -641,7 +641,41 @@ TBD
 
 ## 22. Opravné a dozorčí prostředky v daňovém řízení
 
-TBD
+Právní předpis upravující opravné a dozorčí prostředky v daňovém řízení - **daňový řád**.
+
+- Paragrafy 104 až §124a.
+
+### Použití opravných a dozorčích prostředků
+
+- Rozhodnutí vydané při správě daní lze přezkoumat na základě:
+  - a) řádného opravného prostředku, kterým je odvolání nebo rozklad,
+  - b) mimořádného opravného prostředku, kterým je návrh na povolení obnovy řízení, nebo
+  - c) dozorčího prostředku, kterým je nařízení obnovy řízení a nařízení přezkoumání rozhodnutí.
+- Proti rozhodnutí, které vydal ústřední správní orgán nebo úřední osoba stojící v jeho čele, lze podat rozklad. O rozkladu rozhoduje úřední osoba stojící v čele ústředního správního orgánu na základě návrhu jí ustanovené komise.
+
+- Opravné a dozorčí prostředky v daňovém řízení
+- Řádný opravný prostředek
+  - odvolání
+  - Rozklad
+- Mimořádný opravný prostředek
+  - návrh na povolení obnovy řízení
+- Dozorčí prostředek
+  - nařízení obnovy
+  - nařízení přezkoumání
+
+- Odvolání (§ 109-116 DŘ)
+  - Obecná ustanovení o odvolání
+  - Náležitosti odvolání
+  - Postup správce daně prvního stupně
+  - Postup odvolacího orgánu
+
+- Obnova řízení (§117-120 DŘ)
+  - Povolení obnovy řízení
+  - Nařízení obnovy řízení (dozorčí prostředek)
+
+- Přezkumné řízení (§ 121-123)
+  - Nařízení přezkoumání rozhodnutí (dozorčí prostředek)
+  - Postup při přezkumném řízení
 
 ## 23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky
 
