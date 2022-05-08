@@ -38,8 +38,8 @@ header-includes:
 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 21. Dokazování v daňovém řízení
 22. Opravné a dozorčí prostředky v daňovém řízení
-23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky
-24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
+23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky - **OK**
+24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu - **OK**
 25. (Není součástí otázek) Cvičení téma k diskusi
 
 ## 1. Účely daní (fiskální, nefiskální), rovnost ve zdanění
