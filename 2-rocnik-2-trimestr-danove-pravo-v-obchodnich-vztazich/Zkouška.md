@@ -34,7 +34,7 @@ header-includes:
 16. Spotřební daně, majetkové daně - základní charakteristika - **OK**
 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek - **OK**
 18. Pojem zneužití práva, praktické případy - **OK**
-19. Daňové tvrzení, důkazní břemeno v daňovém řízení
+19. Daňové tvrzení, důkazní břemeno v daňovém řízení - **OK**
 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 21. Dokazování v daňovém řízení - **OK**
 22. Opravné a dozorčí prostředky v daňovém řízení - **OK**
