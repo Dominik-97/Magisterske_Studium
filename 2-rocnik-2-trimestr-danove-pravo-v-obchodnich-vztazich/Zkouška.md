@@ -4,6 +4,14 @@ output: pdf_document
 title: "Informace ke zkoušce z předmětu Daňové právo v obchodních vztazích"
 header-includes:
   \renewcommand{\contentsname}{Obsah}
+  \usepackage{enumitem}
+  \setlistdepth{20}
+  \renewlist{itemize}{itemize}{20}
+  \renewlist{enumerate}{enumerate}{20}
+  \setlist[itemize]{label=$\cdot$}
+  \setlist[itemize,1]{label=\textbullet}
+  \setlist[itemize,2]{label=--}
+  \setlist[itemize,3]{label=*}
 ---
 
 ## Zkušební okruhy:
@@ -799,6 +807,65 @@ TBD
 
 - Zvláštním případem rozsudku bude situace, kdy soud rozhoduje o žalobě proti rozhodnutí, jímž správní orgán uložil trest za správní delikt.
   - Příklad. Pan Vopička se nedostavil na předvolání finančního úřadu. Finanční úřad mu uložil pokutu dle § 247 DŘ ve výši 40 000 Kč. Maximální limit pokuty daný DŘ činí 50 000 Kč, je tedy v mezích stanovených zákonem. Pan Vopička však podal žalobu. Pokud soud dojde k tomu, že pokuta jako taková je oprávněná (pan Vopička se skutečně bez omluvy nedostavil), naskýtá se dále ještě možnost posuzovat, zda stanovením pokuty nedošlo ke zneužití zákonem stanovené meze správního uvážení a zrušit rozhodnutí pro nezákonnost a vrátit věc k dalšímu řízení finančním orgánům bez stanovení „správné“ výše pokuty.
+
+- SŘS však umožňuje v případech, kdy nejsou důvody pro vyhovění žalobě z důvodů popsaných v předcházejícím textu a trest byl uložen ve zjevně nepřiměřené výši:
+  - a) upustit od něj
+  - b) nebo jej snížit v mezích zákonem dovolených.
+  - To jde pouze v případě, že:
+    - lze takové rozhodnutí učinit na základě skutkového stavu, z něhož vyšel správní orgán, a který soud případně vlastním dokazováním v nikoli zásadních směrech doplnil,
+    - a navrhl-li takový postup žalobce v žalobě.
+  - Soud by tedy mohl v takových případech stanovit novou, konkrétní „odpovídající“ výši pokuty.
+
+### Žaloba proti nečinnosti
+
+- V praxi se setkáváme se situací, kdy máme pocit, že správní orgány naše řízení neúměrně protahují, že mohlo být již dávno skončeno.
+  - Příklad:
+    - Firma NNN, a.s. se chtěla zaregistrovat dobrovolně za plátce DPH v lednu 2015. V dané věci se nic neděje, na dotazy odpovídají pracovníci finančního úřadu, že vše se děje podle zákona a že nemají žádné zákonné lhůty, do kdy zaregistrovat.
+
+- Čeho se můžeme žalobou domáhat
+  - Žalobou se můžeme domáhat, aby soud uložil správnímu orgánu povinnost vydat rozhodnutí ve věci samé nebo osvědčení.
+  - Pokud se bude protahovat řízení o odvolání, rozhodnutí o registraci apod., tedy situace, kdy příslušné řízení končí vydáním nějakého rozhodnutí či osvědčení, je žaloba možná.
+  - **Pokud nedochází nutně k vystavení rozhodnutí (postup k odstranění pochybností, daňová kontrola) – je nutno podat žalobu na nezákonný zásah.**
+
+- Opravné prostředky před podáním žaloby
+  - Žalobu můžeme podat pouze v případě, že jsme bezvýsledně vyčerpali prostředky, které procesní předpis platný pro řízení u správního orgánu stanoví k jeho ochraně proti nečinnosti správního orgánu.
+    - Příklad:
+      - Procesním předpisem v případě řízení před finančními orgány je daňový řád. Ten obsahuje konkrétní opravný prostředek, který se se přímo vztahuje pouze k nečinnosti správce daně – §38 DŘ. Je tedy před žalobou nutno napřed využít tohoto prostředku.
+
+- Žaloba též není přípustná v případě, že zvláštní zákon s nečinností správního orgánu spojuje fikci, že bylo vydáno rozhodnutí o určitém obsahu nebo jiný právní důsledek.
+  - Příklad:
+    - Na základě daňového přiznání k dani z příjmu fyzických osob byla vyměřena daň automaticky posledním dnem lhůty pro podání daňového přiznání tedy 1.dubnem. Tento den se považuje za den vyměření daně a za den doručení rozhodnutí o vyměření daně, přestože se žádný platební výměr nevystavuje ani nedoručuje a uplatňuje se právní fikce vydání a doručení rozhodnutí. Nemůžeme tedy finanční úřad v tomto případě žalovat za nečinnost.
+
+- Koho a kde žalovat:
+  - Žalovaným je správní orgán, který podle žalobního tvrzení má povinnost vydat rozhodnutí nebo osvědčení, tedy většinou finanční úřad nebo Odvolací finanční ředitelství. Místně příslušnými jsou krajské soudy v jehož obvodu je sídlo žalovaného orgánu.
+
+- Lhůta pro podání žaloby:
+  - SŘS stanovuje dvě možné lhůty:
+    - 1) Pro rozhodnutí správního orgánu je stanovena zákonem konkrétní lhůta, kterou správní orgán nedodržel
+      - Žalobu lze podat nejpozději do jednoho roku ode dne kdy ve věci, v níž se žalobce domáhá ochrany, marně proběhla lhůta stanovená zvláštním zákonem pro vydání rozhodnutí nebo osvědčení.
+      - Příklad:
+        - V § 107 DŘ má správce daně do 15 dnů od jejich uplatnění rozhodnout o nároku na náhradu nákladů řízení a dalších 15 dnů má tyto finanční prostředky poukázat. Pokud by tedy správce daně nereagoval na naši žádost o přiznání nároku na náklady řízení, mohli bychom se domáhat žalobou, aby bylo v této věci rozhodnuto.
+    - 2) Pro rozhodnutí správního orgánu není stanovena zákonem konkrétní lhůta
+      - SŘS pak umožňuje podat žalobu do jednoho roku ode dne, kdy byl žalobcem vůči správnímu orgánu nebo správním orgánem proti žalobci učiněn poslední úkon.
+      - Zde se již setkáme s daleko širším okruhem možných žalobních důvodů. Kromě žalob na nečinnost při vyřizování odvolání či uzavírání postupů k odstranění pochybností je možno zmínit i další řádné i mimořádné opravné prostředky (stížnost, obnova řízení, přezkoumání daňových rozhodnutí). Též přicházejí v úvahu případy, kdy by finanční úřad otálel s vydáním osvědčení o registraci.
+      - Možné jsou i žaloby v případech protahování vyřízení žádostí o prominutí daně, žádostí o posečkání daně a povolení splátek, apod.
+
+- Výsledek soudu – rozsudek
+  - Soud rozhoduje na základě skutkového stavu zjištěného ke dni svého rozhodnutí.
+  - Je-li návrh důvodný, soud uloží rozsudkem správnímu orgánu povinnost vydat rozhodnutí nebo osvědčení a stanoví k tomu přiměřenou lhůtu, ne však delší, než kterou určuje zvláštní zákon. Vzhledem k tomu, že DŘ příliš zákonných lhůt neobsahuje, bude ve většině případů záležet plně na soudu, jak dlouhou lhůtu finančnímu orgánu nařídí.
+
+- Soud zamítne žalobu, není-li důvodná.
+  - Pravděpodobně bude často docházet k situacím, kdy samo podání žaloby bude mít urychlující účinek, ještě než dojde k rozhodnutí soudu a finanční orgán konečně vydá rozhodnutí nebo osvědčení, které jsme požadovali.
+  - S tím počítá § 62 SŘS. Dokud soud nerozhodl, může žalovaný finanční orgán vydat rozhodnutí, opatření či provést jiný úkon, kterým žalujícího uspokojí. Musí tento záměr oznámit soudu, předseda senátu stanoví lhůtu, do kdy tak finanční orgán musí učinit a oznámí nám to. Pokud bude finanční orgán ve stanovené lhůtě skutečně konat, soud se nás zeptá, zda jsme byli uspokojeni. Pokud ano, řízení zastaví. Důležité je vědět, že v těchto případech budeme mít jako uspokojená žalující strana nárok na úhradu nákladu řízení, i když nedošlo k rozsudku.
+
+### Žaloba proti nezákonnému zásahu
+
+- V jakém případě žalobu podat
+  - SŘS přináší v § 82 a následujících též možnost obrany proti správním orgánům v případech, kdy máme pocit, že došlo ke zkrácení našich práv nezákonným zásahem, pokynem nebo donucením (dále jen „zásah“) správního orgánu, který není rozhodnutím, a byl zaměřen přímo proti nám nebo v jeho důsledku bylo proti nám přímo zasaženo.
+  - Můžeme se tedy pokusit žalovat např. nezákonně prováděnou kontrolu v případě, že na ni dle našeho názoru neměl správce daně nárok.
+
+- Koho žalovat
+  - Žalovaným je správní orgán, který podle žalobního tvrzení provedl zásah.
 
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
