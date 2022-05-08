@@ -625,15 +625,18 @@ TBD
 
 ## 18. Pojem zneužití práva, praktické případy
 
-TBD
+Disimilace práva
 
 ## 19. Daňové tvrzení, důkazní břemeno v daňovém řízení
 
-TBD
+§70 - §79
+§91 - §107
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 
-TBD
+Místní šetření (§ 80-84 DŘ)
+Daňová kontrola (§ 85-88a DŘ)
+Postup k odstranění pochybností (§ 89-90 DŘ)
 
 ## 21. Dokazování v daňovém řízení
 
