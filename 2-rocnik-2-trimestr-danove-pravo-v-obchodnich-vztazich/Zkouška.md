@@ -981,7 +981,7 @@ TBD
 
 - Ústavní principy jasně vymezují:
   - obsah hmotněprávních a procesněprávních daňových podústavních předpisů,
-  - tak rámec jejich interpretace a aplikace.
+  - tak rámec jejich interpretace a aplikace[^14].
 
 - Nejvyšší správní soud však řeší otázky (viz předchozí otázka), které například, z pohledu podavatele, spočívají v nesprávném posouzení právní otázky - v takovém případe správní soud rozhoduje o vrácení.
 - Judikatura správních soudů spočívá v předpokladu stálosti rozhodování - soud by se tak neměl odchýlit od ustálené soudní praxe.
@@ -989,7 +989,7 @@ TBD
 - Ústavní soud však neřeší otázku z pohledu věci samé, řeší, zda bylo jednání orgánu veřejné moci, či soudní moci zasaženo do ZLP stěžovatele.
 
 - Evropské soudnictví je důležité ze dvou bodů:
-  - předběžná otázka - umožňuje se soudu obrátit na Soudní dvůr Evropské unie - v pochybnostech výkladu Evropského práva,
+  - předběžná otázka - umožňuje se soudu obrátit na Soudní dvůr Evropské unie - v pochybnostech výkladu Evropského práva[^13],
   - u soudu je možné rovněž žalovat rozpor Evropského práva, které má prioritu před vnitrostátním právem, s vnitrostátním právem - u soudu v daném členském státě - může podat předběžnou otázku a řídit se judikaturou Soudního dvora Evropské unie.
 
 ## Cvičení téma k diskusi
@@ -1031,3 +1031,4 @@ TBD
 [^11]: https://www.podnikatel.cz/clanky/jaky-je-rozdil-mezi-vedenim-ucetnictvi-a-vedeni-danove-evidence/
 [^12]: https://cs.wikipedia.org/wiki/Spr%C3%A1vn%C3%AD_soudnictv%C3%AD
 [^13]: https://eur-lex.europa.eu/CS/legal-content/summary/preliminary-ruling-proceedings-recommendations-to-national-courts.html
+[^14]: https://is.muni.cz/www/6685/Danove_pravo_v_judikature_Ustavniho_soudu_CR4-nekorigovano-hruby-draft.pdf
