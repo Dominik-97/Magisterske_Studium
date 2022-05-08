@@ -828,8 +828,21 @@ Rozdíl mezi:
       - Svědky,
       - Záznamní povinnost - Daňový subjekt, který v rámci své podnikatelské nebo jiné samostatně výdělečné činnosti uskutečňuje platby v hotovosti, je povinen vést průběžně evidenci těchto plateb, pokud nezaznamenává údaje o těchto platbách v jiné evidenci stanovené zákonem.
   - Pomůcky a sjednání daně
-    - TBD
-    
+    - Nesplní-li daňový subjekt při dokazování jím uváděných skutečností některou ze svých zákonných povinností, a v důsledku toho nelze daň stanovit na základě dokazování, správce daně stanoví daň podle pomůcek, které má k dispozici nebo které si obstará, a to i bez součinnosti s daňovým subjektem. Uplatnění tohoto postupu při stanovení daně se uvede ve výroku rozhodnutí.
+    - Pomůckami jsou zejména
+      - a) důkazní prostředky, které nebyly správcem daně zpochybněny,
+      - b) podaná vysvětlení,
+      - c) porovnání srovnatelných daňových subjektů a jejich daňových povinností,
+      - d) vlastní poznatky správce daně získané při správě daní.
+    - Neprokázal-li daňový subjekt svá tvrzení vztahující se k jeho daňové povinnosti, a daň nelze dostatečně spolehlivě stanovit ani podle pomůcek, které má správce daně k dispozici, správce daně s daňovým subjektem daň sjedná. Sjednání daně se zaprotokoluje a výše sjednané daně se uvede v rozhodnutí, které má náležitosti rozhodnutí o stanovení daně a které je součástí tohoto protokolu; proti tomuto rozhodnutí nelze uplatnit opravné prostředky.
+  - Předběžná otázka
+    - Správce daně je vázán rozhodovací praxí
+    - Může však podat podnět na zahájení řízení
+    - Určité otázky může posoudit sám, jiné nemůže - §99 DŘ
+  - Předvolání a předvedení
+    - Je možné předvolat - do vlastních rukou s poučením,
+    - pokud se osoba nedostaví, je možné jí předvést - §100 DŘ.
+  - Rozhodnutí
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 
