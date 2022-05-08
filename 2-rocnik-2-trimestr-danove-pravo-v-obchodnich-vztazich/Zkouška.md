@@ -867,6 +867,36 @@ TBD
 - Koho žalovat
   - Žalovaným je správní orgán, který podle žalobního tvrzení provedl zásah.
 
+- Do kdy žalobu podat?
+  - Žaloba musí být podána do dvou měsíců ode dne, kdy se žalobce dozvěděl o nezákonném zásahu. Nejpozději lze žalobu podat do dvou let od okamžiku, kdy k němu došlo. Zmeškání lhůty nelze prominout.
+
+- Náležitosti žaloby
+  - Žaloba mimo obecných náležitostí podání musí obsahovat
+    - a) označení zásahu, proti němuž se žalobce ochrany domáhá,
+    - b) vylíčení rozhodujících skutečností,
+    - c) označení důkazů, jichž se žalobce dovolává,
+    - d) návrh výroku rozsudku.
+
+- Výsledek soudu – rozsudek
+  - Soud rozhoduje na základě skutkového stavu zjištěného ke dni svého rozhodnutí. Vyhoví-li žalobě, soud zakáže správnímu orgánu, aby v porušování práva pokračoval a přikáže mu, aby obnovil stav, který tu byl před zásahem, nebo že provedený zásah byl nezákonný.
+  - Soud samozřejmě může žalobu zamítnout, není-li důvodná.
+
+### Řízení ve věcech opatření obecné povahy
+
+- Opatření obecné povahy zavedl do právního řádu České republiky zákon č. 500/2004 Sb., správní řád, v němž je charakterizováno jako opatření, které není právním předpisem ani rozhodnutím.
+- Opatření obecné povahy je, jinak řečeno, správním aktem s konkrétně určeným předmětem a obecně vymezeným okruhem adresátů (§ 101a, 101b, 101d s. ř. s.).
+
+- Příklady opatření obecné povahy
+  - územní plán
+  - stanovení záplavového území
+  - stanovení ochranného pásma vodních zdrojů
+  - stanovení místní nebo přechodné úpravy provozu na pozemních komunikacích dopravními značkami a dopravními zařízeními
+
+- K řízení o zrušení opatření obecné povahy nebo jeho části jsou příslušné krajské soudy rozhodující ve správním soudnictví, které při svém rozhodování posuzují:
+  - soulad opatření obecné povahy se zákonem,
+  - zda ten, kdo je vydal, postupoval v mezích své působnosti a pravomoci,
+  - zda opatření obecné povahy bylo vydáno zákonem stanoveným způsobem.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
