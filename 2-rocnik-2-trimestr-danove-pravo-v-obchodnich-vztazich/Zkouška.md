@@ -843,6 +843,10 @@ Rozdíl mezi:
     - Je možné předvolat - do vlastních rukou s poučením,
     - pokud se osoba nedostaví, je možné jí předvést - §100 DŘ.
   - Rozhodnutí
+    - Správce daně ukládá povinnosti nebo přiznává práva anebo prohlašuje práva a povinnosti stanovené zákonem rozhodnutím.
+    - Rozhodnutí je vydané okamžikem doručení, pokud se nedoručuje je vydané okamžikem podepsání daného rozhodnutí úřední osobou - §101 DŘ.
+    - Zákon vymezuje co rozhodnutí obsahuje, především se jedná o určení stran, výrok s odůvodnění, lhůty, poučení, podpis úřední osoby a datum.
+    - Rozhodnutí, které je účinní a proti kterému se nelze odvolat, je v právní moci
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 
