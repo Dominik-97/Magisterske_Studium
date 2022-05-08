@@ -654,6 +654,24 @@ TBD
 - Vyhláška 177/1996 Sb. – advokátní tarif
 - Zákon č. 549/1991 Sb., o správních poplatcích
 
+### Opravné a dozorčí prostředky
+
+- Správní řízení má[^15]:
+  - opravné a
+  - dozorčí prostředky.
+
+- Důležité je, že před podáním žaloby musí být vyčerpány všechny opravné prostředky, dozorčí prostředky však použity být nemusí.
+- Soudní řízení je jednoinstanční, proto neexistují řádné opravné prostředky proti rozhodnutí Správního soudu v první instanci, ale pouze mimořádné opravné prostředky směřované k Nejvyššímu správnímu soudu.
+
+- Existující opravné prostředky ve správním řízení:
+  - odvolání - napadení rozhodnutí správního orgánu - standardně rozhoduje nadřízený orgán,
+  - rozklad - velice podobné odvolání, dle **správního řádu** se dokonce použije subsidiárně právní úprava odvolání,
+  - odpor - forma odvolání proti uložení písemného příkazu.
+
+- Existující mimořádné opravné prostředky ve správním řízení:
+  - obnova řízení - před správním orgánem - například pokud vyšly najevo dříve neznáme skutečnosti nebo důkazy,
+  - přezkumné řízení - řízení zahájené *ex offo* - kdy je pochybnost o souladu napadeného rozhodnutí s právními předpisy - a nařizuje ho správní orgán nadřízený orgánu, který napadené rozhodnutí vydal.
+
 ### Obsah kapitoly
 
 1. Důvody existence správního soudnictví
@@ -1032,3 +1050,4 @@ TBD
 [^12]: https://cs.wikipedia.org/wiki/Spr%C3%A1vn%C3%AD_soudnictv%C3%AD
 [^13]: https://eur-lex.europa.eu/CS/legal-content/summary/preliminary-ruling-proceedings-recommendations-to-national-courts.html
 [^14]: https://is.muni.cz/www/6685/Danove_pravo_v_judikature_Ustavniho_soudu_CR4-nekorigovano-hruby-draft.pdf
+[^15]: https://cs.wikipedia.org/wiki/Opravn%C3%BD_prost%C5%99edek
