@@ -649,6 +649,8 @@ Postup k odstranění pochybností (§ 89-90 DŘ)
   - Dokazování ve vybraných případech (reklama, zprostředkování, manažerské služby)
   - Judikatura soudů a její význam pro daňovou praxi
 
+### Dokazování
+
 - Dokazování I.
   - Dokazování provádí **příslušný správce daně** nebo jím **dožádaný správce daně**.
   - Správce daně dbá, aby skutečnosti rozhodné pro správné zjištění a stanovení daně byly zjištěny co nejúplněji, a není v tom vázán jen návrhy daňových subjektů.
@@ -723,6 +725,8 @@ Postup k odstranění pochybností (§ 89-90 DŘ)
 
 - Daňový subjekt má právo být přítomen výslechu svědka a klást mu otázky v rámci dokazovaní svých práv a povinností. O provádění svědecké výpovědi správce daně daňový subjekt včas vyrozumí, nehrozí-li nebezpečí z prodlení.
 - Ve vyrozumění daňového subjektu o provádění svědecké výpovědi správce daně uvede označení věci, ve které bude svědek vypovídat, a označení svědka, nehrozí-li nebezpečí, že by došlo ke zmaření účelu výpovědi.
+
+### Pomůcky
 
 - Pomůcky – kdy se použijí?
   - § 87 – Nevyhovění výzvě SD k zahájení kontroly (Daňová kontrola, Daňová kontrola a Postup k odstranění pochybností jsou dva druhy Kontrolních postupů)[^17]
@@ -800,58 +804,31 @@ Postup k odstranění pochybností (§ 89-90 DŘ)
 
 - Pomůcky – judikatura – výhody pro DS
   - IV. ÚS 360/05 z 20. 11. 2006
-    - „Za takové výhody lze považovat příkladmo okolnosti, za jakých
-podmínek daňový subjekt podniká, v jakém oboru činnosti
-podniká, v jaké lokalitě má umístěnu provozovnu apod. To, zda
-správce daně takovou skutečnost zohlednil, je pak skutečností,
-kterou v rámci přezkumu zákonnosti musí hodnotit odvolací orgán
-v rámci odvolacího řízení.
+    - „Za takové výhody lze považovat příkladmo okolnosti, za jakých podmínek daňový subjekt podniká, v jakém oboru činnosti podniká, v jaké lokalitě má umístěnu provozovnu apod. To, zda správce daně takovou skutečnost zohlednil, je pak skutečností, kterou v rámci přezkumu zákonnosti musí hodnotit odvolací orgán v rámci odvolacího řízení.
 
-Pomůcky – judikatura – pomůcky chtěl marně
-DS
- NSS 7 Afs 21/2012 – 44 z 27. 9. 2012
- Stěžovatelce byla doměřena daň (dokazováním) 77 868
-Kč, protože nedokázala prokázat výdaje
- Stěžovatelka požadovala doměření podle pomůcek,
-protože když existovalo prodané zboží, je nemyslitelné,
-aby na něj nebyly žádné výdaje
- SD ani KS nevyhověl
+- Pomůcky – judikatura – pomůcky chtěl marně DS
+  - NSS 7 Afs 21/2012 – 44 z 27. 9. 2012
+    - Stěžovatelce byla doměřena daň (dokazováním) 77 868 Kč, protože nedokázala prokázat výdaje
+    - Stěžovatelka požadovala doměření podle pomůcek, protože když existovalo prodané zboží, je nemyslitelné, aby na něj nebyly žádné výdaje
+  - SD ani KS nevyhověl
 
-Pomůcky – judikatura – pomůcky chtěl marně
-DS
- NSS 7 Afs 21/2012 – 44 pokrač.:
- Názor NSS:
- SD neuznal 95 % výdajů, nebyly věrohodně stanoveny
-ani příjmy
- Daň nebylo možno stanovit dokazováním, mělo být
-použito pomůcek
- Nelze zcela opomenout výdaje DS, pomůcky by byly pro
-ni výhodnější, proto SD pochybil, když je nepoužil 
+- Pomůcky – judikatura – pomůcky chtěl marně DS
+  - NSS 7 Afs 21/2012 – 44 pokrač.:
+    - Názor NSS:
+      - SD neuznal 95 % výdajů, nebyly věrohodně stanoveny ani příjmy
+      - Daň nebylo možno stanovit dokazováním, mělo být použito pomůcek
+      - Nelze zcela opomenout výdaje DS, pomůcky by byly pro ni výhodnější, proto SD pochybil, když je nepoužil
 
-Pomůcky – judikatura – DPH nutnost pomůcek na vstup i
-výstup
- 1 Afs 19/2004 – 67 ze dne 3. 11. 2004 (Sbírka NSS 12/2006 č.
-991/2006):
- „Nastanou-li skutečnosti předvídané ustanovením § 31 odst. 5 a
-násl. ZSDP, je povinností správce daně stanovit daň pomocí
-pomůcek. Jde-li o daň z přidané hodnoty, pak - vzhledem k
-zákonné konstrukci daňové povinnosti u této daně jako rozdílu
-mezi daní na vstupu a daní na výstupu - je nutno stanovit
-daňovou povinnost za určité zdaňovací období jednotně podle
-pomůcek.“
+- Pomůcky – judikatura – DPH nutnost pomůcek na vstup i výstup
+  - 1 Afs 19/2004 – 67 ze dne 3. 11. 2004 (Sbírka NSS 12/2006 č. 991/2006):
+    - „Nastanou-li skutečnosti předvídané ustanovením § 31 odst. 5 a násl. ZSDP, je povinností správce daně stanovit daň pomocí pomůcek. Jde-li o daň z přidané hodnoty, pak - vzhledem k zákonné konstrukci daňové povinnosti u této daně jako rozdílu mezi daní na vstupu a daní na výstupu - je nutno stanovit daňovou povinnost za určité zdaňovací období jednotně podle pomůcek.“
 
-Pomůcky – judikatura – částečné dokazování
- 2 Afs 25/2003 – 87 ze dne 25. května 2004
- Správce daně nemůže hovořit o vyměření daň podle pomůcek
-tam, kde ve skutečnosti stanovil daň dokazováním, nemožnost
-stanovit daň částečně dokazováním a částečné pomůckami
- Jestliže totiž rozhodnutí žalovaného např. konstatuje, že
-stěžovatelem nebyly předloženy evidenční listy, mělo by
-obsahovat rovněž zdůvodnění, proč nelze pro tuto skutečnost
-stanovit výši příjmů z pronájmu bytů dokazováním, např. na základě výzev k součinnosti třetích osob.
+- Pomůcky – judikatura – částečné dokazování
+  - 2 Afs 25/2003 – 87 ze dne 25. května 2004
+    - Správce daně nemůže hovořit o vyměření daň podle pomůcek tam, kde ve skutečnosti stanovil daň dokazováním, nemožnost stanovit daň částečně dokazováním a částečné pomůckami
+  - Jestliže totiž rozhodnutí žalovaného např. konstatuje, že stěžovatelem nebyly předloženy evidenční listy, mělo by obsahovat rovněž zdůvodnění, proč nelze pro tuto skutečnost stanovit výši příjmů z pronájmu bytů dokazováním, např. na základě výzev k součinnosti třetích osob.
 
-Pomůcky – malý rozsah chyb neopravňuje k přechodu na
-pomůcky
+- Pomůcky – malý rozsah chyb neopravňuje k přechodu na pomůcky
 NSS 2 Afs 132/2005 – 71 z 27. 7. 2006
  „Nesplnění povinností daňovým subjektem je důvodem pro
 stanovení daně podle pomůcek jen za situace, kdy je v důsledku
@@ -862,7 +839,7 @@ případech byla přepsána pořadová čísla faktur, a že
 neoprávněně zaúčtoval jeden výdaj, samo o sobě stanovení
 daně dokazováním nevylučuje“.
 
-Pomůcky – judikatura – oprávněnost použití
+- Pomůcky – judikatura – oprávněnost použití
 NSS 5 Afs 129/2006 z 27. 7. 2007
  „Jednalo-li se svým objemem o podstatnou část účetnictví
 stěžovatele, která byla zpochybněna a správcem daně neuznána,
@@ -872,7 +849,7 @@ celku nebyla zpochybněna, resp. zachována. ZSDP v § 31 odst.
 není úplné a průkazné, použito jakožto jedné z možných
 pomůcek“.
 
-Pomůcky – judikatura – odcizené účetnictví
+- Pomůcky – judikatura – odcizené účetnictví
 NSS 1 Afs 94/2006-60 ze dne 31. 1. 2007
  Žalobce se ocitl v důkazní nouzi, neboť účetní doklady mu byly odcizeny.
  To samo o sobě však nemusí vždy způsobit takovou absenci důkazních
@@ -881,62 +858,35 @@ pomůcek, jak předpokládá § 31 odst. 5 ZSDP.
  Lze si představit, že i v takové situaci budou existovat jiné důkazy, jimiž
 daňový subjekt spolehlivě prokáže jím tvrzenou daň.
 
-Dokazování ve vybraných případech
- Zprostředkování, reklama, manažerské služby
- Základní problémy:
- Fakturování fiktivních služeb, které nebyly poskytnuty
- Falešné doklady
- Nereálné ceny za služby, řetězové navyšování cen – cena
-„obvyklá“
- Nekontaktní a zapomnětliví svědci
- Chybějící dokumentace k prováděným činnostem
+- Dokazování ve vybraných případech
+  - Zprostředkování, reklama, manažerské služby
+  - Základní problémy:
+  - Fakturování fiktivních služeb, které nebyly poskytnuty
+  - Falešné doklady
+  - Nereálné ceny za služby, řetězové navyšování cen – cena „obvyklá“
+  - Nekontaktní a zapomnětliví svědci
+  - Chybějící dokumentace k prováděným činnostem
 
-Reklama
- §25/1/t zákona o daních z příjmů neuznává daňově výdaje na
-reprezentaci, kterými jsou zejména výdaje na pohoštění,
-občerstvení a dar; za dar se nepovažuje reklamní nebo
-propagační předmět, který je opatřen jménem nebo ochrannou
-známkou poskytovatele tohoto předmětu nebo názvem
-propagovaného zboží nebo služby, jehož hodnota bez daně z
-přidané hodnoty nepřesahuje 500 Kč a který není s výjimkou
-tichého vína předmětem spotřební daně
+- Reklama
+  - §25/1/t zákona o daních z příjmů neuznává daňově výdaje na reprezentaci, kterými jsou zejména výdaje na pohoštění, občerstvení a dar; za dar se nepovažuje reklamní nebo propagační předmět, který je opatřen jménem nebo ochrannou známkou poskytovatele tohoto předmětu nebo názvem propagovaného zboží nebo služby, jehož hodnota bez daně z přidané hodnoty nepřesahuje 500 Kč a který není s výjimkou tichého vína předmětem spotřební daně
 
-Reklama
- Problémy:
- a) prokázat, že jde o výdaj na reklamu a nikoli na reprezentaci,
- b) i v případě, že jde o výdaj na reklamu, prokázat, že reklama byla opravdu
-uskutečněna, včetně jejího deklarovaného rozsahu, času a v ceně
-odpovídající odvedenému dílu,
- c) můžeme se setkat i s opačným problémem, tedy se snahou vykázat
-reklamu jako „charitativní“ dar s možností uplatnit jej jako odečitatelnou
-položku od základu daně.
+- Reklama
+  - Problémy:
+    - a) prokázat, že jde o výdaj na reklamu a nikoli na reprezentaci,
+    - b) i v případě, že jde o výdaj na reklamu, prokázat, že reklama byla opravdu uskutečněna, včetně jejího deklarovaného rozsahu, času a v ceně odpovídající odvedenému dílu,
+    - c) můžeme se setkat i s opačným problémem, tedy se snahou vykázat reklamu jako „charitativní“ dar s možností uplatnit jej jako odečitatelnou položku od základu daně.
+    - d) plnění, které daňový subjekt poskytuje, bývá posouzeno jako dar a nikoli jako součást ceny (jiného) prodávaného zboží či služby,
+    - e) plnění spočívající obvykle v uspořádání nějaké akce (i bez poskytovaných dárků) nebývá uznáno jako reklama, ale označeno za výdaj na reprezentaci,
+    - f) předmětné plnění sice definici reprezentace nenaplňuje, ale příčinná souvislost příslušné akce s daňovými výnosy je nedostatečná.
 
-Reklama
- d) plnění, které daňový subjekt poskytuje, bývá posouzeno jako
-dar a nikoli jako součást ceny (jiného) prodávaného zboží či
-služby,
- e) plnění spočívající obvykle v uspořádání nějaké akce (i bez
-poskytovaných dárků) nebývá uznáno jako reklama, ale označeno
-za výdaj na reprezentaci,
- f) předmětné plnění sice definici reprezentace nenaplňuje, ale
-příčinná souvislost příslušné akce s daňovými výnosy je
-nedostatečná.
+- Reklama
+  - Příklad
+    - Pokud tedy např. tělovýchovná jednota přijme finanční částku na svůj provoz, ale zároveň se zaváže, že jako reciprocitu budou na dresech jejich hráčů uvedeno logo firmy, nejde o dar, ale výdaj na reklamu.
 
-Reklama
- Příklad
- Pokud tedy např. tělovýchovná jednota přijme finanční
-částku na svůj provoz, ale zároveň se zaváže, že jako
-reciprocitu budou na dresech jejich hráčů uvedeno logo
-firmy, nejde o dar, ale výdaj na reklamu.
-
-Reklama - judikatura
- Prokázání uskutečnění reklamy (NSS 7 Afs 112/2008 – 64 ze dne 11. 12.
-2008)
- DS předložil formálně bezvadné doklady, fotodokumentaci o tom, že reklamní
-činnost proběhla, navrhl svědky a další důkazy.
- Někteří svědci (zástupci dodavatelských firem) popřeli, že by reklamní
-činnost pro daný subjekt prováděli a daný subjekt vůbec znali, jiní sdělili, že
-si danou situaci již nepamatují. 
+- Reklama - judikatura
+  - Prokázání uskutečnění reklamy (NSS 7 Afs 112/2008 – 64 ze dne 11. 12. 2008)
+    - DS předložil formálně bezvadné doklady, fotodokumentaci o tom, že reklamní činnost proběhla, navrhl svědky a další důkazy.
+    - Někteří svědci (zástupci dodavatelských firem) popřeli, že by reklamní činnost pro daný subjekt prováděli a daný subjekt vůbec znali, jiní sdělili, že si danou situaci již nepamatují.
 
 Reklama - judikatura
  7 Afs 112/2008 – pokrač.
