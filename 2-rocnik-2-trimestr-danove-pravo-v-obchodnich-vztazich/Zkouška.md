@@ -729,6 +729,11 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
     - Správce daně je při řízení vázán důvody, pro které bylo nařízeno, a právním názorem vyjádřeným v rozhodnutí o nařízení přezkoumání rozhodnutí; ve stejném rozsahu může řízení doplňovat a odstraňovat jeho vady.
     - Má odkladný účinek.
 
+### Vztah ke správnímu soudnictví
+
+- Domáhá-li se navrhovatel ve správním soudnictví zrušení rozhodnutí vydaného správcem daně, může jej správce daně uspokojit změnou nebo zrušením tohoto rozhodnutí v přezkumném řízení.
+- V rámci přezkumného řízení směřujícího k uspokojení navrhovatele ve správním soudnictví nelze změnit rozhodnutí v neprospěch navrhovatele.
+
 ## 23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky
 
 ### Podklady
