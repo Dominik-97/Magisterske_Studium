@@ -784,6 +784,11 @@ TBD
 - 1) Žaloba není důvodná – soud žalobu zamítne
 - 2) Žaloba je důvodná – soud napadené rozhodnutí zruší a vrátí věc k dalšímu řízení žalované straně. Podle povahy věci zruší buď jen rozhodnutí orgánu, který věc rozhodl v posledním stupni nebo i rozhodnutí orgánů nižších stupňů, které tomuto rozhodnutí předcházela.
 
+- Příklad:
+  - Firmě HHH, s.r.o. byla neoprávněně doměřena daň z příjmů právnických osob za rok 2012. Soud žalobě vyhověl – zrušil rozhodnutí o odvolání Odvolacího finančního ředitelství (orgán rozhodující v posledním stupni).
+    - Je tedy třeba vzít v úvahu, že soud nevydává v případě vyhovění žalobě namísto finančních orgánů rozhodnutí nové, ale pouze jejich rozhodnutí ruší a vrací jim je k dalšímu řízení.
+  - Žalovaná strana je pak vázána v dalším rozhodování názorem soudu a pokud soud prováděl sám dokazování, musí v dalším rozhodování vycházet i z důkazů provedených soudem.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
