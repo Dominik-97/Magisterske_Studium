@@ -750,6 +750,28 @@ TBD
   - Příklad:
     - Firmě ZZZ, s.r.o. byla doměřena daň z příjmů právnických osob za rok 2009 ve výši 500 tis. Kč. Společnost s doměrkem nesouhlasí, proto po neúspěšném odvolání podala žalobu k soudu. Pouze podáním žaloby se nic nemění na tom, že doměřená daň by mohla být exekuována ze strany finančního úřadu ještě před ukončením soudního řízení. Podnik proto požádal o odkladný účinek žaloby.
 
+**Předběžné opatření:**
+
+- Byl-li podán návrh na zahájení řízení a je potřeba zatímně upravit poměry účastníků pro hrozící vážnou újmu, může usnesením soud na návrh předběžným opatřením účastníkům uložit něco vykonat, něčeho se zdržet nebo něco snášet. Ze stejných důvodů může soud uložit takovou povinnost i třetí osobě, lze-li to po ní spravedlivě žádat.
+  - Rozhodnutí bez zbytečného odkladu, nejdéle do 30 dnů
+  - Lze i u ostatních žalob, nejen proti rozhodnutí spr. org., je tedy širší
+
+- Příklad:
+  - Firma ZZZ, s.r.o., požádala o posečkání daně. Byla zamítnuta, stejně tak i odvolání.
+    - Korporace podala žalobu a zároveň žádost o předběžné opatření, které zabrání exekuovat dlužnou daň.
+
+**Co se děje po podání žaloby?**
+
+- Především se soud obrátí na žalovaného, tedy většinou u daní na Odvolací finanční ředitelství a dá mu dvouměsíční lhůtu na to, aby soudu předložil správní spisy a vyjádřil se k žalobě.
+- Došlé vyjádření žalobci zašle, přitom nám může uložit, abychom se k němu uvedli svůj názor (podali repliku). Soud může oslovit i další osoby, pokud by to považoval za potřebné. Při přezkoumání žaloby se pochopitelně vychází nikoli za aktuálního právního stavu, ale ze stavu, který platil v době rozhodování finančních orgánů.
+
+**Je nutné ústní jednání?**
+
+- Ne vždy musí dojít k osobnímu jednání u soudu. K jednání nedojde v následujících případech:
+  - 1) Důvody nezávislé na tom, zda si zúčastněné strany jednání přejí či nikoli.
+    - Soud totiž zruší napadené rozhodnutí pro vady řízení bez jednání rozsudkem:
+      - a) pro nepřezkoumatelnost spočívající v nesrozumitelnosti nebo nedostatku důvodů rozhodnutí. Jinými slovy řečeno, jestliže není z rozhodnutí zřejmé, co vlastně nařizuje, popř. jestliže není jasné, proč vůbec bylo vydáno, o co žalovaný orgán opírá své rozhodnutí, nemůže ani soud vědět, zda úvahy žalovaného, které k vydání rozhodnutí vedly byly správné či nikoli, a proto rozhodnutí zruší. To ovšem ještě neznamená, že si poplatník může definitivně oddechnout, protože žalovaný finanční orgán pravděpodobně namísto tohoto rozhodnutí (které je v neprospěch poplatníka) vydá nové, ovšem již řádně zdůvodněné a celý kolotoč soudního jednání se pak může opakovat.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
