@@ -897,6 +897,86 @@ TBD
   - zda ten, kdo je vydal, postupoval v mezích své působnosti a pravomoci,
   - zda opatření obecné povahy bylo vydáno zákonem stanoveným způsobem.
 
+### Opravné prostředky ve správním soudnictví – kasační stížnost, obnova řízení
+
+- Kdo může žalobu podat - zastupování
+  - Zatímco v případě správní žaloby mohl klienta zastupovat daňový poradce, v případě kasační stížnosti to je možné, pokud u krajského soudu prohrálo např. Odvolací finanční ředitelství a podalo kasační stížnost. Pak daňový poradce může zastupovat i nadále. Pokud však u krajského soudu nebyl úspěšný klient, pak již kasační stížnost za něj musí podat advokát.
+  - Nejenže kasační stížnost nemůže podat v takovém případě za klienta daňový poradce, stížnost nemůže podat ani klient sám. SŘS nařizuje povinné zastoupení advokátem. (To neplatí, má-li stěžovatel, jeho zaměstnanec nebo člen, který za něj jedná nebo jej zastupuje, vysokoškolské právnické vzdělání, které je podle zvláštních zákonů vyžadováno pro výkon advokacie).
+
+- Důvody kasační stížnosti
+  - Kasační stížnost lze podat pouze z důvodu tvrzené:
+    - a) nezákonnosti spočívající v nesprávném posouzení právní otázky soudem v předcházejícím řízení,
+    - b) vady řízení spočívající v tom, že skutková podstata, z níž správní orgán v napadeném rozhodnutí vycházel, nemá oporu ve spisech nebo je s nimi v rozporu, nebo že při jejím zjišťování byl porušen zákon v ustanoveních o řízení před správním orgánem takovým způsobem, že to mohlo ovlivnit zákonnost, a pro tuto důvodně vytýkanou vadu soud, který ve věci rozhodoval, napadené rozhodnutí správního orgánu měl zrušit; za takovou vadu řízení se považuje i nepřezkoumatelnost rozhodnutí správního orgánu pro nesrozumitelnost,
+    - c) zmatečnosti řízení před soudem spočívající v tom, že chyběly podmínky řízení, ve věci rozhodoval vyloučený soudce nebo byl soud nesprávně obsazen, popřípadě bylo rozhodnuto v neprospěch účastníka v důsledku trestného činu soudce,
+    - d) nepřezkoumatelnosti spočívající v nesrozumitelnosti nebo nedostatku důvodů rozhodnutí, popřípadě v jiné vadě řízení před soudem, mohla-li mít taková vada za následek nezákonné rozhodnutí o věci samé,
+
+- Nepřípustnost stížnosti
+  - Kasační stížnost je nepřípustná, jestliže:
+    - směřuje jen proti výroku o nákladech řízení nebo proti důvodům rozhodnutí soudu, je nepřípustná,
+    - směřuje proti rozsudku jímž soud rozhodl znovu poté, kdy jeho původní rozhodnutí bylo zrušeno Nejvyšším správním soudem; (to neplatí, je-li jako důvod kasační stížnosti namítáno, že se soud neřídil závazným právním názorem Nejvyššího správního soudu),
+    - proti rozhodnutí, jímž se pouze upravuje vedení řízení
+    - proti rozhodnutí, které je podle své povahy dočasné,
+    - opírá-li se jen o jiné důvody, než které jsou uvedeny v textu týkajících se důvodů pro kasační stížnost
+    - opírá-li se o důvody, které stěžovatel neuplatnil v řízení před soudem, jehož rozhodnutí má být přezkoumáno, ač tak učinit mohl.
+
+- Kdy a kam podat kasační stížnost
+  - Zatímco dříve se kasační stížnost podávala u soudu, který napadené rozhodnutí vydal, tedy většinou u krajského soudu, s jehož rozhodnutím nesouhlasíme, od podzimu roku 2011 se podává přímo u Nejvyššího správního soudu.
+  - Kasační stížnost musí být podána do dvou týdnů po doručení rozhodnutí, které napadáme.
+  - Nemá-li kasační stížnost všechny náležitosti již při jejím podání, musí být tyto náležitosti doplněny ve lhůtě jednoho měsíce od doručení usnesení, kterým byl stěžovatel vyzván k doplnění podání. Jen v této lhůtě může stěžovatel rozšířit kasační stížnost na výroky dosud nenapadené a rozšířit její důvody. Tuto lhůtu může soud na včasnou žádost stěžovatele z vážných důvodů prodloužit, nejdéle však o další měsíc.
+
+- Náležitosti stížnosti
+  - Kromě obecných náležitostí podání musí kasační stížnost
+  - obsahovat označení rozhodnutí, proti němuž směřuje, v jakém rozsahu a z jakých důvodů jej stěžovatel napadá, údaj o tom, kdy mu rozhodnutí bylo doručeno.
+
+- Odkladný účinek
+  - Kasační stížnost nemá odkladný účinek, Nejvyšší správní soud jej však může na návrh stěžovatele přiznat.
+
+- Řízení před Nejvyšším správním soudem
+  - NSS rozhoduje v drtivé většině případů bez jednání
+  - NSS vázán rozsahem a důvody kasační stížnosti, nebude tedy vyhledávat argumenty v náš prospěch nad rámec, který jsme uvedli ve stížnosti. To však neplatí:
+    - v případech, je-li na napadeném výroku závislý výrok, který napaden nebyl,
+    - je-li rozhodnutí správního orgánu nicotné,
+    - bylo-li řízení před krajským soudem zmatečné,
+    - bylo řízení před krajským soudem zatíženo vadou, která mohla mít za následek nezákonné rozhodnutí o věci samé
+    - je-li napadené rozhodnutí nepřezkoumatelné,
+
+- Ke skutečnostem, které stěžovatel uplatnil poté, kdy bylo vydáno napadené rozhodnutí, Nejvyšší správní soud nepřihlíží.
+
+- Rozsudek:
+  - Dospěje-li Nejvyšší správní soud k tomu, že kasační stížnost je důvodná, rozsudkem zruší rozhodnutí krajského soudu a věc mu vrátí k dalšímu řízení.
+  - Zruší-li Nejvyšší správní soud rozhodnutí krajského soudu a vrátili mu věc k dalšímu řízení, je krajský soud vázán právním názorem vysloveným Nejvyšším správním soudem ve zrušovacím rozhodnutí.
+  - Není-li kasační stížnost důvodná, Nejvyšší správní soud ji rozsudkem zamítne.
+
+- Obnova řízení
+  - Je přípustná jen v řízení o žalobách proti nezákonným zásahům a v řízení ve věcech politických stran, tedy tam, kde soud sám zjišťoval skutkový stav věci.
+  - Dvě fáze:
+    - 1) řízení o povolení obnovy - zkoumá se, zda je dán důvod obnovy (tedy to, že vyšly najevo důkazy nebo skutečnosti, které účastník bez své viny neuplatnil v původním řízení, v jejichž světle může být výsledek řízení pro něj příznivější),
+    - 2) poté, kdy je obnova řízení povolena, se provede nové řízení ve věci samé.
+  - K podání návrhu je stanovena lhůta tří měsíců od okamžiku, kdy se navrhovatel o důvodu obnovy dozvěděl, nejpozději však lze návrh podat do tří let od právní moci původního rozhodnutí.
+
+- Co soudní řízení stojí?
+  - Zde se postupuje dle přílohy k zákonu č. 549/1991 Sb. O soudních poplatcích
+  - Položka 18 bod 2.
+  - Za žalobu nebo jiný návrh na zahájení řízení ve věcech správního soudnictví:
+    - proti rozhodnutí správního orgánu Kč 3 000,- (=většina případů)
+    - v ostatních případech Kč 2 000,-
+  - Do ostatních případů bychom zahrnovali žalobu na nečinnost správního orgánu a žalobu na jiný zásah státního orgánu – tedy žaloby v případech, kde nejde o žalobu proti rozhodnutí správního orgánu)
+  - Položka 15
+    - Za kasační stížnost k Nejvyššímu správnímu soudu Kč 5 000,-
+  - Soudní poplatky se hradí vylepením kolkových známek na žalobu nebo převodem na účet soudu.
+
+- Náklady řízení jsou zejména:
+  - hotové výdaje účastníků a jejich zástupců,
+  - soudní poplatky,
+  - ušlý výdělek účastníků a jejich zákonných zástupců,
+  - náklady spojené s dokazováním,
+  - odměna zástupce a jeho hotové výdaje,
+  - tlumočné.
+
+- Náklady řízení
+  - Platí obecná zásada, že náklady soudního řízení platí ten, kdo ho prohrál. To na jedné straně přináší pozitivní pohled v tom, že pokud u soudu budete úspěšní, poražená strana by měla náklady na naše advokáta či daňového poradce ve výši podle advokátního tarifu (vyhláška 177/1996 Sb., v platném znění), který se dle SŘS na jiné zástupce než advokáty použije obdobně
+  - Protistrana (např. finanční úřad či jiný státní orgán) obvykle náklady řízení přiznány nedostane.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
