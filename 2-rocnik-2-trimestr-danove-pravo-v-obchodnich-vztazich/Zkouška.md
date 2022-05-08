@@ -738,6 +738,18 @@ TBD
       - b) předběžné povahy
         - Příklad - Firma JJJ, s.r.o. podala v průběhu kontroly žalobu proti postupu pracovníků správce daně při kontrole, protože pracovníci finančního úřadu požadovali dokumenty, na které dle názoru společnosti neměli nárok. Soud však v tomto případě žalobu pravděpodobně odmítne, protože jde o rozhodnutí správního orgánu procesní povahy. Poněkud zjednodušeně by se dalo říci, že v daném případě nenastala podniku JJJ újma např. ve smyslu doměřené daně - ta by nastala až v případě, že by byla této společnosti na základě výsledků kontroly doměřena daň. Proti dodatečnému doměření daně by už (v případě zamítnutého odvolání proti jejímu vyměření), žalobu bylo možno podat a teprve v rámci ní napadnout např. postup pracovníků správce daně při kontrole
 
+**Do kdy podat žalobu?**
+
+- Žalobu je nutno podat do dvou měsíců od doručení rozhodnutí, které žalobou napadáme.
+- Lhůta je zachována, byla-li žaloba ve lhůtě podána u správního orgánu, proti jehož rozhodnutí směřuje.
+- Zmeškání lhůty pro podání žaloby nelze prominout.
+
+**Odkladný účinek žaloby:**
+
+- Podání žaloby v zásadě nemá odkladný účinek. Můžeme však o něj soud požádat. Pokud soud přizná žalobě odkladný účinek, pozastavují se do skončení řízení účinky napadeného rozhodnutí. Lze o něj požádat jen u žalob proti rozhodnutí spr. orgánu.
+  - Příklad:
+    - Firmě ZZZ, s.r.o. byla doměřena daň z příjmů právnických osob za rok 2009 ve výši 500 tis. Kč. Společnost s doměrkem nesouhlasí, proto po neúspěšném odvolání podala žalobu k soudu. Pouze podáním žaloby se nic nemění na tom, že doměřená daň by mohla být exekuována ze strany finančního úřadu ještě před ukončením soudního řízení. Podnik proto požádal o odkladný účinek žaloby.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
