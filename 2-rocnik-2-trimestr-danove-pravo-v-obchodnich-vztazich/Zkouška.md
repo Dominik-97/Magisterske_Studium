@@ -722,8 +722,8 @@ TBD
 - Ve vyrozumění daňového subjektu o provádění svědecké výpovědi správce daně uvede označení věci, ve které bude svědek vypovídat, a označení svědka, nehrozí-li nebezpečí, že by došlo ke zmaření účelu výpovědi.
 
 - Pomůcky – kdy se použijí?
-  - § 87 – Nevyhovění výzvě SD k zahájení kontroly
-  - § 90 - Neposkytnutí součinnosti u POP
+  - § 87 – Nevyhovění výzvě SD k zahájení kontroly (Daňová kontrola, Daňová kontrola a Postup k odstranění pochybností jsou dva druhy Kontrolních postupů)[^17]
+  - § 90 - Neposkytnutí součinnosti u POP (Postup k odstranění pochybností)
   - § 98 – Nemožnost stanovit daň dokazováním
   - § 145 – Nepodání DP nebo dodateč. DP ani po výzvě SD
   - § 167 – Zjištění výše zajišť. částky u zajišťovacího příkazu
@@ -1233,3 +1233,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^14]: https://is.muni.cz/www/6685/Danove_pravo_v_judikature_Ustavniho_soudu_CR4-nekorigovano-hruby-draft.pdf
 [^15]: https://cs.wikipedia.org/wiki/Opravn%C3%BD_prost%C5%99edek
 [^16]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava7
+[^17]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6-dil3
