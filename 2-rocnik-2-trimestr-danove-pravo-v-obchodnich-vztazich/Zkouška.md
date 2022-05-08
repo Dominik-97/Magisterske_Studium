@@ -31,7 +31,7 @@ header-includes:
 13. Nejčastější podvody na DPH
 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
 15. ~~Pojistné na sociální zabezpečení - charakteristika~~
-16. Spotřební daně, majetkové daně - základní charakteristika
+16. Spotřební daně, majetkové daně - základní charakteristika - **OK**
 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek - **OK**
 18. Pojem zneužití práva, praktické případy
 19. Daňové tvrzení, důkazní břemeno v daňovém řízení
@@ -730,55 +730,35 @@ Již se naplatí - součástí daní z příjmu.
   - Eurokonformním výkladem nebo také nepřímým účinkem práva Evropské unie (EU) označujeme povinnost soudů členských států vykládat a aplikovat vnitrostátní předpisy v souladu s požadavky práva EU. Povinnost konformního výkladu byla stanovena rozhodovací činností Soudního dvora Evropské unie (SDEU). Nepřímý účinek společně s dalšími principy práva EU, slouží k napomáhání dosahování cílů EU. Meze užití nepřímého účinku práva EU je nutné sledovat nejen v judikatuře SDEU, ale zároveň je užití souladného výkladu limitováno i ústavně konformním výkladem práva jednotlivých členských států
 
 - Přímý a nepřímý účinek evropského práva
-• Přímý účinek směrnice
-• Situace, která umožňuje i jednotlivci se dovolávat ‐ ve zdánlivém rozporu se standardním
-přístupem ke směrnicím ‐ příslušného ustanovení směrnice a dosáhnout přímé aplikace
-jejích ustanovení na daný případ při vyloučení rozporných norem národního práva.  
-• Členský stát, který je vázán provést určitou směrnici, a tuto povinnost v dané lhůtě 
-nesplní, nemůže mít z této okolnosti prospěch, a to zejména tehdy, kdy by tak omezoval
-subjektivní práva, která komunitární právo zakládá jednotlivci.
-• Z judikatury ESD je rovněž zřejmé, že příslušné ustanovení směrnice, aby mohlo být
-přímo aplikováno, musí být bezpodmínečné, dostatečně jasné a přesné.
+  - Přímý účinek směrnice
+    - Situace, která umožňuje i jednotlivci se dovolávat ‐ ve zdánlivém rozporu se standardním přístupem ke směrnicím ‐ příslušného ustanovení směrnice a dosáhnout přímé aplikace jejích ustanovení na daný případ při vyloučení rozporných norem národního práva.  
+    - Členský stát, který je vázán provést určitou směrnici, a tuto povinnost v dané lhůtě  nesplní, nemůže mít z této okolnosti prospěch, a to zejména tehdy, kdy by tak omezoval subjektivní práva, která komunitární právo zakládá jednotlivci.
+    - Z judikatury ESD je rovněž zřejmé, že příslušné ustanovení směrnice, aby mohlo být přímo aplikováno, musí být bezpodmínečné, dostatečně jasné a přesné.
 
-Přímý a nepřímý účinek evropského práva
-• Přímý účinek směrnice – pokrač.:
-• přímého účinku směrnic se může dovolávat jednotlivec vůči
-členskému státu, nikoli naopak, protože aplikace přímého účinku je v
-podstatě proces, který nahrazuje nečinnost nebo nedostatečně 
-kvalitní činnost členského státu při plnění jeho vlastních povinností.
+- Přímý a nepřímý účinek evropského práva
+  - Přímý účinek směrnice – pokrač.:
+  - přímého účinku směrnic se může dovolávat jednotlivec vůči členskému státu, nikoli naopak, protože aplikace přímého účinku je v podstatě proces, který nahrazuje nečinnost nebo nedostatečně kvalitní činnost členského státu při plnění jeho vlastních povinností.
 
-Přímý a nepřímý účinek evropského práva
-• Nepřímý účinek směrnice
-• Institut eurokonformního výkladu, na jehož základě je možno dle
-judikatury ESD dosáhnout vyšší účinnosti směrnic, pokud nebyly
-řádně transponovány do národního práva.
-• Členské státy jsou povinny zajistit řádnou a úplnou implementaci
-příslušné směrnice do svého národního právního řádu, tj. jsou
-povinny zajistit realizaci cíle sledovaného směrnicí. 
+- Přímý a nepřímý účinek evropského práva
+  - Nepřímý účinek směrnice
+  - Institut eurokonformního výkladu, na jehož základě je možno dle judikatury ESD dosáhnout vyšší účinnosti směrnic, pokud nebyly řádně transponovány do národního práva.
+  - Členské státy jsou povinny zajistit řádnou a úplnou implementaci příslušné směrnice do svého národního právního řádu, tj. jsou povinny zajistit realizaci cíle sledovaného směrnicí. 
 
-Přímý a nepřímý účinek evropského práva
-• Nepřímý účinek směrnice – pokrač.:
-• Národní právní norma, která byla přijata za účelem transpozice příslušné
-směrnice, musí být v maximální možné míře vykládána ve světle znění a účelu
-dotčené směrnice, tj. tak, aby bylo dosaženo cíle stanoveného směrnicí, a tak byla
-naplněna povinnost vyplývající ze Smlouvy o EU.
-• Výklad v této formě je v zásadě založen na fikci, že členský stát měl v úmyslu
-řádně splnit své povinnosti vyplývající ze Smlouvy o EU a eurokonformní řešení by
-se mělo uplatnit bez ohledu na jiné možnosti interpretace takové normy.
+- Přímý a nepřímý účinek evropského práva
+  - Nepřímý účinek směrnice – pokrač.:
+  - Národní právní norma, která byla přijata za účelem transpozice příslušné směrnice, musí být v maximální možné míře vykládána ve světle znění a účelu dotčené směrnice, tj. tak, aby bylo dosaženo cíle stanoveného směrnicí, a tak byla naplněna povinnost vyplývající ze Smlouvy o EU.
+  - Výklad v této formě je v zásadě založen na fikci, že členský stát měl v úmyslu řádně splnit své povinnosti vyplývající ze Smlouvy o EU a eurokonformní řešení by se mělo uplatnit bez ohledu na jiné možnosti interpretace takové normy.
 
-Eurokonformní výklad
-• Je povinný nejen pro soudy, ale i pro správce daně a podobné orgány
-• Občan, podnikatel, daňový subjekt:
-a) bude se řídit tuzemskou právní úpravou
-b) bude trvat na aplikaci eurokonformního výkladu
+- Eurokonformní výklad
+  - Je povinný nejen pro soudy, ale i pro správce daně a podobné orgány
+  - Občan, podnikatel, daňový subjekt:
+    - a) bude se řídit tuzemskou právní úpravou
+    - b) bude trvat na aplikaci eurokonformního výkladu
 
-Eurokonformní výklad u soudu
-• a) národní soud je schopen aplikovat sám
-• b) položení předběžné otázky SDEU
-• U ESD (SDEU)  se řeší nejrůznější oblasti (např. provozování hracích
-automatů x nájem prostoru pro automat, možnost být přítomen
-výslechu svědka v zahraničí, nárok na úrok v případě včasného
-nevrácení odpočtu DPH apod.)
+- Eurokonformní výklad u soudu
+  - a) národní soud je schopen aplikovat sám
+  - b) položení předběžné otázky SDEU
+  - U ESD (SDEU)  se řeší nejrůznější oblasti (např. provozování hracích automatů x nájem prostoru pro automat, možnost být přítomen výslechu svědka v zahraničí, nárok na úrok v případě včasného nevrácení odpočtu DPH apod.)
 
 ## 18. Pojem zneužití práva, praktické případy
 
