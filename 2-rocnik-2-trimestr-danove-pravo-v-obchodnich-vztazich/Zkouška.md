@@ -728,6 +728,15 @@ TBD
   - 2) **Je-li jediným jejím důvodem tvrzená nicotnost napadeného rozhodnutí, nedomáhal-li se žalobce vyslovení této nicotnosti v řízení před správním orgánem**
     - Příklad
       - Panu Novákovi byla doměřena daň z příjmů fyzických osob za rok 2016. Dodatečný platební výměr vydal místně nepříslušný finanční úřad. Toto rozhodnutí je nicotné. Pan Novák si však této skutečnosti všimnul až při sestavování žaloby, v odvolání proti dodatečnému platebnímu výměru tuto skutečnost nenamítal ani žádným jiným způsobem tento nedostatek při řízení před finančními orgány nenamítal. V žalobě neuvádí žádný jiný důvod než zmíněná nicotnost. Pak by měla být žaloba nepřípustná a soud návrh odmítne.
+  - 3) **Směřuje-li jen proti důvodům rozhodnutí**
+    - Příklad
+      - Firmě CCC, s.r.o. byla doměřena daň z přidané hodnoty za 1. čtvrtletí 2013. Doměření bylo odůvodněno tím, že firma řádně nevedla evidenci daňových dokladů a proto jí byla daň doměřena. Firma s tímto zdůvodněním nesouhlasí, tvrdí, že evidenci vedla řádně, ale ta jí byla odcizena. Zpochybňuje tedy pouze důvody rozhodnutí, nikoli správnost a důvodnost doměření daně samotné.
+  - 4) **Domáhá-li se přezkoumání rozhodnutí, které je z přezkoumání podle tohoto nebo zvláštního zákona vyloučeno.**
+    - Ze soudního přezkoumání jsou vyloučeny např. následující úkony správního orgánu:
+      - a) které nejsou rozhodnutími
+        - Příklad - Pan Novák nesouhlasí s obsahem zprávy o kontrole, která s ním byla projednána. Sama zpráva o kontrole není žádným rozhodnutím, proto je žaloba nepřípustná.
+      - b) předběžné povahy
+        - Příklad - Firma JJJ, s.r.o. podala v průběhu kontroly žalobu proti postupu pracovníků správce daně při kontrole, protože pracovníci finančního úřadu požadovali dokumenty, na které dle názoru společnosti neměli nárok. Soud však v tomto případě žalobu pravděpodobně odmítne, protože jde o rozhodnutí správního orgánu procesní povahy. Poněkud zjednodušeně by se dalo říci, že v daném případě nenastala podniku JJJ újma např. ve smyslu doměřené daně - ta by nastala až v případě, že by byla této společnosti na základě výsledků kontroly doměřena daň. Proti dodatečnému doměření daně by už (v případě zamítnutého odvolání proti jejímu vyměření), žalobu bylo možno podat a teprve v rámci ní napadnout např. postup pracovníků správce daně při kontrole
 
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
