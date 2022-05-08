@@ -847,6 +847,7 @@ Rozdíl mezi:
     - Rozhodnutí je vydané okamžikem doručení, pokud se nedoručuje je vydané okamžikem podepsání daného rozhodnutí úřední osobou - §101 DŘ.
     - Zákon vymezuje co rozhodnutí obsahuje, především se jedná o určení stran, výrok s odůvodnění, lhůty, poučení, podpis úřední osoby a datum.
     - Rozhodnutí, které je účinní a proti kterému se nelze odvolat, je v právní moci.
+    - Rozhodnutí, které je účinné, je vykonatelné, jestliže se proti němu nelze odvolat, nebo jestliže odvolání nemá odkladný účinek, a uplynula-li lhůta k plnění, pokud byla stanovena.
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 
