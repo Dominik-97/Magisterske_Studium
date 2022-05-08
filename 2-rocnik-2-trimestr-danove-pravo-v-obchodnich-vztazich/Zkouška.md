@@ -678,7 +678,7 @@ Dělí se do tří kategorií:
 
 Čtyři typy daněného majetku jsou pozemek, pozemková úprava (imobilní člověkem vytvořený objekt, např. dům), osobní majetek (mobilní fyzický majetek) a nehmotný majetek. Nemovitost (Real property z Angloamerického práva) je kombinace pozemku a jeho úprav.
 
-Formy majetkové daně se liší podle spadající jurisdikce. Nemovitost je daněna dle toho do jaké skupiny nemovitostí patří. Skupina se určuje podle toho jak se nemovitost používá. Příkladem skupiny nemovitostí jsou např. residenční nemovitosti, komerční nemovitosti, průmyslové nemovitosti a dále volné (prázdné) nemovitosti. Míra zdanění je jiná pro každou skupinu.[2]
+Formy majetkové daně se liší podle spadající jurisdikce. Nemovitost je daněna dle toho do jaké skupiny nemovitostí patří. Skupina se určuje podle toho jak se nemovitost používá. Příkladem skupiny nemovitostí jsou např. residenční nemovitosti, komerční nemovitosti, průmyslové nemovitosti a dále volné (prázdné) nemovitosti. Míra zdanění je jiná pro každou skupinu.
 
 Občas se majetková daň zaměňuje s daní zvláštního vyměření (anglicky special assessments tax). Toto jsou dvě různé daně. Majetková daň plyne z tržní hodnoty, zatímco zvláštní vyměřovací daň plyne z speciálního obohacení tzv. „výhody“ pro své ospravedlnění.
 
