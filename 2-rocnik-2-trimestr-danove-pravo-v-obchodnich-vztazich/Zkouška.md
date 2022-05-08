@@ -661,6 +661,58 @@ Spotřební daň se vybírá prodejem kolků pro označení lahví lihovin nebo 
 
 ### Majetkové daně
 
+Majetkové daně jsou přímé daně, které se platí v Česku i v jiných státech. Patří sem podle českých právních předpisů daň silniční, daň z nemovitých věcí, která zahrnuje daň z pozemků a daň ze staveb a jednotek, a daň z nabytí nemovitých věcí.
+
+Majetkové daně jsou v českém právu nejstaršími daněmi, neboť na rozdíl od jiných, které prošly na počátku 90. let 20. století bouřlivými změnami, tyto zůstaly z velké části stejné. Zásadnější změny nastaly od 1. 1. 2014, kdy byla zrušena tzv. trojdaň (daň dědická, darovací a z převodu nemovitosti) a namísto ní byla zavedena daň z nabytí nemovitých věcí. Jejich výnosy jsou pro stát malé, avšak stálé; na rozdíl od daní z příjmu či spotřebních daní. Jsou tedy daněmi doplňkovými[^19].
+
+Dělí se do tří kategorií:
+
+- daň z nemovitých věcí (do roku 2014 daň z nemovitostí):
+  - daň z pozemků
+  - daň ze staveb a jednotek
+- daň z nabytí nemovitých věcí (do roku 2014 daň z převodu nemovitostí)
+- daň silniční
+- (daň dědická, darovací a z převodu nemovitosti tato trojdaň byla zrušena v roce 2014)
+
+### Typy daněného majetku
+
+Čtyři typy daněného majetku jsou pozemek, pozemková úprava (imobilní člověkem vytvořený objekt, např. dům), osobní majetek (mobilní fyzický majetek) a nehmotný majetek. Nemovitost (Real property z Angloamerického práva) je kombinace pozemku a jeho úprav.
+
+Formy majetkové daně se liší podle spadající jurisdikce. Nemovitost je daněna dle toho do jaké skupiny nemovitostí patří. Skupina se určuje podle toho jak se nemovitost používá. Příkladem skupiny nemovitostí jsou např. residenční nemovitosti, komerční nemovitosti, průmyslové nemovitosti a dále volné (prázdné) nemovitosti. Míra zdanění je jiná pro každou skupinu.[2]
+
+Občas se majetková daň zaměňuje s daní zvláštního vyměření (anglicky special assessments tax). Toto jsou dvě různé daně. Majetková daň plyne z tržní hodnoty, zatímco zvláštní vyměřovací daň plyne z speciálního obohacení tzv. „výhody“ pro své ospravedlnění.
+
+### Daň z nemovitých věcí
+
+Výlučným příjemcem výnosů daně jsou obce, zatímco správu daně zajišťuje stát prostřednictvím finančních úřadů.
+
+Každá z uvedených daní se stanovuje samostatně.
+
+Předmětem daně jsou nemovité věci (pozemky, stavby, jednotky), které se nacházejí na českém území a které jsou evidované v katastru nemovitostí.
+
+Zdaňovací období je jeden rok.
+
+Na základě zákona o dani z nemovitých věcí.
+
+Pro daň z pozemků je daň určena jako druh pozemku - na základě toho se určuje sazba a velikosti pozemku.
+
+Pro daň ze staveb je daň určena podle zastavěne plochy v $m^2$.
+
+### Daň z nabytí nemovitosti - soušástí daně z příjmu
+
+Již se neplatí - součástí daní z příjmu.
+
+### Daň silniční
+
+- Předmětem této daně jsou všechna motorová vozidla, která jsou používána k podnikání, a to i když jsou vlastněna soukromými osobami. Poplatníkem i plátcem této daně je provozovatel vozidla, který je zapsán v jeho technickém průkazu.
+- Sazba daně je u osobních automobilů stanovena podle objemu motoru, u nákladních automobilů závisí na hmotnosti celého vozidla a počtu náprav. Dříve bylo možné u nákladních vozidel uplatnit slevu dle emisní normy. V současné době se uplatňuje sleva na všechna vozidla dle data registrace – první tři roky 48 %, další tři roky 40% a další tři roky 25 %; u vozidel s první registrací do 31. prosince 1989 se naopak na silniční dani připlácí 25 %.
+- Zdaňovacím obdobím je 1 rok, daň se platí ve 4 zálohách (15. dubna, 15. července, 15. října a 15. prosince). Majitel vozidla je povinen do konce ledna následujícího roku podat daňové přiznání[^20].
+- Zároveň silniční daň platí provozovatel vozidla s minimální přípustnou technickou hmotností 12 tun.
+
+### Trojdaň
+
+Již se naplatí - součástí daní z příjmu.
+
 ## 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek
 
 - DPH II – evropské a vnitrostátní právo a praktické dopady dvouúrovňového právního systému, eurokonformní výklad, přímý a nepřímý účinek evropského práva
@@ -1644,3 +1696,5 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^16]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava7
 [^17]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6-dil3
 [^18]: https://cs.wikipedia.org/wiki/Spot%C5%99ebn%C3%AD_da%C5%88
+[^19]: https://cs.wikipedia.org/wiki/Majetkov%C3%A1_da%C5%88#:~:text=Majetkov%C3%A9%20dan%C4%9B%20jsou%20p%C5%99%C3%ADm%C3%A9%20dan%C4%9B,da%C5%88%20z%20nabyt%C3%AD%20nemovit%C3%BDch%20v%C4%9Bc%C3%AD.
+[^20]: https://cs.wikipedia.org/wiki/Silni%C4%8Dn%C3%AD_da%C5%88
