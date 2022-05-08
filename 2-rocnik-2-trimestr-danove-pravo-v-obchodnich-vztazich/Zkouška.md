@@ -797,6 +797,9 @@ TBD
     - Příklad:
       - Vadou řízení může být např. situace, kdy správce daně vyslechl svědka, ale neumožnil daňovému subjektu být přítomen jeho výslechu.
 
+- Zvláštním případem rozsudku bude situace, kdy soud rozhoduje o žalobě proti rozhodnutí, jímž správní orgán uložil trest za správní delikt.
+  - Příklad. Pan Vopička se nedostavil na předvolání finančního úřadu. Finanční úřad mu uložil pokutu dle § 247 DŘ ve výši 40 000 Kč. Maximální limit pokuty daný DŘ činí 50 000 Kč, je tedy v mezích stanovených zákonem. Pan Vopička však podal žalobu. Pokud soud dojde k tomu, že pokuta jako taková je oprávněná (pan Vopička se skutečně bez omluvy nedostavil), naskýtá se dále ještě možnost posuzovat, zda stanovením pokuty nedošlo ke zneužití zákonem stanovené meze správního uvážení a zrušit rozhodnutí pro nezákonnost a vrátit věc k dalšímu řízení finančním orgánům bez stanovení „správné“ výše pokuty.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
