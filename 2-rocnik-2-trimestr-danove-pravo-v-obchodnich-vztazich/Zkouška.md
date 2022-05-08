@@ -781,7 +781,31 @@ Rozdíl mezi:
 
 ## 19. Daňové tvrzení, důkazní břemeno v daňovém řízení
 
-§70 - §79
+- §70 - §77 DŘ
+  - Řízení se zahajuje podáním (například formulářové podání - například daň z příjmu - daňové přiznání)
+  - Podání je úkonem osoby zúčastněné na správě daní směřujícím vůči správci daně.
+  - Podání se činí u příslušného správce daně. Podání je učiněno dnem, kdy tomuto správci daně došlo.
+  - Ne všechny podání musí nutně zahájit řízení
+  - Pokud má podání vady - osoba vyzvána k nápravě
+  - Pokud je podáno k nepříslušnému správci daně - postoupí podání příslušnému správci daně
+
+- Vyhledávací postupy §78 - §79 DŘ[^24]
+  - Vyhledávací činnost:
+    - Správce daně vyhledává důkazní prostředky a daňové subjekty a zjišťuje plnění jejich povinností při správě daní před zahájením řízení i v jeho průběhu.
+    - Vyhledávací činnost provádí správce daně i bez součinnosti s daňovým subjektem.
+    - V rámci vyhledávací činnosti správce daně
+      - a) ověřuje úplnost evidence či registrace daňových subjektů,
+      - b) zjišťuje údaje týkající se příjmů, majetkových poměrů a dalších skutečností rozhodných pro správné zjištění, stanovení a placení daně,
+      - c) shromažďuje a zpracovává informace a využívá informační systémy v rozsahu podle § 9 odst. 3,
+      - d) opatřuje nezbytná vysvětlení,
+      - e) provádí místní šetření.
+    - (4) Správce daně, který není místně příslušný, může provádět místní šetření i bez dožádání.
+  - Vysvětlení:
+    - (1) Správce daně v rámci vyhledávací činnosti opatřuje nezbytná vysvětlení k prověření skutečností rozhodných pro naplnění cíle správy daní, pokud tyto skutečnosti nelze prověřit jiným úředním postupem.
+    - (2) Každý je povinen podat správci daně vysvětlení; pro odepření vysvětlení se obdobně použije § 96 odst. 2 až 4.
+    - (3) Podané vysvětlení nelze použít jako důkazní prostředek.
+    - (4) O podaném vysvětlení sepíše správce daně podle povahy vysvětlení protokol nebo úřední záznam.
+
 §91 - §107
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
@@ -1606,3 +1630,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^21]: https://www.integracentrum.cz/aktuality/danova-optimalizace-obchazeni-zakona-416#:~:text=postup%2C%20kdy%20se%20n%C4%9Bkdo%20chov%C3%A1,povinnosti%20vypl%C3%BDvaj%C3%ADc%C3%AD%20ze%20z%C3%A1kona%20%C4%8D.
 [^22]: https://www.du.cz/33/zneuziti-prava-uniqueidmRRWSbk196FNf8-jVUh4EhoplPFZXloRO0VG3EztlBZrJfTGJxQrnQ/#:~:text=5%20D%C5%98%20neplatily.-,%C2%A7%208%20odst.,smyslem%20a%20%C3%BA%C4%8Delem%20pr%C3%A1vn%C3%ADho%20p%C5%99edpisu%E2%80%9D.
 [^23]: https://sbirka.nssoud.cz/cz/danove-rizeni-zastreny-dissimulovany-pravni-ukon.p1113.html#:~:text=O%20zakr%C3%BDv%C3%A1n%C3%AD%20(dissimulaci)%20ve%20smyslu,kter%C3%BD%20ve%20skute%C4%8Dnosti%20cht%C4%9Bj%C3%AD%2C%20pop%C5%99.
+[^24]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6
