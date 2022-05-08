@@ -866,7 +866,12 @@ Rozdíl mezi:
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 
-Místní šetření (§ 80-84 DŘ)
+- Místní šetření (§ 80-84 DŘ)
+  - (1) Správce daně může provádět místní šetření. V rámci tohoto postupu správce daně zejména vyhledává důkazní prostředky a provádí ohledání u daňových subjektů a dalších osob zúčastněných na správě daní, jakož i na místě, kde je to vzhledem k účelu místního šetření nejvhodnější.
+  - (2) K provedení místního šetření může správce daně přizvat osobu, jejíž přítomnost je podle povahy věci potřebná.
+  - (3) O průběhu místního šetření sepíše správce daně podle povahy šetření protokol nebo úřední záznam.
+  - (4) Správce daně může pořizovat obrazový nebo zvukový záznam o skutečnostech dokumentujících průběh úkonu, o čemž předem uvědomí osoby, které se tohoto úkonu účastní.
+
 Daňová kontrola (§ 85-88a DŘ)
 Postup k odstranění pochybností (§ 89-90 DŘ)
 
