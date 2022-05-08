@@ -658,9 +658,9 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
   - odvolání
   - Rozklad
 - Mimořádný opravný prostředek
-  - návrh na povolení obnovy řízení
+  - návrh na povolení obnovy řízení - pokud podá sám stěžovatel
 - Dozorčí prostředek
-  - nařízení obnovy
+  - nařízení obnovy - z moci úřední
   - nařízení přezkoumání
 
 - **Odvolání (§ 109-116 DŘ)**
@@ -719,7 +719,15 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 
 - Přezkumné řízení (§ 121-123)
   - Nařízení přezkoumání rozhodnutí (dozorčí prostředek)
+    - Správce daně z moci úřední nařídí přezkoumání rozhodnutí, jestliže po předběžném posouzení věci dojde k závěru, že rozhodnutí bylo vydáno v rozporu s právním předpisem.
+    - Podnět může podat kterýkoliv správce daně, u správce daně, který rozhodl v řízení v posledním stupni.
   - Postup při přezkumném řízení
+    - Přezkoumání rozhodnutí nařídí správce daně nejblíže nadřízený správci daně, který ve věci rozhodl v posledním stupni.
+    - Maximálně ve lhůtě 3 let.
+    - Přezkumné řízení provede správce daně, který ve věci rozhodl v posledním stupni.
+    - Řízení je zahájeno vydáním rozhodnutí o nařízení přezkoumání rozhodnutí.
+    - Správce daně je při řízení vázán důvody, pro které bylo nařízeno, a právním názorem vyjádřeným v rozhodnutí o nařízení přezkoumání rozhodnutí; ve stejném rozsahu může řízení doplňovat a odstraňovat jeho vady.
+    - Má odkladný účinek.
 
 ## 23. Ochrana daňového subjektu ve správním soudnictví – žaloby a opravné prostředky
 
