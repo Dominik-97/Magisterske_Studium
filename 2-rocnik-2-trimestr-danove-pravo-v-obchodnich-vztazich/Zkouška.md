@@ -848,6 +848,21 @@ Rozdíl mezi:
     - Zákon vymezuje co rozhodnutí obsahuje, především se jedná o určení stran, výrok s odůvodnění, lhůty, poučení, podpis úřední osoby a datum.
     - Rozhodnutí, které je účinní a proti kterému se nelze odvolat, je v právní moci.
     - Rozhodnutí, které je účinné, je vykonatelné, jestliže se proti němu nelze odvolat, nebo jestliže odvolání nemá odkladný účinek, a uplynula-li lhůta k plnění, pokud byla stanovena.
+  - Opravy zřejmých nesprávností
+    - Správce daně může v rozhodnutí opravit zřejmé nesprávnosti.
+  - Nicotnost rozhodnutí
+    - Nicotnost rozhodnutí zjišťuje a prohlašuje z moci úřední, a to kdykoliv, správce daně nejblíže nadřízený správci daně, který rozhodnutí vydal.
+    - Důvody pro nicotnost zákon stanovuje, jedná se například o - věcnou příslušnost, trpí zásadními vadami, je vydáno na základě nicotného rozhodnutí.
+  - Zastavení řízení
+    - Správce daně rozhodnutím může zastavit řízení, pokud:
+      - osoba zůčastněná na správě daní vzala své podání zpět,
+      - jde o zjevně nepřípustné podání,
+      - ten, o jehož právech a povinnostech má být rozhodnuto, zanikl bez právního nástupce,
+      - o věci již bylo pravomocně rozhodnuto,
+      - nelze v řízení pokračovat z důvodů, které stanoví zákon, nebo,
+      - řízení se stalo bezpředmětným. - §106 DŘ
+  - Náklady řízení
+    - Náklady řízení nese příslušný správce daně, s výjimkou nákladů na vymáhání nedoplatků a nákladů, které vznikly osobě zúčastněné na správě daní, nebo ke kterým byla osoba zúčastněná na správě daní povinna.
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 
