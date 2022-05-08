@@ -637,7 +637,19 @@ TBD
 
 ## 21. Dokazování v daňovém řízení
 
-TBD
+### Obsah
+
+- Procesní otázky:
+  - Důkazní břemeno
+  - Dokazování
+  - Stanovení daně podle pomůcek
+  - Dokazování ve vybraných případech (reklama, zprostředkování, manažerské služby)
+  - Judikatura soudů a její význam pro daňovou praxi
+
+- Dokazování I.
+  - Dokazování provádí **příslušný správce daně** nebo jím **dožádaný správce daně**.
+  - Správce daně dbá, aby skutečnosti rozhodné pro správné zjištění a stanovení daně byly zjištěny co nejúplněji, a není v tom vázán jen návrhy daňových subjektů.
+  - **Daňový subjekt** prokazuje všechny skutečnosti, které je povinen uvádět v řádném daňovém tvrzení, dodatečném daňovém tvrzení a dalších podáních.
 
 ## 22. Opravné a dozorčí prostředky v daňovém řízení
 
