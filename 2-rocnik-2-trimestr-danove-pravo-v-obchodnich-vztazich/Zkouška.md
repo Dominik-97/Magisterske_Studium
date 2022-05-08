@@ -771,6 +771,7 @@ Rozdíl mezi:
   - (3) Správce daně vychází ze skutečného obsahu právního jednání nebo jiné skutečnosti rozhodné pro správu daní.
   - (4) Při správě daní se nepřihlíží k právnímu jednání a jiným skutečnostem rozhodným pro správu daní, jejichž převažujícím účelem je získání daňové výhody v rozporu se smyslem a účelem daňového právního předpisu.
 - **obcházení zákona** - prokazuje finanční úřad
+  - Pojem obcházení zákona je zobecněn v Nálezu Ústavního soudu ze dne 1. dubna 2003, sp. zn. II. ÚS 119/01 jako „vyloučení závazného pravidla záměrným použitím prostředku, který sám o sobě není zákonem zakázaný… postup, kdy se někdo chová podle práva, ale tak, aby záměrně dosáhl výsledku právní normou nepředvídaného a nežádoucího.“ Obcházením zákona lze např. chápat prodej a následný zpětný nákup akcií za nižší cenu, kdy dochází k účelnému obcházení povinnosti vyplývající ze zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů (dále jen „zákon o účetnictví“), konkrétně z § 26 odst. 3, dle kterého by mělo být znehodnocení akcií upraveno o opravné položky. Prodej a zpětný nákup akcií v tomto případě není v rozporu s žádnou právní normou, ale slouží jako záměrný prostředek k vyloučení závazného pravidla stanoveného zákonem o účetnictví a k dosažení výsledku právní normou nepředvídaného a nežádoucího[^21].
 
 ## 19. Daňové tvrzení, důkazní břemeno v daňovém řízení
 
