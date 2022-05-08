@@ -678,7 +678,16 @@ Právní předpis upravující opravné a dozorčí prostředky v daňovém ří
     - Dokud neuplyne lhůta pro odvolání je možné ho měnit, doplňovat, nebo vzít zpět.
     - Zpětvzetím je odvolací řízení zastaveno - původní rozhodnutí nabývá právní moci.
     - Pokud již uplynula lhůta pro stanovení daně, správce daně, který v odvolacím řízení tuto skutečnost zjistil, napadené rozhodnutí o stanovení daně zruší a zastaví odvolací řízení.
+    - Odvolání musí mít následující náležitosti:
+      - označení správního orgánu, který napadané rozhodnutí vydal
+      - označení odvolatele,
+      - identifikace rozhodnutí,
+      - uvedení důvodů, v nichž jsou spatřovány nesprávnosti nebo nezákonnosti napadeného rozhodnutí,
+      - označení důkazů,
+      - návrh na změnu, nebo zrušení rozhodnutí.
+    - Pokud odvolání obsahuje vady - vyzve ho správce daně k nápravě v minimální lhůtě 15 dní, pokud nejsou vady opraveny - řízení se zastaví.
   - Postup správce daně prvního stupně
+    - TBD
   - Postup odvolacího orgánu
 
 - Obnova řízení (§117-120 DŘ)
