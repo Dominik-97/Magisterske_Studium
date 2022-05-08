@@ -691,6 +691,44 @@ TBD
   - Žaloba proti nezákonnému zásahu
   - Řízení o zrušení opatření obecné povahy
 
+### Žaloba proti rozhodnutí správního orgánu
+
+**Kdo žalobu podává?**
+
+- Žalobu podává ten, kdo tvrdí, že byl na svých právech zkrácen přímo nebo v důsledku porušení svých práv v předcházejícím řízení úkonem správního orgánu, jímž se zakládají, mění, ruší nebo závazně určují jeho práva nebo povinnosti, (dále jen "rozhodnutí").
+
+**Čeho se žalobou domáháme?**
+
+- Chceme obvykle buď zrušení rozhodnutí, popřípadě vyslovení jeho nicotnosti.
+- Zvláštním případem žaloby může být snaha o upuštění od trestu za správní delikt nebo jeho snížení v mezích dovolených zákonem.
+
+- Příklad:
+  - Panu Dvořákovi byla finančním úřadem vyměřena pokuta dle § 247 DŘ za to, že se při jednání s pracovníkem finančního úřadu navzdory předchozímu napomenutí choval urážlivě. Pokuta činila 20 000 Kč. Poplatníkovi se zdála příliš vysoká, DŘ konkrétní výši neurčuje, pouze maximální horní hranici (50 000 Kč). Pan Dvořák se proti uložení pokuty odvolal, nadřízené finanční ředitelství výši pokuty potvrdilo. Daňový subjekt se domáhá žalobou u soudu snížení či zrušení pokuty. Soud jí může (ale nemusí) vyhovět.
+
+**Koho žalovat?**
+
+- Žalovaným je správní orgán, který věc rozhodl v posledním stupni.
+  - Příklad:
+    - Nejčastěji je žaloba podávána v případech, kdy finanční úřad daňovému subjektu doměří daň a odvolání proti doměrku je zamítnuto nadřízeným finančním ředitelstvím. Žalovaným tedy není finanční úřad, ale právě Odvolací finanční ředitelství, které odvolání zamítlo.
+
+**Kam žalobu podat?**
+
+- Místně příslušnému soudu – obvykle krajský soud, v jehož obvodu má sídlo správní orgán, který napadené rozhodnutí vydal (tedy zpravidla ten, který rozhodl v prvním stupni správního řízení)
+  - Příklad:
+    - Finanční úřad v Ostravě doměřil daň, odvolání zamítnulo Odvolací finanční ředitelství. Žalováno bude Odvolací finanční ředitelství u Krajského soudu v Ostravě.
+
+**Kdy žalobu nepodávat?**
+
+- **Ne vždy je podání žaloby možné. Žaloba není přípustná tehdy, jestliže např.:**
+  - 1) **Žalobce nevyčerpal řádné opravné prostředky v řízení před správním orgánem, připouští-li je zvláštní zákon, ledaže rozhodnutí správního orgánu bylo na újmu jeho práv změněno k opravnému prostředku jiného.**
+    - Př. Panu Poláčkovi byla na základě kontroly daně z příjmů fyzických osob za rok 2009 doměřena daň ve výši 100 000 Kč. Pan Poláček s doměrkem nesouhlasí. Odvolání proti dodatečnému platebnímu výměru však nepodal.
+      - Žaloba je nepřípustná, protože nebyly vyčerpány řádné opravné prostředky.
+    - Příklad
+      - Firmě HHH, a.s. byla na základě kontroly daně z příjmů právnických osob za rok 2009 doměřena daň ve výši 200 000 Kč. Společnost podala odvolání proti dodatečnému platebnímu výměru, které bylo zamítnuto. Nepodala však podnět o přezkoumání daňových rozhodnutí dle § 121 DŘ. Žaloba je přípustná, protože žádost o přezkoumání daňových rozhodnutí nepatří mezi řádné opravné prostředky, jde o dozorčí prostředek.
+  - 2) **Je-li jediným jejím důvodem tvrzená nicotnost napadeného rozhodnutí, nedomáhal-li se žalobce vyslovení této nicotnosti v řízení před správním orgánem**
+    - Příklad
+      - Panu Novákovi byla doměřena daň z příjmů fyzických osob za rok 2016. Dodatečný platební výměr vydal místně nepříslušný finanční úřad. Toto rozhodnutí je nicotné. Pan Novák si však této skutečnosti všimnul až při sestavování žaloby, v odvolání proti dodatečnému platebnímu výměru tuto skutečnost nenamítal ani žádným jiným způsobem tento nedostatek při řízení před finančními orgány nenamítal. V žalobě neuvádí žádný jiný důvod než zmíněná nicotnost. Pak by měla být žaloba nepřípustná a soud návrh odmítne.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
