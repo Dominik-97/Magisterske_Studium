@@ -643,7 +643,7 @@ TBD
 
 Právní předpis upravující opravné a dozorčí prostředky v daňovém řízení - **daňový řád**.
 
-- Paragrafy 104 až §124a.
+- Paragrafy 108 až §124a.
 
 ### Použití opravných a dozorčích prostředků
 
@@ -663,9 +663,21 @@ Právní předpis upravující opravné a dozorčí prostředky v daňovém ří
   - nařízení obnovy
   - nařízení přezkoumání
 
-- Odvolání (§ 109-116 DŘ)
+- **Odvolání (§ 109-116 DŘ)**
   - Obecná ustanovení o odvolání
+    - Příjemce rozhodnutí se může odvolat proti rozhodnutí správce daně, pokud zákon nestanoví jinak. Odvolání je nepřípustné, směřuje-li jenom proti odůvodnění rozhodnutí.
+    - Proti rozhodnutí označenému jako výzva, kterým správce daně vyzývá příjemce rozhodnutí k uplatnění práva nebo splnění povinností, se nelze samostatně odvolat, pokud zákon nestanoví jinak.
+    - Odvolání se podává u správce daně, jehož rozhodnutí je odvoláním napadeno.
+    - Odvolání lze podat do 30 dnů ode dne doručení rozhodnutí, proti němuž odvolání směřuje, a to i před doručením tohoto rozhodnutí.
+      - Pokud je nesprávné poučení podle §102 - do 30 dní od doručení správného rozhodnutí, maximálně do 3 měsíců od původního rozhodnutí.
+      - Pokud je v poučení nesprávně určeno, že odvolání je přípustné - řízení o odvolání se zastaví, pokud bylo podáno.
+      - Pokud je v poučení nesprávně určen odkladný účinek, i když ho zákon nepřiznává - nastává odkladný účinek.
+    - Odvolání nemá odkladný účinek, pokud zákon nestanoví jinak.
   - Náležitosti odvolání
+    - Odvolání lze vzít zpět.
+    - Dokud neuplyne lhůta pro odvolání je možné ho měnit, doplňovat, nebo vzít zpět.
+    - Zpětvzetím je odvolací řízení zastaveno - původní rozhodnutí nabývá právní moci.
+    - Pokud již uplynula lhůta pro stanovení daně, správce daně, který v odvolacím řízení tuto skutečnost zjistil, napadené rozhodnutí o stanovení daně zruší a zastaví odvolací řízení.
   - Postup správce daně prvního stupně
   - Postup odvolacího orgánu
 
