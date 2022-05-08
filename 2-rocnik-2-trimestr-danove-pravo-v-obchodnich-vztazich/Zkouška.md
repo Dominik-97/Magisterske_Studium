@@ -729,6 +729,405 @@ TBD
   - § 167 – Zjištění výše zajišť. částky u zajišťovacího příkazu
   - § 244 – Zjistí-li insolvenční správce, že nemá podklady
 
+Pomůcky - pravidla
+ pomůcky správce daně buď má nebo si je obstará
+ při použití pomůcek není nutná součinnost s DS
+ uplatnění pomůcek se uvede ve výroku rozhodnutí
+ nutno přihlédnout k výhodám pro DS, i když jím nebyly
+uplatněny
+
+Pomůcky – podmnínky pro použití
+Stanovit daň za použití pomůcek lze za splnění dvou
+kumulativních podmínek:
+1. Daňový subjekt nesplní při dokazování některou ze
+svých zákonných povinností
+2. Současně není možno stanovit daňovou povinnost
+dokazováním.
+
+Pomůcky - výčet
+ Co může být pomůckou?
+ a) důkazní prostředky, které nebyly správcem daně
+zpochybněny,
+ b) podaná vysvětlení,
+ c) porovnání srovnatelných daňových subjektů a jejich
+daňových povinností,
+ d) vlastní poznatky správce daně získané při správě daní.
+
+Pomůcky – kde je najdeme?
+Součástí vyhledávací části spisu jsou:
+- písemnosti, které mohou být použity při stanovení daně
+jako pomůcky, jejichž zpřístupnění daňovému subjektu
+by ohrozilo zájem jiného daňového subjektu nebo
+jiných osob zúčastněných na správě daní,
+
+Pomůcky – jejich zpřístupnění
+- nevztahuje se na ně §65/2 o nutnosti je z vyhledávací
+části spisu ponechat nejdéle do provedení hodnocení
+důkazů
+ Na druhé straně se do vyhledávací části spisu ukládají
+pouze takové pomůcky, které by mohly ohrozit zájem
+jiného DS nebo jiných osob zúčastněných na správě
+daní.
+
+Pomůcky - odvolání
+ Směřuje-li odvolání proti rozhodnutí o stanovení daně
+podle pomůcek, zkoumá odvolací orgán pouze dodržení
+zákonných podmínek použití tohoto způsobu stanovení
+daně, jakož i přiměřenosti použitých pomůcek.
+
+Pomůcky – sjednání daně
+Sjednání daně přichází v úvahu, jestiže:
+- daň nelze stanovit dokazováním a zároveň
+- daň nelze dostatečně spolehlivě stanovit ani podle pomůcek, které má
+správce daně k dispozici (ne tedy, které si opatří)
+- Sjednání daně se zaprotokoluje
+- výše sjednané daně se uvede v rozhodnutí, které má náležitosti rozhodnutí o
+stanovení daně a které je součástí tohoto protokolu;
+- proti tomuto rozhodnutí nelze uplatnit opravné prostředky.
+
+Pomůcky – možné směry obrany
+ Daň se dala stanovit dokazováním - snaha o vyvrácení tvrzení správce daně, že daň bylo nutno stanovit podle pomůcek.
+ Správce daně neunesl své důkazní břemeno
+ (např. neprokáže, že doručil výzvu k odstranění pochybností, platební výměr apod.)
+ Porušení práv daňového subjektu
+ - nenechal daňový subjekt nahlédnout do spisu
+ - nevyslechl navrhované svědky
+ - neprojednal s ním zprávu o kontrole
+
+Pomůcky – možné směry obrany II.
+Procesní problémy správce daně:
+ rozhodnutí bez všech náležitostí,
+ nepřezkoumatelnost rozhodnutí finančních orgánů pro
+nedostatek odůvodnění rozhodnutí
+ polemika s výší pomůcek - nepřiměřenost jejich výše,
+nestanovení daně dostatečně spolehlivě, nepřihlédnutí
+k výhodám svědčící pro daňový subjekt
+
+Pomůcky - judikatura
+
+Pomůcky – judikatura – nahlížení do pomůcek
+ IV. ÚS 359/05 z 28. března 2006
+ „Postupem souladným se zákonem je takový postup, kdy správce daně
+přihlédne i k výhodám plynoucím pro daňový subjekt. Přitom je však na
+daňovém subjektu, aby vznášel k případné nezákonnosti postupu správce
+daně námitky, tedy i relevantní a kvalifikované námitky týkající se nedodržení
+povinnosti správce daně přihlédnout k výhodám plynoucím pro daňový
+subjekt. Rovnost daňového subjektu garantovaná čl. 37 odst. 3 Listiny by
+však byla iluzorní, pokud by nebyl sám daňový subjekt obeznámen s
+tím, že k této výhodě bylo skutečně přihlédnuto a o jakou výhodu se
+jednalo.“
+
+Pomůcky – judikatura – nahlížení do pomůcek
+IV. ÚS 359/05 – pokrač.:
+ „Nelze proto připustit výklad, podle kterého postačí, aby byla tato výhoda
+patrná z daňového spisu a aby se s postupem správce daně seznámil toliko
+odvolací orgán, případně soudy přezkoumávající postup správce daně, resp.
+rozhodnutí odvolacího orgánu, a aby se s tímto postupem nemohl seznámit
+samotný daňový subjekt. Námitky může daňový subjekt relevantně a
+kvalifikovaně vznášet pouze tehdy, je-li s postupem správce daně seznámen,
+tedy je-li seznámen i s tím, jakou okolnost správce daně považoval za
+výhodu pro daňový subjekt.“
+
+Pomůcky – judikatura – výhody pro DS
+ IV. ÚS 179/01 z 31. 8. 2001
+ „V případech, kdy je daň stanovena podle pomůcek, musí se
+odvolací orgán vyrovnat i s otázkou, zda správce daně splnil své
+zákonné povinnosti vyplývající z ustanovení § 46 odst. 3 ZSDP (=
+výhody pro DS). Každý jiný postup staví účastníka daňového
+řízení do nedůvodně nerovného postavení a je tedy v rozporu s čl.
+37 odst. 3 Listiny základních práv a svobod.“
+
+Pomůcky – judikatura – výhody pro DS
+ IV. ÚS 360/05 z 20. 11. 2006
+ „Za takové výhody lze považovat příkladmo okolnosti, za jakých
+podmínek daňový subjekt podniká, v jakém oboru činnosti
+podniká, v jaké lokalitě má umístěnu provozovnu apod. To, zda
+správce daně takovou skutečnost zohlednil, je pak skutečností,
+kterou v rámci přezkumu zákonnosti musí hodnotit odvolací orgán
+v rámci odvolacího řízení.
+
+Pomůcky – judikatura – pomůcky chtěl marně
+DS
+ NSS 7 Afs 21/2012 – 44 z 27. 9. 2012
+ Stěžovatelce byla doměřena daň (dokazováním) 77 868
+Kč, protože nedokázala prokázat výdaje
+ Stěžovatelka požadovala doměření podle pomůcek,
+protože když existovalo prodané zboží, je nemyslitelné,
+aby na něj nebyly žádné výdaje
+ SD ani KS nevyhověl
+
+Pomůcky – judikatura – pomůcky chtěl marně
+DS
+ NSS 7 Afs 21/2012 – 44 pokrač.:
+ Názor NSS:
+ SD neuznal 95 % výdajů, nebyly věrohodně stanoveny
+ani příjmy
+ Daň nebylo možno stanovit dokazováním, mělo být
+použito pomůcek
+ Nelze zcela opomenout výdaje DS, pomůcky by byly pro
+ni výhodnější, proto SD pochybil, když je nepoužil 
+
+Pomůcky – judikatura – DPH nutnost pomůcek na vstup i
+výstup
+ 1 Afs 19/2004 – 67 ze dne 3. 11. 2004 (Sbírka NSS 12/2006 č.
+991/2006):
+ „Nastanou-li skutečnosti předvídané ustanovením § 31 odst. 5 a
+násl. ZSDP, je povinností správce daně stanovit daň pomocí
+pomůcek. Jde-li o daň z přidané hodnoty, pak - vzhledem k
+zákonné konstrukci daňové povinnosti u této daně jako rozdílu
+mezi daní na vstupu a daní na výstupu - je nutno stanovit
+daňovou povinnost za určité zdaňovací období jednotně podle
+pomůcek.“
+
+Pomůcky – judikatura – částečné dokazování
+ 2 Afs 25/2003 – 87 ze dne 25. května 2004
+ Správce daně nemůže hovořit o vyměření daň podle pomůcek
+tam, kde ve skutečnosti stanovil daň dokazováním, nemožnost
+stanovit daň částečně dokazováním a částečné pomůckami
+ Jestliže totiž rozhodnutí žalovaného např. konstatuje, že
+stěžovatelem nebyly předloženy evidenční listy, mělo by
+obsahovat rovněž zdůvodnění, proč nelze pro tuto skutečnost
+stanovit výši příjmů z pronájmu bytů dokazováním, např. na základě výzev k součinnosti třetích osob.
+
+Pomůcky – malý rozsah chyb neopravňuje k přechodu na
+pomůcky
+NSS 2 Afs 132/2005 – 71 z 27. 7. 2006
+ „Nesplnění povinností daňovým subjektem je důvodem pro
+stanovení daně podle pomůcek jen za situace, kdy je v důsledku
+toho vyloučeno stanovení daně dokazováním.
+ Zjištění, že daňový subjekt neúčtoval o stravenkách jako o
+ceninách, ale jako o hotovostním příjmu, že v ojedinělých
+případech byla přepsána pořadová čísla faktur, a že
+neoprávněně zaúčtoval jeden výdaj, samo o sobě stanovení
+daně dokazováním nevylučuje“.
+
+Pomůcky – judikatura – oprávněnost použití
+NSS 5 Afs 129/2006 z 27. 7. 2007
+ „Jednalo-li se svým objemem o podstatnou část účetnictví
+stěžovatele, která byla zpochybněna a správcem daně neuznána,
+stěží lze konstatovat, že vypovídací schopnost účetnictví jako
+celku nebyla zpochybněna, resp. zachována. ZSDP v § 31 odst.
+5 naopak nevylučuje, aby nemohlo být údajů z účetnictví, které
+není úplné a průkazné, použito jakožto jedné z možných
+pomůcek“.
+
+Pomůcky – judikatura – odcizené účetnictví
+NSS 1 Afs 94/2006-60 ze dne 31. 1. 2007
+ Žalobce se ocitl v důkazní nouzi, neboť účetní doklady mu byly odcizeny.
+ To samo o sobě však nemusí vždy způsobit takovou absenci důkazních
+prostředků, že by za všech okolností muselo dojít ke stanovení daně za užití
+pomůcek, jak předpokládá § 31 odst. 5 ZSDP.
+ Lze si představit, že i v takové situaci budou existovat jiné důkazy, jimiž
+daňový subjekt spolehlivě prokáže jím tvrzenou daň.
+
+Dokazování ve vybraných případech
+ Zprostředkování, reklama, manažerské služby
+ Základní problémy:
+ Fakturování fiktivních služeb, které nebyly poskytnuty
+ Falešné doklady
+ Nereálné ceny za služby, řetězové navyšování cen – cena
+„obvyklá“
+ Nekontaktní a zapomnětliví svědci
+ Chybějící dokumentace k prováděným činnostem
+
+Reklama
+ §25/1/t zákona o daních z příjmů neuznává daňově výdaje na
+reprezentaci, kterými jsou zejména výdaje na pohoštění,
+občerstvení a dar; za dar se nepovažuje reklamní nebo
+propagační předmět, který je opatřen jménem nebo ochrannou
+známkou poskytovatele tohoto předmětu nebo názvem
+propagovaného zboží nebo služby, jehož hodnota bez daně z
+přidané hodnoty nepřesahuje 500 Kč a který není s výjimkou
+tichého vína předmětem spotřební daně
+
+Reklama
+ Problémy:
+ a) prokázat, že jde o výdaj na reklamu a nikoli na reprezentaci,
+ b) i v případě, že jde o výdaj na reklamu, prokázat, že reklama byla opravdu
+uskutečněna, včetně jejího deklarovaného rozsahu, času a v ceně
+odpovídající odvedenému dílu,
+ c) můžeme se setkat i s opačným problémem, tedy se snahou vykázat
+reklamu jako „charitativní“ dar s možností uplatnit jej jako odečitatelnou
+položku od základu daně.
+
+Reklama
+ d) plnění, které daňový subjekt poskytuje, bývá posouzeno jako
+dar a nikoli jako součást ceny (jiného) prodávaného zboží či
+služby,
+ e) plnění spočívající obvykle v uspořádání nějaké akce (i bez
+poskytovaných dárků) nebývá uznáno jako reklama, ale označeno
+za výdaj na reprezentaci,
+ f) předmětné plnění sice definici reprezentace nenaplňuje, ale
+příčinná souvislost příslušné akce s daňovými výnosy je
+nedostatečná.
+
+Reklama
+ Příklad
+ Pokud tedy např. tělovýchovná jednota přijme finanční
+částku na svůj provoz, ale zároveň se zaváže, že jako
+reciprocitu budou na dresech jejich hráčů uvedeno logo
+firmy, nejde o dar, ale výdaj na reklamu.
+
+Reklama - judikatura
+ Prokázání uskutečnění reklamy (NSS 7 Afs 112/2008 – 64 ze dne 11. 12.
+2008)
+ DS předložil formálně bezvadné doklady, fotodokumentaci o tom, že reklamní
+činnost proběhla, navrhl svědky a další důkazy.
+ Někteří svědci (zástupci dodavatelských firem) popřeli, že by reklamní
+činnost pro daný subjekt prováděli a daný subjekt vůbec znali, jiní sdělili, že
+si danou situaci již nepamatují. 
+
+Reklama - judikatura
+ 7 Afs 112/2008 – pokrač.
+ K dispozici byly i doklady vystavené zmíněnými dodavatelskými
+firmami, svědci většinou popřeli, že by tyto doklady podepsali,
+v některých případech však nepopřeli, že by mohlo jít o jejich
+razítko či doklad.
+ Stěžovatel navrhl provést důkazy předložením účetnictví
+dodavatelů, ti však byli nekontaktní. Výsledkem bylo neunesení
+důkazního břemene ze strany daňového subjektu a neuznání
+předmětných výdajů.
+
+Reklama - judikatura
+ Reklama nebo zakryté financování sportovních aktivit? (NSS 7 Afs
+10/2007-55 z 1. 11. 2007)
+ umístění stěžovatelčiny obchodní firmy nebo loga nebo názvu
+stěžovatelky nebo identifikace jejích produktů na reklamních plochách
+instalovaných na ledním stadionu, na dresech hráčů hokejového klubu
+S. H., na plakátech k jednotlivým utkáním S. H. a na reklamních
+předmětech S. H.
+ reklama nebyla v odpovídající šíři prokázána (např. fotodokumentace
+reklamy nebyla datovaná a zjistilo se, že by mohla odpovídat spíše jiné
+sezóně). 
+
+Reklama - judikatura
+ 7 Afs 10/2007-55 pokrač.:
+ Dále se vyskytla otázka, zda nedošlo ve skutečnosti
+spíše k zakrytému financování sportovních aktivit
+příjemce reklamy (přičemž zde mohlo jít i o sportovní
+aktivity rodinných příslušníků firmy, která reklamu hradila).
+Nebyl též prokázán vztah mezi údajnou reklamou a
+hospodářským výsledkem zadavatele reklamy.
+
+Reklama - judikatura
+ Neprokázaný mediální servis (NSS 9 Afs 27/2010 – 130 z 30. 11. 2010)
+ DS nebyl schopen prokázat nárok na odpočet DPH z milionových částek
+vyplacených svému dodavateli za zajištění vysílacího prostoru při konání
+Evropského poháru tahačů. Formálně byly doklady a další dokumentace
+v pořádku, při podrobnějším zkoumání však bylo zjištěno, že obrazová
+dokumentace pochází z jiného období, svědci si nic nepamatují, byla
+provedena úhrada za prostor v neexistujícím rádiu. Přestože v řadě
+sdělovacích prostředků byly reportáže ze zmíněného závodu vysílány,
+redaktoři daných médií si je zajišťovali sami. 
+
+Reklama - judikatura
+ 9 Afs 27/2010 pokrač.:
+ Z obecnějšího pohledu je podstatné, že je na odběrateli, aby byl schopen
+prokázat, že příslušné zdanitelné plnění přijal. Jinými slovy, nemůže se
+spokojit s tím, že věří dodavateli, že příslušné plnění provedl a vyfakturoval,
+ale musí disponovat (kromě smluv a faktur) dalšími důkazy, které prokážou,
+že příslušné plnění přijal. V praxi to může být pochopitelně velmi
+komplikované, tím spíše, že se jedná nikoli o zboží, ale o služby. Situace
+bývá ještě komplikovanější pak v případech, kdy dodavatel má ještě další
+subdodavatele.
+ V daních však platí presumpce viny a odběratel musí mít příslušné důkazy
+k dispozici. 
+
+Reklama - judikatura
+ Socha, parní čistič a vstupenky na hrad v daňových nákladech (podle
+rozsudku Nejvyššího správního soudu 2 Afs 200/2005 – 86 ze dne 26. září
+2006)
+ DS provozující cestovní kancelář si do nákladů zahrnul barokní sochu, kterou
+měl umístěnu v zahradě před kanceláří – nebyla mu uznána. Neepomohla
+ani skutečnost, že v dalších létech sochu prodal téměř za pořizovací cenu a
+příjem zahrnul do daňového základu. V případě parního čističe poplatník
+přehlédl, že mu výdaj byl uznán z 92 % a mylně předpokládal, že nebyl
+uznán vůbec. Konečně v posledním případě zaplatil vstupné za skauty, poté,
+co neprošlo jako daňový náklad, pokusil se neúspěšně obhájit tento výdaj
+jako „charitativní“ dar.
+
+Reklama - judikatura
+ Věrnostní program a nárok na odpočet DPH (podle rozsudku Evropského
+soudního dvora C-48/97 (Kuwait Petroleum))
+ Dodavatel pohonných hmot – společnost Kuwait Petroleum poskytoval tento
+subjekt svým zákazníkům známky na „sběratelskou kartu“ za každých
+odebraných 12 litrů benzínu.
+ Po nasbírání určitého počtu známek bylo možno „sběratelské karty“ vyměnit
+za určité zboží (dárek).
+ Za příslušný dárek již zákazník nic nedoplácel.
+ Pokud se týká ceny pohonných hmot, ať už si zákazník vzal známku do
+sběratelské karty či nevzal, za pohonné hmoty platil stejnou částku.
+
+Reklama - judikatura
+ C-48/97 – pokrač.:
+ Poskytnutí kupónu při nákupu pohonných hmot bylo učiněno v souvislosti s
+podnikatelskou činností společnosti s cílem zvýšení prodeje. Společnosti
+tedy nikdo nezpochybňoval její oprávnění uplatnit si nárok na odpočet DPH
+na vstupu při pořízení zboží, které bylo následně poskytováno jako dárky
+zákazníkům dle jejich výběru z katalogu
+ ESD dospěl k tomu, že se společnosti nepodařilo prokázat, že cena
+hrazená za pohonné hmoty obsahovala v sobě část představující hodnotu
+„dárků“ vybraných z katalogu.
+ Poskytnutí dárků z katalogu tak bylo posouzeno jako samostatné zdanitelné
+plnění s povinností odvést DPH na výstupu. 
+
+Reklama - judikatura
+ Nárok na odpočet DPH z ohňostroje (podle rozsudku Nejvyššího správního soudu
+5 Afs 152/2004 – 55 ze dne 4. srpna 2005)
+ Firma se snažila zviditelnit u svých zákazníků tím, že uspořádala ohňostroj.
+Finančním orgánům se příčilo uznat nárok na odpočet DPH na vstupu spatřovala
+v ní spíše plnění charakteru reprezentace.
+ DS však byl v tomto případě úspěšný a svůj nárok obhájil. Vzhledem k obdobnosti
+zmiňované problematiky jsou východiska z tohoto rozsudku aplikovatelná nejen na
+oblast DPH, ale i daňových nákladů u daně zpříjmů.
+ Zároveň nelze přehlédnout názor soudu, že se předmětná plnění nedají posuzovat
+plošně – co může být daňovým nákladem u jednoho subjektu vzhledem k jeho
+předmětu a způsobu podnikání, nemusí být uznáno u jiného.
+
+Reklama - judikatura
+ Dálniční známky zdarma MS v Praze čj. 5 Ca 67/2008-77 z 25.
+srpna 2010
+ DS poskytl svým zákazníkům dálniční známky, popř. poukázky na
+pohonné hmoty zdarma, jako „bonus“ za to, že si u něj nechají
+opravit havarované auto. Zákazníci nehradili ani opravu (tu hradila
+pojišťovna) ani cenu dálniční známky či poukázky na benzín.
+Finanční orgány i soud posoudily výdaje na nákup dálniční
+známky i poukázek na pohonné hmoty jako daňově neuznatelný
+výdaj na reprezentaci. 
+
+Reklama - judikatura
+ Přeprava, vstupné a občerstvení účastníků „prodejních“ zájezdů NSS
+čj. 2 Afs 6/2004 – 67 z 27. 10. 2004)
+ výdaje za stravování účastníků, vstupné na prohlídku pivovaru, náklady
+za výlet lodí, výlety parním vlakem a za přepravu autobusem,
+ hlavní činnost žalobkyně spočívá v nákupu zboží za účelem jeho
+dalšího prodeje, který je realizován prostřednictvím prodejních zájezdů.
+ potenciálním zákazníkům jsou nabízeny kulturní akce, společný oběd,
+výlety rekreační lodí nebo vlakem a upomínkové předměty. Podle
+vyjádření stěžovatelky je jejím příjmem účastnický poplatek zaplacený
+účastníky zájezdu a tržby ze zboží prodaného na přednáškách. U takto
+prodávaného zboží činí obchodní přirážka přibližně 200 %.
+
+Reklama - judikatura
+ 2 Afs 6/2004 pokrač.:
+ Ve spise je založen vzor nabídkového listu, prostřednictvím kterého
+stěžovatelka nabízí zájezd autobusem, prezentovaný jako „Super výlet s
+jedinou reklamní akcí“, „Výlet parním vlakem pro všechny zdarma“, „Toulky
+Severní Moravou za železniční historií“. Dále je na letáku uvedeno, že se
+frekventanti zájezdu zúčastní reklamní prezentace zboží s možností
+zakoupení levného oběda, zúčastní se prohlídky města Králíky
+ a historických památek v Letohradě. Účastnický poplatek zájezdu činil 140
+Kč.
+ NO nebyl uznán
+
+Dokazování ve vybraných případech
+ I zde platí základní schéma dokazování:
+1) Povinnost DS k tvrzení (např. podat DP)
+2) Výzva SD k prokázání
+3) Povinnost DS důkazní (doložit tvrzení)
+4) Povinnost SD prokázat, proč má pochybnosti
+5) Povinnost DS pochybnosti vyvrátit
+
 ## 22. Opravné a dozorčí prostředky v daňovém řízení
 
 Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém řízení - **daňový řád**.
