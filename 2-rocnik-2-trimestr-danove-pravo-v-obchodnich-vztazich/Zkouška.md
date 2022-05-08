@@ -771,6 +771,18 @@ TBD
   - 1) Důvody nezávislé na tom, zda si zúčastněné strany jednání přejí či nikoli.
     - Soud totiž zruší napadené rozhodnutí pro vady řízení bez jednání rozsudkem:
       - a) pro nepřezkoumatelnost spočívající v nesrozumitelnosti nebo nedostatku důvodů rozhodnutí. Jinými slovy řečeno, jestliže není z rozhodnutí zřejmé, co vlastně nařizuje, popř. jestliže není jasné, proč vůbec bylo vydáno, o co žalovaný orgán opírá své rozhodnutí, nemůže ani soud vědět, zda úvahy žalovaného, které k vydání rozhodnutí vedly byly správné či nikoli, a proto rozhodnutí zruší. To ovšem ještě neznamená, že si poplatník může definitivně oddechnout, protože žalovaný finanční orgán pravděpodobně namísto tohoto rozhodnutí (které je v neprospěch poplatníka) vydá nové, ovšem již řádně zdůvodněné a celý kolotoč soudního jednání se pak může opakovat.
+      - b) proto, že skutkový stav, který vzal správní orgán za základ napadeného rozhodnutí je v rozporu se spisy, nemá ve spisech oporu anebo vyžaduje rozsáhlé nebo zásadní doplnění.
+        - (Například za základ pro napadené rozhodnutí byla vzata výpověď důležitého svědka, přičemž protokol o jeho výslechu ve spise chybí).
+      - c) pro podstatné porušení ustanovení o řízení před správním orgánem, mohlo-li mít za následek nezákonné rozhodnutí o věci samé.
+      - d) zjistí-li soud, že rozhodnutí trpí takovými vadami, které vyvolávají jeho nicotnost, vysloví rozsudkem tuto nicotnost i bez návrhu. Pokud se důvody nicotnosti týkají jen části rozhodnutí, soud vysloví nicotnou jen tuto část rozhodnutí, jestliže z povahy věci nevyplývá, že ji nelze oddělit od ostatních částí rozhodnutí.
+  - 2) Dohoda účastníků řízení, o tom, že bude rozhodováno bez jednání.
+    - Soud může rozhodnout o věci samé bez jednání, jestliže to účastníci shodně navrhli nebo s tím souhlasí.
+    - Jestliže účastník řízení do dvou týdnů od doručení výzvy předsedy senátu nevyjádří svůj nesouhlas, má se za to, že souhlasí s tím, aby jednání nebylo nařízeno.
+
+**Výsledek soudu - rozsudek:**
+
+- 1) Žaloba není důvodná – soud žalobu zamítne
+- 2) Žaloba je důvodná – soud napadené rozhodnutí zruší a vrátí věc k dalšímu řízení žalované straně. Podle povahy věci zruší buď jen rozhodnutí orgánu, který věc rozhodl v posledním stupni nebo i rozhodnutí orgánů nižších stupňů, které tomuto rozhodnutí předcházela.
 
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
