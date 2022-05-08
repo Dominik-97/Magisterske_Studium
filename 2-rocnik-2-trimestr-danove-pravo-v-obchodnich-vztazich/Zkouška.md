@@ -789,6 +789,14 @@ TBD
     - Je tedy třeba vzít v úvahu, že soud nevydává v případě vyhovění žalobě namísto finančních orgánů rozhodnutí nové, ale pouze jejich rozhodnutí ruší a vrací jim je k dalšímu řízení.
   - Žalovaná strana je pak vázána v dalším rozhodování názorem soudu a pokud soud prováděl sám dokazování, musí v dalším rozhodování vycházet i z důkazů provedených soudem.
 
+- Napadené rozhodnutí soud zruší:
+  - a) pro nezákonnost
+    - Příklad - Firmě ZZZ, s.r.o. byla doměřena daň z příjmů právnických osob, protože správce daně a následně odvolací orgán posoudil opravu nemovitosti, ve které sídlí, jako technické zhodnocení. Soud došel k opačnému názoru – zrušil rozhodnutí o odvolání finančního ředitelství a současně i dodatečný platební výměr finančního úřadu pro nezákonnost.
+    - Pro nezákonnost zruší soud napadené rozhodnutí i tehdy, zjistí-li, že správní orgán překročil zákonem stanovené meze správního uvážení nebo jej zneužil (např. dal za malé provinění maximální možnou pokutu).
+  - b) pro vady řízení
+    - Příklad:
+      - Vadou řízení může být např. situace, kdy správce daně vyslechl svědka, ale neumožnil daňovému subjektu být přítomen jeho výslechu.
+
 ## 24. Role judikatury správního, ústavního a evropského soudnictví v daňovém právu
 
 TBD
