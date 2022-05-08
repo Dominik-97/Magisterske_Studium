@@ -806,7 +806,30 @@ Rozdíl mezi:
     - (3) Podané vysvětlení nelze použít jako důkazní prostředek.
     - (4) O podaném vysvětlení sepíše správce daně podle povahy vysvětlení protokol nebo úřední záznam.
 
-§91 - §107
+- §91 - §107
+  - Zahájení řízení
+    - Řízení je zahájeno dnem, kdy příslušnému správci daně došlo první podání ve věci učiněné osobou zúčastněnou na správě daní, nebo dnem, kdy byl správcem daně vůči osobě zúčastněné na správě daní učiněn první úkon ve věci.
+    - Nesplní-li daňový subjekt svou povinnost učinit podání zahajující řízení, zahájí správce daně toto řízení z moci úřední, jakmile zjistí skutečnosti zakládající tuto povinnost.
+  - Dokazování
+    - Dokazování provádí příslušný správce daně nebo jím dožádaný správce daně.
+    - Správce daně dbá, aby skutečnosti rozhodné pro správné zjištění a stanovení daně byly zjištěny co nejúplněji, a není v tom vázán jen návrhy daňových subjektů.
+    - Daňový subjekt prokazuje všechny skutečnosti, které je povinen uvádět v daňovém tvrzení a dalších podáních.
+    - Pokud to vyžaduje průběh řízení, může správce daně vyzvat daňový subjekt k prokázání skutečností potřebných pro správné stanovení daně, a to za předpokladu, že potřebné informace nelze získat z vlastní úřední evidence.
+    - Zákon taxativně definuje, co prokazuje správce daně, například:
+      - Oznámení vlastních písemností,
+      - skutečnosti vyvracející věrohodnost úředních záznamů atd.
+    - Je možné navrhnout účast třetí osoby v řízení.
+    - Správce daně po provedeném dokazování určí, které skutečnosti považuje za prokázané a které nikoliv a na základě kterých důkazních prostředků; o hodnocení důkazů sepíše úřední záznam, pokud se toto hodnocení neuvádí v jiné písemnosti založené ve spise.
+  - Důkazní prostředky
+    - Jako důkazních prostředků lze užít všech podkladů, jimiž lze zjistit skutečný stav věci a ověřit skutečnosti rozhodné pro správné zjištění a stanovení daně a které nejsou získány v rozporu s právním předpisem, a to i těch, které byly získány před zahájením řízení. Jde zejména o tvrzení daňového subjektu, listiny, znalecké posudky, svědecké výpovědi a ohledání věci.
+    - Jedná se tak například o:
+      - Listiny,
+      - Znalecký posudek,
+      - Svědky,
+      - Záznamní povinnost - Daňový subjekt, který v rámci své podnikatelské nebo jiné samostatně výdělečné činnosti uskutečňuje platby v hotovosti, je povinen vést průběžně evidenci těchto plateb, pokud nezaznamenává údaje o těchto platbách v jiné evidenci stanovené zákonem.
+  - Pomůcky a sjednání daně
+    - TBD
+    
 
 ## 20. Daňová kontrola a jiné instituty pro zjišťování a prověřování daňové povinnosti
 
