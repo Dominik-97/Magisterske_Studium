@@ -966,28 +966,19 @@ Postup k odstranění pochybností (§ 89-90 DŘ)
   - Jestliže totiž rozhodnutí žalovaného např. konstatuje, že stěžovatelem nebyly předloženy evidenční listy, mělo by obsahovat rovněž zdůvodnění, proč nelze pro tuto skutečnost stanovit výši příjmů z pronájmu bytů dokazováním, např. na základě výzev k součinnosti třetích osob.
 
 - Pomůcky – malý rozsah chyb neopravňuje k přechodu na pomůcky
-- NSS 2 Afs 132/2005 – 71 z 27. 7. 2006
-- „Nesplnění povinností daňovým subjektem je důvodem pro stanovení daně podle pomůcek jen za situace, kdy je v důsledku toho vyloučeno stanovení daně dokazováním.
-- Zjištění, že daňový subjekt neúčtoval o stravenkách jako o ceninách, ale jako o hotovostním příjmu, že v ojedinělých případech byla přepsána pořadová čísla faktur, a že neoprávněně zaúčtoval jeden výdaj, samo o sobě stanovení daně dokazováním nevylučuje“.
+  - NSS 2 Afs 132/2005 – 71 z 27. 7. 2006
+    - „Nesplnění povinností daňovým subjektem je důvodem pro stanovení daně podle pomůcek jen za situace, kdy je v důsledku toho vyloučeno stanovení daně dokazováním.
+    - Zjištění, že daňový subjekt neúčtoval o stravenkách jako o ceninách, ale jako o hotovostním příjmu, že v ojedinělých případech byla přepsána pořadová čísla faktur, a že neoprávněně zaúčtoval jeden výdaj, samo o sobě stanovení daně dokazováním nevylučuje“.
 
 - Pomůcky – judikatura – oprávněnost použití
-NSS 5 Afs 129/2006 z 27. 7. 2007
- „Jednalo-li se svým objemem o podstatnou část účetnictví
-stěžovatele, která byla zpochybněna a správcem daně neuznána,
-stěží lze konstatovat, že vypovídací schopnost účetnictví jako
-celku nebyla zpochybněna, resp. zachována. ZSDP v § 31 odst.
-5 naopak nevylučuje, aby nemohlo být údajů z účetnictví, které
-není úplné a průkazné, použito jakožto jedné z možných
-pomůcek“.
+  - NSS 5 Afs 129/2006 z 27. 7. 2007
+    - „Jednalo-li se svým objemem o podstatnou část účetnictvístěžovatele, která byla zpochybněna a správcem daně neuznána, stěží lze konstatovat, že vypovídací schopnost účetnictví jako celku nebyla zpochybněna, resp. zachována. ZSDP v § 31 odst. 5 naopak nevylučuje, aby nemohlo být údajů z účetnictví, které není úplné a průkazné, použito jakožto jedné z možných pomůcek“.
 
 - Pomůcky – judikatura – odcizené účetnictví
-NSS 1 Afs 94/2006-60 ze dne 31. 1. 2007
- Žalobce se ocitl v důkazní nouzi, neboť účetní doklady mu byly odcizeny.
- To samo o sobě však nemusí vždy způsobit takovou absenci důkazních
-prostředků, že by za všech okolností muselo dojít ke stanovení daně za užití
-pomůcek, jak předpokládá § 31 odst. 5 ZSDP.
- Lze si představit, že i v takové situaci budou existovat jiné důkazy, jimiž
-daňový subjekt spolehlivě prokáže jím tvrzenou daň.
+  - NSS 1 Afs 94/2006-60 ze dne 31. 1. 2007
+    - Žalobce se ocitl v důkazní nouzi, neboť účetní doklady mu byly odcizeny.
+    - To samo o sobě však nemusí vždy způsobit takovou absenci důkazních prostředků, že by za všech okolností muselo dojít ke stanovení daně za užití pomůcek, jak předpokládá § 31 odst. 5 ZSDP.
+    - Lze si představit, že i v takové situaci budou existovat jiné důkazy, jimiž daňový subjekt spolehlivě prokáže jím tvrzenou daň.
 
 - Dokazování ve vybraných případech
   - Zprostředkování, reklama, manažerské služby
@@ -1019,156 +1010,75 @@ daňový subjekt spolehlivě prokáže jím tvrzenou daň.
     - DS předložil formálně bezvadné doklady, fotodokumentaci o tom, že reklamní činnost proběhla, navrhl svědky a další důkazy.
     - Někteří svědci (zástupci dodavatelských firem) popřeli, že by reklamní činnost pro daný subjekt prováděli a daný subjekt vůbec znali, jiní sdělili, že si danou situaci již nepamatují.
 
-Reklama - judikatura
- 7 Afs 112/2008 – pokrač.
- K dispozici byly i doklady vystavené zmíněnými dodavatelskými
-firmami, svědci většinou popřeli, že by tyto doklady podepsali,
-v některých případech však nepopřeli, že by mohlo jít o jejich
-razítko či doklad.
- Stěžovatel navrhl provést důkazy předložením účetnictví
-dodavatelů, ti však byli nekontaktní. Výsledkem bylo neunesení
-důkazního břemene ze strany daňového subjektu a neuznání
-předmětných výdajů.
+- Reklama - judikatura
+  - 7 Afs 112/2008 – pokrač.
+    - K dispozici byly i doklady vystavené zmíněnými dodavatelskými firmami, svědci většinou popřeli, že by tyto doklady podepsali, v některých případech však nepopřeli, že by mohlo jít o jejich razítko či doklad.
+    - Stěžovatel navrhl provést důkazy předložením účetnictví dodavatelů, ti však byli nekontaktní. Výsledkem bylo neunesení důkazního břemene ze strany daňového subjektu a neuznání předmětných výdajů.
 
-Reklama - judikatura
- Reklama nebo zakryté financování sportovních aktivit? (NSS 7 Afs
-10/2007-55 z 1. 11. 2007)
- umístění stěžovatelčiny obchodní firmy nebo loga nebo názvu
-stěžovatelky nebo identifikace jejích produktů na reklamních plochách
-instalovaných na ledním stadionu, na dresech hráčů hokejového klubu
-S. H., na plakátech k jednotlivým utkáním S. H. a na reklamních
-předmětech S. H.
- reklama nebyla v odpovídající šíři prokázána (např. fotodokumentace
-reklamy nebyla datovaná a zjistilo se, že by mohla odpovídat spíše jiné
-sezóně). 
+- Reklama - judikatura
+  - Reklama nebo zakryté financování sportovních aktivit? (NSS 7 Afs 10/2007-55 z 1. 11. 2007)
+    - umístění stěžovatelčiny obchodní firmy nebo loga nebo názvu stěžovatelky nebo identifikace jejích produktů na reklamních plochách instalovaných na ledním stadionu, na dresech hráčů hokejového klubu S. H., na plakátech k jednotlivým utkáním S. H. a na reklamních předmětech S. H.
+    - reklama nebyla v odpovídající šíři prokázána (např. fotodokumentace reklamy nebyla datovaná a zjistilo se, že by mohla odpovídat spíše jiné sezóně). 
 
-Reklama - judikatura
- 7 Afs 10/2007-55 pokrač.:
- Dále se vyskytla otázka, zda nedošlo ve skutečnosti
-spíše k zakrytému financování sportovních aktivit
-příjemce reklamy (přičemž zde mohlo jít i o sportovní
-aktivity rodinných příslušníků firmy, která reklamu hradila).
-Nebyl též prokázán vztah mezi údajnou reklamou a
-hospodářským výsledkem zadavatele reklamy.
+- Reklama - judikatura
+  - 7 Afs 10/2007-55 pokrač.:
+    - Dále se vyskytla otázka, zda nedošlo ve skutečnosti spíše k zakrytému financování sportovních aktivit příjemce reklamy (přičemž zde mohlo jít i o sportovní aktivity rodinných příslušníků firmy, která reklamu hradila). Nebyl též prokázán vztah mezi údajnou reklamou a hospodářským výsledkem zadavatele reklamy.
 
-Reklama - judikatura
- Neprokázaný mediální servis (NSS 9 Afs 27/2010 – 130 z 30. 11. 2010)
- DS nebyl schopen prokázat nárok na odpočet DPH z milionových částek
-vyplacených svému dodavateli za zajištění vysílacího prostoru při konání
-Evropského poháru tahačů. Formálně byly doklady a další dokumentace
-v pořádku, při podrobnějším zkoumání však bylo zjištěno, že obrazová
-dokumentace pochází z jiného období, svědci si nic nepamatují, byla
-provedena úhrada za prostor v neexistujícím rádiu. Přestože v řadě
-sdělovacích prostředků byly reportáže ze zmíněného závodu vysílány,
-redaktoři daných médií si je zajišťovali sami. 
+- Reklama - judikatura
+  - Neprokázaný mediální servis (NSS 9 Afs 27/2010 – 130 z 30. 11. 2010)
+    - DS nebyl schopen prokázat nárok na odpočet DPH z milionových částek vyplacených svému dodavateli za zajištění vysílacího prostoru při konání Evropského poháru tahačů. Formálně byly doklady a další dokumentace v pořádku, při podrobnějším zkoumání však bylo zjištěno, že obrazová dokumentace pochází z jiného období, svědci si nic nepamatují, byla provedena úhrada za prostor v neexistujícím rádiu. Přestože v řadě sdělovacích prostředků byly reportáže ze zmíněného závodu vysílány, redaktoři daných médií si je zajišťovali sami. 
 
-Reklama - judikatura
- 9 Afs 27/2010 pokrač.:
- Z obecnějšího pohledu je podstatné, že je na odběrateli, aby byl schopen
-prokázat, že příslušné zdanitelné plnění přijal. Jinými slovy, nemůže se
-spokojit s tím, že věří dodavateli, že příslušné plnění provedl a vyfakturoval,
-ale musí disponovat (kromě smluv a faktur) dalšími důkazy, které prokážou,
-že příslušné plnění přijal. V praxi to může být pochopitelně velmi
-komplikované, tím spíše, že se jedná nikoli o zboží, ale o služby. Situace
-bývá ještě komplikovanější pak v případech, kdy dodavatel má ještě další
-subdodavatele.
- V daních však platí presumpce viny a odběratel musí mít příslušné důkazy
-k dispozici. 
+- Reklama - judikatura
+  - 9 Afs 27/2010 pokrač.:
+    - Z obecnějšího pohledu je podstatné, že je na odběrateli, aby byl schopen prokázat, že příslušné zdanitelné plnění přijal. Jinými slovy, nemůže se spokojit s tím, že věří dodavateli, že příslušné plnění provedl a vyfakturoval, ale musí disponovat (kromě smluv a faktur) dalšími důkazy, které prokážou, že příslušné plnění přijal. V praxi to může být pochopitelně velmi komplikované, tím spíše, že se jedná nikoli o zboží, ale o služby. Situace bývá ještě komplikovanější pak v případech, kdy dodavatel má ještě další subdodavatele.
+    - V daních však platí presumpce viny a odběratel musí mít příslušné důkazy k dispozici. 
 
-Reklama - judikatura
- Socha, parní čistič a vstupenky na hrad v daňových nákladech (podle
-rozsudku Nejvyššího správního soudu 2 Afs 200/2005 – 86 ze dne 26. září
-2006)
- DS provozující cestovní kancelář si do nákladů zahrnul barokní sochu, kterou
-měl umístěnu v zahradě před kanceláří – nebyla mu uznána. Neepomohla
-ani skutečnost, že v dalších létech sochu prodal téměř za pořizovací cenu a
-příjem zahrnul do daňového základu. V případě parního čističe poplatník
-přehlédl, že mu výdaj byl uznán z 92 % a mylně předpokládal, že nebyl
-uznán vůbec. Konečně v posledním případě zaplatil vstupné za skauty, poté,
-co neprošlo jako daňový náklad, pokusil se neúspěšně obhájit tento výdaj
-jako „charitativní“ dar.
+- Reklama - judikatura
+  - Socha, parní čistič a vstupenky na hrad v daňových nákladech (podle rozsudku Nejvyššího správního soudu 2 Afs 200/2005 – 86 ze dne 26. září 2006)
+    - DS provozující cestovní kancelář si do nákladů zahrnul barokní sochu, kterou měl umístěnu v zahradě před kanceláří – nebyla mu uznána. Neepomohla ani skutečnost, že v dalších létech sochu prodal téměř za pořizovací cenu a příjem zahrnul do daňového základu. V případě parního čističe poplatník přehlédl, že mu výdaj byl uznán z 92 % a mylně předpokládal, že nebyl uznán vůbec. Konečně v posledním případě zaplatil vstupné za skauty, poté, co neprošlo jako daňový náklad, pokusil se neúspěšně obhájit tento výdaj jako „charitativní“ dar.
 
-Reklama - judikatura
- Věrnostní program a nárok na odpočet DPH (podle rozsudku Evropského
-soudního dvora C-48/97 (Kuwait Petroleum))
- Dodavatel pohonných hmot – společnost Kuwait Petroleum poskytoval tento
-subjekt svým zákazníkům známky na „sběratelskou kartu“ za každých
-odebraných 12 litrů benzínu.
- Po nasbírání určitého počtu známek bylo možno „sběratelské karty“ vyměnit
-za určité zboží (dárek).
- Za příslušný dárek již zákazník nic nedoplácel.
- Pokud se týká ceny pohonných hmot, ať už si zákazník vzal známku do
-sběratelské karty či nevzal, za pohonné hmoty platil stejnou částku.
+- Reklama - judikatura
+  - Věrnostní program a nárok na odpočet DPH (podle rozsudku Evropského soudního dvora C-48/97 (Kuwait Petroleum))
+    - Dodavatel pohonných hmot – společnost Kuwait Petroleum poskytoval tento subjekt svým zákazníkům známky na „sběratelskou kartu“ za každých odebraných 12 litrů benzínu.
+    - Po nasbírání určitého počtu známek bylo možno „sběratelské karty“ vyměnit za určité zboží (dárek).
+    - Za příslušný dárek již zákazník nic nedoplácel.
+    - Pokud se týká ceny pohonných hmot, ať už si zákazník vzal známku do sběratelské karty či nevzal, za pohonné hmoty platil stejnou částku.
 
-Reklama - judikatura
- C-48/97 – pokrač.:
- Poskytnutí kupónu při nákupu pohonných hmot bylo učiněno v souvislosti s
-podnikatelskou činností společnosti s cílem zvýšení prodeje. Společnosti
-tedy nikdo nezpochybňoval její oprávnění uplatnit si nárok na odpočet DPH
-na vstupu při pořízení zboží, které bylo následně poskytováno jako dárky
-zákazníkům dle jejich výběru z katalogu
- ESD dospěl k tomu, že se společnosti nepodařilo prokázat, že cena
-hrazená za pohonné hmoty obsahovala v sobě část představující hodnotu
-„dárků“ vybraných z katalogu.
- Poskytnutí dárků z katalogu tak bylo posouzeno jako samostatné zdanitelné
-plnění s povinností odvést DPH na výstupu. 
+- Reklama - judikatura
+  - C-48/97 – pokrač.:
+    - Poskytnutí kupónu při nákupu pohonných hmot bylo učiněno v souvislosti s podnikatelskou činností společnosti s cílem zvýšení prodeje. Společnosti tedy nikdo nezpochybňoval její oprávnění uplatnit si nárok na odpočet DPH na vstupu při pořízení zboží, které bylo následně poskytováno jako dárky zákazníkům dle jejich výběru z katalogu
+    - ESD dospěl k tomu, že se společnosti nepodařilo prokázat, že cena hrazená za pohonné hmoty obsahovala v sobě část představující hodnotu „dárků“ vybraných z katalogu.
+    - Poskytnutí dárků z katalogu tak bylo posouzeno jako samostatné zdanitelné plnění s povinností odvést DPH na výstupu. 
 
-Reklama - judikatura
- Nárok na odpočet DPH z ohňostroje (podle rozsudku Nejvyššího správního soudu
-5 Afs 152/2004 – 55 ze dne 4. srpna 2005)
- Firma se snažila zviditelnit u svých zákazníků tím, že uspořádala ohňostroj.
-Finančním orgánům se příčilo uznat nárok na odpočet DPH na vstupu spatřovala
-v ní spíše plnění charakteru reprezentace.
- DS však byl v tomto případě úspěšný a svůj nárok obhájil. Vzhledem k obdobnosti
-zmiňované problematiky jsou východiska z tohoto rozsudku aplikovatelná nejen na
-oblast DPH, ale i daňových nákladů u daně zpříjmů.
- Zároveň nelze přehlédnout názor soudu, že se předmětná plnění nedají posuzovat
-plošně – co může být daňovým nákladem u jednoho subjektu vzhledem k jeho
-předmětu a způsobu podnikání, nemusí být uznáno u jiného.
+- Reklama - judikatura
+  - Nárok na odpočet DPH z ohňostroje (podle rozsudku Nejvyššího správního soudu 5 Afs 152/2004 – 55 ze dne 4. srpna 2005)
+    - Firma se snažila zviditelnit u svých zákazníků tím, že uspořádala ohňostroj. Finančním orgánům se příčilo uznat nárok na odpočet DPH na vstupu spatřovala v ní spíše plnění charakteru reprezentace.
+    - DS však byl v tomto případě úspěšný a svůj nárok obhájil. Vzhledem k obdobnosti zmiňované problematiky jsou východiska z tohoto rozsudku aplikovatelná nejen na oblast DPH, ale i daňových nákladů u daně zpříjmů.
+    - Zároveň nelze přehlédnout názor soudu, že se předmětná plnění nedají posuzovat plošně – co může být daňovým nákladem u jednoho subjektu vzhledem k jeho předmětu a způsobu podnikání, nemusí být uznáno u jiného.
 
-Reklama - judikatura
- Dálniční známky zdarma MS v Praze čj. 5 Ca 67/2008-77 z 25.
-srpna 2010
- DS poskytl svým zákazníkům dálniční známky, popř. poukázky na
-pohonné hmoty zdarma, jako „bonus“ za to, že si u něj nechají
-opravit havarované auto. Zákazníci nehradili ani opravu (tu hradila
-pojišťovna) ani cenu dálniční známky či poukázky na benzín.
-Finanční orgány i soud posoudily výdaje na nákup dálniční
-známky i poukázek na pohonné hmoty jako daňově neuznatelný
-výdaj na reprezentaci. 
+- Reklama - judikatura
+  - Dálniční známky zdarma MS v Praze čj. 5 Ca 67/2008-77 z 25. srpna 2010
+    - DS poskytl svým zákazníkům dálniční známky, popř. poukázky na pohonné hmoty zdarma, jako „bonus“ za to, že si u něj nechají opravit havarované auto. Zákazníci nehradili ani opravu (tu hradila pojišťovna) ani cenu dálniční známky či poukázky na benzín. Finanční orgány i soud posoudily výdaje na nákup dálniční známky i poukázek na pohonné hmoty jako daňově neuznatelný výdaj na reprezentaci. 
 
-Reklama - judikatura
- Přeprava, vstupné a občerstvení účastníků „prodejních“ zájezdů NSS
-čj. 2 Afs 6/2004 – 67 z 27. 10. 2004)
- výdaje za stravování účastníků, vstupné na prohlídku pivovaru, náklady
-za výlet lodí, výlety parním vlakem a za přepravu autobusem,
- hlavní činnost žalobkyně spočívá v nákupu zboží za účelem jeho
-dalšího prodeje, který je realizován prostřednictvím prodejních zájezdů.
- potenciálním zákazníkům jsou nabízeny kulturní akce, společný oběd,
-výlety rekreační lodí nebo vlakem a upomínkové předměty. Podle
-vyjádření stěžovatelky je jejím příjmem účastnický poplatek zaplacený
-účastníky zájezdu a tržby ze zboží prodaného na přednáškách. U takto
-prodávaného zboží činí obchodní přirážka přibližně 200 %.
+- Reklama - judikatura
+  - Přeprava, vstupné a občerstvení účastníků „prodejních“ zájezdů NSS čj. 2 Afs 6/2004 – 67 z 27. 10. 2004)
+    - výdaje za stravování účastníků, vstupné na prohlídku pivovaru, náklady za výlet lodí, výlety parním vlakem a za přepravu autobusem,
+    - hlavní činnost žalobkyně spočívá v nákupu zboží za účelem jeho dalšího prodeje, který je realizován prostřednictvím prodejních zájezdů.
+    - potenciálním zákazníkům jsou nabízeny kulturní akce, společný oběd, výlety rekreační lodí nebo vlakem a upomínkové předměty. Podle vyjádření stěžovatelky je jejím příjmem účastnický poplatek zaplacený účastníky zájezdu a tržby ze zboží prodaného na přednáškách. U takto prodávaného zboží činí obchodní přirážka přibližně 200 %.
 
-Reklama - judikatura
- 2 Afs 6/2004 pokrač.:
- Ve spise je založen vzor nabídkového listu, prostřednictvím kterého
-stěžovatelka nabízí zájezd autobusem, prezentovaný jako „Super výlet s
-jedinou reklamní akcí“, „Výlet parním vlakem pro všechny zdarma“, „Toulky
-Severní Moravou za železniční historií“. Dále je na letáku uvedeno, že se
-frekventanti zájezdu zúčastní reklamní prezentace zboží s možností
-zakoupení levného oběda, zúčastní se prohlídky města Králíky
- a historických památek v Letohradě. Účastnický poplatek zájezdu činil 140
-Kč.
- NO nebyl uznán
+- Reklama - judikatura
+  - 2 Afs 6/2004 pokrač.:
+    - Ve spise je založen vzor nabídkového listu, prostřednictvím kterého stěžovatelka nabízí zájezd autobusem, prezentovaný jako „Super výlet s jedinou reklamní akcí“, „Výlet parním vlakem pro všechny zdarma“, „Toulky Severní Moravou za železniční historií“. Dále je na letáku uvedeno, že se frekventanti zájezdu zúčastní reklamní prezentace zboží s možností zakoupení levného oběda, zúčastní se prohlídky města Králíky
+    - a historických památek v Letohradě. Účastnický poplatek zájezdu činil 140 Kč.
+    - NO nebyl uznán
 
-Dokazování ve vybraných případech
- I zde platí základní schéma dokazování:
-1) Povinnost DS k tvrzení (např. podat DP)
-2) Výzva SD k prokázání
-3) Povinnost DS důkazní (doložit tvrzení)
-4) Povinnost SD prokázat, proč má pochybnosti
-5) Povinnost DS pochybnosti vyvrátit
+- Dokazování ve vybraných případech
+  - I zde platí základní schéma dokazování:
+    - 1) Povinnost DS k tvrzení (např. podat DP)
+    - 2) Výzva SD k prokázání
+    - 3) Povinnost DS důkazní (doložit tvrzení)
+    - 4) Povinnost SD prokázat, proč má pochybnosti
+    - 5) Povinnost DS pochybnosti vyvrátit
 
 ## 22. Opravné a dozorčí prostředky v daňovém řízení
 
