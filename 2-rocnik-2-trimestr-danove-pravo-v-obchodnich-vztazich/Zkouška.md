@@ -613,7 +613,18 @@ TBD
 
 ## 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
 
-TBD
+Mezinárodní právo daňové má stejnou základní charakteristiku jako jakékoliv jiné mezinárodní právo: tvoří jej síť mezinárodních smluv. Současně pak také platí, že mezinárodní smlouvy mají aplikační přednost. To konkrétně znamená, že ustanovení národního zákona o dani z příjmu se nepoužije v rozsahu, v jakém je v rozporu s mezinárodní smlouvou.
+
+- Čl. 10 Ústavy:
+  - „Vyhlášené mezinárodní smlouvy, k jejichž ratifikaci dal Parlament souhlas a jimiž je Česká republika vázána, jsou součástí právního řádu; stanoví-li mezinárodní smlouva něco jiného než zákon, použije se mezinárodní smlouva.“
+  - => aplikační přednost mezinárodních smluv
+
+- V oblasti daně z příjmu se jedná prakticky o celou řadu bilaterálních smluv, které spolu jednotlivé státy uzavírají za účelem stanovení pravidel zdanění při ekonomických činnostech s mezinárodním prvkem.
+- Konkrétně se jedná o tzv. smlouvy o zamezení dvojímu zdanění (Double Tax Treate), jejíž hlavním deklarovaným cílem, jak vyplývá už z jejich názvu, je zabránit tomu, aby jeden a tentýž příjem byl zdaněný dvakrát, tj. aby byl efektivně (tj. zejména bez následných kompenzací) zdaněn ve dvou zemích. 
+- Samozřejmým současným cílem zúčastněných národních daňových správ je zabránit i tomu, aby docházelo k tzv. dvojímu nezdanění, tj. aby některý příjem nebyl zdaněn v žádné zemi (nebo konkrétněji: nebyl zdaněn ani v jedné ze smluvních zemí).
+- ČR má v současné době uzavřenou smlouvu o zamezení dvojímu zdanění s téměř 100 zeměmi světa.
+- Pro uzavírání bilaterálních smluv o zamezení dvojího zdanění v současné době se používá zejména model OECD. 
+- Text vzorové smlouvy OECD spolu s Komentářem ke smlouvě tak představuje podrobný návod ke sjednávání takových smluv a zejména pak jejich interpretaci.
 
 ## 16. Spotřební daně, majetkové daně - základní charakteristika
 
