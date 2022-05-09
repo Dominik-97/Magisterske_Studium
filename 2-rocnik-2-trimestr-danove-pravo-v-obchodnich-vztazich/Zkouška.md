@@ -2403,6 +2403,9 @@ https://www.google.com/search?q=%C3%BA%C4%8Detnictv%C3%AD+jednoduch%C3%A9+a+podv
 - https://www.google.com/search?q=z%C3%A1kladn%C3%AD+pojmy+dan%C4%9B&oq=z%C3%A1kladn%C3%AD+pojmy+dan%C4%9B&aqs=chrome..69i57j0i22i30l2.3310j0j1&sourceid=chrome&ie=UTF-8
 - https://cs.wikipedia.org/wiki/Z%C3%A1klad_dan%C4%9B_z_p%C5%99%C3%ADjm%C5%AF_fyzick%C3%BDch_osob_v_%C4%8Cesk%C3%A9_republice
 - https://cs.wikipedia.org/wiki/Z%C3%A1klad_dan%C4%9B
+- https://www.google.com/search?q=vym%C4%9B%C5%99ovac%C3%AD+z%C3%A1klad&oq=vym%C4%9B%C5%99ovac%C3%AD+z%C3%A1klad&aqs=chrome..69i57j0i512l9.2618j0j1&sourceid=chrome&ie=UTF-8
+- https://www.podnikatel.cz/clanky/rezim-prenesene-danove-povinnosti-kdy-se-pouzije-a-co-to-znamena/
+- https://www.google.com/search?q=p%C5%99enesen%C3%A1+da%C5%88ov%C3%A1+povinnost&oq=p%C5%99enesen%C3%A1+da&aqs=chrome.0.0i512j69i57j0i512l8.2755j0j1&sourceid=chrome&ie=UTF-8
 
 ---
 
