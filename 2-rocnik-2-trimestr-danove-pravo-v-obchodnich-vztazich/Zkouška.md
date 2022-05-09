@@ -620,11 +620,52 @@ Mezinárodní právo daňové má stejnou základní charakteristiku jako jakék
   - => aplikační přednost mezinárodních smluv
 
 - V oblasti daně z příjmu se jedná prakticky o celou řadu bilaterálních smluv, které spolu jednotlivé státy uzavírají za účelem stanovení pravidel zdanění při ekonomických činnostech s mezinárodním prvkem.
-- Konkrétně se jedná o tzv. smlouvy o zamezení dvojímu zdanění (Double Tax Treate), jejíž hlavním deklarovaným cílem, jak vyplývá už z jejich názvu, je zabránit tomu, aby jeden a tentýž příjem byl zdaněný dvakrát, tj. aby byl efektivně (tj. zejména bez následných kompenzací) zdaněn ve dvou zemích. 
+- Konkrétně se jedná o tzv. smlouvy o zamezení dvojímu zdanění (Double Tax Treate), jejíž hlavním deklarovaným cílem, jak vyplývá už z jejich názvu, je zabránit tomu, aby jeden a tentýž příjem byl zdaněný dvakrát, tj. aby byl efektivně (tj. zejména bez následných kompenzací) zdaněn ve dvou zemích.
 - Samozřejmým současným cílem zúčastněných národních daňových správ je zabránit i tomu, aby docházelo k tzv. dvojímu nezdanění, tj. aby některý příjem nebyl zdaněn v žádné zemi (nebo konkrétněji: nebyl zdaněn ani v jedné ze smluvních zemí).
 - ČR má v současné době uzavřenou smlouvu o zamezení dvojímu zdanění s téměř 100 zeměmi světa.
-- Pro uzavírání bilaterálních smluv o zamezení dvojího zdanění v současné době se používá zejména model OECD. 
+- Pro uzavírání bilaterálních smluv o zamezení dvojího zdanění v současné době se používá zejména model OECD.
 - Text vzorové smlouvy OECD spolu s Komentářem ke smlouvě tak představuje podrobný návod ke sjednávání takových smluv a zejména pak jejich interpretaci.
+
+- Systém dohod o zamezení dvojího zdanění:
+  - Přehled smluv – viz https://www.mfcr.cz/cs/legislativa/dvojizdaneni/prehled-platnych-smluv
+  - OECD: Doporučení Rady týkající se vzorové smlouvy o zamezení dvojího zdanění – viz Sdělení MF čj. 251/15 082/96 ve Finančním zpravodaji 4/1996
+
+- **Princip zdanění v místě zdroje příjmů**
+  - Základním dosavadním principem mezinárodního práva daňového v oblasti daně z příjmu je to, že by se každý příjem měl zdanit v zemi svého zdroje.
+  - Tedy u každého druhu příjmu je potřeba určit místo (tedy stát) jeho zdroje, a zde (tedy v tomto státě) by pak tento příjem měl být zdaněn.
+
+- **Zdanění celosvětových příjmů v zemi daňového domicilu**
+  - Současně by mělo platit, že každý jednotlivý poplatník daně z příjmu by měl mít právě v jedné zemi svůj tzv. daňový domicil (je zde „daňovým rezidentem“), a v této zemi by zdaňována veškeré své celosvětové příjmy.
+  - Část těchto příjmů, která má svůj zdroj v druhé zemi, může být současně zdaněna v druhé zemi - takto odvedená daň v druhé zemi pak bude určitým způsobem započtena (nebo celý tento příjem vyňat) vůči celkové dani v zemi daňového domicilu. Tímto způsobem efektivně dojde k vyloučení dvojího zdanění.
+
+- Základní pojmy:
+  - **Daňový rezident** (daňový tuzemec) – má celosvětovou daňovou povinnost vůči
+  - **Daňový nerezident** (daňový cizozemec) – má pouze omezenou daňovou povinnost: pouze z příjmů ze zdrojů na území státu a z majetku na území státu
+
+- Daňový rezident - fyzická osoba:
+  - Určení, v které zemi má osoba daňový domicil, tzn. v které zemi je daňovým rezidentem, spočívá obvykle (podle vzorové smlouvy OECD) zejména na těchto kritériích (uplatňování v tomto pořadí):
+    - kde má stálý byt
+    - kde má užší osobní a hospodářské vztahy
+    - kde se obvykle zdržuje
+    - kde státním příslušníkem
+  - Úprava daňového rezidenta je obvykle v článku 4 smlouvy o zamezení dvojího zdanění.
+
+- Daňový rezident - právnická osoba:
+  - Sídlo skutečného vedení
+    - Viz také § 17 odst. 3 ZDP: místo vedení = adresa místa, ze kterého je poplatník řízen
+    - místo, kde jsou ve skutečnosti prováděna klíčová řídící a obchodní rozhodnutí, která jsou nezbytná k provádění průmyslové a obchodní činnosti podniku jako celku a která nemohou být na nižších úrovních řízení měněna
+    - Obvykle ho tvrdí FÚ, tedy to musí i prokázat
+
+- Zdaňování nerezidentů
+  - Pouze příjmy ze zdrojů na území ČR
+    - § 22 ZDP + Smlouvy o zamezení dvojího zdanění
+    - Smlouvy dá ČR právo + musí být zakotven v českém zákoně
+  - Klíčová kritéria:
+    - Kde je vykonávána činnost
+    - Kdo tento příjem vyplácí
+    - Kde je umístěn či využíván majetek
+
+
 
 ## 16. Spotřební daně, majetkové daně - základní charakteristika
 
