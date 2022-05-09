@@ -2379,6 +2379,27 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
     - Argumenty pro…………..
     - Argumenty proti………….
 
+## Dodatečné odkazy:
+
+- https://money.cz/novinky-a-tipy/dane/ucetni-vs-danovy-odpis-cem-se-lisi-spocitate/
+- https://www.kurzy.cz/dane-danova-priznani/dan-dedicka.htm
+- https://www.zakonyprolidi.cz/cs/1992-586
+- https://www.moneta.cz/slovnik-pojmu/detail/aktiva-a-pasiva
+- https://cs.wikipedia.org/wiki/Rozvaha
+- https://cs.wikipedia.org/wiki/%C3%9A%C4%8Detn%C3%AD_z%C3%A1v%C4%9Brka
+- https://www.google.com/search?q=dlouhodob%C3%BD+hmotn%C3%BD+majetek+aktiva&oq=dlouhodob%C3%BD+hmotn%C3%BD+majetek+aktiva&aqs=chrome..69i57j33i160l2j33i22i29i30.182110j0j4&sourceid=chrome&ie=UTF-8
+- https://portal.pohoda.cz/dane-ucetnictvi-mzdy/ucetnictvi/odpisy-majetku-v-praxi/
+- https://www.google.com/search?q=pro+odpisov%C3%A1n%C3%AD+je+nutn%C3%A9+veden%C3%AD+%C3%BA%C4%8Detnictv%C3%AD&oq=pro+odpisov%C3%A1n%C3%AD+je+nutn%C3%A9+veden%C3%AD+%C3%BA%C4%8Detnictv%C3%AD&aqs=chrome..69i57j0i546l4.5801j0j1&sourceid=chrome&ie=UTF-8
+- https://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu/ucetnictvi/obecne-informace
+- https://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu/ucetnictvi
+- https://www.financnisprava.cz/cs/dane/dane/dan-z-prijmu
+https://www.google.com/search?q=%C3%BA%C4%8Detnictv%C3%AD+jednoduch%C3%A9+a+podvojn%C3%A9&oq=%C3%BA%C4%8Detnictv%C3%AD+jedn&aqs=chrome.2.0i512j69i57j0i512j0i22i30l7.5905j0j1&sourceid=chrome&ie=UTF-8
+- https://www.uctovani.net/clanek.php?t=Pojmy-v-ucetnictvi-v-praxi-odpisy-opravky-brutto-netto-korekce&idc=176
+- https://www.google.com/search?q=odpisy+a+opr%C3%A1vky&oq=odpisy+a+opr%C3%A1vky&aqs=chrome..69i57j0i512j0i22i30.3084j0j1&sourceid=chrome&ie=UTF-8
+- https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem_(ekonomie)
+- https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem
+- https://www.google.com/search?q=p%C5%99%C3%ADjem&oq=p%C5%99%C3%ADjem&aqs=chrome..69i57j0i512l6j69i61.2016j0j1&sourceid=chrome&ie=UTF-8
+
 ---
 
 [^1]: https://www.profispolecnosti.cz/cs/vedeni-ucetnictvi/funkce-dani/a-1444/
