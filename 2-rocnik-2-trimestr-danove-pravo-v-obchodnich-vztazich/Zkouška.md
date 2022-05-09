@@ -600,6 +600,69 @@ TBD
 - Vymezení švarcsystému
   - Dva subjekty uzavřou obchodní smlouvu, přičemž příslušné úřady mají podezření, že jde o obcházení či zastírání pracovněprávního vztahu nebo o zneužití práva.
 
+- Švarcsystém a související problematika
+  - Švarcsystém a zákon o zaměstnanosti
+  - Švarcystém v daních
+  - definice závislé činnosti
+  - disimulace právního úkonu x zneužití práva
+  - smluvní volnost
+  - dvojí zdanění jednoho příjmu
+  - fakturace členů a jednatelů korporace
+  - fakturace mezi manžely
+  - Švarcsystém mimo vztahy s úřady
+  - Budoucnost švarcsystému
+
+- Švarcsystém a zákon o zaměstnanosti
+  - č. 435/2004 Sb., o zaměstnanosti - §5 písm. e) nelegální práce (kromě cizinců):
+  - výkon závislé práce fyzickou osobou mimo pracovněprávní vztah.
+    - Závislá práce je pak definována v zákoníku práce jako práce, která je vykonávána (všechny podmínky najednou):
+      - ve vztahu nadřízenosti zaměstnavatele a podřízenosti zaměstnance,
+      - jménem zaměstnavatele,
+      - podle pokynů zaměstnavatele,
+      - a zaměstnanec ji pro zaměstnavatele vykonává osobně.
+
+- Švarcsystém a zákon o zaměstnanosti
+  - Závislá práce pak musí být vykonávána za mzdu, plat nebo odměnu za práci, na náklady a odpovědnost zaměstnavatele, v pracovní době na pracovišti zaměstnavatele, popřípadě na jiném dohodnutém místě.
+  - Základními pracovněprávními vztahy jsou pracovní poměr a právní vztahy založené dohodami o pracích konaných mimo pracovní poměr (dohoda o pracovní činnosti a dohoda o provedení práce).
+
+- Švarcsystém a zákon o zaměstnanosti
+  - a) fyzická osoba – nepodnikatel – pokuta za přestupek do výše 5 mil. Kč (spodní hranice není stanovena),
+  - b) fyzická osoba – podnikatel či právnická osoba – pokutu do výše 10 mil. Kč (spodní hranice 50 000)
+  - c) fyzická osoba vykonávající nelegální práci (tedy myšlena jako „zaměstnanec“) – hrozí udělení pokuty do Kč 100 000, spodní hranice není stanovena + bude vyřazen krajskou pobočkou Úřadu práce z evidence uchazečů o zaměstnání.
+
+- Švarcsystém a zákon o zaměstnanosti
+  - nález pléna Ústavního soudu Pl. ÚS 52/13 ze dne 9. 9. 2014
+    - Ústavně nepřípustné jsou přitom takové pokuty, jež mají likvidační charakter, čímž se rozumí i takové případy, v nichž pokuta natolik přesáhne možné výnosy z podnikání, že se podnikatelská činnost v podstatě stává bezúčelnou (tj. směřující pouze k úhradě uložené pokuty).
+
+- Švarcsystém a daň z příjmů
+  - § 6 odst. 1, písm. a) bod 1 zákona o daních z příjmů:
+    - „*Příjmy ze závislé činnosti jsou plnění v podobě příjmu ze současného nebo dřívějšího pracovněprávního, služebního nebo členského poměru a obdobného poměru, v nichž poplatník při výkonu práce pro plátce příjmu je povinen dbát příkazů plátce*“.
+
+- Vztah zákona o zaměstnanosti a zákona o daních z příjmů
+  - NSS 5 Afs 61/2012:
+    - „*Eventuální porušení zákona o zaměstnanosti nemůže mít samo o sobě vliv na posouzení, zda jsou předmětné smluvní vztahy zastřenými právními úkony z hlediska daně z příjmů ze závislé činnosti.*“
+
+- Švarcsystém a daň z příjmů
+  - Pokyn D 285 MF
+    - Zákonné vymezení prostřednictvím pouhého plnění příkazů plátce, se totiž ukázalo a ukazuje jako nedostačující
+    - nezbytné stanovit materiální kritéria
+
+- Švarcsystém a daň z příjmů
+  - Pokyn D 285 MF – pokrač.:
+    - plátce příjmu přímo či nepřímo ukládá úkoly, řídí a kontroluje fyzickou osobu a nese odpovědnost související s její činností, fyzická osoba má ve vztahu k plátci příjmu obdobné postavení jako zaměstnanec,
+    - odměna za práci je vypočítána na základě délky pracovní doby nebo obdobným způsobem běžným při odměňování osoby v pracovněprávním vztahu, materiál, pracovní pomůcky, stroje a zařízení potřebné pro výkon činnosti jsou fyzické osobě poskytovány plátcem příjmu,
+
+- Švarcsystém a daň z příjmů
+  - Pokyn D 285 MF – pokrač. II:
+    - vztah mezi plátcem příjmu a fyzickou osobou je dlouhodobý anebo soustavný, resp. fyzická osoba vykonává činnost dlouhodobě pouze pro jednoho plátce příjmu, a to osobně nebo prostřednictvím spolupracující osoby ve smyslu § 13 zákona o daních z příjmu
+
+- Švarcsystém a daň z příjmů – druhy činnosti
+  - NSS 6 Afs 85/2014
+    - a) činnosti provozovatelné výlučně jako nezávislá činnost, ať již kvůli zákonné úpravě (např. soudní exekutor, notář) či z povahy věci (s ohledem na rozsah, druh činnosti, např. komplexní výrobní činnosti, určité typy obchodní činnosti, velká realitní kancelář aj.),
+    - b) činnosti ryze závislé (např. pokladní supermarketu).
+
+
+
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 TBD
