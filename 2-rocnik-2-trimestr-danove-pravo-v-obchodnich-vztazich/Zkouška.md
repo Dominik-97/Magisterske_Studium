@@ -29,7 +29,7 @@ header-includes:
 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
 13. Nejčastější podvody na DPH
-14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
+14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění - **OK**
 15. ~~Pojistné na sociální zabezpečení - charakteristika~~
 16. Spotřební daně, majetkové daně - základní charakteristika - **OK**
 17. Právo EU a daně – jakých daní se dotýká, jak se projevuje; přímý a nepřímý účinek - **OK**
