@@ -771,6 +771,10 @@ TBD
 
 ### Fakturace mezi manžely
 
+- Fakturace mezi manžely
+  - Společné jmění manželů a fakturace mezi nimi v případě, že jeden z manželů nepodniká (podle rozsudku Nejvyššího správního soudu ze dne 27. 10. 2004, čj. 5 Afs 21/2003-66, zveřejněno ve Sbírce rozhodnutí Nejvyššího správního soudu 9/2006 pod č. 935/2006) Veškeré úvahy a závěry o neuznání výdaje vedl soud teprve poté, co vyloučil, že by mezi manžely šlo v daném případě o podnikatelský vztah. (Přitom obecnou možnost existenci podnikatelského vztahu mezi manžely nevyloučil!)
+  - Manželka připravovala pro manžela účetní doklady a vyfakturovala mu tuto práci.
+
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 TBD
