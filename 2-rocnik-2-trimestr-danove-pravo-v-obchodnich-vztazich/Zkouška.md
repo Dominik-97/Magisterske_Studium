@@ -871,9 +871,39 @@ Rozdíl mezi:
   - (2) K provedení místního šetření může správce daně přizvat osobu, jejíž přítomnost je podle povahy věci potřebná.
   - (3) O průběhu místního šetření sepíše správce daně podle povahy šetření protokol nebo úřední záznam.
   - (4) Správce daně může pořizovat obrazový nebo zvukový záznam o skutečnostech dokumentujících průběh úkonu, o čemž předem uvědomí osoby, které se tohoto úkonu účastní.
+  - Úřední osoba provádějící kontrolu má možnost vstupovat do všech potřebných prostor a vyžádat si věškeré věci, které potřebuju k provedení šetření.
+  - Kontrolovaná osoba má povinnost šetření strpět a poskytnou potřebnou součinnost.
+  - Správce daně může v případě potřeby určité věci potřebné k šetření zajistit.
 
-Daňová kontrola (§ 85-88a DŘ)
-Postup k odstranění pochybností (§ 89-90 DŘ)
+- Daňová kontrola (§ 85-88a DŘ)
+  - (1) Předmětem daňové kontroly jsou daňové povinnosti, tvrzení daňového subjektu nebo jiné okolnosti rozhodné pro správné zjištění a stanovení daně vztahující se k jednomu daňovému řízení.
+  - (2) Daňová kontrola se provádí u daňového subjektu nebo na místě, kde je to vzhledem k účelu kontroly nejvhodnější.
+  - (3) Správce daně předmět daňové kontroly prověřuje ve vymezeném rozsahu. Rozsah daňové kontroly lze v jejím průběhu rozšířit nebo zúžit doručením oznámení o změně rozsahu daňové kontroly.
+  - (4) Daňovou kontrolu lze provádět společně pro více daňových řízení týkajících se jednoho daňového subjektu.
+  - (5) Oznámení doručované v souvislosti s daňovou kontrolou neobsahuje odůvodnění a nelze proti němu uplatnit opravné prostředky.
+  - Daňovou kontrolu ze opakovat - například pokud vyšly najevo nové skutečnosti či důkazy.
+  - Daňový subjekt je povinnen poskytnou správci daně veškerou součinnost.
+  - Daňový subjekt má v rámci daňové kontroly právo
+    - a) být přítomen jednání se svými zaměstnanci nebo dalšími osobami, které vykonávají jeho činnosti,
+    - b) předkládat důkazní prostředky nebo navrhovat provedení důkazních prostředků, které on sám nemá k dispozici,
+    - c) vyvracet pochybnosti vyjádřené správcem daně.
+  - Daňová kontrola je zahájena doručením oznámení o zahájení daňové kontroly, ve kterém je vymezen předmět a rozsah daňové kontroly.
+  - Dojde-li k zahájení daňové kontroly bez předchozí výzvy k podání daňového tvrzení, ačkoli byl naplněn důvod pro vydání této výzvy, nemá tato skutečnost vliv na účinky tohoto zahájení. Daňovému subjektu nevzniká povinnost uhradit penále z částky daně stanovené na základě takto zahájené daňové kontroly.
+  - (1) Správce daně na základě provedené kontrolní činnosti sepíše dosavadní výsledek kontrolního zjištění, jehož součástí je hodnocení dosud zjištěných důkazů.
+  - (2) Pokud z dosavadního výsledku kontrolního zjištění vyplývá, že na jeho základě dojde k vydání rozhodnutí o stanovení daně, správce daně sdělí daňovému subjektu tento výsledek a současně mu stanoví přiměřenou lhůtu pro případné vyjádření.
+  - (4) Daňový subjekt je v rámci vyjádření k dosavadnímu výsledku kontrolního zjištění oprávněn zejména
+    - a) vznést výhradu k dosavadnímu výsledku kontrolního zjištění,
+    - b) podat návrh na doplnění dosavadního výsledku kontrolního zjištění.
+  - (1) Daňová kontrola je ukončena doručením oznámení o ukončení daňové kontroly, k němuž je přiložena zpráva o daňové kontrole podepsaná úřední osobou.
+  - (2) Zpráva o daňové kontrole obsahuje
+    - a) odkaz na oznámení o zahájení daňové kontroly, popřípadě oznámení o změně rozsahu daňové kontroly, a
+    - b) konečný výsledek kontrolního zjištění, včetně
+      - 1) hodnocení zjištěných důkazů,
+      - 2) stanoviska správce daně k vyjádření daňového subjektu k výsledku dosavadního kontrolního zjištění.
+  - (3) Pokud z konečného výsledku kontrolního zjištění nevyplývá, že v dané věci dojde k vydání rozhodnutí o stanovení daně, je vyměřovací nebo doměřovací řízení ukončeno doručením oznámení o ukončení daňové kontroly, nejedná-li se o řízení, které bylo zahájeno podáním daňového tvrzení.
+  - (4) Dojde-li ke stanovení daně výlučně na základě výsledku daňové kontroly, může správce daně doručit rozhodnutí o stanovení daně spolu s oznámením o ukončení daňové kontroly.
+
+- Postup k odstranění pochybností (§ 89-90 DŘ)
 
 ## 21. Dokazování v daňovém řízení
 
