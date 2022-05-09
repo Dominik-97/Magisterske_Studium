@@ -688,7 +688,29 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
   - 7 Afs 74/2010 pokrač.II:
     - II. Referenční cenu může správce daně určit porovnáním skutečně dosažených cen shodné nebo podobné komodity mezi reálně existujícími nezávislými subjekty nebo (zejména pro neexistenci nebo nedostupnost dat o takových cenách) jen jako hypotetický odhad opřený o logickou a racionální úvahu a ekonomickou zkušenost. Referenční cena je v podstatě simulace ceny vytvořená na základě úvahy, jakou cenu by za situace shodné se situací spojených osob tyto osoby sjednaly, nebyly-li by spojené a měly-li by mezi sebou běžné obchodní vztahy.
 
+- Cena obvyklá
+  - 7 Afs 74/2010 pokrač. III:
+    - III. Pokud správce daně zjišťuje referenční cenu na základě údajů o skutečně dosažených cenách shodné nebo podobné komodity mezi reálně existujícími nezávislými subjekty, musí pečlivě zkoumat, do jaké míry byly tyto ceny dosaženy za stejných nebo obdobných podmínek, za nichž cenu sjednávaly spojené osoby, a pokud se tyto podmínky liší, provést patřičnou korekci (§ 23 odst. 7 zákona č. 586/1992 Sb. zákon o dani z příjmu.).
 
+- Cena obvyklá
+  - Prodej automobilu zaměstnanci za neobvykle nízkou cenu a způsob zdanění (NSS 7 Afs 110/2007 – 55 z 26. 2. 2009, Sbírka NSS 10/2011 pod č. 2402/2011)
+  - DS požadoval po správci dodanění do ceny obvyklé a navýšení základu daně zpříjmů. Prodal totiž svůj majetek zaměstnancům za nižší než obvyklou cenu a předmětný rozdíl nechtěl zdanit daní z příjmů fyzických osob ze závislé činnosti, ale daní z příjmů právnických osob (z titulu, že prodal spojeným osobám za cenu nižší než obvyklou). Finanční orgány ani soudy jeho názor neakceptovaly a daly přednost zdanění daní z příjmů fyzických osob ze závislé činnosti.
+
+- Cena obvyklá
+  - 7 Afs 110/2007 pokrač.:
+    - Zveřejněná právní věta:
+      - „Skutečnost, že daňový subjekt na základě vlastního rozhodnutí (byť správcem daně aprobovaného ve formě konkludentně vyměřené daně; § 46 odst. 5 ZSDP) nesprávně zdanil předmět daně, nemůže, s poukazem na zásadu zákazu dvojího zdanění, ve výsledku vyloučit možnost provést řádné zdanění v souladu se zákonem. V opačném případě by vyvstala situace, kdy by daňovým subjektem nesprávně zdaněný předmět daně vylučoval provedení zdanění v souladu se zákonem.
+
+- Cena obvyklá
+  - 7 Afs 110/2007 pokrač.II:
+    - Vzniklý stav, kdy jedna a tatáž hodnota byla zdaněna dvakrát - jednou bez právního důvodu a podruhé v souladu se zákonem, musí být jako neudržitelný napraven, a to cestou dodatečného daňového přiznání podle § 41 citovaného zákona nebo cestou obnovy řízení podle § 54 tohoto zákona; tato náprava je však možná jen v rámci řízení o daňové povinnosti, v němž byl předmět daně nesprávně zdaněn.“
+
+### Zneužití práva
+
+- Zneužití práva
+  - Disimulace právního úkonu (§ 2 odst. 7 ZSDP, § 8 odst. 3 DŘ)
+  - Zneužití práva (§8 odst. 4 DŘ)
+  - Obcházení zákona
 
 ## 10. Pojem „švarcsystému“ a problémy s ním spojené
 
