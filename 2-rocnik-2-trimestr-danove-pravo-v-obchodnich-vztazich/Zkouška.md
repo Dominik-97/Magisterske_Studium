@@ -564,8 +564,49 @@ Tento zastřešující pojem má následně dva zastřešené pojmy, které defi
   - účelem daňových odpisů je relativně spolehlivě určení daňového základu pro účely výpočtu daně z příjmu
   - daňové odpisy jsou stanoveny přímo zákonem
 - S ohledem na výše uvedený rozdílný účel pravidelně dochází k tomu, že daňové odpisy nejsou stejné jako účetní odpisy. V účetnictví se účtují účetní odpisy, daňové odpisy se zohledňují pak přímo až v daňovém přiznání.
+- Poznámka: pojem dlouhodobý majetek se používá v účetnictví, pojem hmotný majetek patří do daňové oblasti[^28].
 
+- Odpisuje se hmotný majetek
+  - Pojem hmotného majetku - viz § 26/2 ZDP zejména:
+    - samostatné movité věci, se vstupní cenou vyšší než 80.000 Kč
+    - budovy, jednotky a stavby
+    - pěstitelské celky trvalých porostů
+    - jiný majetek:
+      - technické zhodnocení, pokud nezvyšuje vstupní cenu (viz § 33 ZDP):
+      - výdaje na dokončené nástavby, přístavby a stavební úpravy
+      - rekonstrukce majetku ( = zásahy do majetku, které mají za následek změnu jeho účelu nebo technických parametrů)
+      - modernizace majetku ( = rozšíření vybavenosti nebo použitelnosti majetku).
+      - právo stavby (dle § 1240 a násl. občanského zákoníku) (u poplatníka, který nevede účetnictví)
 
+- Hmotným majetkem pro účely tohoto zákona nejsou zásoby, tedy :
+  - zboží zakoupené za účelem dalšího prodeje
+  - materiál určený k výrobě výrobků nebo jiné spotřebě,
+  - rozpracovaná výroba včetně polotovarů a
+  - vlastní výrobky určené jednorázově k prodeji
+
+- Odepisovaným hmotným majetkem nejsou pozemky - tj. pozemky se neodepisují (odepisovat lze pouze stavby zřízené na pozemku nebo právo stavby).
+
+- Uvedení do stavu způsobilého obvyklému užívání
+  - Odpisováním se pro účely tohoto zákona rozumí:
+    - zahrnování odpisů z hmotného majetku do výdajů (nákladů) k zajištění tohoto příjmu.
+  - Odpisování lze zahájit po uvedení pořizované věci do stavu způsobilého obvyklému užívání.
+    - Uvedení pořizované věci do stavu způsobilého obvyklému užívání = :
+      - dokončení věci a
+      - splnění technických funkcí a povinností stanovených zvláštními právními předpisy pro užívání
+
+- Hmotný majetek odepisuje vlastník
+  - § 28 ZDP
+    - Hmotný majetek odepisuje zásadně takový poplatník, který má k němu vlastnické právo.
+    - Z této zásady existuje řada výjimek, zejména:
+      - Technické zhodnocení pronajatého hmotného majetku, je-li hrazeno nájemcem, může na základě písemné smlouvy odepisovat nájemce, pokud není vstupní cenách u majitele hmotného majetku zvýšena o tyto výdaje
+
+- Odpisování se provádí ze vstupní ceny
+  - § 29 ZDP
+    - Pokud je majetek pořízen úplatně, vstupní cenou hmotného majetku se rozumí pořizovací cena (cena pořízení + náklady související s pořízením).
+    - Pokud byl nemovitý majetek úplatně pořízen fyzickou osobou dříve než 5 let před jeho vložením do obchodního majetku, vstupní cenou hmotného majetku se rozumí reprodukční pořizovací cena (tj. cena určená podle zákona oceňování majetku)
+    - Pokud byl movitý majetek úplatně pořízen fyzickou osobou dříve než 1 rok před jeho vložením do obchodního majetku, vstupní cenou hmotného majetku se rozumí reprodukční pořizovací cena (tj. cena určená podle zákona oceňování majetku)
+
+- Pokud je majetek vyroben ve vlastní režii, vstupní cenou hmotného majetku se rozumí vlastní náklady (přímé náklady vynaložené na výrobu, případně i přiřaditelné nepřímé náklady)
 
 ## 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
 
@@ -2348,3 +2389,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^25]: https://www.jakpodnikat.cz/souhrnne-hlaseni-dph.php#:~:text=Souhrnn%C3%A9%20hl%C3%A1%C5%A1en%C3%AD%20pod%C3%A1me%20ka%C5%BEd%C3%BD%20m%C4%9Bs%C3%ADc,zbo%C5%BE%C3%AD%2C%20m%C5%AF%C5%BEeme%20ho%20pod%C3%A1vat%20%C4%8Dtvrtletn%C4%9B.
 [^26]: https://cs.wikipedia.org/wiki/Kontroln%C3%AD_hl%C3%A1%C5%A1en%C3%AD_DPH
 [^27]: https://www.podnikatel.cz/clanky/vite-jaky-je-rozdil-mezi-ucetnimi-a-danovymi-odpisy-hmotneho-majetku/
+[^28]: https://money.cz/novinky-a-tipy/dane/ucetni-vs-danovy-odpis-cem-se-lisi-spocitate/
