@@ -661,7 +661,38 @@ TBD
     - a) činnosti provozovatelné výlučně jako nezávislá činnost, ať již kvůli zákonné úpravě (např. soudní exekutor, notář) či z povahy věci (s ohledem na rozsah, druh činnosti, např. komplexní výrobní činnosti, určité typy obchodní činnosti, velká realitní kancelář aj.),
     - b) činnosti ryze závislé (např. pokladní supermarketu).
 
+- Švarcsystém a daň z příjmů – druhy činnosti
+  - c) činnosti „obojetné“ povahy (drtivá většina menších živnostníků jako zedník, instalatér; svobodná povolání, asistenční činnosti; nejrůznější služby jako účetní, kadeřník atd.),
+  - Nejednoznačné spory se pochopitelně z povahy věci vedou zejména o „obojetnou“ kategorii.
 
+- Zneužití práva - švarcsystém
+  - NSS č. j. 7 Afs 72/2008 – 101 z 15. 1. 2009:
+    - Pokud se smluvní strany rozhodnou, v souladu s obecnými principy (smluvní svoboda, dobrá víra, nezneužívání ekonomicky silnějšího postavení apod.) do právního vztahu vstoupit se všemi důsledky z toho plynoucími a dojde k jeho skutečné realizaci, nejedná se o právní úkon zastřený. Jinak by tomu ovšem bylo, pokud by stěžovatel např. přiměl k uzavření smluv o dílo druhou smluvní stranu za pomoci ekonomického nátlaku, zneužívaje jejich faktické ekonomické závislosti, a přiměl je tak uzavřít takovou smlouvu, kterou ve skutečnosti neměli zájem uzavřít.
+
+- Zneužití práva – švarcsystém I.
+  - 7 Afs 72/2008 – 101 – pokrač.:
+    - V daném případě nedošlo ani ke zneužití práva. Snaha o minimalizaci nákladů a maximalizaci zisku realizovaná tím, že podnikatel zajišťuje specifické činnosti na základě smluv o dílo uzavřených s reálně ekonomicky samostatnými, i když z hlediska objemu tržeb a vlastního kapitálu nepoměrně slabšími zhotoviteli, je racionálním, nikoho nepoškozujícím, a tedy i právem dovoleným chování.
+
+- Zneužití práva – švarcsystém I.
+  - 7 Afs 72/2008 – 101 – pokrač. II.:
+    - Aby mohla být činnost považována za závislou, musí být vztah podřízenosti založen přímo, tj. obsahem dvoustranného právního vztahu. V uvedených smluvních vztazích nebyla koordinace a kontrola provádění díla zhotoviteli stěžovatelem prováděna z titulu nadřízeného postavení smluvních stran.
+
+- Zneužití práva – švarcsystém II.
+  - NSS 2 Afs 173/2005-69 z 27. 7. 2006
+    - Smluvní partneři (bývalí zaměstnanci) pracovali s vlastními pracovními prostředky (např. motorové pily, motyčky, vidle, kosy, ochranné pomůcky), na svoje náklady pořizovali benzín, olej apod. Samostatně se též dopravovali na místo, kde bylo dílo prováděno. Sami si zajišťovali školení potřebné k výkonu své profese.
+    - To, že se jedná o vztah trvající povahy, ještě neznamená, že se nutně musí jednat o závislou činnost.
+
+- Zneužití práva – švarcsystém II.
+  - NSS 2 Afs 173/2005-69 – pokrač.:
+    - koordinace a kontrola provádění díla smluvních partnerů jednateli prováděna z titulu nadřízeného postavení těchto osob
+    - dílem může být provedení těžebních činností byť i na jediném stromu a je možné dílčí části díla upřesnit ústně na místě,
+    - cenu za provedení díla či jeho částí je možno určit podle odpracovaných hodin,
+
+- Zneužití práva – švarcsystém II.
+  - NSS 2 Afs 173/2005-69 – pokrač. II.:
+    - Racionálním ekonomickým chováním podnikatele je i snaha o minimalizaci nákladů a maximalizaci zisku. Přirozeným projevem tohoto chování je i snaha o optimalizaci povinností vůči státu
+    - Případné porušení zákona o zaměstnanosti nemůže mít vliv na daňové posuzování
+    - Ke zneužití práva zde tedy nedošlo
 
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
