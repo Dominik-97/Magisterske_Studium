@@ -668,7 +668,7 @@ TBD
   - Nespolehlivý plátce a ručení za daň
   - Zveřejňování účtů pro platbu DPH
   - „Věděl nebo vědět mohl“
-  - Od roku 2016 – kontrolní hlášení, elektronická evidence tržeb
+  - Od roku 2016 – kontrolní hlášení, elektronická evidence tržeb - některé operace se uvádějí jednotlivě[^26]
   - Zajišťovací příkazy
   - Postupy k odstranění pochybností
   - Kontroly před vyměřením i po vyměření daně
@@ -1869,3 +1869,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^23]: https://sbirka.nssoud.cz/cz/danove-rizeni-zastreny-dissimulovany-pravni-ukon.p1113.html#:~:text=O%20zakr%C3%BDv%C3%A1n%C3%AD%20(dissimulaci)%20ve%20smyslu,kter%C3%BD%20ve%20skute%C4%8Dnosti%20cht%C4%9Bj%C3%AD%2C%20pop%C5%99.
 [^24]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6
 [^25]: https://www.jakpodnikat.cz/souhrnne-hlaseni-dph.php#:~:text=Souhrnn%C3%A9%20hl%C3%A1%C5%A1en%C3%AD%20pod%C3%A1me%20ka%C5%BEd%C3%BD%20m%C4%9Bs%C3%ADc,zbo%C5%BE%C3%AD%2C%20m%C5%AF%C5%BEeme%20ho%20pod%C3%A1vat%20%C4%8Dtvrtletn%C4%9B.
+[^26]: https://cs.wikipedia.org/wiki/Kontroln%C3%AD_hl%C3%A1%C5%A1en%C3%AD_DPH
