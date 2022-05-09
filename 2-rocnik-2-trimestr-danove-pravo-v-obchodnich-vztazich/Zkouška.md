@@ -2399,6 +2399,10 @@ https://www.google.com/search?q=%C3%BA%C4%8Detnictv%C3%AD+jednoduch%C3%A9+a+podv
 - https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem_(ekonomie)
 - https://cs.wikipedia.org/wiki/P%C5%99%C3%ADjem
 - https://www.google.com/search?q=p%C5%99%C3%ADjem&oq=p%C5%99%C3%ADjem&aqs=chrome..69i57j0i512l6j69i61.2016j0j1&sourceid=chrome&ie=UTF-8
+- https://www.altaxo.cz/provoz-firmy/ucetnictvi-a-dane/danova-evidence/zakladni-pojmy-danove-soustavy
+- https://www.google.com/search?q=z%C3%A1kladn%C3%AD+pojmy+dan%C4%9B&oq=z%C3%A1kladn%C3%AD+pojmy+dan%C4%9B&aqs=chrome..69i57j0i22i30l2.3310j0j1&sourceid=chrome&ie=UTF-8
+- https://cs.wikipedia.org/wiki/Z%C3%A1klad_dan%C4%9B_z_p%C5%99%C3%ADjm%C5%AF_fyzick%C3%BDch_osob_v_%C4%8Cesk%C3%A9_republice
+- https://cs.wikipedia.org/wiki/Z%C3%A1klad_dan%C4%9B
 
 ---
 
