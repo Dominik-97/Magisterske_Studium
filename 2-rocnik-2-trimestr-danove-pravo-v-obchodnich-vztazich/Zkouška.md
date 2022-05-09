@@ -608,6 +608,25 @@ Tento zastřešující pojem má následně dva zastřešené pojmy, které defi
 
 - Pokud je majetek vyroben ve vlastní režii, vstupní cenou hmotného majetku se rozumí vlastní náklady (přímé náklady vynaložené na výrobu, případně i přiřaditelné nepřímé náklady)
 
+- Pokud byl majetek nabyt bezúplatně (například darem), vstupní cenou hmotného majetku se rozumí cena určená ke dni nabytí podle zákona oceňování majetku.
+
+- Odpisové skupiny
+  - § 30 ZDP
+    - Pro účely odepisování se hmotný majetek v prvním roce odepisování zařídí do odpisových skupiny.
+    - Existuje 6 odpisových skupin, které se od sebe liší dobou odpisování. Pro účely určení odpisové skupiny se uplatní přílohač. 1 k zákonu o daních z příjmů.
+    - Příklady odpisových skupin:
+      - počítač: 1. skupina (doba odpisování 3 roky)
+      - osobní automobil: 2. skupina (doba odpisování 5 let)
+      - většina budov: 5. skupina (doba odpisování 30 let)
+  - Platí (celkem logicky) zásada, že hmotný majetek se odepisuje nejvýše do jeho vstupní ceny.
+  - Maximální doba odepisování záleží na odpisové skupině[^29].
+
+- Rovnoměrné nebo zrychlené odpisování
+  - Na počátku odepisování každého hmotného majetku má poplatník právo volby vybrat odpisování rovnoměrné nebo zrychlené.
+  - Rovnoměrné odpisování je upraveno v § 31 ZDP, zrychlené pak v § 32 ZDP.
+  - V obou případech se odepisuje po stejnou celkovou dobu, v případě odpisování zrychleného pouze dochází k tomu, že v prvních letech se odepisuje vyšší než poměrná část, aby pak v závěrečných letech se naopak odepisovalo méně.
+    - Zrychlené odpisování je počítáno na základě definovaných koeficientů pro jednotlivé odpisové skupiny.
+
 ## 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
 
 ### Daňová uznatelnost výdajů
@@ -2390,3 +2409,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^26]: https://cs.wikipedia.org/wiki/Kontroln%C3%AD_hl%C3%A1%C5%A1en%C3%AD_DPH
 [^27]: https://www.podnikatel.cz/clanky/vite-jaky-je-rozdil-mezi-ucetnimi-a-danovymi-odpisy-hmotneho-majetku/
 [^28]: https://money.cz/novinky-a-tipy/dane/ucetni-vs-danovy-odpis-cem-se-lisi-spocitate/
+[^29]: https://www.euro.cz/byznys/odpis-odpisove-skupiny-hmotneho-majetku-auto-tabulka-kalkulacka-1458462#:~:text=Pokud%20jako%20podnikatel%20zakoup%C3%ADte%20majetek,i%20po%20dobu%20n%C4%9Bkolika%20let.
