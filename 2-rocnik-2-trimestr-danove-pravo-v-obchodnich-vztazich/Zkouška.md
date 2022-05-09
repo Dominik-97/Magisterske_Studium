@@ -597,6 +597,8 @@ TBD
 
 ## 10. Pojem „švarcsystému“ a problémy s ním spojené
 
+### Švarcsystém
+
 - Vymezení švarcsystému
   - Dva subjekty uzavřou obchodní smlouvu, přičemž příslušné úřady mají podezření, že jde o obcházení či zastírání pracovněprávního vztahu nebo o zneužití práva.
 
@@ -762,6 +764,12 @@ TBD
 - Švarcsystém u společníků a jednatelů
   - NSS 2 Afs 22/2005 Autobazar a příprava vozidel k prodeji prováděná firmou společníka
   - činnost společníka a jednatele s.r.o., byla vyhodnocena jako jiná činnost než je předmět činnosti s.r.o. a byla vykonávána v provozovnách a prostřednictvím zaměstnanců společníka (nikoli tedy v provozovnách či prostřednictvím zaměstnanců s.r.o.).
+
+- Švarcsystém u společníků a jednatelů
+  - NSS 2 Afs 24/2010
+    - „Pokud společník a jednatel společnosti poskytuje společnosti služby prostřednictvím své živnosti s odlišným předmětem činnosti, kterou provozuje v samostatných provozovnách, vlastními pracovníky a na vlastní náklady, není cena společností jemu zaplacená příjmem ze závislé činnosti ve smyslu § 6 odst. 1 písm. b) zákona č. 586/1992 Sb., o daních z příjmů“
+
+### Fakturace mezi manžely
 
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
