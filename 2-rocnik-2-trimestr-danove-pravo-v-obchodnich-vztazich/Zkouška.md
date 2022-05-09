@@ -1104,7 +1104,25 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
 
 ## 12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
 
-TBD
+- Daň z přidané hodnoty
+  - DPH představuje významnou část příjmu státní rozpočtu.
+  - Jedná se o nepřímou daň, tj. poplatníkem této daně je konečný spotřebitel, zatímco plátci této daně jsou všichni výrobci a obchodníci v řetězci (od prvovýroby ke konečné spotřebě).
+  - Jedná se o daň významně harmonizovanou v rámci Evropské unie. Evropské směrnice a nařízení tedy představují významný pramen práva vedle národního zákona.
+  - Základním principem této daně je, že každý výrobce či obchodník (obecně podnikající subjekt) odvádí DPH vypočtenou právě z rozdílu mezi prodejem a nákupem (tedy za své „přidané hodnoty“) zboží či služeb. Mezi subjekty, které jsou registrováni k této dani (tzv. plátci), dochází k fakturaci zvýšené o tuto daň; tuto daň pak takový prodávajících uplatní ve svém přiznání a odvede státu. Tedy kupující vždy zaplatí prodávajícímu částku zvýšenou o daň. Ovšem takový kupující, který je registrován k této dani (je plátcem), si právě tu daň, o kterou prodávajícímu zaplatil více, může uplatnit ve svém přiznání jako tzv. odpočet (tj. může požádat stát o její vrácení). Efektivně tak takový plátce odvádí státu vždy pouze tu částku, která představuje rozdíl sumy DPH uplatněných u jeho prodejů a sumy DPH uplatněných u jeho nákupů.
+
+- Předmět daně
+  - Předmětem této daně je zásadně právě
+    - dodání zboží nebo služby za úplatu, a to
+    - osobou povinnou k dani (zjednodušeně: podnikatelem), a to
+    - s místem plnění v tuzemsku
+  - V případě přeshraničních operací se zbožím je předmětem této daně navíc zejména:
+    - pořízení zboží z jiného členského státu osobou povinnou k dani (zjednodušeně podnikatelem), a
+    - dovoz zboží (tedy ze zemí mimo EU) zboží, a
+    - pořízení služby českou podnikající osobou od podnikající osoby se sídlem mimo ČR
+
+- Základní prameny:
+  - Směrnice rady 2006/112/ES, o společném systému DPH
+  - Zákon o DPH (č. 235/2004 Sb.)
 
 ## 13. Nejčastější podvody na DPH
 
