@@ -680,7 +680,15 @@ Mezinárodní právo daňové má stejnou základní charakteristiku jako jakék
   - Jestliže osoba vykonává svoji podnikatelskou činnost v druhém smluvním státě, mohou být zisky takového podniku zdaněny ve druhém státě.
   - Podmínkou je, že činnost je ve druhém státě vykonávána prostřednictvím tzv. stále provozovny.
 
+- Pojem **stála provozovna** zahrnuje zejména místo vedení části podniku,
+  - pobočku, kancelář, továrnu, dílnu a důl (či jakékoliv jiné místo, kde se těží přírodní zdroje).
+  - Výraz stála provozovna rovněž zahrnuje staveniště (nebo stavební, montážní nebo instalační projekt nebo dozor), avšak pouze pokud takové staveniště, projekt nebo dozor trvá déle než 12 měsíců (toto období bývá v různých smlouvách upraveno různě).
+  - Výraz **stála provozovna** rovněž může zahrnovat (záleží na té které konkrétní smlouvě) poskytování služeb (včetně poradenských nebo manažerských) prostřednictvím zaměstnanců nebo jiných najatých pracovníků, pokud tyto služby trvají na území druhého smluvního státu v úhrnu 6 měsíců jakémkoliv 12 měsíčním období (nebo v závislosti na textu té které konkrétní smlouvy).
+  - Smluvní normy týkající se stálé provozovny se obvykle nacházejí v článku 5 smlouvy o zamezení dvojího zdanění.
 
+- **Příjmy ze závislé činnosti**
+  - Platy, mzdy a jiné podobné odměny ze zaměstnání, které je vykonáváno ve druhém smluvním státě, mohou být (za splnění určitých podmínek) zdaněny v tomto druhém státě.
+  - Úprava zdanění příjmů ze závislé činnosti je obvykle obsahem článku 14 smlouvy o zamezení dvojímu zdanění.
 
 ## 16. Spotřební daně, majetkové daně - základní charakteristika
 
