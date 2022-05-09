@@ -22,7 +22,7 @@ header-includes:
 4. Základní pojmy – předmět daně, základ daně, zdaňovací období, subjekt daně - **OK**
 5. Daně z příjmů – charakteristika - **OK**
 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu - **OK**
-7. Daňové odpisy – pojem, charakteristika, praktické problémy
+7. Daňové odpisy – pojem, charakteristika, praktické problémy - **OK**
 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu - **OK**
 9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů - **OK**
 10. Pojem „švarcsystému“ a problémy s ním spojené - **OK**
