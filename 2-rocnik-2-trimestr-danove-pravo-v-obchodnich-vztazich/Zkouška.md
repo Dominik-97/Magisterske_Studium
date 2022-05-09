@@ -26,7 +26,7 @@ header-includes:
 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu - **OK**
 9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů
 10. Pojem „švarcsystému“ a problémy s ním spojené - **OK**
-11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
+11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.) - **OK**
 12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
 13. Nejčastější podvody na DPH - **OK**
 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění - **OK**
@@ -843,9 +843,10 @@ TBD
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 - Příjmy v podobě dědictví jsou zcela osvobozeny od daně z příjmů (§4a/a) ZDP)
+  - Nevztahují se zde ani dědické třídy
 - Daňová povinnost zůstavitele = daňová povinnost do dne předcházejícího dni skončení řízení o pozůstalosti (§ 98-288 zák. č. 292/2013 Sb. - Zákon o zvláštních řízeních soudních)
   - Přechází na dědice rozhodnutím soudu o dědictví – dědic získává postavení DS (§ 239a/3 daňového řádu, dále také DŘ)
-- Osoba spravující pozůstalost (správce pozůstalosti, vykonatel závěti, potenciální dědic):
+- Osoba spravující pozůstalost (správce pozůstalosti, vykonatel závěti, potenciální dědic) - DPH, Silniční daň, Daň z příjmu:
   - Plní po smrti zůstavitele jeho daňové povinnosti, a to vlastním jménem na účet zůstavitele
   - Podat přiznání do 3 měsíců od smrti zůstavitele (§ 239b/4 DŘ)
     - za období přede dnem smrti
