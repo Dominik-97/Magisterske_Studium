@@ -694,6 +694,48 @@ TBD
     - Případné porušení zákona o zaměstnanosti nemůže mít vliv na daňové posuzování
     - Ke zneužití práva zde tedy nedošlo
 
+- Zneužití práva – judikatura - OSVČ pracující vedle zaměstnanců
+  - NSS 5 Afs 65/2010 – 138 ze dne 30. září 2011 (Sbírka NSS 2/2012 č. 2488/2012)
+    - „Nejedná-li se o zneužití daňového práva, nelze náklady vynaložené v souvislosti s výrobou produktů, jejichž prodej je hlavním zdrojem zdanitelných příjmů daňového subjektu, vyloučit z daňově uznatelných výdajů podle § 24 zákona č. 586/1992 Sb., o daních z příjmů, jen z toho důvodu, že se na této výrobě podílely vedle zaměstnanců daňového subjektu také osoby samostatně výdělečně činné.“
+
+- Dvojí zdanění jednoho příjmu
+  - Příjem zdanila FO ve svém daňovém přiznání
+  - Kontrola doměřila zaměstnavateli švarcsystém
+  - Daň tedy zaplacena 2 x
+  - Dá se řešit dodatečným DP fyzickou osobou
+
+- Švarcsystém – shrnutí zákl. kritérií
+  - Formální znaky závislé práce (pro posouzení závislosti poskytované činnosti nejsou rozhodné formální znaky vztahu mezi poskytovatelem a příjemcem práce, tzn. smluvní typ podle soukromého práva)
+
+- Švarcsystém – shrnutí zákl. kritérií II.
+  - Materiální kritéria závislé činnosti
+    - typicky práce vykonávaná na jednom místě výhradně pro jednoho zaměstnavatele
+    - činnost dlouhodobá
+    - a pokud k uzavření pracovněprávního vztahu mělo dojít především v zájmu osoby tuto činnost vykonávající, jejíž právní sféru neuzavření tohoto vztahu v konečném důsledku poškozuje.
+
+- Švarcsystém – shrnutí zákl. kritérií III.
+  - o závislou činnost zpravidla nejde:
+    - jedná-li se o specializovanou činnost vykonávanou pouze krátkodobě či nesoustavně,
+    - jejíž výkon je podmíněn faktory do značné míry nezávislými na vůli zadavatele (např. sezónní práce, práce závislé na počasí, práce podmíněné realizací jednorázově získané zakázky apod.).
+
+- Švarcsystém – shrnutí zákl. kritérií IV.
+  - Délka trvání vztahu, pracovní doba
+    - To, že se jedná o vztah trvající povahy, ještě neznamená, že se nutně musí jednat o závislou činnost
+    - malý podnikatel, který nemá zaměstnance, má velmi podobný fond pracovní doby, respektive fond své podnikatelské činnosti, kterou má k dispozici zaměstnanec
+    - Není nutně na závadu ani fakturace podle hodin
+
+- Švarcsystém – shrnutí zákl. kritérií V.
+  - Ekonomický nátlak, smluvní svoboda
+    - Nepřípustné, pokud by např. smlouva o dílo byla uzavřena pomocí ekonomického nátlaku, zneužívaje faktické ekonomické závislosti jedné smluvní strany na druhé, a uzavření takové smlouvy, kterou ve skutečnosti neměli zájem uzavřít.
+
+- Švarcsystém – shrnutí zákl. kritérií VI.
+  - Důležitým faktorem je i materiální samostatnost (vlastní nářadí, materiál, kancelář, automobil, hrazení si nákladů na školení atd. – nemusí být splněno vše najednou)
+
+- Švarcsystém – shrnutí zákl. kritérií VII.
+  - ustanovení § 2 odst. 3 zákona č. 262/2006 Sb., zákoník práce - závislá práce - nadřízenost zaměstnavatele a podřízenosti zaměstnance:
+  - výlučně osobní výkon práce zaměstnance pro zaměstnavatele, podle pokynů zaměstnavatele, jeho jménem, za mzdu, plat nebo odměnu za práci, v pracovní době nebo jinak stanovené nebo dohodnuté době na pracovišti zaměstnavatele, popřípadě na jiném dohodnutém místě, na náklady zaměstnavatele a na jeho odpovědnost.
+  - § 3 ZP - závislá práce může být vykonávána výlučně v pracovněprávním vztahu podle tohoto zákona, není-li upravena zvláštními právními předpisy.
+
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 TBD
