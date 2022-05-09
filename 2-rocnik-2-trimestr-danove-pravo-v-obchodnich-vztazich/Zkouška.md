@@ -609,7 +609,35 @@ TBD
 
 ## 13. Nejčastější podvody na DPH
 
-TBD
+- DPH I – podvody na DPH a jak jim čelit, zneužití práva
+  - Podvody na DPH
+    - Falešné doklady
+    - Fiktivní plnění
+    - Cena obvyklá
+    - Řetězové podvody
+    - Zneužití práva
+
+- **Falešné doklady**
+  - Falšovaná razítka, podpisy
+  - Jednání jménem neexistující firmy
+  - Jménem existující firmy jedná neoprávněná osoba, kterou ve firmě neznají
+
+- Fiktivní plnění
+  - Doklady obvykle formálně v pořádku
+  - Deklarované plnění se neuskutečnilo nebo uskutečnilo v podstatně menším rozsahu
+
+- Cena obvyklá
+  - § 36a ZDPH - Základ daně ve zvláštních případech
+  - Základem daně je cena obvyklá bez daně, určená ke dni uskutečnění zdanitelného plnění, je-li zdanitelné plnění uskutečněno pro vybrané osoby v případech specifikovaných v tomto ustanovení.
+
+- Cena obvyklá
+  - Těmito osobami jsou:
+    - a) kapitálově spojené osoby podle s tím, že výše podílu představuje alespoň 25 % základního kapitálu nebo 25 % hlasovacích práv těchto osob,
+    - b) jinak spojené osoby (osoby, na jejichž vedení se podílí alespoň jedna shodná osoba) za jinak spojené osoby se nepovažují osoby, kdy je jedna osoba členem dozorčích rad obou osob,
+    - c) osoby blízké,
+    - d) společníci téže společnosti, jsou-li plátci.
+
+
 
 ## 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
 
