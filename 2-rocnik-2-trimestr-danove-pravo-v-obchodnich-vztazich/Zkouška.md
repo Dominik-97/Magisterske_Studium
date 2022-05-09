@@ -775,6 +775,56 @@ TBD
   - Společné jmění manželů a fakturace mezi nimi v případě, že jeden z manželů nepodniká (podle rozsudku Nejvyššího správního soudu ze dne 27. 10. 2004, čj. 5 Afs 21/2003-66, zveřejněno ve Sbírce rozhodnutí Nejvyššího správního soudu 9/2006 pod č. 935/2006) Veškeré úvahy a závěry o neuznání výdaje vedl soud teprve poté, co vyloučil, že by mezi manžely šlo v daném případě o podnikatelský vztah. (Přitom obecnou možnost existenci podnikatelského vztahu mezi manžely nevyloučil!)
   - Manželka připravovala pro manžela účetní doklady a vyfakturovala mu tuto práci.
 
+- Fakturace mezi manžely
+  - 5 Afs 21/2003-66 pokrač.:
+    - Zveřejněné právní věty:
+      - I. Jestliže daňový subjekt netvrdil, že smlouvou upravil rozsah společného jmění manželů ve smyslu § 143a a § 144 občanského zákoníku, ani takovou smlouvu nedoložil, musí správce daně za součást společného jmění manželů považovat i prostředky daňového subjektu určené k podnikání. V důsledku toho nemohlo dojít k plnění ze smlouvy o dílo uzavřené mezi daňovým subjektem a jeho manželkou.
+
+- Fakturace mezi manžely
+  - NSS 5 Afs 21/2003-66 pokrač. II:
+  - II. V případě, kdy daňový subjekt nerozdělí své příjmy z podnikání nebo z jiné samostatné činnosti dle § 13 zákona ČNR č. 586/1992 Sb., o daních z příjmů, je správce daně oprávněn zkoumat, zda výdaj daňového subjektu, tj. částka uhrazená na základě účetního dokladu manželce daňového subjektu za provedené práce (služby), není výdajem na osobní potřebu poplatníka [§ 25 odst. 1 písm. u) citovaného zákona].
+
+- Fakturace mezi manžely
+  - NSS 5 Afs 113/2006-70 ze dne 5. září 2007
+  - „Úvaha stěžovatele, že zásada rovnosti mezi manžely a institut společného jmění v podstatě brání jejich vzájemné fakturaci, tedy není správná.
+  - V dalším řízení bude proto nutné se zaměřit na to, zda byl žalobkyní deklarovaný výdaj skutečně vynaložen v rámci její podnikatelské činnosti (tedy posoudit, zda manžel fakturoval manželce v rámci své podnikatelské činnosti, či zda se pouze podílel na podnikání žalobkyně, a šlo toliko o spolupráci mezi manžely)“
+
+- Fakturace mezi manžely
+  - NSS 8 Afs 64/2005-66 ze dne 3. 5. 2007, Sbírka NSS 9/2007 pod č. 1305/2007
+    - „Dohodli-li se manželé - podnikatelé na tom, že ve zdaňovacím období roku 1999 jeden bude spolupracovat na podnikání druhého a tuto spolupráci daňově uplatňovat, mohli postupovat jen způsobem upraveným v § 13 zákona ČNR č. 586/1992 Sb., o daních z příjmů, a jen v souladu s tímto ustanovením příjmy a výdaje rozdělit. Dosáhli-li proto manželé příjmů jak z vlastní podnikatelské činnosti, a navíc se podíleli na podnikání druhého, v daňovém přiznání uvedou výši daňových příjmů a výdajů z vlastního podnikání a vykáží i podíl příjmů a výdajů ze spolupráce na podnikání druhého z manželů.“
+
+- Fakturace mezi manžely
+  - NSS 8 Afs 64/2005-66 pokrač.:
+    - Předmětem fakturace byla spolupráce na odkupu akcií a ve fakturované částce jsou zahrnuty úhrady na cestovné, odpisy automobilu a výplata za uzavřené smlouvy.
+    - konkrétní podklady pro fakturaci s manželem nebyly, neboť vycházeli z nákladů na cestovné a z objemu uzavřených smluv.
+    - Veškeré smlouvy byly uzavřeny manželovým jménem.
+    - Žalobkyně v předmětném zdaňovacím období vystavila pouze tuto jedinou fakturu, jinou podnikatelskou činnost odrážející se v příjmech a výdajích již nevykonávala.
+
+- Fakturace mezi manžely - shrnutí
+  - Vztahy mezi manžely:
+    - 1) dosahování příjmů za spolupráce druhého z manželů,
+    - 2) podnikatelská činnost obou manželů (dříve v rámci sdružení bez právní subjektivity podle ustanovení § 829 a násl. občanského zákoníku) dnes § 2716 a násl obč. zák- - společnost, nebo
+    - 3) manžel i manželka provozují vlastní podnikatelskou činnost nezávisle na sobě (a vzájemně si fakturují).
+
+- Fakturace mezi manžely - shrnutí
+  - V případě fakturace je vhodné:
+    - mít více zákazníků než jen svého manžela,
+    - mít vlastní nářadí, materiál, počítač, kancelář apod. a nebude jen využívat majetek, který ve svém podnikání vykazuje manžel, kterému je fakturováno,
+    - manželovi nebude fakturovat „spolupráci“, ale konkrétní činnosti či zboží, které fakturuje i ostatním zákazníkům,
+    - pokud bude mít stejný předmět činnosti, jako manžel, kterému je fakturováno, tak opět bude vhodné, aby všechny smlouvy se zákazníky nebyly uzavřeny jen na druhého z manželů, ale některé i na fakturujícího manžela.
+
+### Švarcsystém mimo spory s úřady
+
+- NS 21 Cdo 2687/2012 – fotograf v ateliéru
+ nastolen vztah nadřízenosti právního předchůdce žalovaného
+a podřízenosti žalobce, fotograf vykonával práce podle
+pokynů žalovaného a jeho jménem, předmětem smlouvy byla
+opětující se činnost ("práce"), kterou byl žalobce povinen
+vykonávat osobně, po předem stanovenou dobu a za
+sjednanou "úplatu", žalovaný poskytoval 4 týdny placeného
+volna (dovolené) v kalendářním roce" a že evidoval jeho
+docházku "do zaměstnání – vráceno k dalšímu řízení
+
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 TBD
