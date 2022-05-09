@@ -736,6 +736,33 @@ TBD
   - výlučně osobní výkon práce zaměstnance pro zaměstnavatele, podle pokynů zaměstnavatele, jeho jménem, za mzdu, plat nebo odměnu za práci, v pracovní době nebo jinak stanovené nebo dohodnuté době na pracovišti zaměstnavatele, popřípadě na jiném dohodnutém místě, na náklady zaměstnavatele a na jeho odpovědnost.
   - § 3 ZP - závislá práce může být vykonávána výlučně v pracovněprávním vztahu podle tohoto zákona, není-li upravena zvláštními právními předpisy.
 
+- Švarcsystém – shrnutí zákl. kritérií VIII.
+  - Mezí přípustnosti přijímání práce mimo závislou činnost je tak zejména kombinace „podezřelých“ činností (typicky závislých dělnických činností) a ekonomického nátlaku na slabší stranu (typická situace přechodu pracovních vztahů s dřívějšími zaměstnanci na jiné formy poskytování práce).
+
+- Švarcsystém u společníků a jednatelů
+  - § 6 odst. 1 písm. b) do příjmů ze závislé činnosti zařazuje: příjmy za práci
+    - člena družstva,
+    - společníka společnosti s ručením omezeným,
+    - komanditisty komanditní společnosti.
+  - Podle písm. c) téhož ustanovení pak i odměny člena orgánu právnické osoby (zde se již nehovoří ani o nutnosti pracovat).
+
+- Švarcsystém u společníků a jednatelů
+  - zákaz konkurence (§432 nového občanského zákoníku):
+  - „Osoba, která vystupuje jako podnikatelův zástupce při provozu obchodního závodu, nesmí bez souhlasu podnikatele činit na vlastní nebo cizí účet nic, co spadá do oboru obchodního závodu. Stane-li se tak, může se podnikatel domáhat, aby se jeho zástupce takového jednání zdržel.“ Může též požadovat náhradu škody apod.
+
+- Švarcsystém u společníků a jednatelů
+  - Příklad NSS 6 Afs 9/2003 + IV. ÚS 385/04 advokát:
+    - Společník společnosti – advokát, vykonával pro svoji společnost práce, které jí fakturoval. Práce byly vykonávány v prostorách společnosti a s použitím jejích prostředků (telefon, fax apod.). Jeho činnost byla finančními orgány posouzena jako příjem ze závislé činnosti, to potvrdil i NSS a ÚS
+    - Na druhé straně ale ÚS konstatoval, že překvalifikování na závislou činnost není ve všech případech automatické - jinak by zřejmě bylo třeba hodnotit situaci, pokud by advokát - ač společník - vykonával pro společnost právní služby na základě mandátní smlouvy, aniž by byl při výkonu této činnosti úzce propojen s obchodní společností.
+
+- Švarcsystém u společníků a jednatelů
+  - NSS 2 Afs 4/2005
+    - Pokud společníky a jednateli auditorské obchodní společnosti byli za účinnosti zákona ČNR č. 524/1992 Sb., o auditorech a Komoře auditorů České republiky, auditoři s oprávněním podle tohoto zákona, představovaly částky jim vyplacené za auditorskou činnost příjem ze závislé činnosti podle ustanovení § 6 odst. 1 písm. b) zákona ČNR č. 586/1992 Sb., o daních z příjmů.“
+
+- Švarcsystém u společníků a jednatelů
+  - NSS 2 Afs 22/2005 Autobazar a příprava vozidel k prodeji prováděná firmou společníka
+  - činnost společníka a jednatele s.r.o., byla vyhodnocena jako jiná činnost než je předmět činnosti s.r.o. a byla vykonávána v provozovnách a prostřednictvím zaměstnanců společníka (nikoli tedy v provozovnách či prostřednictvím zaměstnanců s.r.o.).
+
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 TBD
