@@ -24,7 +24,7 @@ header-includes:
 6. Pojem příjmu, skutečného příjmu, zdánlivého příjmu - **OK**
 7. Daňové odpisy – pojem, charakteristika, praktické problémy
 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu - **OK**
-9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů
+9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů - **OK**
 10. Pojem „švarcsystému“ a problémy s ním spojené - **OK**
 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.) - **OK**
 12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
