@@ -1128,6 +1128,19 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
   - Zdanitelné plnění
     - Za zdanitelné plnění se považuje každé plnění, které je předmětem daně, a které současně není osvobozené od daně (§ 2/2 ZDPH). Typicky tedy za zdanitelné plnění považujeme každé dodání zboží nebo služby za úplatu, realizované osobou povinnou k dani (tedy typicky podnikatelem), s místem plnění v tuzemsku, které současně zákon v nějakém svém ustanovení neosvobozuje od daně. Osvobozená plnění jsou upravená v ustanovení §§ 51 - 71h ZDPH. Příkladmo uveďme zdravotní služby nebo nájem nemovité věci.
 
+- Osoba povinná k dani
+  - Osoba povinná k dani je taková osoba, která samostatně uskutečňuje ekonomické činnosti (§ 6 ZDPH).
+    - Ekonomickou činností se pro účely daně z přidané hodnoty rozumí činnost výrobců, obchodníků a osob poskytujících služby, včetně důlní činnosti a zemědělské výroby a výkonu svobodných a jiných obdobných povolání podle jiných právních předpisů, za účelem získávání pravidelného příjmu.
+    - Osobou povinnou k dani není zejména zaměstnanec. Z výše uvedeného lze říci, pro zjednodušení, že pojem „osoba povinná k dani“ se ve většině případů rovná pojmu „osoba podnikající“.
+
+- Plátce daně
+  - Každá osoba povinná k dani (tj. typicky každá podnikající osoba) se sídlem v tuzemsku, se ze zákona stává tzv. plátcem, jestliže její obrat za nejvýše dvanáct po sobě jdoucích kalendářních měsíců přesáhne 1 000 000 Kč (§ 6 ZDPH).
+  - Osoba povinná k dani se může stát ze zákona plátcem i jinými způsoby, například pokud nabude majetek nabytím obchodního závodu od plátce.
+  - Osoba povinná k dani se může stát plátcem navíc také na základě své vlastní dobrovolné žádosti.
+  - Základní povinností plátce daně je zatěžovat své prodeje daní z přidané hodnoty a podávat pravidelně (měsíčně či kvartálně) přiznání k této dani. Základním právem plátce je uplatňovat odpočet daně z nákupů (tj. z přijatých zdanitelných plnění).
+
+
+
 ## 13. Nejčastější podvody na DPH
 
 - DPH I – podvody na DPH a jak jim čelit, zneužití práva
