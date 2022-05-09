@@ -843,7 +843,7 @@ TBD
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 - Příjmy v podobě dědictví jsou zcela osvobozeny od daně z příjmů (§4a/a) ZDP)
-- Daňová povinnost zůstavitele = daňová povinnost do dne předcházejícího dni skončení řízení o pozůstalosti (§ 98-288 zák. č. 292/2013 Sb.)
+- Daňová povinnost zůstavitele = daňová povinnost do dne předcházejícího dni skončení řízení o pozůstalosti (§ 98-288 zák. č. 292/2013 Sb. - Zákon o zvláštních řízeních soudních)
   - Přechází na dědice rozhodnutím soudu o dědictví – dědic získává postavení DS (§ 239a/3 daňového řádu, dále také DŘ)
 - Osoba spravující pozůstalost (správce pozůstalosti, vykonatel závěti, potenciální dědic):
   - Plní po smrti zůstavitele jeho daňové povinnosti, a to vlastním jménem na účet zůstavitele
