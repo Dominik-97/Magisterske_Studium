@@ -637,7 +637,41 @@ TBD
     - c) osoby blízké,
     - d) společníci téže společnosti, jsou-li plátci.
 
+- Řetězové podvody
+  - Řetězové (kolotočové, karuselové) podvody
 
+![Řetězové podvody](Retezove_podvody.png)
+
+- Řetězové podvody – poctivé subjekty
+  - Jak to funguje při poctivých účastnících obchodu
+    - Subjekt A prodává subjektu B telefony 100 mil. Kč. Dodání zboží do jiného členského státu je pro něj osvobozeným plněním, uplatní si nárok na odpočet DPH ve svém státě.
+    - Subjekt B nakupuje telefony za 100 mil. Kč, vyměří daň 21 mil., současně uplatní nárok na odpočet. Potud daňově neutrální
+    - Subjekt B prodává telefony za 100 mil. Kč tuzemskému subjektu C + 21 mil. Kč DPH v běžném režimu.
+
+- Řetězové podvody – poctivé subjekty
+  - Subjekt B inkasuje platbu za telefony ve výši 121 mil. Kč od tuzemského subjektu C. V daňovém přiznání uvede 21 mil. Kč DPH na výstupu a daň odvede finančnímu úřadu.
+  - Subjekt C prodává subjektu D telefony 100 mil. Kč. Dodání zboží do jiného členského státu je pro něj osvobozeným plněním, uplatní si nárok na odpočet DPH ve svém státě. Finanční úřad pravděpodobně prověřuje situaci a vrací 21 mil. Kč.
+
+- Řetězové podvody – nepoctivé subjekty
+  - Jak to funguje při nepoctivých účastnících obchodu
+    - Subjekt A prodává subjektu B telefony 100 mil. Kč. Dodání zboží do jiného členského státu je pro něj osvobozeným plněním, uplatní si nárok na odpočet DPH ve svém státě.
+    - Subjekt B nakupuje telefony za 100 mil. Kč, vyměří daň 21 mil., současně uplatní nárok na odpočet. Potud stejné a v pořádku
+
+- Řetězové podvody – nepoctivé subjekty
+  - Subjekt B prodává telefony za 100 mil. Kč tuzemskému subjektu C + 21 mil. Kč DPH v běžném režimu.
+  - Subjekt B inkasuje platbu za telefony ve výši 121 mil. Kč od tuzemského subjektu C. Daňové přiznání buď vůbec nepodává nebo daň nezaplatí. Subjekt zaniká a získaných 21 mil. se ztrácí.
+  - Subjekt C prodává subjektu D telefony 100 mil. Kč. Dodání zboží do jiného členského státu je pro něj osvobozeným plněním, uplatní si nárok na odpočet DPH ve svém státě. Finanční úřad váhá, zda mu vrátí 21 mil. Kč. Pokud se prokáže, že o podvodu nevěděl a vědět nemohl, je to stát, kdo tratí.
+
+- Podvody na DPH – obrana státu
+  - Daňová přiznání a souhrnná hlášení
+  - Přenos daňové povinnosti
+  - Nespolehlivý plátce a ručení za daň
+  - Zveřejňování účtů pro platbu DPH
+  - „Věděl nebo vědět mohl“
+  - Od roku 2016 – kontrolní hlášení, elektronická evidence tržeb
+  - Zajišťovací příkazy
+  - Postupy k odstranění pochybností
+  - Kontroly před vyměřením i po vyměření daně
 
 ## 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
 
