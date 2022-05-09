@@ -1124,6 +1124,10 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
   - Směrnice rady 2006/112/ES, o společném systému DPH
   - Zákon o DPH (č. 235/2004 Sb.)
 
+- Základní pojmy
+  - Zdanitelné plnění
+    - Za zdanitelné plnění se považuje každé plnění, které je předmětem daně, a které současně není osvobozené od daně (§ 2/2 ZDPH). Typicky tedy za zdanitelné plnění považujeme každé dodání zboží nebo služby za úplatu, realizované osobou povinnou k dani (tedy typicky podnikatelem), s místem plnění v tuzemsku, které současně zákon v nějakém svém ustanovení neosvobozuje od daně. Osvobozená plnění jsou upravená v ustanovení §§ 51 - 71h ZDPH. Příkladmo uveďme zdravotní služby nebo nájem nemovité věci.
+
 ## 13. Nejčastější podvody na DPH
 
 - DPH I – podvody na DPH a jak jim čelit, zneužití práva
