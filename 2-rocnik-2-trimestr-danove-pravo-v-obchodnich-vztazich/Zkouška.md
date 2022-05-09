@@ -823,6 +823,23 @@ TBD
     - Propuštění řidiči nadále pracovali pro ČT jako živnostníci, autoobily však byly vlastnictvím ČT, ta nesla též náklady na údržbu, PHM CCS karty patřící ČT), pojištění atd.
     - Nebylo uznáno jako podnikání
 
+- Švarcsystém mimo spory s úřady
+  - Souběh pracovních a obchodních smluv k témuž zaměstnavateli
+  - NS 21 Cdo 3862/2012
+  - Zaměstnanec dostal výpověď, soudil se úspěšně o vyslovení její neplatnosti.
+  - Náležela mu proto náhrada mzdy. V rámci posuzování náhrady mzdy došlo i na zkoumání uzavřené obchodní smlouvy, která byla posouzena jako zastírání reálné pracovní smlouvy.
+  - Zaměstnanec měl proto při výpočtu průměrného výdělku pro účely jeho nároků z neplatné výpovědi nárok i na náhradu z „obchodní“ smlouvy, která byla posouzena jako švarcsystém.
+
+- Švarcsystém mimo spory s úřady
+  - Švarcsystém a náhrada škody za úraz NS 25 Cdo 5262/2008
+    - Živnostník pracoval na stavbě, měl uzavřenou obchodní smlouvu a své činnosti fakturoval. Poté utrpěl na stavbě úraz, změnil názor a tvrdil, že jeho smlouva byla zastřenou pracovní a požadoval náhradu škody podle zákoníku práce. Soudy mu nevyhověly, došly k závěru, že v jeho případě šlo o skutečný obchodní vztah a nikoli o zastřený pracovní.
+
+### Švarcsystém – možný budoucí vývoj
+
+- Omezování výdajových paušálů
+- Kontroly
+- Další zpřísňování zákonů
+
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
 TBD
