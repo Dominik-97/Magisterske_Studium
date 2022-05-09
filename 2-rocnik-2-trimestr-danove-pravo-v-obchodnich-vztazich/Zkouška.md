@@ -535,17 +535,26 @@ Tento zastřešující pojem má následně dva zastřešené pojmy, které defi
 
 ## 7. Daňové odpisy – pojem, charakteristika, praktické problémy
 
-TBD
+### Otázky
 
-výdaj danová povinnost základ daně
+- výdaj danová povinnost základ daně
+- aktiva dlouhodobý hmotný majetek
+- aktiva pasiva
+- daňová závěrka
+- jsou oprávky a odpisy v rozvaze, nebo kde?
 
-aktiva dlouhodobý hmotný majetek
+### Odpisy
 
-aktiva pasiva
+- daňové odpisy
+- účetní odpisy
 
-daňová závěrka
+### Účetní odpisy:
 
-jsou oprávky a odpisy v rozvaze, nebo kde?
+- § 28 zákona o účetnictví (č. 563/1991 Sb.)
+- § 56 vyhlášky č. 500/2002 Sb.
+- Základní charakteristika:
+  - účelem účetních odpisů je věrný a poctivý obraz předmětu účetnictví.
+  - účetní odpisy si stanovuje účetní jednotka sama ve své interní směrnici
 
 ## 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
 
