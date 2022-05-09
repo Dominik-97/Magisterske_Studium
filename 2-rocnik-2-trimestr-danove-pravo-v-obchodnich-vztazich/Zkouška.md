@@ -593,7 +593,102 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
 
 ## 9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů
 
-TBD
+- Podklady k přednášce
+  - Zákon č. 435/2004 Sb., o zaměstnanosti
+  - Zákon č. 280/2009 Sb., daňový řád, zejména §92 a násl. (dokazování), § 98 a násl. (pomůcky a sjednání daně)
+  - Zákon č. 586/1992 Sb., o daních z příjmů, zejména § 6, §23/7
+  - Burda Zdeněk, Ing., Stanovení daně podle pomůcek, Wolters Kluwer 2010
+  - Baxa a kol. Daňový řád – komentář, Wolters Kluwer 2011
+  - Burda Zdeněk, Ing., „Švarcsystém“ v daňové judikatuře, Daně a právo v praxi 8/2011
+  - Burda Zdeněk, Ing.,  Švarcsystém II ‐ společníci, jednatelé, členové statutárních orgánů a jejich práce pro společnost v daňové judikatuře, Daně a právo v praxi 9/2011
+  - BURDA, Zdeněk, Ing., "Švarcsystém" v podmínkách roku 2012. Bulletin Komory daňových poradců  České republiky, 2012, č. 2, s. 14‐16.
+  - BURDA, Zdeněk, Ing, "Švarcsystém" v roce 2014“, Bulletin Komory daňových poradců České republiky, 2012, č. 2, s. 10‐18.
+  - BURDA, Zdeněk, Ing., Dokazování, Bulletin Komory daňových poradců České republiky, 2013, č. 4, s. 15‐22.
+
+- ~~Struktura přednášky~~
+  - ~~Daň z příjmů – vybrané obecné otázky II (spojené osoby a ceny mezi nimi, zneužití práva)~~
+  - ~~Daň z příjmů fyzických osob – některé složité případy II (švarcsystém a jeho rozlišení)~~
+  - ~~DPH I – podvody na DPH a jak jim čelit, zneužití práva~~
+  - ~~DPH II – evropské a vnitrostátní právo a praktické dopady dvouúrovňového právního systému, eurokonformní výklad, přímý a nepřímý účinek evropského práva~~
+  - ~~Procesní otázky I – důkazní břemeno, dokazování a pomůcky, dokazování ve vybraných případech (zprostředkování, reklama, manažerské služby aj.)~~
+  - ~~Judikatura soudů a její význam pro daňovou praxi~~
+
+- Daň z příjmů – vybrané obecné otázky II (spojené osoby a ceny mezi nimi, zneužití práva)
+
+- Spojené osoby 
+  - Spojenými osobami se pro účely tohoto zákona rozumí
+    - a) kapitálově spojené osoby, přitom
+      - 1) jestliže se jedna osoba přímo podílí na kapitálu nebo hlasovacích právech druhé osoby, anebo se jedna osoba přímo podílí na kapitálu nebo hlasovacích právech více osob; a přitom tento podíl představuje alespoň 25 % základního kapitálu nebo 25 % hlasovacích práv těchto osob, jsou všechny tyto osoby vzájemně osobami přímo kapitálově spojenými,
+      - 2) jestliže se jedna osoba nepřímo podílí na kapitálu nebo hlasovacích právech druhé osoby, anebo se jedna osoba přímo nebo nepřímo podílí na kapitálu nebo hlasovacích právech více osob; a přitom tento podíl představuje alespoň 25 % základního kapitálu nebo 25 % hlasovacích práv těchto osob, jsou všechny tyto osoby vzájemně osobami kapitálově spojenými,
+    - b) jinak spojené osoby, kterými jsou osoby
+      - 1) kdy se jedna osoba podílí na vedení nebo kontrole jiné osoby (např. jednatel),
+      - 2) kdy se shodné osoby nebo osoby blízké podílejí na vedení nebo kontrole jiných osob, tyto jiné osoby jsou vzájemně osobami jinak spojenými. Za jinak spojené osoby se nepovažují osoby, kdy je jedna osoba členem dozorčích rad obou osob,
+      - 3) ovládající a ovládaná a také osoby ovládané stejnou ovládající osobou, (§74 a násl. zákona o obchodních korporacích - Ovládající osobou je osoba, která může v obchodní korporaci přímo či nepřímo uplatňovat rozhodující vliv – např. většinový společník). Ovládanou osobou je obchodní korporace ovládaná ovládající osobou)
+      - 4) blízké, (§22 NOBCZ - Osoba blízká je příbuzný v řadě přímé, sourozenec a manžel nebo partner podle jiného zákona upravujícího registrované partnerství (dále jen „partner“); jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké, pokud by újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní. Má se za to, že osobami blízkými jsou i osoby sešvagřené nebo osoby, které spolu trvale žijí.
+      - 5) které vytvořily právní vztah převážně za účelem snížení základu daně nebo zvýšení daňové ztráty.
+
+- Spojené osoby
+  - Podíl na základním kapitálu nebo podíl s hlasovacím právem ve zdaňovacím období nebo období, za něž je podáváno daňové přiznání, se stanoví jako aritmetický průměr měsíčních stavů.
+  - Účast v kontrolní komisi nebo obdobném kontrolním orgánu a provádění kontroly za úplatu se nepovažuje za podílení se na kontrole.
+
+- Cena obvyklá
+  - § 23/7 ZDP
+    - (7) Liší-li se ceny sjednané mezi spojenými osobami od cen, které by byly sjednány mezi nespojenými osobami v běžných obchodních vztazích za stejných nebo obdobných podmínek, a není-li tento rozdíl uspokojivě doložen, upraví se základ daně poplatníka o zjištěný rozdíl. Nelze-li určit cenu, která by byla sjednávána mezi nespojenými osobami v běžných obchodních vztazích za stejných nebo obdobných podmínek, použije se cena určená podle právního předpisu upravujícího oceňování majetku. Ustanovení věty první a druhé se nepoužije v případě uzavření smlouvy o výprose nebo o výpůjčce a v případě, kdy sjednaná výše úroků z úvěrového finančního nástroje mezi spojenými osobami je nižší, než by byla cena sjednaná mezi nespojenými osobami, a věřitelem je daňový nerezident nebo člen obchodní korporace, který je daňovým rezidentem České republiky nebo poplatník daně z příjmů fyzických osob.
+
+- Cena obvyklá
+  - Rozdíl „ceny obvyklé“ u DPH a daně zpříjmů (NSS 7 Afs 102/2006-132 z 10. května 2007)
+    - Oba předpisy pro stanovení ceny odkazují na zákon o oceňování majetku. Zákon o DPH v případech specifikovaných v §36a odkazuje na tento zákon přímo jako jediný způsob stanovení základu daně. Zákon o daních z příjmů však nejprve preferuje možnost zjištění „obvyklé“ ceny na trhu, v další fázi pak možnost daňového subjektu správce daně přesvědčit o důvodech „odklonu“ od běžných cen a teprve v případě, že není možno využít těchto postupů, přichází na řadu zákon o oceňování majetku. Zákon o daních z příjmů tak dává podstatně větší prostor pro vyjednávání se správcem daně než zákon o DPH.
+
+- Cena obvyklá
+  - Cena obvyklá v intervalu nejčastějších cen (NSS 8 Afs 80/2007 – 105 z 31.3.2009, Sbírka NSS 7/2009 č. 1852/2009)
+    - Stanovení ceny obvyklé u nájemného.
+    - Sjednaná cena činila v případě prvé smlouvy 2.090 Kč a v případě druhé smlouvy 1.500 Kč. Správce daně provedl sedm místních šetření u jiných daňových subjektů, u kterých zjistil výše nájemného v rozpětí od 747 Kč do 2.727 Kč za 1 m2/rok; průměrná cena nájemného tedy činila 1.466 Kč za 1 m2/rok.
+
+- Cena obvyklá
+  - NSS 8 Afs 80/2007 pokrač.:
+    - Správce daně jako cenu obvyklou použil aritmetický průměr zjištěných nájmů u dalších („nespojených“) subjektů. Tento postup však nebyl shledán jako správný. Jestliže se totiž ceny ostatních subjektů pohybují v určitém rozpětí, měl by správce daně případný doměrek odvozovat nikoli z rozdílu ceny sjednané průměru ostatních cen „nespojených“ subjektů, ale od ceny na horním rozpětí intervalu cen „nespojených“ subjektů.
+
+- Cena obvyklá
+  - 8 Afs 80/2007 – pokrač.II:
+    - Určení výše ceny nezávisí na libovůli správce daně.
+    - Je na jeho uvážení, které subjekty zahrne do vzorku pro zjištění ceny obvyklé, na druhou stranu však zvolené subjekty musí korespondovat se situací daňového subjektu (osoby blízké či jinak spojené), a své úvahy o výběru musí odůvodnit. Jsou na něj kladeny takové požadavky, aby případné zvýšení daňové povinnosti bylo zákonné a spravedlivé a jeho rozhodnutí přezkoumatelné.
+
+- Cena obvyklá
+  - 8 Afs 80/2007 – pokrač.III:
+    - V ideálním stavu by proto měl pro výpočet volit subjekty provozující stejnou či alespoň obdobnou podnikatelskou činnost, a to ve stejném čase a po stejně dlouhé období, v prostorách obdobného stavebně technického stavu a polohy v obci a velikost pronajímaných prostor.
+    - Dále musí zohlednit, zda jsou v ceně nájemného zahrnuty pouze prostory nebo i vybavení a služby, a nesmí opomenout ani výši nájemného, jaké určil tentýž pronajímatel v jiných případech, kdy druhou smluvní stranou není osoba blízká nebo jinak spojená. Přitom musí vybrat dostatečné množství subjektů, aby na základě jejich údajů mohl učinit dostatečně objektivní a spravedlivý závěr.
+
+- Cena obvyklá
+  - 8 Afs 80/2007 – pokrač. IV:
+    - Právní věta
+      - „Cenu sjednanou nezávislými osobami v běžných obchodních vztazích za stejných nebo obdobných podmínek ve smyslu § 23 odst. 7 zákona č. 586/1992 Sb., o daních z příjmů, nelze obvykle stanovit jediným číslem, ale intervalem nejčastěji realizovaných cen.“
+
+- Cena obvyklá
+  - Rozdílné znalecké posudky (NSS 7 Afs 50/2010 – 60 z 1. 7. 2010, Sbírka NSS 11/2010 pod č. 2138/2010)
+    - Zveřejněné právní věty
+      - I. Stanoví-li zákon o dani z přidané hodnoty, že základ daně je určen hodnotou „ceny zjištěné podle zvláštního právního předpisu bez daně“ (§ 14 odst. 7 zákona č. 588/1992 Sb., o dani z přidané hodnoty), není v kompetenci správního orgánu podle § 31 odst. 4 zákona č. 337/1992 Sb., o správě daní a poplatků, rozhodovat, který znalecký posudek je důkazem v daňovém řízení a který nikoliv.
+
+- Cena obvyklá
+  - 7 Afs 50/2010 pokrač.:
+    - II. Má-li k téže otázce správce daně k dispozici dva rovnocenné, ale co do závěru odlišné znalecké posudky, nepřísluší mu, aby sám bez dalšího uvážil, který z nich použije pro rozhodná skutková zjištění a který nikoliv. Naopak je povinen odstranit jejich vzájemné rozpory a nesrovnalosti, a to především prostřednictvím výslechu znalce, popřípadě znalců obou. Nevedly-li by tyto výpovědi k ozřejmění vzešlých nejasností, bylo by namístě přistoupit k dalšímu znaleckému zkoumání nebo reviznímu znaleckému posouzení.
+
+- Cena obvyklá
+  - Zjištění referenčních cen a důkazní břemeno správce daně (NSS čj. 7 Afs 74/2010 – 81 z 27. ledna 2011, Sbírka NSS 4/2012 pod č. 2548/2012)
+    - Správce daně musí prokázat:
+      - a) že jde o vzájemně spojené osoby,
+      - b) výši „ceny obvyklé“.
+    - Jestliže v daném případě byla vzata jako srovnatelná cena pronájmu obdobných prostor, přičemž daňový subjekt tvrdil, že jeho prostory byly v mnohem horším stavu než ty srovnávané, musí skutečnost, že tomu tak nebylo prokázat správce daně a nikoli daňový subjekt!
+    - I poté, co tuto skutečnost správce daně prokáže, je třeba dát možnost daňovému subjektu rozdíl odůvodnit, důkazní břemeno zde však již nese DS.
+
+- Cena obvyklá
+  - 7 Afs 74/2010 pokrač
+    - I. K prokázání, že se liší ceny sjednané mezi spojenými osobami od cen, které by byly sjednány mezi nezávislými osobami v běžných obchodních vztazích za stejných nebo obdobných podmínek (referenční ceny), musí správce daně na základě zjištění výše obou těchto cen provést mezi nimi srovnání. Důkazní břemeno ke všem skutečnostem, které jsou pro to rozhodné, nese správce daně (§ 23 odst. 7 zákona č. 586/1992 Sb., o daních z příjmů)
+
+- Cena obvyklá
+  - 7 Afs 74/2010 pokrač.II:
+    - II. Referenční cenu může správce daně určit porovnáním skutečně dosažených cen shodné nebo podobné komodity mezi reálně existujícími nezávislými subjekty nebo (zejména pro neexistenci nebo nedostupnost dat o takových cenách) jen jako hypotetický odhad opřený o logickou a racionální úvahu a ekonomickou zkušenost. Referenční cena je v podstatě simulace ceny vytvořená na základě úvahy, jakou cenu by za situace shodné se situací spojených osob tyto osoby sjednaly, nebyly-li by spojené a měly-li by mezi sebou běžné obchodní vztahy.
+
+
 
 ## 10. Pojem „švarcsystému“ a problémy s ním spojené
 
