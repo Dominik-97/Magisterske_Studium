@@ -728,66 +728,36 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
     - Správce daně až v takovém případě vychází z obsahu dissimulovaného právního úkonu (právní skutečnosti) rozhodného pro stanovení daňové povinnosti.
     - Ustanovení § 2 odst. 7 ZSDP tak proto nemůže zcela logicky dopadat na případy, kdy projev a vůle jsou ve shodě, tedy na případy, kdy účastníci mají skutečný zájem učinit právní úkon, činí tak však z důvodu obcházení zákona.“
 
-disimulace II.
-NSS 8 Afs 31/2006‐59 ze dne 16. 8 2007
-• „Pokud se finanční orgány domnívají, že formálně bezvadný právní
-úkon daňového subjektu je úkonem zastírajícím právní úkon jiný, je
-na nich, aby tuto skutečnost prokázaly.
-• O takovou situaci se jedná pouze tehdy, pokud účastníci právního úkonu předstírají určitý úkon, ač jej nechtějí, a zastírají tím právní úkon, který ve skutečnosti chtějí, popřípadě jinou právní skutečnost.
-• Jedná se tedy o rozpor mezi vůlí účastníků právního úkonu a jejím
-projevem, přičemž tato neshoda vůle a jejího projevu je u obou stran
-právního úkonu stejná a je vědomá.“
+- disimulace II.
+  - NSS 8 Afs 31/2006‐59 ze dne 16. 8 2007
+    - „Pokud se finanční orgány domnívají, že formálně bezvadný právní úkon daňového subjektu je úkonem zastírajícím právní úkon jiný, je na nich, aby tuto skutečnost prokázaly.
+    - O takovou situaci se jedná pouze tehdy, pokud účastníci právního úkonu předstírají určitý úkon, ač jej nechtějí, a zastírají tím právní úkon, který ve skutečnosti chtějí, popřípadě jinou právní skutečnost.
+    - Jedná se tedy o rozpor mezi vůlí účastníků právního úkonu a jejím projevem, přičemž tato neshoda vůle a jejího projevu je u obou stran právního úkonu stejná a je vědomá.“
 
-disimulace II.
-8 Afs 31/2006-59 – pokrač.:
-O zastřený právní úkon se naopak nejedná, pokud daňový subjekt
-nečinil své právní úkony na oko, nepředstíral je a nesnažil se jimi
-zastřít právní úkony jiné, byť by i svými úkony obcházel zákon či
-práva zneužil.
-Povinností finančních orgánů je uvést nejen zjištěný, formálně
-právním úkonem zakrývaný skutečný stav, ale i přezkoumatelným
-způsobem uvést úvahy, které je k takovému závěru vedly, včetně
-označení a zhodnocení důkazů, o které svá zjištění opírají.“
+- disimulace II.
+  - 8 Afs 31/2006-59 – pokrač.:
+    - O zastřený právní úkon se naopak nejedná, pokud daňový subjekt nečinil své právní úkony na oko, nepředstíral je a nesnažil se jimi zastřít právní úkony jiné, byť by i svými úkony obcházel zákon či práva zneužil. Povinností finančních orgánů je uvést nejen zjištěný, formálně právním úkonem zakrývaný skutečný stav, ale i přezkoumatelným způsobem uvést úvahy, které je k takovému závěru vedly, včetně označení a zhodnocení důkazů, o které svá zjištění opírají.“
 
-Zneužití práva – daňový řád
-• Od 1. 4. 2019 novela §8 odst. 4 DŘ:
-• „(4) Při správě daní se nepřihlíží k právnímu jednání a jiným
-skutečnostem rozhodným pro správu daní, jejichž převažujícím účelem
-je získání daňové výhody v rozporu se smyslem a účelem daňového
-právního předpisu.“
+- Zneužití práva – daňový řád
+  - Od 1. 4. 2019 novela §8 odst. 4 DŘ:
+    - „(4) Při správě daní se nepřihlíží k právnímu jednání a jiným skutečnostem rozhodným pro správu daní, jejichž převažujícím účelem je získání daňové výhody v rozporu se smyslem a účelem daňového právního předpisu.“
 
-Zneužití práva – pojem, obcházení zákona
-• „Zneužití práva jako chování zdánlivě dovolené, jímž má být dosaženo
-výsledku nedovoleného.
-• O chování toliko zdánlivě dovolené jde z toho důvodu, že objektivní právo
-nezná chování zároveň dovolené a zároveň nedovolené; ze zásady lex
-specialis derogat generali vyplývá, že zákaz zneužití práva je silnější, než
-dovolení dané právem.
-• Obcházení zákona – podobný pojem – někdo se chová podle právní
-normy, ale tak, aby záměrně dosáhl výsledku právní normou
-nepředvídaného a nežádoucího.
-(KNAPP, Viktor. Teorie práva).
+- Zneužití práva – pojem, obcházení zákona
+  - „Zneužití práva jako chování zdánlivě dovolené, jímž má být dosaženo výsledku nedovoleného.
+  - O chování toliko zdánlivě dovolené jde z toho důvodu, že objektivní právo nezná chování zároveň dovolené a zároveň nedovolené; ze zásady lex specialis derogat generali vyplývá, že zákaz zneužití práva je silnější, než dovolení dané právem.
+  - Obcházení zákona – podobný pojem – někdo se chová podle právní normy, ale tak, aby záměrně dosáhl výsledku právní normou nepředvídaného a nežádoucího. (KNAPP, Viktor. Teorie práva).
 
-Zneužití práva – daně v maximální výši?
-• V daňové oblasti v obecné rovině platí, že neexistuje žádná
-povinnost podnikat takovým způsobem, aby se zvýšil daňový
-příjem státu. Daňoví poplatníci si mohou uspořádat svoje
-podnikání tak, aby si snížili svou daňovou povinnost. (NSS 5
-Afs 75/2011 – 57 12. prosince 2012 - DS ale stejně prohrál)
+- Zneužití práva – daně v maximální výši?
+  - V daňové oblasti v obecné rovině platí, že neexistuje žádná povinnost podnikat takovým způsobem, aby se zvýšil daňový příjem státu. Daňoví poplatníci si mohou uspořádat svoje podnikání tak, aby si snížili svou daňovou povinnost. (NSS 5 Afs 75/2011 – 57 12. prosince 2012 - DS ale stejně prohrál)
 
-Zneužití práva – kritéria - Halifax
-ESD C‐255/02 Halifax ze dne  21. 2. 2006
-• a) výsledkem dotčených plnění přes formální použití podmínek
-stanovených relevantními ustanoveními šesté směrnice (resp. směrnice 2006/112) a vnitrostátních předpisů provádějících tuto směrnici bylo získání daňového zvýhodnění, jehož poskytnutí
-by bylo v rozporu s cílem sledovaným těmito ustanoveními a
-• b) ze všech objektivních okolností musí vyplývat, že hlavním
-účelem dotčených plnění je získání daňového zvýhodnění.
+- Zneužití práva – kritéria - Halifax
+  - ESD C‐255/02 Halifax ze dne  21. 2. 2006
+    - a) výsledkem dotčených plnění přes formální použití podmínek stanovených relevantními ustanoveními šesté směrnice (resp. směrnice 2006/112) a vnitrostátních předpisů provádějících tuto směrnici bylo získání daňového zvýhodnění, jehož poskytnutí by bylo v rozporu s cílem sledovaným těmito ustanoveními a
+    - b) ze všech objektivních okolností musí vyplývat, že hlavním účelem dotčených plnění je získání daňového zvýhodnění.
 
-Zneužití práva - kritéria
-• Halifax – pokrač.:
-• Zákaz zneužití přitom není relevantní, pokud dotčená plnění
-mohou mít jiné odůvodnění než pouhé dosažení daňových
-zvýhodnění vůči daňovým orgánům.
+- Zneužití práva - kritéria
+  - Halifax – pokrač.:
+    - Zákaz zneužití přitom není relevantní, pokud dotčená plnění mohou mít jiné odůvodnění než pouhé dosažení daňových zvýhodnění vůči daňovým orgánům.
 
 ## 10. Pojem „švarcsystému“ a problémy s ním spojené
 
