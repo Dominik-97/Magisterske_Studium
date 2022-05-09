@@ -842,7 +842,20 @@ TBD
 
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
-TBD
+- Příjmy v podobě dědictví jsou zcela osvobozeny od daně z příjmů (§4a/a) ZDP)
+- Daňová povinnost zůstavitele = daňová povinnost do dne předcházejícího dni skončení řízení o pozůstalosti (§ 98-288 zák. č. 292/2013 Sb.)
+  - Přechází na dědice rozhodnutím soudu o dědictví – dědic získává postavení DS (§ 239a/3 daňového řádu, dále také DŘ)
+- Osoba spravující pozůstalost (správce pozůstalosti, vykonatel závěti, potenciální dědic):
+  - Plní po smrti zůstavitele jeho daňové povinnosti, a to vlastním jménem na účet zůstavitele
+  - Podat přiznání do 3 měsíců od smrti zůstavitele (§ 239b/4 DŘ)
+    - za období přede dnem smrti
+  - V průběhu řízení o pozůstalosti
+    - Standardní přiznání (do 3 měsíců po uplynutí zdaňovacího období – viz § 136 DŘ)
+  - Podat přiznání do 30 dnů ode dne skončení řízení o pozůstalosti (§ 239b/5 DŘ)
+    - za období před dnem skončení řízení o pozůstalosti
+    - Provedou se zde úpravy dle § 23/8 ZDP
+      - (+) Zásoby, (+) Pohledávky
+      - (-) Závazky
 
 ## 12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
 
