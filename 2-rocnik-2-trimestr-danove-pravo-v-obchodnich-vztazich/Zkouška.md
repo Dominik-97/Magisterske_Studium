@@ -673,6 +673,44 @@ TBD
   - Postupy k odstranění pochybností
   - Kontroly před vyměřením i po vyměření daně
 
+- Nespolehlivý plátce
+  - DPH vyměřena/doměřena podle pomůcek opakovaně (min. za 2 zdaňovací období z šesti po sobě jdoucích)
+  - byl vydán zajišťovací příkaz (po 1. 1. 2013) na DPH a tento nebyl ve lhůtě uhrazen
+  - po dobu nejméně 3 kalendářních měsíců po sobě jdoucích evidován kumulativní nedoplatek na DPH ve výši 500 tis. Kč
+  - Nekontaktní DS
+
+- Nespolehlivý plátce
+  - § 106a ZDPH:
+    - (1) Poruší-li plátce závažným způsobem své povinnosti vztahující se ke správě daně, správce daně rozhodne, že tento plátce je nespolehlivým plátcem.
+  - §109 odst. 3 ZDPH:
+    - (3) Příjemce zdanitelného plnění ručí za nezaplacenou daň z tohoto plnění, pokud je v okamžiku jeho uskutečnění nebo poskytnutí úplaty na něj o poskytovateli zdanitelného plnění zveřejněna způsobem umožňujícím dálkový přístup skutečnost, že je nespolehlivým plátcem.
+
+- Nespolehlivý plátce
+  - neuznání plátcem deklarovaného nároku na odpočet, který byl v důsledku porušení povinností snížen správcem daně minimálně o 500.000,- Kč a související vyměřená/doměřená daň není zcela uhrazena
+  - plátce nepodá opakovaně povinná podání na DPH ani na základě výzvy správce daně (DAP DPH/výpis/SH – nepodání 2x v období 12ti měsíců bez řádného odůvodnění).
+  - uvedení nepravdivého údaje ohledně skutečného (reálného) sídla – zaměřeno na virtuální a „home-office“ společnosti
+
+- Nespolehlivý plátce
+  - Zveřejnění na webu daňové správy
+  - Možnost eliminace rizika ručení:
+    - Příjemce zdanitelného plnění může vždy využít tzv. „zvláštní způsob zajištění daně“ (§ 109a ZDPH) a uhradit daň, kterou platí v ceně za přijaté plnění přímo Finančnímu úřadu poskytovatele.
+
+- Ručení příjemce zdanitelného plnění
+  - DS věděl nebo vědět měl a mohl, že
+    - a) daň uvedená na daňovém dokladu nebude úmyslně zaplacena,
+    - b) poskytovatel zdanitelného plnění se úmyslně dostal nebo dostane do postavení, kdy nemůže daň zaplatit, nebo
+    - c) dojde ke zkrácení daně nebo vylákání daňové výhody.
+
+- Ručení příjemce zdanitelného plnění
+  - Příjemce zdanitelného plnění ručí také za nezaplacenou daň z tohoto plnění, pokud je úplata za toto plnění
+    - a) bez ekonomického opodstatnění zcela zjevně odchylná od obvyklé ceny,
+    - b) poskytnuta bezhotovostním převodem na účet vedený poskytovatelem platebních služeb mimo tuzemsko, nebo
+    - c) poskytnuta bezhotovostním převodem na jiný účet než účet poskytovatele zdanitelného plnění, který je správcem daně zveřejněn způsobem umožňujícím dálkový přístup, a pokud úplata za toto plnění překračuje dvojnásobek částky podle zákona upravujícího omezení plateb v hotovosti, (= 2 x 270 000 Kč = Kč 540 000)
+
+- Ručení příjemce zdanitelného plnění
+  - Příjemce zdanitelného plnění ručí za nezaplacenou daň z tohoto plnění, pokud je o poskytovateli zdanitelného plnění zveřejněna na internetu finanční správy zveřejněno, že je nespolehlivým plátcem.
+  - Příjemce pohonných hmot od distributora pohonných ručí za nezaplacenou daň z tohoto plnění, pokud není o poskytovateli zdanitelného plnění zveřejněna na internetu skutečnost, že je registrován jako distributor pohonných hmot podle zákona upravujícího pohonné hmoty.
+
 ## 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění
 
 Mezinárodní právo daňové má stejnou základní charakteristiku jako jakékoliv jiné mezinárodní právo: tvoří jej síť mezinárodních smluv. Současně pak také platí, že mezinárodní smlouvy mají aplikační přednost. To konkrétně znamená, že ustanovení národního zákona o dani z příjmu se nepoužije v rozsahu, v jakém je v rozporu s mezinárodní smlouvou.
