@@ -28,7 +28,7 @@ header-includes:
 10. Pojem „švarcsystému“ a problémy s ním spojené
 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
-13. Nejčastější podvody na DPH
+13. Nejčastější podvody na DPH - **OK**
 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění - **OK**
 15. ~~Pojistné na sociální zabezpečení - charakteristika~~
 16. Spotřební daně, majetkové daně - základní charakteristika - **OK**
