@@ -665,6 +665,21 @@ Mezinárodní právo daňové má stejnou základní charakteristiku jako jakék
     - Kdo tento příjem vyplácí
     - Kde je umístěn či využíván majetek
 
+- Zdaňování nerezidentů
+  - Příjmy z podnikání
+    - Pokud „stálá provozovna“:
+      - např. dílna, kancelář, místo k těžbě přírodních zdrojů, místo prodeje (odbytiště),
+    - Staveniště: pouze tehdy, pokud splní časový test (3/6/9/12 měsíců):
+      - Německo, Rakousko, Polsko, Slovensko: nad 12 měsíců; Rumunsko: nad 9 měsíců; Norsko: nad 6 měsíců
+  - „Službová“ stálá provozovna:
+    - Německo, Velká Británie, Španělsko: nestanoví
+    - Rakousko, Polsko, Slovensko: 6 za 12 měsíců
+  - Zdanění: pouze v rozsahu přičitatelném provozovně
+
+- Stálá provozovna
+  - Jestliže osoba vykonává svoji podnikatelskou činnost v druhém smluvním státě, mohou být zisky takového podniku zdaněny ve druhém státě.
+  - Podmínkou je, že činnost je ve druhém státě vykonávána prostřednictvím tzv. stále provozovny.
+
 
 
 ## 16. Spotřební daně, majetkové daně - základní charakteristika
