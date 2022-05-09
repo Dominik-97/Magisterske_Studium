@@ -2406,6 +2406,47 @@ https://www.google.com/search?q=%C3%BA%C4%8Detnictv%C3%AD+jednoduch%C3%A9+a+podv
 - https://www.google.com/search?q=vym%C4%9B%C5%99ovac%C3%AD+z%C3%A1klad&oq=vym%C4%9B%C5%99ovac%C3%AD+z%C3%A1klad&aqs=chrome..69i57j0i512l9.2618j0j1&sourceid=chrome&ie=UTF-8
 - https://www.podnikatel.cz/clanky/rezim-prenesene-danove-povinnosti-kdy-se-pouzije-a-co-to-znamena/
 - https://www.google.com/search?q=p%C5%99enesen%C3%A1+da%C5%88ov%C3%A1+povinnost&oq=p%C5%99enesen%C3%A1+da&aqs=chrome.0.0i512j69i57j0i512l8.2755j0j1&sourceid=chrome&ie=UTF-8
+- https://www.zakonyprolidi.cz/cs/1992-586#cast2
+- https://www.zakonyprolidi.cz/cs/1992-586#p17
+- https://www.finance.cz/zpravy/finance/29110-budete-platit-dan-z-prijmu-z-prodeje-nemovitosti/
+- https://www.google.com/search?q=da%C5%88+z+prodeje+nemovitosti&oq=da%C5%88+z+prodeje&aqs=chrome.0.0i512j69i57j0i512l8.3535j0j1&sourceid=chrome&ie=UTF-8
+- https://www.zakonyprolidi.cz/cs/2020-480/zneni-20210101#p7_p7-1-1
+- https://www.zakonyprolidi.cz/cs/2015-306
+- https://www.google.com/search?q=z%C3%A1kon+o+d%C3%A1lni%C4%8Dn%C3%AD+zn%C3%A1mce&oq=z%C3%A1kon+o+d%C3%A1lni%C4%8Dn%C3%AD+zn%C3%A1mce&aqs=chrome..69i57j0i546l2.5288j0j4&sourceid=chrome&ie=UTF-8
+- https://www.zakonyprolidi.cz/cs/1993-16
+- https://www.google.com/search?q=z%C3%A1kon+o+dani+silni%C4%8Dn%C3%AD&oq=z%C3%A1kon+o+dani+si&aqs=chrome.1.69i57j0i512l6j0i22i30l3.2540j0j4&sourceid=chrome&ie=UTF-8
+- https://www.zakonyprolidi.cz/cs/1992-586
+- https://www.google.com/search?q=z%C3%A1kon+o+dani+z+p%C5%99%C3%ADjm%C5%AF&oq=z%C3%A1kon+o+dani+z+p%C5%99%C3%ADjm%C5%AF&aqs=chrome..69i57j0i512l9.4419j0j1&sourceid=chrome&ie=UTF-8
+- https://cs.wikipedia.org/wiki/Da%C5%88#:~:text=Da%C5%88ov%C3%BD%20syst%C3%A9m%20jako%C5%BEto%20souhrn%20z%C3%A1sad,na%20spot%C5%99ebu%2C%20investice%20%C4%8Di%20%C3%BAspory.
+- https://www.google.com/search?q=%C3%BA%C4%8Del+dan%C3%AD&oq=%C3%BA%C4%8Del+dan%C3%AD&aqs=chrome..69i57.1531j0j1&sourceid=chrome&ie=UTF-8
+- http://www.ius-wiki.eu/financni-pravo/pfuk/financko/zkouska/otazka-a-04
+- https://www.google.com/search?sxsrf=ALiCzsYaBU4fui3LzaLAEifZgSxvqYOrmw:1651662597017&q=%22nefisk%C3%A1ln%C3%AD%22+%C3%BA%C4%8Del+dan%C3%AD&sa=X&sqi=2&ved=2ahUKEwj37IjT2sX3AhWVbc0KHS0vDMQQ5t4CegQIGRAB&biw=1920&bih=969&dpr=1
+- https://www.google.com/search?q=nefisk%C3%A1ln%C3%AD+%C3%BA%C4%8Del+dan%C3%AD&oq=nefisk%C3%A1l&aqs=chrome.1.69i59l2j69i57j0i512j0i30l3j69i61.2234j0j1&sourceid=chrome&ie=UTF-8
+- https://slovnik-cizich-slov.abz.cz/web.php/slovo/abstrahovat
+- https://www.google.com/search?q=abstrahovat&oq=abstrahovat&aqs=chrome..69i57j0i512l4j0i30l3j0i10i30l2.1485j0j1&sourceid=chrome&ie=UTF-8
+- https://www.google.com/search?q=fisk%C3%A1ln%C3%AD&oq=fisk%C3%A1ln%C3%AD
+- https://www.law.muni.cz/sborniky/dny_prava_2009/files/prispevky/obecna_cast/Kyncl_Libor__1041_.pdf
+- https://www.google.com/search?q=nefisk%C3%A1ln%C3%AD&sxsrf=ALiCzsaR9IRA1I1dM_m93_uXF3DLcTMhPA%3A1651662016620&ei=wFxyYvm3JaOXxc8PmruTuAQ&ved=0ahUKEwj5l6i-2MX3AhWjS_EDHZrdBEcQ4dUDCA4&uact=5&oq=nefisk%C3%A1ln%C3%AD&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEMsBMgQIABAeMgQIABAeMgQIABAeMgQIABAeOgcIIxCwAxAnOgcIABBHELADSgQIQRgASgQIRhgAUFtYgQJg-wNoAXABeACAAW6IAbQBkgEDMS4xmAEAoAEByAEJwAEB&sclient=gws-wiz
+- https://www.google.com/search?q=nefisk%C3%A1ln%C3%AD+%C3%BA%C4%8Del+dan%C3%AD&oq=nefisk%C3%A1ln%C3%AD&aqs=chrome.0.69i59j69i57j0i512j0i30l3.1767j0j1&sourceid=chrome&ie=UTF-8
+- https://www.profispolecnosti.cz/cs/vedeni-ucetnictvi/funkce-dani/a-1444/
+- https://www.google.com/search?q=nefisk%C3%A1ln%C3%AD+%C3%BA%C4%8Del+dan%C3%AD&oq=nefisk%C3%A1ln%C3%AD+%C3%BA%C4%8Del+dan%C3%AD&aqs=chrome..69i57j33i160l2.5603j0j4&sourceid=chrome&ie=UTF-8
+- https://cs.wikipedia.org/wiki/Fisk%C3%A1ln%C3%AD_politika
+- https://www.google.com/search?q=fisk%C3%A1ln%C3%AD&oq=fisk%C3%A1ln%C3%AD&aqs=chrome..69i57j0i131i433i512j0i512l8.1745j0j1&sourceid=chrome&ie=UTF-8
+- https://www.google.com/search?q=z%C3%A1kon+o+da%C5%88ov%C3%BDch+odpisech&oq=z%C3%A1kon+o+da%C5%88ov%C3%BDch+odpisech&aqs=chrome..69i57j0i546l4j69i60.4576j0j1&sourceid=chrome&ie=UTF-8
+- https://cs.wikipedia.org/wiki/Z%C3%A1kon_o_rozpo%C4%8Dtov%C3%BDch_pravidlech
+- https://www.google.com/search?q=z%C3%A1kon+o+ve%C5%99ejn%C3%BDch+rozpo%C4%8Dtech&oq=z%C3%A1kon+o+ve%C5%99ejn%C3%BDch+rozpo%C4%8Dtec&aqs=chrome.1.69i57j0i22i30.7468j0j1&sourceid=chrome&ie=UTF-8
+- https://www.zakonyprolidi.cz/hledani?text=da%C5%88ov%C3%BDch%20odpisech&g=1320779
+- https://www.zakonyprolidi.cz/hledani?text=%C3%BA%C4%8Det&g=1320779
+- https://www.zakonyprolidi.cz/hledani?text=da%C5%88&g=1320779
+- https://www.zakonyprolidi.cz/hledani?text=da%C5%88
+- https://www.zakonyprolidi.cz/hledani?text=da%C5%88&g=1320775
+- https://www.zakonyprolidi.cz/hledani?text=da%C5%88
+- https://www.zakonyprolidi.cz/
+- https://www.google.com/search?q=z%C3%A1kony+pro+lidi&oq=z%C3%A1kony+pro+lidi&aqs=chrome..69i57j0i512l6j69i65.2143j0j1&sourceid=chrome&ie=UTF-8
+- https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_d%C5%AFchod
+- https://www.google.com/search?q=n%C3%A1rodn%C3%AD+d%C5%AFchod&oq=n%C3%A1rodn%C3%AD+d%C5%AFchod&aqs=chrome..69i57j0i512l2j0i22i30l7.2018j0j4&sourceid=chrome&ie=UTF-8
+- https://cs.wikipedia.org/wiki/Da%C5%88#:~:text=Da%C5%88%20(d%C5%99%C3%ADve%20bern%C4%9B)%20je%20povinn%C3%A1,nebo%20pravideln%C4%9B%20v%20ur%C4%8Dit%C3%BDch%20intervalech.
+- https://www.google.com/search?q=dan%C4%9B&oq=dan%C4%9B&aqs=chrome..69i57j0i512j0i433i512j0i512l2j69i61l3.1111j0j1&sourceid=chrome&ie=UTF-8
 
 ---
 
