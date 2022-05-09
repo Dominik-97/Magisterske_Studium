@@ -554,7 +554,18 @@ Tento zastřešující pojem má následně dva zastřešené pojmy, které defi
 - § 56 vyhlášky č. 500/2002 Sb.
 - Základní charakteristika:
   - účelem účetních odpisů je věrný a poctivý obraz předmětu účetnictví.
-  - účetní odpisy si stanovuje účetní jednotka sama ve své interní směrnici
+  - účetní odpisy si stanovuje účetní jednotka sama ve své interní směrnici[^27]
+  - jedná se tedy v podstatě pouze o věrném zobrazení stavu majetku
+
+### Daňové odpisy:
+
+- § 26 - §38fa zákona o daních z příjmů (č. 586/1992 Sb., dále také jen ZDP)
+- Základní charakteristika:
+  - účelem daňových odpisů je relativně spolehlivě určení daňového základu pro účely výpočtu daně z příjmu
+  - daňové odpisy jsou stanoveny přímo zákonem
+- S ohledem na výše uvedený rozdílný účel pravidelně dochází k tomu, že daňové odpisy nejsou stejné jako účetní odpisy. V účetnictví se účtují účetní odpisy, daňové odpisy se zohledňují pak přímo až v daňovém přiznání.
+
+
 
 ## 8. Náklady (výdaje) na dosažení, udržení nebo zajištění příjmu
 
@@ -2336,3 +2347,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^24]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6
 [^25]: https://www.jakpodnikat.cz/souhrnne-hlaseni-dph.php#:~:text=Souhrnn%C3%A9%20hl%C3%A1%C5%A1en%C3%AD%20pod%C3%A1me%20ka%C5%BEd%C3%BD%20m%C4%9Bs%C3%ADc,zbo%C5%BE%C3%AD%2C%20m%C5%AF%C5%BEeme%20ho%20pod%C3%A1vat%20%C4%8Dtvrtletn%C4%9B.
 [^26]: https://cs.wikipedia.org/wiki/Kontroln%C3%AD_hl%C3%A1%C5%A1en%C3%AD_DPH
+[^27]: https://www.podnikatel.cz/clanky/vite-jaky-je-rozdil-mezi-ucetnimi-a-danovymi-odpisy-hmotneho-majetku/
