@@ -663,7 +663,7 @@ TBD
   - Subjekt C prodává subjektu D telefony 100 mil. Kč. Dodání zboží do jiného členského státu je pro něj osvobozeným plněním, uplatní si nárok na odpočet DPH ve svém státě. Finanční úřad váhá, zda mu vrátí 21 mil. Kč. Pokud se prokáže, že o podvodu nevěděl a vědět nemohl, je to stát, kdo tratí.
 
 - Podvody na DPH – obrana státu
-  - Daňová přiznání a souhrnná hlášení
+  - Daňová přiznání a souhrnná hlášení (když jsme dodali zboží do jiné země EU podnikateli nebo firmě registrovanému/registrované k DPH v jiném státě EU, když jsme poskytli službu s místem plnění v jiné zemi EU)[^25]
   - Přenos daňové povinnosti
   - Nespolehlivý plátce a ručení za daň
   - Zveřejňování účtů pro platbu DPH
@@ -1868,3 +1868,4 @@ Právní předpis upravující opravné a dozorčí prostředky[^16] v daňovém
 [^22]: https://www.du.cz/33/zneuziti-prava-uniqueidmRRWSbk196FNf8-jVUh4EhoplPFZXloRO0VG3EztlBZrJfTGJxQrnQ/#:~:text=5%20D%C5%98%20neplatily.-,%C2%A7%208%20odst.,smyslem%20a%20%C3%BA%C4%8Delem%20pr%C3%A1vn%C3%ADho%20p%C5%99edpisu%E2%80%9D.
 [^23]: https://sbirka.nssoud.cz/cz/danove-rizeni-zastreny-dissimulovany-pravni-ukon.p1113.html#:~:text=O%20zakr%C3%BDv%C3%A1n%C3%AD%20(dissimulaci)%20ve%20smyslu,kter%C3%BD%20ve%20skute%C4%8Dnosti%20cht%C4%9Bj%C3%AD%2C%20pop%C5%99.
 [^24]: https://www.zakonyprolidi.cz/cs/2009-280#cast2-hlava6
+[^25]: https://www.jakpodnikat.cz/souhrnne-hlaseni-dph.php#:~:text=Souhrnn%C3%A9%20hl%C3%A1%C5%A1en%C3%AD%20pod%C3%A1me%20ka%C5%BEd%C3%BD%20m%C4%9Bs%C3%ADc,zbo%C5%BE%C3%AD%2C%20m%C5%AF%C5%BEeme%20ho%20pod%C3%A1vat%20%C4%8Dtvrtletn%C4%9B.
