@@ -816,14 +816,12 @@ TBD
 ### Švarcsystém mimo spory s úřady
 
 - NS 21 Cdo 2687/2012 – fotograf v ateliéru
- nastolen vztah nadřízenosti právního předchůdce žalovaného
-a podřízenosti žalobce, fotograf vykonával práce podle
-pokynů žalovaného a jeho jménem, předmětem smlouvy byla
-opětující se činnost ("práce"), kterou byl žalobce povinen
-vykonávat osobně, po předem stanovenou dobu a za
-sjednanou "úplatu", žalovaný poskytoval 4 týdny placeného
-volna (dovolené) v kalendářním roce" a že evidoval jeho
-docházku "do zaměstnání – vráceno k dalšímu řízení
+  - nastolen vztah nadřízenosti právního předchůdce žalovaného a podřízenosti žalobce, fotograf vykonával práce podle pokynů žalovaného a jeho jménem, předmětem smlouvy byla opětující se činnost ("práce"), kterou byl žalobce povinen vykonávat osobně, po předem stanovenou dobu a za sjednanou "úplatu", žalovaný poskytoval 4 týdny placeného volna (dovolené) v kalendářním roce" a že evidoval jeho docházku "do zaměstnání – vráceno k dalšímu řízení
+
+- Švarcsystém mimo spory s úřady
+  - NS 21 Cdo 920/2010 řidiči České televize
+    - Propuštění řidiči nadále pracovali pro ČT jako živnostníci, autoobily však byly vlastnictvím ČT, ta nesla též náklady na údržbu, PHM CCS karty patřící ČT), pojištění atd.
+    - Nebylo uznáno jako podnikání
 
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
