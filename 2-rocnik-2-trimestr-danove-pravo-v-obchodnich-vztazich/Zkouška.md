@@ -597,7 +597,8 @@ TBD
 
 ## 10. Pojem „švarcsystému“ a problémy s ním spojené
 
-TBD
+- Vymezení švarcsystému
+  - Dva subjekty uzavřou obchodní smlouvu, přičemž příslušné úřady mají podezření, že jde o obcházení či zastírání pracovněprávního vztahu nebo o zneužití práva.
 
 ## 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.)
 
