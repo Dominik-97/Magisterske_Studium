@@ -904,6 +904,15 @@ Rozdíl mezi:
   - (4) Dojde-li ke stanovení daně výlučně na základě výsledku daňové kontroly, může správce daně doručit rozhodnutí o stanovení daně spolu s oznámením o ukončení daňové kontroly.
 
 - Postup k odstranění pochybností (§ 89-90 DŘ)
+  - (1) Má-li správce daně konkrétní pochybnosti o správnosti, průkaznosti nebo úplnosti podaného daňového tvrzení nebo jiné písemnosti předložené daňovým subjektem nebo o pravdivosti údajů v nich uvedených, vyzve daňový subjekt k odstranění těchto pochybností.
+  - (2) Ve výzvě správce daně uvede své pochybnosti způsobem, který umožní daňovému subjektu, aby se k nim vyjádřil, neúplné údaje doplnil, nejasnosti vysvětlil, nepravdivé údaje opravil nebo pravdivost údajů prokázal a předložil důkazní prostředky tak, aby došlo k odstranění těchto pochybností.
+  - (3) Ve výzvě daňovému subjektu stanoví správce daně lhůtu k odstranění pochybností, která nesmí být kratší než 15 dnů, a poučí ho o následcích spojených s neodstraněním pochybností nebo nedodržením stanovené lhůty.
+  - (4) Správce daně může zahájit za účelem odstranění pochybností daňovou kontrolu, jejíž předmět a rozsah nejsou tímto účelem omezeny. Zahájením této daňové kontroly je postup k odstranění pochybností ukončen.
+  - (1) O průběhu postupu k odstranění pochybností sepíše správce daně podle povahy svého úkonu protokol nebo úřední záznam, ve kterém uvede vyjádření nebo důkazní prostředky, na jejichž základě považuje pochybnosti za zcela nebo zčásti odstraněné, a případné důvody přetrvávajících pochybností.
+  - (2) Nedošlo-li k odstranění pochybností a výše daně nebyla prokázána dostatečně věrohodně, sdělí správce daně daňovému subjektu výsledek postupu k odstranění pochybností. Daňový subjekt je oprávněn do 15 dnů ode dne, kdy byl seznámen s dosavadním výsledkem postupu k odstranění pochybností, podat návrh na pokračování v dokazovaní spolu s návrhem na provedení dalších důkazních prostředků.
+  - (3) Neshledá-li správce daně důvody k pokračování v dokazování, vydá do 15 dnů ode dne, kdy daňový subjekt podal návrh na pokračování v dokazování, rozhodnutí o stanovení daně.
+  - (4) Neposkytne-li daňový subjekt potřebnou součinnost k odstranění pochybností, může správce daně stanovit daň podle pomůcek.
+  - (5) Nedošlo-li k odstranění pochybností ohledně skutečnosti, která nemá vliv na výši daně, vydá správce daně rozhodnutí ve věci nebo rozhodnutí o zastavení řízení, v jehož odůvodnění uvede výsledek postupu k odstranění pochybností.
 
 ## 21. Dokazování v daňovém řízení
 
