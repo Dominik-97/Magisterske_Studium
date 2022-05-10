@@ -27,7 +27,7 @@ header-includes:
 9. Spojené osoby a ceny mezi nimi sjednané z hlediska daní z příjmů - **OK**
 10. Pojem „švarcsystému“ a problémy s ním spojené - **OK**
 11. Daňový režim při úmrtí daňového subjektu – daň z příjmů fyzických osob, DPH, ostatní daně (dědická aj.) - **OK**
-12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge
+12. Daň z přidané hodnoty – charakteristika, základní pojmy – zdanitelné plnění, odpočet, zdaňovací období, osoba povinná k dani, plátce daně; reverse charge - **OK**
 13. Nejčastější podvody na DPH - **OK**
 14. Mezinárodní zdanění – pojem, charakteristika; dohody o zamezení dvojímu zdanění - **OK**
 15. ~~Pojistné na sociální zabezpečení - charakteristika~~
