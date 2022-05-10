@@ -1139,7 +1139,12 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
   - Osoba povinná k dani se může stát plátcem navíc také na základě své vlastní dobrovolné žádosti.
   - Základní povinností plátce daně je zatěžovat své prodeje daní z přidané hodnoty a podávat pravidelně (měsíčně či kvartálně) přiznání k této dani. Základním právem plátce je uplatňovat odpočet daně z nákupů (tj. z přijatých zdanitelných plnění).
 
-
+- Odpočet daně
+  - Obecně lze zjednodušeně říci, že každý plátce má nárok si uplatnit odpočet (tj. snížit si svoji celkovou odvodovou povinnost) daně z nákupů od jiných plátců. Konkrétně takto uplatní odpočet DPH uvedené na přijatých fakturách (přijatých daňových dokladech).
+  - Pro možnost uplatnění tohoto odpočtu platí řada formálních a substantivních zákonných podmínek (viz § 72 a 73 ZDPH), z nichž jmenujme zejména:
+    - přijaté plnění je použito pro vlastní podnikatelskou činnost plátce (tj. zejména nikoli pro nepodnikatelské účely)
+    - přijaté plnění není použito pro od daně osvobozené činnosti (tj. například zdravotní služby či pronájem nemovité věci)
+    - existence daňového dokladu („faktury“) vystaveného dodavatelem
 
 ## 13. Nejčastější podvody na DPH
 
