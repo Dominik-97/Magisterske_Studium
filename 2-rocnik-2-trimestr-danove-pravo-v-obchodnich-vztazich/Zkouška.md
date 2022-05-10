@@ -1146,6 +1146,13 @@ Je potřeba odlišit příjmy podle §6 ZDP a §7 ZDP (součástí daně z pří
     - přijaté plnění není použito pro od daně osvobozené činnosti (tj. například zdravotní služby či pronájem nemovité věci)
     - existence daňového dokladu („faktury“) vystaveného dodavatelem
 
+- Zdaňovací období
+  - Přiznání k DPH se podává vždy za zdaňovací období, a to vždy nejpozději do 25. dne následujícího měsíce.
+  - Zdaňovací obdobím je ze zákona zásadně kalendářní měsíc. Pouze takový plátce, který za předcházející kalendářní rok nepřesáhl obrat 1 000 000, může požádat o změnu zdaňovací období na kalendářní čtvrtletí.
+
+- Režim přenesení daňové povinnosti (reverse charge)
+  - V posledních letech zesiluje boj evropských států proti daňovým únikům na dani z přidané hodnoty. Jedním z prostředků tohoto boje je také zavádění tzv. režimu přenesení daňové povinnosti (reverse charge). Zjednodušeně lze popsat tak, že v situaci, kdy spolu obchodují dva plátci, se jejich vzájemná fakturace nezatěžuje daní z přidané hodnoty (§ 92a a násl. ZDPH). Tedy tito mezi sebou zasílají faktury (daňové doklady) bez DPH. Pouze v situaci, kdy je fakturováno zákazníkovi, který není plátcem DPH, se fakturace zatěžuje daní. Tento režim v současné době představuje výjimku, a uplatňuje se tedy pouze na zákonem vybrané situace. Jedná se například o dodání stavebních či montážních prací, dodání odpadu či šrotu, či větší dodávky (nad 100.000 Kč) mobilních telefonů, obilovin či kovů.
+
 ## 13. Nejčastější podvody na DPH
 
 - DPH I – podvody na DPH a jak jim čelit, zneužití práva
